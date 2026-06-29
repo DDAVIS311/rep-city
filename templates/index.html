@@ -908,7 +908,7 @@ function renderScreenings() {
   // Group by date
   const byDate = {};
   allScreenings.forEach(s => {
-    if (!cardVisible(s) && activeFilter !== 'all') return;
+    if (!cardVisible(s)) return;
     if (!byDate[s.date]) byDate[s.date] = [];
     byDate[s.date].push(s);
   });
