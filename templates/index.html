@@ -744,7 +744,6 @@
     <span class="status-bar" id="status-bar">Loading...</span>
 
     <button class="action-btn" id="schedule-btn">&#128197; My Schedule</button>
-    <button class="action-btn" id="refresh-btn">&#8635; Refresh</button>
     <button class="action-btn" id="reset-btn">Reset All</button>
   </div>
 </header>
@@ -1177,24 +1176,6 @@ document.getElementById('search').addEventListener('input', (e) => {
   renderScreenings();
 });
 
-// Refresh
-document.getElementById('refresh-btn').onclick = async () => {
-  showLoading('Scraping all venues… this takes ~30–60 seconds');
-  try {
-    const res = await fetch('/api/refresh', {method:'POST'});
-    const data = await res.json();
-    if (data.ok) {
-      allScreenings = await fetchScreenings();
-      buildVenueFilters();
-      renderScreenings();
-      renderSchedulePanel();
-    }
-  } catch(e) {
-    alert('Refresh failed: ' + e.message);
-  } finally {
-    hideLoading();
-  }
-};
 
 // Reset
 document.getElementById('reset-btn').onclick = async () => {
