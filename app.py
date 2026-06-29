@@ -17,8 +17,10 @@ STATE_FILE = os.path.join(os.path.dirname(__file__), "screening_state.json")
 # ── KV client (Vercel/Upstash) — only loaded when env vars are present ────────
 
 def _get_kv():
-    url = os.environ.get("KV_REST_API_URL")
-    token = os.environ.get("KV_REST_API_TOKEN")
+    # Upstash marketplace integration uses UPSTASH_REDIS_REST_URL / _TOKEN
+    # Legacy Vercel KV used KV_REST_API_URL / _TOKEN — check both
+    url = os.environ.get("UPSTASH_REDIS_REST_URL") or os.environ.get("KV_REST_API_URL")
+    token = os.environ.get("UPSTASH_REDIS_REST_TOKEN") or os.environ.get("KV_REST_API_TOKEN")
     if not url or not token:
         return None
     from upstash_redis import Redis
