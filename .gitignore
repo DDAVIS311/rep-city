@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.playwright/
+screening_state.json
+.env
+.DS_Store
