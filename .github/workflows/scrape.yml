@@ -5,6 +5,9 @@ on:
     - cron: '0 14 * * *'  # 7am PT (UTC-7) every day
   workflow_dispatch:       # also allows manual trigger from GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
