@@ -50,13 +50,13 @@
     "city": "NYC"
   },
   {
-    "title": "TO BE OR NOT TO BE",
+    "title": "Guy Maddin\u2019s CAREFUL",
     "date": "2026-06-29",
     "time": "2:40 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/to-be-or-not-to-be-the-lubitsch-touch",
+    "url": "https://filmforum.org/film/careful",
     "city": "NYC"
   },
   {
@@ -90,13 +90,13 @@
     "city": "NYC"
   },
   {
-    "title": "Guy Maddin\u2019s CAREFUL",
+    "title": "Guy Maddin\u2019s TALES FROM THE GIMLI HOSPITAL",
     "date": "2026-06-29",
     "time": "4:50 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/careful",
+    "url": "https://filmforum.org/film/tales-from-the-gimli-hospital-guy-maddin",
     "city": "NYC"
   },
   {
@@ -120,6 +120,16 @@
     "city": "NYC"
   },
   {
+    "title": "Guy Maddin\u2019s CAREFUL",
+    "date": "2026-06-29",
+    "time": "6:20 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/careful",
+    "city": "NYC"
+  },
+  {
     "title": "DAYS AND NIGHTS IN THE FOREST",
     "date": "2026-06-29",
     "time": "6:45 PM",
@@ -127,16 +137,6 @@
     "venue": "Film Forum",
     "venue_short": "FilmForum",
     "url": "https://filmforum.org/film/days-and-nights-in-the-forest",
-    "city": "NYC"
-  },
-  {
-    "title": "TO BE OR NOT TO BE",
-    "date": "2026-06-29",
-    "time": "7:00 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/to-be-or-not-to-be-the-lubitsch-touch",
     "city": "NYC"
   },
   {
@@ -162,7 +162,7 @@
   {
     "title": "Guy Maddin\u2019s CAREFUL",
     "date": "2026-06-29",
-    "time": "9:10 PM",
+    "time": "8:30 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -177,76 +177,6 @@
     "venue": "Film Forum",
     "venue_short": "FilmForum",
     "url": "https://filmforum.org/film/no-picnic",
-    "city": "NYC"
-  },
-  {
-    "title": "Upcoming events, films, workshops, and more",
-    "date": "2026-06-30",
-    "time": "",
-    "format": "",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "#main",
-    "city": "NYC"
-  },
-  {
-    "title": "Honeyjoon",
-    "date": "2026-06-30",
-    "time": "10:35 AM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565504~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Camp",
-    "date": "2026-06-30",
-    "time": "11:00 AM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565486~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Rose of Nevada",
-    "date": "2026-06-30",
-    "time": "11:05 AM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565601~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-06-30",
-    "time": "11:10 AM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565555~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Blue Heron",
-    "date": "2026-06-30",
-    "time": "11:20 AM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565476~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-06-30",
-    "time": "12:15 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565556~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
   },
   {
@@ -290,56 +220,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Invite",
-    "date": "2026-06-30",
-    "time": "1:00 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3770?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
-    "title": "I Shot Andy Warhol",
-    "date": "2026-06-30",
-    "time": "1:10 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565513~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "She's the He",
-    "date": "2026-06-30",
-    "time": "1:20 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565620~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-06-30",
-    "time": "1:30 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565557~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Rose of Nevada",
-    "date": "2026-06-30",
-    "time": "1:35 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565602~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
     "title": "DAYS AND NIGHTS IN THE FOREST",
     "date": "2026-06-30",
     "time": "2:20 PM",
@@ -350,23 +230,13 @@
     "city": "NYC"
   },
   {
-    "title": "Maddie's Secret",
-    "date": "2026-06-30",
-    "time": "2:35 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565558~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Guy Maddin\u2019s CAREFUL",
+    "title": "Guy Maddin\u2019s DRACULA: PAGES FROM A VIRGIN'S DIARY",
     "date": "2026-06-30",
     "time": "2:40 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/careful",
+    "url": "https://filmforum.org/film/dracula-pages-from-a-virgins-diary-guy-maddin",
     "city": "NYC"
   },
   {
@@ -380,16 +250,6 @@
     "city": "NYC"
   },
   {
-    "title": "Camp",
-    "date": "2026-06-30",
-    "time": "3:10 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565487~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
     "title": "THE THIRD MAN",
     "date": "2026-06-30",
     "time": "3:10 PM",
@@ -400,44 +260,14 @@
     "city": "NYC"
   },
   {
-    "title": "Drunken Noodles",
+    "title": "Guy Maddin\u2019s CAREFUL",
     "date": "2026-06-30",
-    "time": "3:25 PM",
+    "time": "4:30 PM",
     "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564737~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/careful",
     "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-06-30",
-    "time": "3:55 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565559~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Rose of Nevada",
-    "date": "2026-06-30",
-    "time": "4:10 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565603~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "The Invite",
-    "date": "2026-06-30",
-    "time": "4:15 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3783?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
   },
   {
     "title": "NO PICNIC",
@@ -450,36 +280,6 @@
     "city": "NYC"
   },
   {
-    "title": "Guy Maddin\u2019s TALES FROM THE GIMLI HOSPITAL",
-    "date": "2026-06-30",
-    "time": "4:50 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/tales-from-the-gimli-hospital-guy-maddin",
-    "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-06-30",
-    "time": "4:55 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565560~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Drunken Noodles",
-    "date": "2026-06-30",
-    "time": "5:30 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564746~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
     "title": "ROMER\u00cdA",
     "date": "2026-06-30",
     "time": "5:30 PM",
@@ -487,16 +287,6 @@
     "venue": "Film Forum",
     "venue_short": "FilmForum",
     "url": "https://filmforum.org/film/romeria",
-    "city": "NYC"
-  },
-  {
-    "title": "Blue Film",
-    "date": "2026-06-30",
-    "time": "5:40 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565468~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
   },
   {
@@ -512,41 +302,11 @@
   {
     "title": "Guy Maddin\u2019s CAREFUL",
     "date": "2026-06-30",
-    "time": "6:20 PM",
+    "time": "6:40 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
     "url": "https://filmforum.org/film/careful",
-    "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-06-30",
-    "time": "6:30 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565561~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "MARE\u2019S NEST",
-    "date": "2026-06-30",
-    "time": "6:30 PM",
-    "format": "",
-    "venue": "Anthology Film Archives",
-    "venue_short": "Anthology",
-    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=06&year=2026#showing-61391",
-    "city": "NYC"
-  },
-  {
-    "title": "Rose of Nevada",
-    "date": "2026-06-30",
-    "time": "6:40 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565604~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
   },
   {
@@ -557,66 +317,6 @@
     "venue": "Film Forum",
     "venue_short": "FilmForum",
     "url": "https://filmforum.org/film/days-and-nights-in-the-forest",
-    "city": "NYC"
-  },
-  {
-    "title": "TWIN PEAKS: THE RETURN Parts 5 &amp; 6",
-    "date": "2026-06-30",
-    "time": "7:00 PM",
-    "format": "",
-    "venue": "Los Feliz Theatre",
-    "venue_short": "LosFeliz",
-    "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-5-6-06-30-2026/",
-    "city": "LA"
-  },
-  {
-    "title": "ROLLING THUNDER REVUE: A BOB DYLAN STORY",
-    "date": "2026-06-30",
-    "time": "7:00 PM",
-    "format": "",
-    "venue": "Anthology Film Archives",
-    "venue_short": "Anthology",
-    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=06&year=2026#showing-61480",
-    "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-06-30",
-    "time": "7:20 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565562~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "The Invite",
-    "date": "2026-06-30",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3784?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
-    "title": "Drunken Noodles",
-    "date": "2026-06-30",
-    "time": "7:35 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564751~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Honeyjoon",
-    "date": "2026-06-30",
-    "time": "7:45 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565505~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
   },
   {
@@ -642,51 +342,11 @@
   {
     "title": "Guy Maddin\u2019s CAREFUL",
     "date": "2026-06-30",
-    "time": "8:30 PM",
+    "time": "8:50 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
     "url": "https://filmforum.org/film/careful",
-    "city": "NYC"
-  },
-  {
-    "title": "MARE\u2019S NEST",
-    "date": "2026-06-30",
-    "time": "8:45 PM",
-    "format": "",
-    "venue": "Anthology Film Archives",
-    "venue_short": "Anthology",
-    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=06&year=2026#showing-61392",
-    "city": "NYC"
-  },
-  {
-    "title": "Wall Street 2: Money Never Sleeps",
-    "date": "2026-06-30",
-    "time": "8:50 PM",
-    "format": "",
-    "venue": "Low Cinema",
-    "venue_short": "LowCinema",
-    "url": "https://lowcinema.com/checkout/2256d6b5-30e9-49e4-bc64-dbcffe406b18/",
-    "city": "NYC"
-  },
-  {
-    "title": "Rose of Nevada",
-    "date": "2026-06-30",
-    "time": "9:00 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565605~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Camp",
-    "date": "2026-06-30",
-    "time": "9:10 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565488~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
   },
   {
@@ -700,64 +360,14 @@
     "city": "NYC"
   },
   {
-    "title": "Blue Heron",
-    "date": "2026-06-30",
-    "time": "9:35 PM",
+    "title": "Upcoming events, films, workshops, and more",
+    "date": "2026-07-01",
+    "time": "",
     "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565477~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "#main",
     "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-06-30",
-    "time": "9:40 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565563~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Drunken Noodles",
-    "date": "2026-06-30",
-    "time": "9:45 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564759~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "\"The Web\" / THE GLADIATORS",
-    "date": "2026-06-30",
-    "time": "10:00 PM",
-    "format": "",
-    "venue": "Los Feliz Theatre",
-    "venue_short": "LosFeliz",
-    "url": "https://www.americancinematheque.com/now-showing/the-web-the-gladiators-6-24-26/",
-    "city": "LA"
-  },
-  {
-    "title": "Wall Street 2: Money Never Sleeps",
-    "date": "2026-06-30",
-    "time": "6 PM",
-    "format": "",
-    "venue": "Low Cinema",
-    "venue_short": "LowCinema",
-    "url": "https://lowcinema.com/checkout/cf442587-e725-4f10-b8ee-f913f9b8e901/",
-    "city": "NYC"
-  },
-  {
-    "title": "Born to Kill             / The Set-Up",
-    "date": "2026-06-30",
-    "time": "7:30 pm / 9:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/june-30-born-to-kill-the-set-up/",
-    "city": "LA"
   },
   {
     "title": "Honeyjoon",
@@ -820,13 +430,13 @@
     "city": "NYC"
   },
   {
-    "title": "PROMISED SKY",
+    "title": "DAYS AND NIGHTS IN THE FOREST",
     "date": "2026-07-01",
     "time": "12:15 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/promised-sky",
+    "url": "https://filmforum.org/film/days-and-nights-in-the-forest",
     "city": "NYC"
   },
   {
@@ -840,13 +450,13 @@
     "city": "NYC"
   },
   {
-    "title": "Guy Maddin\u2019s CAREFUL",
+    "title": "SHERMAN\u2019S MARCH",
     "date": "2026-07-01",
     "time": "12:30 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/careful",
+    "url": "https://filmforum.org/film/shermans-march",
     "city": "NYC"
   },
   {
@@ -920,16 +530,6 @@
     "city": "NYC"
   },
   {
-    "title": "DAYS AND NIGHTS IN THE FOREST",
-    "date": "2026-07-01",
-    "time": "2:20 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/days-and-nights-in-the-forest",
-    "city": "NYC"
-  },
-  {
     "title": "Whisper of the Heart",
     "date": "2026-07-01",
     "time": "2:30 PM",
@@ -950,13 +550,13 @@
     "city": "NYC"
   },
   {
-    "title": "Guy Maddin\u2019s DRACULA: PAGES FROM A VIRGIN'S DIARY",
+    "title": "NO PICNIC",
     "date": "2026-07-01",
     "time": "2:40 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/dracula-pages-from-a-virgins-diary-guy-maddin",
+    "url": "https://filmforum.org/film/no-picnic",
     "city": "NYC"
   },
   {
@@ -1000,6 +600,16 @@
     "city": "NYC"
   },
   {
+    "title": "SHERMAN\u2019S MARCH",
+    "date": "2026-07-01",
+    "time": "3:45 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/shermans-march",
+    "city": "NYC"
+  },
+  {
     "title": "Rose of Nevada",
     "date": "2026-07-01",
     "time": "4:10 PM",
@@ -1027,16 +637,6 @@
     "venue": "IFC Center",
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563977~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Guy Maddin\u2019s CAREFUL",
-    "date": "2026-07-01",
-    "time": "4:30 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/careful",
     "city": "NYC"
   },
   {
@@ -1110,16 +710,6 @@
     "city": "NYC"
   },
   {
-    "title": "Guy Maddin\u2019s CAREFUL",
-    "date": "2026-07-01",
-    "time": "6:40 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/careful",
-    "city": "NYC"
-  },
-  {
     "title": "Rose of Nevada",
     "date": "2026-07-01",
     "time": "6:45 PM",
@@ -1127,16 +717,6 @@
     "venue": "IFC Center",
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565608~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "DAYS AND NIGHTS IN THE FOREST",
-    "date": "2026-07-01",
-    "time": "6:45 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/days-and-nights-in-the-forest",
     "city": "NYC"
   },
   {
@@ -1148,6 +728,26 @@
     "venue_short": "LosFeliz",
     "url": "https://www.americancinematheque.com/now-showing/the-man-on-the-roof-07-01-2026/",
     "city": "LA"
+  },
+  {
+    "title": "SHERMAN\u2019S MARCH",
+    "date": "2026-07-01",
+    "time": "7:00 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/shermans-march",
+    "city": "NYC"
+  },
+  {
+    "title": "CAREFUL",
+    "date": "2026-07-01",
+    "time": "7:00 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/careful",
+    "city": "NYC"
   },
   {
     "title": "Maddie's Secret",
@@ -1200,26 +800,6 @@
     "city": "NYC"
   },
   {
-    "title": "Underland",
-    "date": "2026-07-01",
-    "time": "8:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4254089/",
-    "city": "LA"
-  },
-  {
-    "title": "Rushmore",
-    "date": "2026-07-01",
-    "time": "8:00 pm",
-    "format": "DCP",
-    "venue": "Brain Dead Studios",
-    "venue_short": "BrainDead",
-    "url": "https://studios.wearebraindead.com/purchase/1347202/",
-    "city": "LA"
-  },
-  {
     "title": "ROMER\u00cdA",
     "date": "2026-07-01",
     "time": "8:00 PM",
@@ -1250,19 +830,9 @@
     "city": "NYC"
   },
   {
-    "title": "Guy Maddin\u2019s CAREFUL",
-    "date": "2026-07-01",
-    "time": "8:50 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/careful",
-    "city": "NYC"
-  },
-  {
     "title": "NO PICNIC",
     "date": "2026-07-01",
-    "time": "9:15 PM",
+    "time": "9:10 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -1417,16 +987,6 @@
     "venue": "Film Forum",
     "venue_short": "FilmForum",
     "url": "https://filmforum.org/film/romeria",
-    "city": "NYC"
-  },
-  {
-    "title": "SHERMAN\u2019S MARCH",
-    "date": "2026-07-02",
-    "time": "12:30 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/shermans-march",
     "city": "NYC"
   },
   {
@@ -1670,16 +1230,6 @@
     "city": "NYC"
   },
   {
-    "title": "Underland",
-    "date": "2026-07-02",
-    "time": "7:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4254104/",
-    "city": "LA"
-  },
-  {
     "title": "ALEXANDRIA AGAIN AND FOREVER",
     "date": "2026-07-02",
     "time": "7:00 PM",
@@ -1850,6 +1400,16 @@
     "city": "NYC"
   },
   {
+    "title": "Maddie's Secret",
+    "date": "2026-07-02",
+    "time": "9:00 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565577~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
     "title": "BLACK GOLD",
     "date": "2026-07-02",
     "time": "9:00 PM",
@@ -1882,21 +1442,11 @@
   {
     "title": "Rose of Nevada",
     "date": "2026-07-02",
-    "time": "9:20 PM",
+    "time": "9:25 PM",
     "format": "",
     "venue": "IFC Center",
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565613~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-07-02",
-    "time": "9:40 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565577~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
   },
   {
@@ -2060,16 +1610,6 @@
     "city": "NYC"
   },
   {
-    "title": "Underland",
-    "date": "2026-07-03",
-    "time": "1:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4253409/",
-    "city": "LA"
-  },
-  {
     "title": "THE GREAT MCGINTY",
     "date": "2026-07-03",
     "time": "1:00 PM",
@@ -2198,16 +1738,6 @@
     "venue_short": "FilmForum",
     "url": "https://filmforum.org/film/shermans-march",
     "city": "NYC"
-  },
-  {
-    "title": "Underland",
-    "date": "2026-07-03",
-    "time": "4:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4253417/",
-    "city": "LA"
   },
   {
     "title": "DEKALOG: FIVE &amp; SIX",
@@ -2583,7 +2113,7 @@
     "title": "Buffalo \u201966",
     "date": "2026-07-03",
     "time": "9:45 pm",
-    "format": "DCP",
+    "format": "35mm",
     "venue": "Brain Dead Studios",
     "venue_short": "BrainDead",
     "url": "https://studios.wearebraindead.com/purchase/1347206/",
@@ -3520,6 +3050,16 @@
     "city": "NYC"
   },
   {
+    "title": "SHERMAN\u2019S MARCH",
+    "date": "2026-07-05",
+    "time": "12:30 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/shermans-march",
+    "city": "NYC"
+  },
+  {
     "title": "THE THIRD MAN",
     "date": "2026-07-05",
     "time": "12:40 PM",
@@ -3948,16 +3488,6 @@
     "venue_short": "LosFeliz",
     "url": "https://www.americancinematheque.com/now-showing/dekalog-seven-and-eight-7-5-26/",
     "city": "LA"
-  },
-  {
-    "title": "SHERMAN\u2019S MARCH",
-    "date": "2026-07-05",
-    "time": "7:00 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/shermans-march",
-    "city": "NYC"
   },
   {
     "title": "CAREFUL",
@@ -4450,6 +3980,16 @@
     "city": "NYC"
   },
   {
+    "title": "Rumble in the Bronx",
+    "date": "2026-07-06",
+    "time": "8:15 PM",
+    "format": "",
+    "venue": "Low Cinema",
+    "venue_short": "LowCinema",
+    "url": "https://lowcinema.com/checkout/98817529-3779-4af7-a420-041ce773ce1d/",
+    "city": "NYC"
+  },
+  {
     "title": "CREMASTER 2 + ARABESQUE",
     "date": "2026-07-06",
     "time": "8:45 PM",
@@ -4520,6 +4060,16 @@
     "city": "NYC"
   },
   {
+    "title": "Rumble in the Bronx",
+    "date": "2026-07-06",
+    "time": "6 PM",
+    "format": "",
+    "venue": "Low Cinema",
+    "venue_short": "LowCinema",
+    "url": "https://lowcinema.com/checkout/23ae7a30-ca09-4ffe-83fe-c3c358b7a5fc/",
+    "city": "NYC"
+  },
+  {
     "title": "The Lady in Red             / The Bonnie Parker Story",
     "date": "2026-07-06",
     "time": "7:30 pm / 9:35 pm",
@@ -4528,6 +4078,76 @@
     "venue_short": "NewBev",
     "url": "https://thenewbev.comhttps://thenewbev.com/program/july-6-the-lady-in-red-the-bonnie-parker-story/",
     "city": "LA"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "date": "2026-07-07",
+    "time": "10:35 AM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566840~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-07-07",
+    "time": "10:40 AM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566808~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Camp (Open Captioning)",
+    "date": "2026-07-07",
+    "time": "11:00 AM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566741~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Rose of Nevada",
+    "date": "2026-07-07",
+    "time": "11:15 AM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566860~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Smithereens",
+    "date": "2026-07-07",
+    "time": "12:45 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563996~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Drunken Noodles",
+    "date": "2026-07-07",
+    "time": "1:15 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566755~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-07-07",
+    "time": "1:45 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566809~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
   },
   {
     "title": "Monsieur Verdoux",
@@ -4540,6 +4160,46 @@
     "city": "LA"
   },
   {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "date": "2026-07-07",
+    "time": "2:00 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564765~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Variety",
+    "date": "2026-07-07",
+    "time": "2:40 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564003~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Rose of Nevada",
+    "date": "2026-07-07",
+    "time": "3:15 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566861~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-07-07",
+    "time": "3:35 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566810~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
     "title": "The Invite",
     "date": "2026-07-07",
     "time": "4:15 PM",
@@ -4548,6 +4208,76 @@
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3819?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "city": "LA"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "date": "2026-07-07",
+    "time": "4:20 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564772~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "The Thin Blue Line",
+    "date": "2026-07-07",
+    "time": "4:55 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563997~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-07-07",
+    "time": "5:30 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566811~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Synecdoche, New York",
+    "date": "2026-07-07",
+    "time": "5:30 PM",
+    "format": "",
+    "venue": "Low Cinema",
+    "venue_short": "LowCinema",
+    "url": "https://lowcinema.com/checkout/42bd7fe5-e36d-460c-84f3-791243f89409/",
+    "city": "NYC"
+  },
+  {
+    "title": "Drunken Noodles",
+    "date": "2026-07-07",
+    "time": "5:45 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566756~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Rose of Nevada",
+    "date": "2026-07-07",
+    "time": "6:30 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566862~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "date": "2026-07-07",
+    "time": "6:45 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564779~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
   },
   {
     "title": "MOUSTAPHA ALASSANE + KEVIN JEROME EVERSON",
@@ -4580,6 +4310,16 @@
     "city": "LA"
   },
   {
+    "title": "Born in Flames",
+    "date": "2026-07-07",
+    "time": "7:20 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563968~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
     "title": "The Invite",
     "date": "2026-07-07",
     "time": "7:30 PM",
@@ -4600,6 +4340,36 @@
     "city": "LA"
   },
   {
+    "title": "Drunken Noodles",
+    "date": "2026-07-07",
+    "time": "7:40 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566757~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-07-07",
+    "time": "7:45 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566813~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "The Lost Weekend",
+    "date": "2026-07-07",
+    "time": "8:15 PM",
+    "format": "",
+    "venue": "Low Cinema",
+    "venue_short": "LowCinema",
+    "url": "https://lowcinema.com/checkout/a26399f0-b5d2-4b9b-86f6-debce1e0c1f8/",
+    "city": "NYC"
+  },
+  {
     "title": "CRAIG BALDWIN + CHARLES I. LEVINE",
     "date": "2026-07-07",
     "time": "9:00 PM",
@@ -4607,6 +4377,56 @@
     "venue": "Anthology Film Archives",
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61744",
+    "city": "NYC"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "date": "2026-07-07",
+    "time": "9:05 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566841~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-07-07",
+    "time": "9:15 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566812~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Camp",
+    "date": "2026-07-07",
+    "time": "9:30 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566735~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Mala Noche",
+    "date": "2026-07-07",
+    "time": "9:35 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563981~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-07-07",
+    "time": "9:55 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566814~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
   },
   {
@@ -4730,7 +4550,7 @@
     "city": "LA"
   },
   {
-    "title": "Coroner to the Stars",
+    "title": "Coroner to the Stars + Q&A w/  Jon Lovett",
     "date": "2026-07-08",
     "time": "8:00 pm",
     "format": "DCP",
@@ -4860,7 +4680,7 @@
     "city": "LA"
   },
   {
-    "title": "Acropolis Presents: The Misconceived",
+    "title": "Acropolis: The Misconceived",
     "date": "2026-07-09",
     "time": "8:00 pm",
     "format": "35mm",
@@ -6030,7 +5850,7 @@
     "city": "LA"
   },
   {
-    "title": "TANK GIRL W/ Q+A with Director Rachel Talalay & Special Guests",
+    "title": "TANK GIRL: Q+A w/ Director Rachel Talalay",
     "date": "2026-07-15",
     "time": "7:30 pm",
     "format": "Digital",
@@ -6147,6 +5967,16 @@
     "venue": "Vidiots Foundation",
     "venue_short": "Vidiots",
     "url": "https://vidiotsfoundation.org/purchase/4301573/",
+    "city": "LA"
+  },
+  {
+    "title": "C.O.F.F.I.N \u201810,000 Miles From Oslo\u2019",
+    "date": "2026-07-16",
+    "time": "7:30 pm",
+    "format": "DCP",
+    "venue": "Brain Dead Studios",
+    "venue_short": "BrainDead",
+    "url": "https://dice.fm/partner/tickets/event/yow7qx-coffin-10000-miles-from-oslo-documentary-premiere-16th-jul-brain-dead-studios-los-angeles-tickets?dice_id=9432520&dice_channel=web&dice_tags=organic&dice_campaign=Brain+Dead+Amusements+LLC&dice_feature=mio_marketing&_branch_match_id=1256662425127165609&utm_source=web&utm_campaign=Brain+Dead+Amusements+LLC&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1c9LNjVMNDdLNDeyNLSvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQB4VHcvOwAAAA%3D%3D",
     "city": "LA"
   },
   {
@@ -7310,13 +7140,23 @@
     "city": "LA"
   },
   {
-    "title": "FAMILY PLOT",
+    "title": "P! - FAMILY PLOT",
     "date": "2026-07-24",
     "time": "7:00 PM",
     "format": "35mm",
     "venue": "Los Feliz Theatre",
     "venue_short": "LosFeliz",
     "url": "https://www.americancinematheque.com/now-showing/family-plot-07-24-2026/",
+    "city": "LA"
+  },
+  {
+    "title": "Mezzanine: COMPUTER CHESS + SITREP",
+    "date": "2026-07-24",
+    "time": "7:15 pm",
+    "format": "35mm",
+    "venue": "Brain Dead Studios",
+    "venue_short": "BrainDead",
+    "url": "https://studios.wearebraindead.com/purchase/1353228/",
     "city": "LA"
   },
   {
@@ -7770,7 +7610,7 @@
     "city": "NYC"
   },
   {
-    "title": "THEY LIVE BY NIGHT",
+    "title": "P! - THEY LIVE BY NIGHT",
     "date": "2026-07-26",
     "time": "10:00 PM",
     "format": "35mm",
@@ -7817,6 +7657,16 @@
     "venue": "Vidiots Foundation",
     "venue_short": "Vidiots",
     "url": "https://vidiotsfoundation.org/purchase/4254358/",
+    "city": "LA"
+  },
+  {
+    "title": "Austin Powers: International Man of Mystery",
+    "date": "2026-07-27",
+    "time": "8:00 pm",
+    "format": "35mm",
+    "venue": "Brain Dead Studios",
+    "venue_short": "BrainDead",
+    "url": "https://studios.wearebraindead.com/purchase/1353235/",
     "city": "LA"
   },
   {
@@ -7918,6 +7768,16 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61672",
     "city": "NYC"
+  },
+  {
+    "title": "Interview with the Vampire on 35mm",
+    "date": "2026-07-29",
+    "time": "7:30 pm",
+    "format": "35mm",
+    "venue": "Vidiots Foundation",
+    "venue_short": "Vidiots",
+    "url": "https://vidiotsfoundation.org/purchase/4270660/",
+    "city": "LA"
   },
   {
     "title": "Total Recall",
