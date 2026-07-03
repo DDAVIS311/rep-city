@@ -892,7 +892,10 @@ function buildVenueFilters() {
   });
 }
 
+const todayStr = new Date().toISOString().slice(0, 10);
+
 function cardVisible(s) {
+  if (s.date < todayStr) return false;
   if (activeCity !== 'all' && s.city !== activeCity) return false;
   if (!activeVenues.has(s.venue_short)) return false;
   if (searchQuery && !s.title.toLowerCase().includes(searchQuery)) return false;
