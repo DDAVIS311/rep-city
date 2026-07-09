@@ -160,27 +160,17 @@
     "city": "NYC"
   },
   {
-    "title": "DAYS AND NIGHTS IN THE FOREST",
+    "title": "REMAKE",
     "date": "2026-07-07",
     "time": "12:15 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/days-and-nights-in-the-forest",
+    "url": "https://filmforum.org/film/remake",
     "city": "NYC"
   },
   {
-    "title": "ROMER\u00cdA",
-    "date": "2026-07-07",
-    "time": "12:20 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/romeria",
-    "city": "NYC"
-  },
-  {
-    "title": "SHERMAN\u2019S MARCH",
+    "title": "SHERMAN'S MARCH",
     "date": "2026-07-07",
     "time": "12:30 PM",
     "format": "",
@@ -190,9 +180,19 @@
     "city": "NYC"
   },
   {
+    "title": "SONS OF THE DESERT with Busy Bodies",
+    "date": "2026-07-07",
+    "time": "12:30 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/sons-of-the-desert-laurel-hardy",
+    "city": "NYC"
+  },
+  {
     "title": "THE THIRD MAN",
     "date": "2026-07-07",
-    "time": "12:40 PM",
+    "time": "1:00 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -200,19 +200,29 @@
     "city": "NYC"
   },
   {
-    "title": "NO PICNIC",
+    "title": "TALKIE SHORTS PROGRAM 1",
     "date": "2026-07-07",
     "time": "2:40 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/no-picnic",
+    "url": "https://filmforum.org/film/talkie-shorts-program-1-laurel-hardy",
+    "city": "NYC"
+  },
+  {
+    "title": "REMAKE",
+    "date": "2026-07-07",
+    "time": "2:45 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/remake",
     "city": "NYC"
   },
   {
     "title": "ROMER\u00cdA",
     "date": "2026-07-07",
-    "time": "2:45 PM",
+    "time": "3:20 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -220,17 +230,7 @@
     "city": "NYC"
   },
   {
-    "title": "THE THIRD MAN",
-    "date": "2026-07-07",
-    "time": "3:10 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-third-man-2026",
-    "city": "NYC"
-  },
-  {
-    "title": "SHERMAN\u2019S MARCH",
+    "title": "SHERMAN'S MARCH",
     "date": "2026-07-07",
     "time": "3:45 PM",
     "format": "",
@@ -240,29 +240,29 @@
     "city": "NYC"
   },
   {
-    "title": "NO PICNIC",
+    "title": "TALKIE SHORTS PROGRAM 2",
     "date": "2026-07-07",
-    "time": "4:45 PM",
+    "time": "4:40 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/no-picnic",
+    "url": "https://filmforum.org/film/talkie-shorts-program-2-laurel-hardy",
     "city": "NYC"
   },
   {
-    "title": "ROMER\u00cdA",
+    "title": "REMAKE",
     "date": "2026-07-07",
-    "time": "5:30 PM",
+    "time": "5:15 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/romeria",
+    "url": "https://filmforum.org/film/remake",
     "city": "NYC"
   },
   {
     "title": "THE THIRD MAN",
     "date": "2026-07-07",
-    "time": "5:40 PM",
+    "time": "6:00 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -270,7 +270,17 @@
     "city": "NYC"
   },
   {
-    "title": "SHERMAN\u2019S MARCH",
+    "title": "SILENT SHORTS PROGRAM 1",
+    "date": "2026-07-07",
+    "time": "6:30 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/silent-shorts-program-1-laurel-hardy",
+    "city": "NYC"
+  },
+  {
+    "title": "SHERMAN'S MARCH",
     "date": "2026-07-07",
     "time": "7:00 PM",
     "format": "",
@@ -280,103 +290,33 @@
     "city": "NYC"
   },
   {
-    "title": "CAREFUL",
+    "title": "REMAKE",
     "date": "2026-07-07",
-    "time": "7:00 PM",
+    "time": "7:45 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/careful",
+    "url": "https://filmforum.org/film/remake",
     "city": "NYC"
   },
   {
-    "title": "ROMER\u00cdA",
-    "date": "2026-07-07",
-    "time": "8:00 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/romeria",
-    "city": "NYC"
-  },
-  {
-    "title": "THE THIRD MAN",
+    "title": "SONS OF THE DESERT with Busy Bodies",
     "date": "2026-07-07",
     "time": "8:10 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-third-man-2026",
+    "url": "https://filmforum.org/film/sons-of-the-desert-laurel-hardy",
     "city": "NYC"
   },
   {
-    "title": "NO PICNIC",
+    "title": "ROMER\u00cdA",
     "date": "2026-07-07",
-    "time": "9:10 PM",
+    "time": "8:15 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/no-picnic",
-    "city": "NYC"
-  },
-  {
-    "title": "Upcoming events, films, workshops, and more",
-    "date": "2026-07-08",
-    "time": "",
-    "format": "",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "#main",
-    "city": "NYC"
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "date": "2026-07-08",
-    "time": "10:35 AM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566842~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-07-08",
-    "time": "10:40 AM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566816~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Camp",
-    "date": "2026-07-08",
-    "time": "11:00 AM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566736~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-07-08",
-    "time": "11:10 AM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566815~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Rose of Nevada (Open Captioning)",
-    "date": "2026-07-08",
-    "time": "11:15 AM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566870~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "url": "https://filmforum.org/film/romeria",
     "city": "NYC"
   },
   {
@@ -390,43 +330,13 @@
     "city": "NYC"
   },
   {
-    "title": "SHERMAN'S MARCH",
+    "title": "TALKIE SHORTS PROGRAM 1",
     "date": "2026-07-08",
     "time": "12:30 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/shermans-march",
-    "city": "NYC"
-  },
-  {
-    "title": "SONS OF THE DESERT with Busy Bodies",
-    "date": "2026-07-08",
-    "time": "12:30 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/sons-of-the-desert-laurel-hardy",
-    "city": "NYC"
-  },
-  {
-    "title": "El S\u00faper",
-    "date": "2026-07-08",
-    "time": "12:45 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563974~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-07-08",
-    "time": "12:50 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566818~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "url": "https://filmforum.org/film/talkie-shorts-program-1-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -440,103 +350,13 @@
     "city": "NYC"
   },
   {
-    "title": "Drunken Noodles",
-    "date": "2026-07-08",
-    "time": "1:15 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566758~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-07-08",
-    "time": "1:45 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566817~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Westward Ho the Wagons!",
-    "date": "2026-07-08",
-    "time": "2:00 PM",
-    "format": "VHS",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3834?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "date": "2026-07-08",
-    "time": "2:00 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564766~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Princess Mononoke",
+    "title": "TALKIE SHORTS PROGRAM 2",
     "date": "2026-07-08",
     "time": "2:30 PM",
     "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/princess-mononoke-019dd4fb-ae21-2e16-f346-ad206ac21b04",
-    "city": "LA"
-  },
-  {
-    "title": "Born in Flames",
-    "date": "2026-07-08",
-    "time": "2:40 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563969~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "TALKIE SHORTS PROGRAM 1",
-    "date": "2026-07-08",
-    "time": "2:40 PM",
-    "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/talkie-shorts-program-1-laurel-hardy",
-    "city": "NYC"
-  },
-  {
-    "title": "REMAKE",
-    "date": "2026-07-08",
-    "time": "2:45 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/remake",
-    "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-07-08",
-    "time": "3:10 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566820~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Rose of Nevada",
-    "date": "2026-07-08",
-    "time": "3:15 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566863~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "url": "https://filmforum.org/film/talkie-shorts-program-2-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -560,219 +380,19 @@
     "city": "NYC"
   },
   {
-    "title": "Maddie's Secret",
-    "date": "2026-07-08",
-    "time": "4:10 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566819~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "The Invite",
-    "date": "2026-07-08",
-    "time": "4:15 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3820?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "title": "SILENT SHORTS PROGRAM 2",
     "date": "2026-07-08",
     "time": "4:20 PM",
     "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564773~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Twice as Nice + Dreams of Passion",
-    "date": "2026-07-08",
-    "time": "4:35 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564001~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "TALKIE SHORTS PROGRAM 2",
-    "date": "2026-07-08",
-    "time": "4:40 PM",
-    "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/talkie-shorts-program-2-laurel-hardy",
+    "url": "https://filmforum.org/film/silent-shorts-program-2-laurel-hardy",
     "city": "NYC"
   },
   {
     "title": "REMAKE",
-    "date": "2026-07-08",
-    "time": "5:15 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/remake",
-    "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
     "date": "2026-07-08",
     "time": "5:30 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566822~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Drunken Noodles",
-    "date": "2026-07-08",
-    "time": "5:35 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566759~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "THE THIRD MAN",
-    "date": "2026-07-08",
-    "time": "6:00 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-third-man-2026",
-    "city": "NYC"
-  },
-  {
-    "title": "SILENT SHORTS PROGRAM 1",
-    "date": "2026-07-08",
-    "time": "6:30 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/silent-shorts-program-1-laurel-hardy",
-    "city": "NYC"
-  },
-  {
-    "title": "UTOPIA",
-    "date": "2026-07-08",
-    "time": "6:30 PM",
-    "format": "",
-    "venue": "Anthology Film Archives",
-    "venue_short": "Anthology",
-    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61747",
-    "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-07-08",
-    "time": "6:40 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566821~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Variety",
-    "date": "2026-07-08",
-    "time": "6:45 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564004~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "date": "2026-07-08",
-    "time": "6:50 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564780~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "BABYLON in 70mm",
-    "date": "2026-07-08",
-    "time": "7:00 PM",
-    "format": "70mm",
-    "venue": "Aero Theatre",
-    "venue_short": "Aero",
-    "url": "https://www.americancinematheque.com/now-showing/babylon-in-70mm-07-08-2026/",
-    "city": "LA"
-  },
-  {
-    "title": "THE HITCH-HIKER",
-    "date": "2026-07-08",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "Los Feliz Theatre",
-    "venue_short": "LosFeliz",
-    "url": "https://www.americancinematheque.com/now-showing/the-hitch-hiker-07-08-2026/",
-    "city": "LA"
-  },
-  {
-    "title": "SHERMAN'S MARCH",
-    "date": "2026-07-08",
-    "time": "7:00 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/shermans-march",
-    "city": "NYC"
-  },
-  {
-    "title": "The Invite",
-    "date": "2026-07-08",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3825?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
-    "title": "The Lovers on the Bridge",
-    "date": "2026-07-08",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/the-lovers-on-the-bridge-019dd52e-d672-d769-b172-eb2edced096f",
-    "city": "LA"
-  },
-  {
-    "title": "Night Nurse",
-    "date": "2026-07-08",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566297~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Rose of Nevada",
-    "date": "2026-07-08",
-    "time": "7:40 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566864~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "REMAKE",
-    "date": "2026-07-08",
-    "time": "7:45 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -782,7 +402,7 @@
   {
     "title": "SONS OF THE DESERT with Busy Bodies",
     "date": "2026-07-08",
-    "time": "8:10 PM",
+    "time": "5:50 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -790,9 +410,49 @@
     "city": "NYC"
   },
   {
-    "title": "ROMER\u00cdA",
+    "title": "THE THIRD MAN",
+    "date": "2026-07-08",
+    "time": "6:10 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-third-man-2026",
+    "city": "NYC"
+  },
+  {
+    "title": "SHERMAN'S MARCH",
+    "date": "2026-07-08",
+    "time": "7:40 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/shermans-march",
+    "city": "NYC"
+  },
+  {
+    "title": "WAY OUT WEST with The Music Box",
+    "date": "2026-07-08",
+    "time": "8:00 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/way-out-west-laurel-hardy",
+    "city": "NYC"
+  },
+  {
+    "title": "REMAKE",
     "date": "2026-07-08",
     "time": "8:15 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/remake",
+    "city": "NYC"
+  },
+  {
+    "title": "ROMER\u00cdA",
+    "date": "2026-07-08",
+    "time": "8:30 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -800,104 +460,14 @@
     "city": "NYC"
   },
   {
-    "title": "Rumble in the Bronx",
-    "date": "2026-07-08",
-    "time": "8:15 PM",
+    "title": "Upcoming events, films, workshops, and more",
+    "date": "2026-07-09",
+    "time": "",
     "format": "",
-    "venue": "Low Cinema",
-    "venue_short": "LowCinema",
-    "url": "https://lowcinema.com/checkout/5980ee41-fd76-45ad-af1a-005063190ee4/",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "#main",
     "city": "NYC"
-  },
-  {
-    "title": "WOMEN\u2019S HAPPY TIME COMMUNE",
-    "date": "2026-07-08",
-    "time": "8:45 PM",
-    "format": "",
-    "venue": "Anthology Film Archives",
-    "venue_short": "Anthology",
-    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61834",
-    "city": "NYC"
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "date": "2026-07-08",
-    "time": "9:05 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566843~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-07-08",
-    "time": "9:10 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566823~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "The Thin Blue Line",
-    "date": "2026-07-08",
-    "time": "9:20 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=563998~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Drunken Noodles",
-    "date": "2026-07-08",
-    "time": "9:50 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566760~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "THE HILLS HAVE EYES",
-    "date": "2026-07-08",
-    "time": "10:00 PM",
-    "format": "DCP",
-    "venue": "Los Feliz Theatre",
-    "venue_short": "LosFeliz",
-    "url": "https://www.americancinematheque.com/now-showing/the-hills-have-eyes-07-08-2026/",
-    "city": "LA"
-  },
-  {
-    "title": "Camp",
-    "date": "2026-07-08",
-    "time": "10:00 PM",
-    "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566737~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "Rumble in the Bronx",
-    "date": "2026-07-08",
-    "time": "6 PM",
-    "format": "",
-    "venue": "Low Cinema",
-    "venue_short": "LowCinema",
-    "url": "https://lowcinema.com/checkout/cb78a114-a0b8-4454-a946-992a1596e0ca/",
-    "city": "NYC"
-  },
-  {
-    "title": "Beauty and the Beast (1946)             / Orpheus",
-    "date": "2026-07-08",
-    "time": "7:30 pm / 9:35 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/july-8-beauty-and-the-beast-orpheus/",
-    "city": "LA"
   },
   {
     "title": "Mary Oliver: Saved by the Beauty of the World",
@@ -950,23 +520,23 @@
     "city": "NYC"
   },
   {
-    "title": "REMAKE",
+    "title": "LAUREL & HARDY RARITIES",
     "date": "2026-07-09",
-    "time": "12:15 PM",
+    "time": "12:20 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/remake",
+    "url": "https://filmforum.org/film/laurel-hardy-rarities-laurel-hardy",
     "city": "NYC"
   },
   {
-    "title": "TALKIE SHORTS PROGRAM 1",
+    "title": "SHERMAN'S MARCH",
     "date": "2026-07-09",
     "time": "12:30 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/talkie-shorts-program-1-laurel-hardy",
+    "url": "https://filmforum.org/film/shermans-march",
     "city": "NYC"
   },
   {
@@ -1030,6 +600,16 @@
     "city": "NYC"
   },
   {
+    "title": "BABES IN TOYLAND with Brats",
+    "date": "2026-07-09",
+    "time": "2:10 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/babes-in-toyland-laurel-hardy",
+    "city": "NYC"
+  },
+  {
     "title": "Princess Mononoke",
     "date": "2026-07-09",
     "time": "2:30 PM",
@@ -1040,13 +620,13 @@
     "city": "LA"
   },
   {
-    "title": "TALKIE SHORTS PROGRAM 2",
+    "title": "REMAKE",
     "date": "2026-07-09",
-    "time": "2:30 PM",
+    "time": "2:50 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/talkie-shorts-program-2-laurel-hardy",
+    "url": "https://filmforum.org/film/remake",
     "city": "NYC"
   },
   {
@@ -1080,13 +660,13 @@
     "city": "NYC"
   },
   {
-    "title": "SHERMAN'S MARCH",
+    "title": "Maddie's Secret",
     "date": "2026-07-09",
-    "time": "3:45 PM",
+    "time": "4:10 PM",
     "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/shermans-march",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566830~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
   },
   {
@@ -1110,16 +690,6 @@
     "city": "NYC"
   },
   {
-    "title": "SILENT SHORTS PROGRAM 2",
-    "date": "2026-07-09",
-    "time": "4:20 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/silent-shorts-program-2-laurel-hardy",
-    "city": "NYC"
-  },
-  {
     "title": "Wild Style",
     "date": "2026-07-09",
     "time": "4:30 PM",
@@ -1130,13 +700,13 @@
     "city": "NYC"
   },
   {
-    "title": "Maddie's Secret",
+    "title": "BLOCK-HEADS with Blotto",
     "date": "2026-07-09",
-    "time": "4:35 PM",
+    "time": "4:30 PM",
     "format": "",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566830~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/block-heads-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -1170,23 +740,23 @@
     "city": "NYC"
   },
   {
-    "title": "SONS OF THE DESERT with Busy Bodies",
-    "date": "2026-07-09",
-    "time": "5:50 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/sons-of-the-desert-laurel-hardy",
-    "city": "NYC"
-  },
-  {
     "title": "THE THIRD MAN",
     "date": "2026-07-09",
-    "time": "6:10 PM",
+    "time": "6:00 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
     "url": "https://filmforum.org/film/the-third-man-2026",
+    "city": "NYC"
+  },
+  {
+    "title": "TALKIE SHORTS PROGRAM 3",
+    "date": "2026-07-09",
+    "time": "6:30 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/talkie-shorts-program-3-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -1250,6 +820,16 @@
     "city": "NYC"
   },
   {
+    "title": "SHERMAN'S MARCH",
+    "date": "2026-07-09",
+    "time": "7:00 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/shermans-march",
+    "city": "NYC"
+  },
+  {
     "title": "The Invite",
     "date": "2026-07-09",
     "time": "7:30 PM",
@@ -1280,16 +860,6 @@
     "city": "NYC"
   },
   {
-    "title": "SHERMAN'S MARCH",
-    "date": "2026-07-09",
-    "time": "7:40 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/shermans-march",
-    "city": "NYC"
-  },
-  {
     "title": "Maddie's Secret",
     "date": "2026-07-09",
     "time": "7:45 PM",
@@ -1297,16 +867,6 @@
     "venue": "IFC Center",
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566831~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "WAY OUT WEST with The Music Box",
-    "date": "2026-07-09",
-    "time": "7:45 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/way-out-west-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -1320,19 +880,9 @@
     "city": "LA"
   },
   {
-    "title": "Acropolis: The Misconceived",
-    "date": "2026-07-09",
-    "time": "8:00 pm",
-    "format": "35mm",
-    "venue": "Brain Dead Studios",
-    "venue_short": "BrainDead",
-    "url": "https://studios.wearebraindead.com/purchase/1341962/",
-    "city": "LA"
-  },
-  {
     "title": "REMAKE",
     "date": "2026-07-09",
-    "time": "8:15 PM",
+    "time": "8:00 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -1342,11 +892,21 @@
   {
     "title": "ROMER\u00cdA",
     "date": "2026-07-09",
-    "time": "8:30 PM",
+    "time": "8:15 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
     "url": "https://filmforum.org/film/romeria",
+    "city": "NYC"
+  },
+  {
+    "title": "WAY OUT WEST with The Music Box",
+    "date": "2026-07-09",
+    "time": "8:30 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/way-out-west-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -1387,6 +947,16 @@
     "venue": "IFC Center",
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566846~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-07-09",
+    "time": "9:20 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568580~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
   },
   {
@@ -1500,16 +1070,6 @@
     "city": "NYC"
   },
   {
-    "title": "LAUREL & HARDY RARITIES",
-    "date": "2026-07-10",
-    "time": "12:20 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/laurel-hardy-rarities-laurel-hardy",
-    "city": "NYC"
-  },
-  {
     "title": "SHERMAN'S MARCH",
     "date": "2026-07-10",
     "time": "12:30 PM",
@@ -1517,6 +1077,16 @@
     "venue": "Film Forum",
     "venue_short": "FilmForum",
     "url": "https://filmforum.org/film/shermans-march",
+    "city": "NYC"
+  },
+  {
+    "title": "BLOCK-HEADS with Blotto",
+    "date": "2026-07-10",
+    "time": "12:30 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/block-heads-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -1570,16 +1140,6 @@
     "city": "NYC"
   },
   {
-    "title": "BABES IN TOYLAND with Brats",
-    "date": "2026-07-10",
-    "time": "2:10 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/babes-in-toyland-laurel-hardy",
-    "city": "NYC"
-  },
-  {
     "title": "Mary Oliver: Saved by the Beauty of the World",
     "date": "2026-07-10",
     "time": "2:15 PM",
@@ -1597,6 +1157,16 @@
     "venue": "IFC Center",
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568022~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "TALKIE SHORTS PROGRAM 2",
+    "date": "2026-07-10",
+    "time": "2:20 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/talkie-shorts-program-2-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -1630,6 +1200,16 @@
     "city": "NYC"
   },
   {
+    "title": "SHERMAN'S MARCH",
+    "date": "2026-07-10",
+    "time": "3:45 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/shermans-march",
+    "city": "NYC"
+  },
+  {
     "title": "Macho Dancer",
     "date": "2026-07-10",
     "time": "3:50 PM",
@@ -1660,13 +1240,13 @@
     "city": "NYC"
   },
   {
-    "title": "BLOCK-HEADS with Blotto",
+    "title": "SILENT SHORTS PROGRAM 2",
     "date": "2026-07-10",
-    "time": "4:30 PM",
+    "time": "4:10 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/block-heads-laurel-hardy",
+    "url": "https://filmforum.org/film/silent-shorts-program-2-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -1710,23 +1290,23 @@
     "city": "NYC"
   },
   {
-    "title": "THE THIRD MAN",
+    "title": "ROMER\u00cdA",
     "date": "2026-07-10",
     "time": "6:00 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-third-man-2026",
+    "url": "https://filmforum.org/film/romeria",
     "city": "NYC"
   },
   {
-    "title": "TALKIE SHORTS PROGRAM 3",
+    "title": "DE BOTE EN BOTE (PARDON US)",
     "date": "2026-07-10",
-    "time": "6:30 PM",
+    "time": "6:00 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/talkie-shorts-program-3-laurel-hardy",
+    "url": "https://filmforum.org/film/de-bote-en-bote-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -1870,6 +1450,16 @@
     "city": "LA"
   },
   {
+    "title": "PARDON US with Going Bye-Bye",
+    "date": "2026-07-10",
+    "time": "7:40 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/pardon-us-laurel-hardy",
+    "city": "NYC"
+  },
+  {
     "title": "Demon Witch Child/Cathy's Curse",
     "date": "2026-07-10",
     "time": "8:00 PM",
@@ -1890,16 +1480,6 @@
     "city": "NYC"
   },
   {
-    "title": "ROMER\u00cdA",
-    "date": "2026-07-10",
-    "time": "8:15 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/romeria",
-    "city": "NYC"
-  },
-  {
     "title": "Maddie's Secret",
     "date": "2026-07-10",
     "time": "8:15 PM",
@@ -1910,13 +1490,13 @@
     "city": "NYC"
   },
   {
-    "title": "WAY OUT WEST with The Music Box",
+    "title": "THE THIRD MAN",
     "date": "2026-07-10",
     "time": "8:30 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/way-out-west-laurel-hardy",
+    "url": "https://filmforum.org/film/the-third-man-2026",
     "city": "NYC"
   },
   {
@@ -2200,6 +1780,26 @@
     "city": "NYC"
   },
   {
+    "title": "REMAKE",
+    "date": "2026-07-11",
+    "time": "12:20 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/remake",
+    "city": "NYC"
+  },
+  {
+    "title": "SONS OF THE DESERT with Busy Bodies",
+    "date": "2026-07-11",
+    "time": "12:20 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/sons-of-the-desert-laurel-hardy",
+    "city": "NYC"
+  },
+  {
     "title": "Night at the Museum",
     "date": "2026-07-11",
     "time": "12:30 pm",
@@ -2208,26 +1808,6 @@
     "venue_short": "Vidiots",
     "url": "https://vidiotsfoundation.org/purchase/4252701/",
     "city": "LA"
-  },
-  {
-    "title": "SHERMAN'S MARCH",
-    "date": "2026-07-11",
-    "time": "12:30 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/shermans-march",
-    "city": "NYC"
-  },
-  {
-    "title": "BLOCK-HEADS with Blotto",
-    "date": "2026-07-11",
-    "time": "12:30 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/block-heads-laurel-hardy",
-    "city": "NYC"
   },
   {
     "title": "Barrio Triste",
@@ -2300,6 +1880,16 @@
     "city": "LA"
   },
   {
+    "title": "SILENT SHORTS PROGRAM 1",
+    "date": "2026-07-11",
+    "time": "2:10 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/silent-shorts-program-1-laurel-hardy",
+    "city": "NYC"
+  },
+  {
     "title": "Mary Oliver: Saved by the Beauty of the World",
     "date": "2026-07-11",
     "time": "2:15 PM",
@@ -2317,16 +1907,6 @@
     "venue": "IFC Center",
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568037~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "TALKIE SHORTS PROGRAM 2",
-    "date": "2026-07-11",
-    "time": "2:20 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/talkie-shorts-program-2-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -2420,6 +2000,16 @@
     "city": "LA"
   },
   {
+    "title": "THE FLYING DEUCES with Tit For Tat",
+    "date": "2026-07-11",
+    "time": "4:00 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-flying-deuces-laurel-hardy",
+    "city": "NYC"
+  },
+  {
     "title": "Maddie's Secret",
     "date": "2026-07-11",
     "time": "4:10 PM",
@@ -2427,16 +2017,6 @@
     "venue": "IFC Center",
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567938~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC"
-  },
-  {
-    "title": "SILENT SHORTS PROGRAM 2",
-    "date": "2026-07-11",
-    "time": "4:10 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/silent-shorts-program-2-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -2520,23 +2100,23 @@
     "city": "LA"
   },
   {
-    "title": "ROMER\u00cdA",
+    "title": "THE THIRD MAN",
     "date": "2026-07-11",
     "time": "6:00 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/romeria",
+    "url": "https://filmforum.org/film/the-third-man-2026",
     "city": "NYC"
   },
   {
-    "title": "DE BOTE EN BOTE (PARDON US)",
+    "title": "THE BOHEMIAN GIRL with Hog Wild",
     "date": "2026-07-11",
     "time": "6:00 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/de-bote-en-bote-laurel-hardy",
+    "url": "https://filmforum.org/film/the-bohemian-girl-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -2690,16 +2270,6 @@
     "city": "NYC"
   },
   {
-    "title": "PARDON US with Going Bye-Bye",
-    "date": "2026-07-11",
-    "time": "7:40 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/pardon-us-laurel-hardy",
-    "city": "NYC"
-  },
-  {
     "title": "Chopper",
     "date": "2026-07-11",
     "time": "8:00 PM",
@@ -2710,13 +2280,23 @@
     "city": "LA"
   },
   {
-    "title": "REMAKE",
+    "title": "FRA DIAVOLO (THE DEVIL\u2019S BROTHER) with Come Clean",
     "date": "2026-07-11",
     "time": "8:00 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/remake",
+    "url": "https://filmforum.org/film/fra-diavolo-laurel-hardy",
+    "city": "NYC"
+  },
+  {
+    "title": "ROMER\u00cdA",
+    "date": "2026-07-11",
+    "time": "8:15 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/romeria",
     "city": "NYC"
   },
   {
@@ -2727,16 +2307,6 @@
     "venue": "Low Cinema",
     "venue_short": "LowCinema",
     "url": "https://lowcinema.com/checkout/d046683f-fb04-40fb-bb8b-fb7ef75feaf9/",
-    "city": "NYC"
-  },
-  {
-    "title": "THE THIRD MAN",
-    "date": "2026-07-11",
-    "time": "8:30 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-third-man-2026",
     "city": "NYC"
   },
   {
@@ -2990,6 +2560,16 @@
     "city": "NYC"
   },
   {
+    "title": "THE BOHEMIAN GIRL with Hog Wild",
+    "date": "2026-07-12",
+    "time": "12:15 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-bohemian-girl-laurel-hardy",
+    "city": "NYC"
+  },
+  {
     "title": "REMAKE",
     "date": "2026-07-12",
     "time": "12:20 PM",
@@ -3000,13 +2580,13 @@
     "city": "NYC"
   },
   {
-    "title": "PARDON US with Going Bye-Bye",
+    "title": "SHERMAN'S MARCH",
     "date": "2026-07-12",
-    "time": "12:20 PM",
+    "time": "12:30 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/pardon-us-laurel-hardy",
+    "url": "https://filmforum.org/film/shermans-march",
     "city": "NYC"
   },
   {
@@ -3030,6 +2610,16 @@
     "city": "NYC"
   },
   {
+    "title": "ROMER\u00cdA",
+    "date": "2026-07-12",
+    "time": "12:45 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/romeria",
+    "city": "NYC"
+  },
+  {
     "title": "Brave",
     "date": "2026-07-12",
     "time": "1:00 pm",
@@ -3048,16 +2638,6 @@
     "venue_short": "LosFeliz",
     "url": "https://www.americancinematheque.com/now-showing/shane-black-presents-sweet-smell-of-success-07-12-2026/",
     "city": "LA"
-  },
-  {
-    "title": "THE THIRD MAN",
-    "date": "2026-07-12",
-    "time": "1:00 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-third-man-2026",
-    "city": "NYC"
   },
   {
     "title": "Coroner to the Stars",
@@ -3120,16 +2700,6 @@
     "city": "LA"
   },
   {
-    "title": "SILENT SHORTS PROGRAM 1",
-    "date": "2026-07-12",
-    "time": "2:10 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/silent-shorts-program-1-laurel-hardy",
-    "city": "NYC"
-  },
-  {
     "title": "Mary Oliver: Saved by the Beauty of the World",
     "date": "2026-07-12",
     "time": "2:15 PM",
@@ -3137,6 +2707,16 @@
     "venue": "IFC Center",
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567976~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "A CHUMP AT OXFORD with Beau Hunks",
+    "date": "2026-07-12",
+    "time": "2:15 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/a-chump-at-oxford-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -3230,16 +2810,6 @@
     "city": "LA"
   },
   {
-    "title": "THE FLYING DEUCES with Tit For Tat",
-    "date": "2026-07-12",
-    "time": "4:00 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-flying-deuces-laurel-hardy",
-    "city": "NYC"
-  },
-  {
     "title": "Maddie's Secret",
     "date": "2026-07-12",
     "time": "4:10 PM",
@@ -3267,6 +2837,16 @@
     "venue": "Anthology Film Archives",
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61553",
+    "city": "NYC"
+  },
+  {
+    "title": "TALKIE SHORTS PROGRAM 3",
+    "date": "2026-07-12",
+    "time": "4:35 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/talkie-shorts-program-3-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -3330,23 +2910,13 @@
     "city": "NYC"
   },
   {
-    "title": "ROMER\u00cdA",
+    "title": "THE THIRD MAN",
     "date": "2026-07-12",
     "time": "6:00 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/romeria",
-    "city": "NYC"
-  },
-  {
-    "title": "THE BOHEMIAN GIRL with Hog Wild",
-    "date": "2026-07-12",
-    "time": "6:00 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-bohemian-girl-laurel-hardy",
+    "url": "https://filmforum.org/film/the-third-man-2026",
     "city": "NYC"
   },
   {
@@ -3367,6 +2937,16 @@
     "venue": "IFC Center",
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567944~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "THE FLYING DEUCES with Tit For Tat",
+    "date": "2026-07-12",
+    "time": "6:40 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-flying-deuces-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -3400,16 +2980,6 @@
     "city": "NYC"
   },
   {
-    "title": "Eternal Sunshine of the Spotless Mind",
-    "date": "2026-07-12",
-    "time": "7:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4215461/",
-    "city": "LA"
-  },
-  {
     "title": "2001: A SPACE ODYSSEY in 70mm",
     "date": "2026-07-12",
     "time": "7:00 PM",
@@ -3428,16 +2998,6 @@
     "venue_short": "LosFeliz",
     "url": "https://www.americancinematheque.com/now-showing/dekalog-nine-and-ten-7-12-26/",
     "city": "LA"
-  },
-  {
-    "title": "SHERMAN'S MARCH",
-    "date": "2026-07-12",
-    "time": "7:00 PM",
-    "format": "",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/shermans-march",
-    "city": "NYC"
   },
   {
     "title": "Mary Oliver: Saved by the Beauty of the World",
@@ -3510,13 +3070,23 @@
     "city": "LA"
   },
   {
-    "title": "FRA DIAVOLO (THE DEVIL\u2019S BROTHER) with Come Clean",
+    "title": "REMAKE",
     "date": "2026-07-12",
     "time": "8:00 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/fra-diavolo-laurel-hardy",
+    "url": "https://filmforum.org/film/remake",
+    "city": "NYC"
+  },
+  {
+    "title": "ROMER\u00cdA",
+    "date": "2026-07-12",
+    "time": "8:15 PM",
+    "format": "",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/romeria",
     "city": "NYC"
   },
   {
@@ -3530,13 +3100,13 @@
     "city": "NYC"
   },
   {
-    "title": "THE THIRD MAN",
+    "title": "A CHUMP AT OXFORD with Beau Hunks",
     "date": "2026-07-12",
-    "time": "8:30 PM",
+    "time": "8:40 PM",
     "format": "",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-third-man-2026",
+    "url": "https://filmforum.org/film/a-chump-at-oxford-laurel-hardy",
     "city": "NYC"
   },
   {
@@ -4082,7 +3652,7 @@
   {
     "title": "Rose of Nevada",
     "date": "2026-07-14",
-    "time": "11:30 AM",
+    "time": "11:40 AM",
     "format": "",
     "venue": "IFC Center",
     "venue_short": "IFC",
@@ -4430,6 +4000,86 @@
     "city": "LA"
   },
   {
+    "title": "Drunken Noodles",
+    "date": "2026-07-15",
+    "time": "10:35 AM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567924~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Night Nurse",
+    "date": "2026-07-15",
+    "time": "10:45 AM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568013~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-07-15",
+    "time": "11:10 AM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567956~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Rose of Nevada",
+    "date": "2026-07-15",
+    "time": "11:45 AM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568033~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Night Nurse",
+    "date": "2026-07-15",
+    "time": "12:10 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568014~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Barrio Triste",
+    "date": "2026-07-15",
+    "time": "12:35 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566458~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Macho Dancer",
+    "date": "2026-07-15",
+    "time": "12:45 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567679~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-07-15",
+    "time": "1:45 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567957~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
     "title": "Godzilla (1954)",
     "date": "2026-07-15",
     "time": "2:00 PM",
@@ -4438,6 +4088,26 @@
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3841?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "city": "LA"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "date": "2026-07-15",
+    "time": "2:15 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567990~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Rose of Nevada",
+    "date": "2026-07-15",
+    "time": "2:20 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568034~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
   },
   {
     "title": "My Neighbors the Yamadas",
@@ -4450,6 +4120,76 @@
     "city": "LA"
   },
   {
+    "title": "Barrio Triste",
+    "date": "2026-07-15",
+    "time": "2:45 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566465~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Macho Dancer",
+    "date": "2026-07-15",
+    "time": "3:50 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567685~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-07-15",
+    "time": "4:10 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567958~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "date": "2026-07-15",
+    "time": "4:40 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567991~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Drunken Noodles",
+    "date": "2026-07-15",
+    "time": "4:50 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567925~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Barrio Triste",
+    "date": "2026-07-15",
+    "time": "4:55 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566472~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-07-15",
+    "time": "6:40 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567959~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
     "title": "BLACK CHARIOT",
     "date": "2026-07-15",
     "time": "6:45 PM",
@@ -4457,6 +4197,16 @@
     "venue": "Anthology Film Archives",
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61547",
+    "city": "NYC"
+  },
+  {
+    "title": "Macho Dancer",
+    "date": "2026-07-15",
+    "time": "6:50 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567673~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
   },
   {
@@ -4477,6 +4227,26 @@
     "venue": "Anthology Film Archives",
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61631",
+    "city": "NYC"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "date": "2026-07-15",
+    "time": "7:05 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567993~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Barrio Triste",
+    "date": "2026-07-15",
+    "time": "7:15 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566480~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
   },
   {
@@ -4530,6 +4300,26 @@
     "city": "LA"
   },
   {
+    "title": "Mon-Rak Transistor",
+    "date": "2026-07-15",
+    "time": "7:30 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=564717~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-07-15",
+    "time": "8:15 PM",
+    "format": "",
+    "venue": "Low Cinema",
+    "venue_short": "LowCinema",
+    "url": "https://lowcinema.com/checkout/0a694171-b986-4650-b90e-64308780d79d/",
+    "city": "NYC"
+  },
+  {
     "title": "BLACK CHARIOT",
     "date": "2026-07-15",
     "time": "9:00 PM",
@@ -4537,6 +4327,56 @@
     "venue": "Anthology Film Archives",
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=07&year=2026#showing-61548",
+    "city": "NYC"
+  },
+  {
+    "title": "Rose of Nevada (Open Captioning)",
+    "date": "2026-07-15",
+    "time": "9:05 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568040~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-07-15",
+    "time": "9:10 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567960~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Mary Oliver: Saved by the Beauty of the World",
+    "date": "2026-07-15",
+    "time": "9:20 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=567992~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Barrio Triste",
+    "date": "2026-07-15",
+    "time": "9:35 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=566487~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC"
+  },
+  {
+    "title": "Night Nurse",
+    "date": "2026-07-15",
+    "time": "9:45 PM",
+    "format": "",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=568015~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
   },
   {
@@ -4548,6 +4388,16 @@
     "venue_short": "LosFeliz",
     "url": "https://www.americancinematheque.com/now-showing/the-texas-chainsaw-massacre-07-15-2026/",
     "city": "LA"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-07-15",
+    "time": "6 PM",
+    "format": "",
+    "venue": "Low Cinema",
+    "venue_short": "LowCinema",
+    "url": "https://lowcinema.com/checkout/9ccd8753-3b41-4bf2-8380-250928d17f38/",
+    "city": "NYC"
   },
   {
     "title": "Billy Madison             / 50 First Dates",
@@ -4566,7 +4416,7 @@
     "format": "70mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3743?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "city": "LA"
   },
   {
@@ -4956,7 +4806,7 @@
     "format": "70mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3755?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "city": "LA"
   },
   {
@@ -5797,6 +5647,16 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/spirited-away-019dd516-1779-bf84-d571-8c3cb163bf39",
+    "city": "LA"
+  },
+  {
+    "title": "Trainspotting",
+    "date": "2026-07-24",
+    "time": "4:15 pm",
+    "format": "Digital",
+    "venue": "Vidiots Foundation",
+    "venue_short": "Vidiots",
+    "url": "https://vidiotsfoundation.org/purchase/4360418/",
     "city": "LA"
   },
   {
@@ -6750,16 +6610,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Truman Show on 35mm",
-    "date": "2026-08-01",
-    "time": "7:00 pm",
-    "format": "35mm",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4338196/",
-    "city": "LA"
-  },
-  {
     "title": "SINNERS in 70mm",
     "date": "2026-08-01",
     "time": "7:00 PM",
@@ -6788,6 +6638,16 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61657",
     "city": "NYC"
+  },
+  {
+    "title": "One Hundred and One Dalmatians",
+    "date": "2026-08-02",
+    "time": "1:00 pm",
+    "format": "Digital",
+    "venue": "Vidiots Foundation",
+    "venue_short": "Vidiots",
+    "url": "https://vidiotsfoundation.org/purchase/4338229/",
+    "city": "LA"
   },
   {
     "title": "Out of Africa",
@@ -7000,6 +6860,16 @@
     "city": "NYC"
   },
   {
+    "title": "The Third Man",
+    "date": "2026-08-04",
+    "time": "7:30 pm",
+    "format": "Digital",
+    "venue": "Vidiots Foundation",
+    "venue_short": "Vidiots",
+    "url": "https://vidiotsfoundation.org/purchase/4338261/",
+    "city": "LA"
+  },
+  {
     "title": "EC: CITY LIGHTS",
     "date": "2026-08-04",
     "time": "8:45 PM",
@@ -7080,16 +6950,6 @@
     "city": "NYC"
   },
   {
-    "title": "THE SIXTH DAY",
-    "date": "2026-08-06",
-    "time": "7:00 PM",
-    "format": "4K DCP",
-    "venue": "Los Feliz Theatre",
-    "venue_short": "LosFeliz",
-    "url": "https://www.americancinematheque.com/now-showing/the-sixth-day-08-06-2026/",
-    "city": "LA"
-  },
-  {
     "title": "In the Cut",
     "date": "2026-08-06",
     "time": "7:30 PM",
@@ -7137,6 +6997,16 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/the-cat-returns-019dd519-9fe3-64e5-f810-1c587e19cb45",
+    "city": "LA"
+  },
+  {
+    "title": "THE SIXTH DAY",
+    "date": "2026-08-07",
+    "time": "4:00 PM",
+    "format": "4K DCP",
+    "venue": "Los Feliz Theatre",
+    "venue_short": "LosFeliz",
+    "url": "https://www.americancinematheque.com/now-showing/the-sixth-day-08-07-2026/",
     "city": "LA"
   },
   {
@@ -7302,7 +7172,7 @@
   {
     "title": "CatVideoFest 2026",
     "date": "2026-08-09",
-    "time": "1:00 pm",
+    "time": "1:30 pm",
     "format": "Digital",
     "venue": "Vidiots Foundation",
     "venue_short": "Vidiots",
@@ -7357,6 +7227,16 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/elle-019dd58b-36cb-2931-b14f-63ac39d62b9b",
+    "city": "LA"
+  },
+  {
+    "title": "Can\u2019t Hardly Wait",
+    "date": "2026-08-09",
+    "time": "7:00 pm",
+    "format": "Digital",
+    "venue": "Vidiots Foundation",
+    "venue_short": "Vidiots",
+    "url": "https://vidiotsfoundation.org/purchase/4365144/",
     "city": "LA"
   },
   {
@@ -7480,13 +7360,13 @@
     "city": "NYC"
   },
   {
-    "title": "THE EMIGRANT",
+    "title": "Manhunter: The Final Cut",
     "date": "2026-08-12",
-    "time": "7:00 PM",
-    "format": "4K DCP",
-    "venue": "Los Feliz Theatre",
-    "venue_short": "LosFeliz",
-    "url": "https://www.americancinematheque.com/now-showing/the-emigrant-08-12-2026/",
+    "time": "7:30 pm",
+    "format": "Digital",
+    "venue": "Vidiots Foundation",
+    "venue_short": "Vidiots",
+    "url": "https://vidiotsfoundation.org/purchase/4364996/",
     "city": "LA"
   },
   {
@@ -7567,6 +7447,16 @@
     "venue": "Los Feliz Theatre",
     "venue_short": "LosFeliz",
     "url": "https://www.americancinematheque.com/now-showing/twin-peaks-the-return-parts-17-18-08-13-2026/",
+    "city": "LA"
+  },
+  {
+    "title": "THE EMIGRANT",
+    "date": "2026-08-14",
+    "time": "1:00 PM",
+    "format": "4K DCP",
+    "venue": "Los Feliz Theatre",
+    "venue_short": "LosFeliz",
+    "url": "https://www.americancinematheque.com/now-showing/the-emigrant-08-14-2026/",
     "city": "LA"
   },
   {
@@ -7748,6 +7638,16 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61760",
     "city": "NYC"
+  },
+  {
+    "title": "The Off Hours",
+    "date": "2026-08-16",
+    "time": "7:00 pm",
+    "format": "Digital",
+    "venue": "Vidiots Foundation",
+    "venue_short": "Vidiots",
+    "url": "https://vidiotsfoundation.org/purchase/4364993/",
+    "city": "LA"
   },
   {
     "title": "COMANDANTE FRITZ",
@@ -8470,6 +8370,16 @@
     "city": "NYC"
   },
   {
+    "title": "THE OTHER",
+    "date": "2026-08-28",
+    "time": "1:00 PM",
+    "format": "4K DCP",
+    "venue": "Los Feliz Theatre",
+    "venue_short": "LosFeliz",
+    "url": "https://www.americancinematheque.com/now-showing/the-other-08-28-2026/",
+    "city": "LA"
+  },
+  {
     "title": "The Secret World of Arrietty",
     "date": "2026-08-28",
     "time": "2:30 PM",
@@ -8527,16 +8437,6 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/zootopia-019dda3b-5b6c-ff0e-36d9-e452ba39a26f",
-    "city": "LA"
-  },
-  {
-    "title": "THE OTHER",
-    "date": "2026-08-29",
-    "time": "1:00 PM",
-    "format": "4K DCP",
-    "venue": "Los Feliz Theatre",
-    "venue_short": "LosFeliz",
-    "url": "https://www.americancinematheque.com/now-showing/the-other-08-29-2026/",
     "city": "LA"
   },
   {
