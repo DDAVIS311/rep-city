@@ -334,6 +334,16 @@ def scrape_academy():
     return screenings
 
 
+# American Cinematheque venue id → (full name, short name). Shared by the
+# events feed and the runs feed below.
+AMCIN_LOCATION_MAP = {
+    54: ("Aero Theatre", "Aero"),
+    55: ("Egyptian Theatre", "Egyptian"),
+    102: ("Los Feliz Theatre", "LosFeliz"),
+    181: ("Directors Village", "DirsVillage"),
+}
+
+
 def scrape_american_cinematheque():
     """American Cinematheque (Aero, Egyptian, Los Feliz, Directors Village) — direct WP JSON API."""
     FORMAT_MAP = {
@@ -341,12 +351,7 @@ def scrape_american_cinematheque():
         315: "4K DCP", 333: "2K DCP", 336: "3-D DCP", 96: "4K", 97: "2K",
         103: "Digital", 104: "4K",
     }
-    LOCATION_MAP = {
-        54: ("Aero Theatre", "Aero"),
-        55: ("Egyptian Theatre", "Egyptian"),
-        102: ("Los Feliz Theatre", "LosFeliz"),
-        181: ("Directors Village", "DirsVillage"),
-    }
+    LOCATION_MAP = AMCIN_LOCATION_MAP
     TARGET_LOCATIONS = set(LOCATION_MAP.keys())
 
     screenings = []
@@ -396,6 +401,69 @@ def scrape_american_cinematheque():
     return screenings
 
 
+def scrape_american_cinematheque_runs():
+    """American Cinematheque multi-week *runs* (e.g. 70mm engagements like
+    "THE ODYSSEY in 70mm"). These are NOT in the algolia events feed — the site
+    loads them from a separate active_runs endpoint, and each run's per-showtime
+    schedule is embedded in the run page as JSON on #runShowtimesApp
+    (data-showtimes). Without this, most Aero / Directors Village dates go missing.
+    """
+    import html as html_lib
+
+    screenings = []
+    try:
+        from_str = datetime.now().strftime("%Y-%m-%d")
+        to_str = (datetime.now() + timedelta(days=90)).strftime("%Y-%m-%d")
+        url = (
+            "https://www.americancinematheque.com/wp-json/wp/v2/active_runs"
+            f"?start={from_str}&end={to_str}"
+        )
+        r = requests.get(url, headers=HEADERS, timeout=15)
+        runs = r.json().get("runs", [])
+
+        for run in runs:
+            run_url = run.get("url")
+            if not run_url:
+                continue
+            try:
+                rr = requests.get(run_url, headers=HEADERS, timeout=15)
+                m = re.search(r'data-showtimes="(.*?)"', rr.text, re.S)
+                if not m:
+                    continue
+                data = json.loads(html_lib.unescape(m.group(1)))
+            except Exception:
+                continue
+
+            for ev in data.get("events", []):
+                venue = ev.get("venue") or {}
+                vid = venue.get("id")
+                if vid not in AMCIN_LOCATION_MAP:
+                    continue
+                venue_name, venue_short = AMCIN_LOCATION_MAP[vid]
+
+                title = (ev.get("title") or "").strip()
+                date_str = (ev.get("start_date") or "").strip()
+                time_str = (ev.get("time") or "").strip()
+                if not title or not re.match(r"\d{4}-\d{2}-\d{2}$", date_str):
+                    continue
+
+                fmt = normalize_format(title)
+                event_url = ev.get("url") or run_url
+
+                screenings.append({
+                    "title": title,
+                    "date": date_str,
+                    "time": time_str,
+                    "format": fmt,
+                    "venue": venue_name,
+                    "venue_short": venue_short,
+                    "url": event_url,
+                })
+    except Exception as e:
+        print(f"[AmCin/Runs] Error: {e}")
+    return screenings
+
+
 def _tag_city(screenings, city):
     for s in screenings:
         s.setdefault("city", city)
@@ -431,8 +499,13 @@ def scrape_all():
 
     print("Scraping American Cinematheque (Aero/Egyptian/Los Feliz/Directors Village)...")
     amcin = _tag_city(scrape_american_cinematheque(), "LA")
-    print(f"  → {len(amcin)} screenings")
+    print(f"  → {len(amcin)} screenings (events)")
     all_screenings += amcin
+
+    print("Scraping American Cinematheque runs (70mm engagements at Aero/Directors Village)...")
+    amcin_runs = _tag_city(scrape_american_cinematheque_runs(), "LA")
+    print(f"  → {len(amcin_runs)} screenings (runs)")
+    all_screenings += amcin_runs
 
     print("\n── New York City ──")
     from scraper_nyc import scrape_all_nyc
