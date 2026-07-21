@@ -21,10 +21,47 @@ def _get_kv():
     # Legacy Vercel KV used KV_REST_API_URL / _TOKEN — check both
     url = os.environ.get("UPSTASH_REDIS_REST_URL") or os.environ.get("KV_REST_API_URL")
     token = os.environ.get("UPSTASH_REDIS_REST_TOKEN") or os.environ.get("KV_REST_API_TOKEN")
+
+    # Fallback: Vercel lets you set a custom env-var prefix when connecting a
+    # database (e.g. STORAGE_KV_REST_API_URL). Auto-discover the REST
+    # credentials under any prefix so a stray/renamed prefix can't silently
+    # break persistence.
+    if not (url and token):
+        for name, value in os.environ.items():
+            if not str(value).startswith("https://"):
+                continue
+            if name.endswith("REST_API_URL"):
+                tok_name = name[: -len("REST_API_URL")] + "REST_API_TOKEN"
+            elif name.endswith("REST_URL"):
+                tok_name = name[: -len("REST_URL")] + "REST_TOKEN"
+            else:
+                continue
+            tok = os.environ.get(tok_name)
+            if tok:
+                url, token = value, tok
+                break
+
     if not url or not token:
         return None
     from upstash_redis import Redis
     return Redis(url=url, token=token)
+
+
+def _kv_for_write():
+    """Return the KV client for a write, or raise a clear error.
+
+    On Vercel the filesystem is read-only, so the local-file fallback cannot
+    persist. If KV isn't configured there, fail loudly instead of throwing an
+    opaque OSError (which surfaced to users as a generic 500 and a schedule
+    that silently reset on refresh)."""
+    kv = _get_kv()
+    if kv is None and os.environ.get("VERCEL"):
+        raise RuntimeError(
+            "State store not configured. Set UPSTASH_REDIS_REST_URL and "
+            "UPSTASH_REDIS_REST_TOKEN (or KV_REST_API_URL / KV_REST_API_TOKEN) "
+            "in the Vercel project, then redeploy."
+        )
+    return kv
 
 
 # ── Screenings (always from the committed JSON file) ──────────────────────────
@@ -60,7 +97,7 @@ def load_state(user_id):
 
 
 def set_state_item(user_id, sid, status):
-    kv = _get_kv()
+    kv = _kv_for_write()
     if kv:
         if status == "available":
             kv.hdel(_kv_key(user_id), sid)
@@ -78,13 +115,13 @@ def set_state_item(user_id, sid, status):
 
 
 def bulk_set_state(user_id, updates):
-    kv = _get_kv()
+    kv = _kv_for_write()
     if kv:
         key = _kv_key(user_id)
         to_set = {u["id"]: u["status"] for u in updates if u.get("status") != "available"}
         to_del = [u["id"] for u in updates if u.get("status") == "available"]
         if to_set:
-            kv.hset(key, **to_set)
+            kv.hset(key, values=to_set)
         if to_del:
             kv.hdel(key, *to_del)
         return
@@ -103,7 +140,7 @@ def bulk_set_state(user_id, updates):
 
 
 def reset_state(user_id):
-    kv = _get_kv()
+    kv = _kv_for_write()
     if kv:
         kv.delete(_kv_key(user_id))
         return
@@ -170,7 +207,10 @@ def update_state():
     status = data.get("status")
     if not sid or status not in ("available", "want", "dismissed"):
         return jsonify({"error": "invalid"}), 400
-    set_state_item(user_id, sid, status)
+    try:
+        set_state_item(user_id, sid, status)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
     resp = make_response(jsonify({"ok": True}))
     attach_user_cookie(resp, user_id)
     return resp
@@ -181,7 +221,10 @@ def bulk_update_state():
     user_id = get_user_id()
     updates = request.json
     valid = [u for u in updates if u.get("id") and u.get("status") in ("available", "want", "dismissed")]
-    bulk_set_state(user_id, valid)
+    try:
+        bulk_set_state(user_id, valid)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
     resp = make_response(jsonify({"ok": True}))
     attach_user_cookie(resp, user_id)
     return resp
@@ -203,7 +246,10 @@ def refresh():
 @app.route("/api/reset_state", methods=["POST"])
 def reset_state_route():
     user_id = get_user_id()
-    reset_state(user_id)
+    try:
+        reset_state(user_id)
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
     resp = make_response(jsonify({"ok": True}))
     attach_user_cookie(resp, user_id)
     return resp

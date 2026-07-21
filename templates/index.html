@@ -814,11 +814,16 @@ async function fetchScreenings() {
 }
 
 async function updateStatus(id, status) {
-  await fetch('/api/state', {
+  const res = await fetch('/api/state', {
     method: 'POST',
     headers: {'Content-Type':'application/json'},
     body: JSON.stringify({id, status}),
   });
+  if (!res.ok) {
+    let msg = 'Could not save — your change was not stored.';
+    try { const j = await res.json(); if (j.error) msg = j.error; } catch (_) {}
+    throw new Error(msg);
+  }
 }
 
 // ──────────────────────────────────────────────────────────────
@@ -988,21 +993,36 @@ function buildCard(s) {
     </div>
   `;
 
-  div.querySelector('.btn-want').onclick = (e) => {
+  div.querySelector('.btn-want').onclick = async (e) => {
     e.stopPropagation();
+    const prev = s.status;
     const newStatus = s.status === 'want' ? 'available' : 'want';
     s.status = newStatus;
-    updateStatus(s.id, newStatus);
     renderScreenings();
     renderSchedulePanel();
+    try {
+      await updateStatus(s.id, newStatus);
+    } catch (err) {
+      s.status = prev;               // revert optimistic change
+      renderScreenings();
+      renderSchedulePanel();
+      alert(err.message);
+    }
   };
 
-  div.querySelector('.btn-dismiss').onclick = (e) => {
+  div.querySelector('.btn-dismiss').onclick = async (e) => {
     e.stopPropagation();
+    const prev = s.status;
     const newStatus = s.status === 'dismissed' ? 'available' : 'dismissed';
     s.status = newStatus;
-    updateStatus(s.id, newStatus);
     renderScreenings();
+    try {
+      await updateStatus(s.id, newStatus);
+    } catch (err) {
+      s.status = prev;               // revert optimistic change
+      renderScreenings();
+      alert(err.message);
+    }
   };
 
   return div;
