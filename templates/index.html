@@ -272,6 +272,37 @@
     letter-spacing: 0;
   }
 
+  /* ── Theatre sub-groups within a date ── */
+  .venue-group { margin: 0 0 14px; }
+  .venue-group:last-child { margin-bottom: 0; }
+  .venue-group-header {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: .04em;
+    text-transform: uppercase;
+    color: var(--text);
+    padding: 2px 0 7px;
+  }
+  .venue-dot {
+    width: 9px; height: 9px;
+    border-radius: 50%;
+    background: var(--muted);
+    flex-shrink: 0;
+  }
+  .venue-group-count {
+    font-size: 10px;
+    font-weight: 400;
+    color: var(--muted);
+    letter-spacing: 0;
+  }
+
+  /* "All Theatres" pill */
+  .venue-pill[data-venue="all"] { color: var(--accent); border-color: var(--accent); }
+  .venue-pill.active[data-venue="all"] { background: var(--accent); color: #000; }
+
   /* ── Screening cards ── */
   .screenings-grid {
     display: grid;
@@ -793,9 +824,33 @@
 // ──────────────────────────────────────────────────────────────
 let allScreenings = [];
 let activeFilter = 'all';
-let activeVenues = new Set();
-let activeCity = 'all';  // 'all' | 'LA' | 'NYC'
+let activeVenue = 'all';   // 'all' or a single venue_short
+let activeCity = 'all';    // 'all' | 'LA' | 'NYC'
 let searchQuery = '';
+
+// ── Persisted preferences (localStorage) ──
+const PREFS_KEY = 'repcity_prefs';
+function loadPrefs() {
+  try { return JSON.parse(localStorage.getItem(PREFS_KEY)) || {}; } catch (_) { return {}; }
+}
+function savePrefs() {
+  try {
+    localStorage.setItem(PREFS_KEY, JSON.stringify({
+      city: activeCity, venue: activeVenue, filter: activeFilter,
+    }));
+  } catch (_) {}
+}
+function applyStoredPrefs() {
+  const p = loadPrefs();
+  if (p.city)   activeCity = p.city;
+  if (p.venue)  activeVenue = p.venue;
+  if (p.filter) activeFilter = p.filter;
+  // Reflect stored choices in the toolbar button states
+  document.querySelectorAll('#city-filter .filter-btn').forEach(b =>
+    b.classList.toggle('active', b.dataset.city === activeCity));
+  document.querySelectorAll('.filter-btn[data-filter]').forEach(b =>
+    b.classList.toggle('active', b.dataset.filter === activeFilter));
+}
 
 const VENUE_NAMES = {
   NewBev: 'New Beverly Cinema',
@@ -872,29 +927,38 @@ function normalizeTimeForSort(t) {
 // Render
 // ──────────────────────────────────────────────────────────────
 function buildVenueFilters() {
-  // Only show venues matching the active city filter
+  // Venues available in the active city
   const venues = [...new Set(
     allScreenings
       .filter(s => activeCity === 'all' || s.city === activeCity)
       .map(s => s.venue_short)
-  )];
+  )].sort();
+
+  // If the selected theatre isn't available in this city, fall back to All
+  if (activeVenue !== 'all' && !venues.includes(activeVenue)) {
+    activeVenue = 'all';
+    savePrefs();
+  }
+
   const container = document.getElementById('venue-filters');
   container.innerHTML = '';
-  // Re-seed activeVenues with all venues for the current city
-  venues.forEach(v => activeVenues.add(v));
-  venues.forEach(v => {
+
+  const addPill = (venue, label) => {
     const btn = document.createElement('button');
-    btn.className = 'venue-pill' + (activeVenues.has(v) ? ' active' : '');
-    btn.dataset.venue = v;
-    btn.textContent = v;
+    btn.className = 'venue-pill' + (activeVenue === venue ? ' active' : '');
+    btn.dataset.venue = venue;
+    btn.textContent = label;
     btn.onclick = () => {
-      if (activeVenues.has(v)) activeVenues.delete(v);
-      else activeVenues.add(v);
-      btn.classList.toggle('active', activeVenues.has(v));
+      activeVenue = venue;
+      savePrefs();
+      buildVenueFilters();   // refresh which pill is active
       renderScreenings();
     };
     container.appendChild(btn);
-  });
+  };
+
+  addPill('all', 'All Theatres');
+  venues.forEach(v => addPill(v, v));
 }
 
 const todayStr = new Date().toISOString().slice(0, 10);
@@ -902,7 +966,7 @@ const todayStr = new Date().toISOString().slice(0, 10);
 function cardVisible(s) {
   if (s.date < todayStr) return false;
   if (activeCity !== 'all' && s.city !== activeCity) return false;
-  if (!activeVenues.has(s.venue_short)) return false;
+  if (activeVenue !== 'all' && s.venue_short !== activeVenue) return false;
   if (searchQuery && !s.title.toLowerCase().includes(searchQuery)) return false;
   if (activeFilter === 'want') return s.status === 'want';
   if (activeFilter === 'available') return s.status !== 'dismissed';
@@ -912,12 +976,13 @@ function cardVisible(s) {
 function renderScreenings() {
   const main = document.getElementById('main');
 
-  // Group by date
+  // Group visible screenings by date (top level), then by theatre (sub level)
   const byDate = {};
   allScreenings.forEach(s => {
     if (!cardVisible(s)) return;
-    if (!byDate[s.date]) byDate[s.date] = [];
-    byDate[s.date].push(s);
+    if (!byDate[s.date]) byDate[s.date] = {};
+    if (!byDate[s.date][s.venue_short]) byDate[s.date][s.venue_short] = [];
+    byDate[s.date][s.venue_short].push(s);
   });
 
   const dates = Object.keys(byDate).sort();
@@ -930,31 +995,49 @@ function renderScreenings() {
 
   main.innerHTML = '';
   dates.forEach(date => {
-    const screenings = byDate[date];
-    const section = document.createElement('section');
-    section.className = 'date-section';
+    const byVenue = byDate[date];
+    const allForDate = Object.values(byVenue).flat();
 
-    const visibleCount = screenings.filter(s => s.status !== 'dismissed').length;
-    const wantCount = screenings.filter(s => s.status === 'want').length;
+    const visibleCount = allForDate.filter(s => s.status !== 'dismissed').length;
+    const wantCount = allForDate.filter(s => s.status === 'want').length;
     let countStr = `${visibleCount} screening${visibleCount !== 1 ? 's' : ''}`;
     if (wantCount) countStr += ` · ${wantCount} wanted`;
 
+    const section = document.createElement('section');
+    section.className = 'date-section';
     section.innerHTML = `
       <div class="date-header">
         ${formatDate(date)}
         <span class="date-count">${countStr}</span>
       </div>
-      <div class="screenings-grid" data-date="${date}"></div>
     `;
 
-    const grid = section.querySelector('.screenings-grid');
-    screenings
-      .slice()
-      .sort((a,b) => normalizeTimeForSort(a.time).localeCompare(normalizeTimeForSort(b.time)))
-      .forEach(s => {
-        if (activeFilter !== 'all' && !cardVisible(s)) return;
-        grid.appendChild(buildCard(s));
-      });
+    // Theatre sub-groups, ordered alphabetically by full venue name
+    const venueShorts = Object.keys(byVenue).sort((a, b) =>
+      (byVenue[a][0].venue || a).localeCompare(byVenue[b][0].venue || b));
+
+    venueShorts.forEach(vs => {
+      const screenings = byVenue[vs]
+        .slice()
+        .sort((a, b) => normalizeTimeForSort(a.time).localeCompare(normalizeTimeForSort(b.time)));
+      const venueName = screenings[0].venue || vs;
+      const vCount = screenings.filter(s => s.status !== 'dismissed').length;
+      const color = VENUE_COLORS[vs] || 'var(--muted)';
+
+      const group = document.createElement('div');
+      group.className = 'venue-group';
+      group.innerHTML = `
+        <div class="venue-group-header">
+          <span class="venue-dot" style="background:${color}"></span>
+          ${escHtml(venueName)}
+          <span class="venue-group-count">${vCount}</span>
+        </div>
+        <div class="screenings-grid" data-date="${date}" data-venue="${vs}"></div>
+      `;
+      const grid = group.querySelector('.screenings-grid');
+      screenings.forEach(s => grid.appendChild(buildCard(s)));
+      section.appendChild(group);
+    });
 
     main.appendChild(section);
   });
@@ -1044,6 +1127,8 @@ const VENUE_COLORS = {
   NewBev: '#e05c3a', Vista: '#6b9fc8', Vidiots: '#7ac87a',
   BrainDead: '#b07ae8', Academy: '#e87a9e',
   Aero: '#e8c84a', Egyptian: '#c8874a', LosFeliz: '#4ac8c8', DirsVillage: '#a8c84a',
+  IFC: '#e84a4a', FilmForum: '#e8824a', Anthology: '#e8b84a', LowCinema: '#c84ae8',
+  Metrograph: '#4a82e8', FilmLinc: '#4ae8c8', MoMA: '#e8e8e8', MoMI: '#8a4ae8',
 };
 
 function initCalMonth() {
@@ -1152,6 +1237,7 @@ async function init() {
   showLoading('Loading schedule data…');
   try {
     allScreenings = await fetchScreenings();
+    applyStoredPrefs();
     buildVenueFilters();
     renderScreenings();
     renderSchedulePanel();
@@ -1176,9 +1262,8 @@ document.querySelectorAll('#city-filter .filter-btn').forEach(btn => {
     document.querySelectorAll('#city-filter .filter-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     activeCity = btn.dataset.city;
-    // Reset venue selection to match new city
-    activeVenues.clear();
-    buildVenueFilters();
+    savePrefs();
+    buildVenueFilters();   // validates the selected theatre for the new city
     renderScreenings();
   };
 });
@@ -1189,6 +1274,7 @@ document.querySelectorAll('.filter-btn[data-filter]').forEach(btn => {
     document.querySelectorAll('.filter-btn[data-filter]').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     activeFilter = btn.dataset.filter;
+    savePrefs();
     renderScreenings();
   };
 });
