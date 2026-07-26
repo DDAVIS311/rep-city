@@ -824,7 +824,7 @@
 // ──────────────────────────────────────────────────────────────
 let allScreenings = [];
 let activeFilter = 'all';
-let activeVenue = 'all';   // 'all' or a single venue_short
+let activeVenues = new Set();   // empty = all theatres; otherwise show only these
 let activeCity = 'all';    // 'all' | 'LA' | 'NYC'
 let searchQuery = '';
 
@@ -836,14 +836,14 @@ function loadPrefs() {
 function savePrefs() {
   try {
     localStorage.setItem(PREFS_KEY, JSON.stringify({
-      city: activeCity, venue: activeVenue, filter: activeFilter,
+      city: activeCity, venues: [...activeVenues], filter: activeFilter,
     }));
   } catch (_) {}
 }
 function applyStoredPrefs() {
   const p = loadPrefs();
   if (p.city)   activeCity = p.city;
-  if (p.venue)  activeVenue = p.venue;
+  if (Array.isArray(p.venues)) activeVenues = new Set(p.venues);
   if (p.filter) activeFilter = p.filter;
   // Reflect stored choices in the toolbar button states
   document.querySelectorAll('#city-filter .filter-btn').forEach(b =>
@@ -934,31 +934,44 @@ function buildVenueFilters() {
       .map(s => s.venue_short)
   )].sort();
 
-  // If the selected theatre isn't available in this city, fall back to All
-  if (activeVenue !== 'all' && !venues.includes(activeVenue)) {
-    activeVenue = 'all';
-    savePrefs();
+  // Drop any selected theatres that aren't available in the current city
+  let pruned = false;
+  for (const v of [...activeVenues]) {
+    if (!venues.includes(v)) { activeVenues.delete(v); pruned = true; }
   }
+  if (pruned) savePrefs();
 
   const container = document.getElementById('venue-filters');
   container.innerHTML = '';
 
-  const addPill = (venue, label) => {
+  // "All Theatres" — active when no specific theatres are selected; clears the set
+  const allBtn = document.createElement('button');
+  allBtn.className = 'venue-pill' + (activeVenues.size === 0 ? ' active' : '');
+  allBtn.dataset.venue = 'all';
+  allBtn.textContent = 'All Theatres';
+  allBtn.onclick = () => {
+    activeVenues.clear();
+    savePrefs();
+    buildVenueFilters();
+    renderScreenings();
+  };
+  container.appendChild(allBtn);
+
+  // Each theatre toggles in/out of the selection (additive)
+  venues.forEach(v => {
     const btn = document.createElement('button');
-    btn.className = 'venue-pill' + (activeVenue === venue ? ' active' : '');
-    btn.dataset.venue = venue;
-    btn.textContent = label;
+    btn.className = 'venue-pill' + (activeVenues.has(v) ? ' active' : '');
+    btn.dataset.venue = v;
+    btn.textContent = v;
     btn.onclick = () => {
-      activeVenue = venue;
+      if (activeVenues.has(v)) activeVenues.delete(v);
+      else activeVenues.add(v);
       savePrefs();
-      buildVenueFilters();   // refresh which pill is active
+      buildVenueFilters();   // refresh active states + the All pill
       renderScreenings();
     };
     container.appendChild(btn);
-  };
-
-  addPill('all', 'All Theatres');
-  venues.forEach(v => addPill(v, v));
+  });
 }
 
 const todayStr = new Date().toISOString().slice(0, 10);
@@ -966,7 +979,7 @@ const todayStr = new Date().toISOString().slice(0, 10);
 function cardVisible(s) {
   if (s.date < todayStr) return false;
   if (activeCity !== 'all' && s.city !== activeCity) return false;
-  if (activeVenue !== 'all' && s.venue_short !== activeVenue) return false;
+  if (activeVenues.size && !activeVenues.has(s.venue_short)) return false;
   if (searchQuery && !s.title.toLowerCase().includes(searchQuery)) return false;
   if (activeFilter === 'want') return s.status === 'want';
   if (activeFilter === 'available') return s.status !== 'dismissed';
