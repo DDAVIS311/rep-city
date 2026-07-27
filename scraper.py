@@ -262,6 +262,49 @@ def scrape_braindead():
     )
 
 
+ACADEMY_META_CACHE_FILE = os.path.join(os.path.dirname(__file__), "academy_meta_cache.json")
+
+
+def _academy_format_for_url(url, cache):
+    """The Academy ticketing API omits the projection format; it only appears in
+    the event page title (e.g. 'Munich in 35mm'). Fetch it once per event
+    (cached) and normalize."""
+    if not url:
+        return ""
+    if url in cache:
+        return cache[url]
+    fmt = ""
+    try:
+        rr = requests.get(url, headers=HEADERS, timeout=15)
+        m = re.search(r"<title[^>]*>(.*?)</title>", rr.text, re.S | re.I)
+        if m:
+            fmt = normalize_format(m.group(1))
+        if not fmt:
+            og = re.search(r'og:title[^>]+content="([^"]+)"', rr.text, re.I)
+            if og:
+                fmt = normalize_format(og.group(1))
+    except Exception:
+        pass
+    cache[url] = fmt
+    return fmt
+
+
+def _load_academy_cache():
+    try:
+        with open(ACADEMY_META_CACHE_FILE) as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def _save_academy_cache(cache):
+    try:
+        with open(ACADEMY_META_CACHE_FILE, "w") as f:
+            json.dump(cache, f, indent=0, sort_keys=True)
+    except Exception:
+        pass
+
+
 def scrape_academy():
     """Academy Museum — tickets.academymuseum.org REST API (replaces slow Playwright scraper)."""
     FILM_CATS = {"Film Screening", "Film Screening: Matinee", "Film Screening: Double Feature"}
@@ -269,6 +312,7 @@ def scrape_academy():
     LA_UTC_OFFSET = -7  # PDT
 
     screenings = []
+    cache = _load_academy_cache()
     try:
         from_dt = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
         from_str = from_dt.strftime("%Y-%m-%dT07:00:00.000Z")  # midnight LA as UTC
@@ -311,15 +355,18 @@ def scrape_academy():
             h12 = hour % 12 or 12
             time_str = f"{h12}:{minute:02d} {ampm}"
 
-            # Format: try to extract from title or subtitle
-            fmt = normalize_format(title)
-            if not fmt:
-                fmt = normalize_format(tmpl.get("subtitle", "") + " " + tmpl.get("summary", ""))
-
             # Event URL: /en/programs/detail/{slug}-{id}
             slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
             event_id = tmpl.get("id", "")
             event_url = f"https://www.academymuseum.org/en/programs/detail/{slug}-{event_id}"
+
+            # Format: title/subtitle rarely carry it in the API, so fall back to
+            # the event page title ("<Film> in 35mm"), cached per event.
+            fmt = normalize_format(title)
+            if not fmt:
+                fmt = normalize_format(tmpl.get("subtitle", "") + " " + tmpl.get("summary", ""))
+            if not fmt:
+                fmt = _academy_format_for_url(event_url, cache)
 
             screenings.append({
                 "title": title,
@@ -332,6 +379,7 @@ def scrape_academy():
             })
     except Exception as e:
         print(f"[Academy] Error: {e}")
+    _save_academy_cache(cache)
     return screenings
 
 
@@ -365,13 +413,27 @@ def _amcin_detail_metadata(html):
         if dr:
             meta["director"] = re.sub(r"\s+", " ", html_lib.unescape(dr.group(1))).strip(" .")
 
-        # The synopsis sits AFTER the film's detail bar. Anchor there so we skip
-        # the page-header boilerplate ("Now Showing … 35mm, 70mm, nitrate …").
-        anchor = re.search(r"eventDetailBar", html, re.I) or dr
-        tail = html[anchor.end():] if anchor else html
-        for p in re.findall(r"<p[^>]*>(.*?)</p>", tail, re.S | re.I):
+        # Prefer the "About the Film" section — anchoring there skips series
+        # blurbs (e.g. Cinematic Void's mission statement) and breadcrumbs. Back
+        # up to the enclosing <p> in case the label sits inside the synopsis
+        # paragraph. Fall back to the first substantial paragraph after the
+        # film's detail bar.
+        about = re.search(r"ABOUT THE FILM", html, re.I)
+        if about:
+            p_before = html.rfind("<p", 0, about.start())
+            start = p_before if p_before != -1 and about.start() - p_before < 400 else about.start()
+        else:
+            bar = re.search(r"eventDetailBar", html, re.I) or dr
+            start = bar.end() if bar else 0
+        SKIP = ("format:", "distributor:", "country:", "released in",
+                "directed by", "home /", "now showing",
+                "everything we do is rooted",
+                "american cinematheque is supported")
+        for p in re.findall(r"<p[^>]*>(.*?)</p>", html[start:], re.S | re.I):
             txt = html_lib.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", p))).strip()
-            if len(txt) > 60 and "American Cinematheque is supported" not in txt:
+            txt = re.sub(r"^ABOUT THE FILM:\s*", "", txt, flags=re.I)
+            low = txt.lower()
+            if len(txt) > 80 and not any(k in low for k in SKIP):
                 meta["description"] = txt
                 break
     except Exception:
