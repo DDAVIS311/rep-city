@@ -4,6 +4,7 @@ Returns list of dicts with: title, date (YYYY-MM-DD), time, format, venue, url
 """
 
 import re
+import os
 import json
 import requests
 from bs4 import BeautifulSoup
@@ -343,6 +344,73 @@ AMCIN_LOCATION_MAP = {
     181: ("Directors Village", "DirsVillage"),
 }
 
+# Cache of scraped detail-page metadata keyed by event URL, so daily runs only
+# fetch pages for events they haven't seen before. Committed alongside the data.
+AMCIN_META_CACHE_FILE = os.path.join(os.path.dirname(__file__), "amcin_meta_cache.json")
+
+
+def _amcin_detail_metadata(html):
+    """Pull {description, runtime, director} from an American Cinematheque event
+    or run detail page. Film details live in an 'eventDetailBar'
+    (RELEASED IN / NNN MINUTES / DIRECTED BY:); the synopsis is the first
+    substantial paragraph on the page."""
+    import html as html_lib
+    meta = {"description": "", "runtime": "", "director": ""}
+    try:
+        rt = re.search(r"(\d{1,3})\s*MINUTES", html, re.I)
+        if rt:
+            meta["runtime"] = f"{int(rt.group(1))} min"
+
+        dr = re.search(r"DIRECTED BY:\s*([^<\n|]{2,70})", html, re.I)
+        if dr:
+            meta["director"] = re.sub(r"\s+", " ", html_lib.unescape(dr.group(1))).strip(" .")
+
+        # The synopsis sits AFTER the film's detail bar. Anchor there so we skip
+        # the page-header boilerplate ("Now Showing … 35mm, 70mm, nitrate …").
+        anchor = re.search(r"eventDetailBar", html, re.I) or dr
+        tail = html[anchor.end():] if anchor else html
+        for p in re.findall(r"<p[^>]*>(.*?)</p>", tail, re.S | re.I):
+            txt = html_lib.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", p))).strip()
+            if len(txt) > 60 and "American Cinematheque is supported" not in txt:
+                meta["description"] = txt
+                break
+    except Exception:
+        pass
+    return meta
+
+
+def _amcin_meta_for_url(url, cache):
+    """Cache-aware fetch of detail-page metadata for one event URL."""
+    empty = {"description": "", "runtime": "", "director": ""}
+    if not url:
+        return empty
+    if url in cache:
+        return cache[url]
+    meta = empty
+    try:
+        rr = requests.get(url, headers=HEADERS, timeout=15)
+        meta = _amcin_detail_metadata(rr.text)
+    except Exception:
+        pass
+    cache[url] = meta
+    return meta
+
+
+def _load_amcin_cache():
+    try:
+        with open(AMCIN_META_CACHE_FILE) as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def _save_amcin_cache(cache):
+    try:
+        with open(AMCIN_META_CACHE_FILE, "w") as f:
+            json.dump(cache, f, indent=0, sort_keys=True)
+    except Exception:
+        pass
+
 
 def scrape_american_cinematheque():
     """American Cinematheque (Aero, Egyptian, Los Feliz, Directors Village) — direct WP JSON API."""
@@ -355,6 +423,7 @@ def scrape_american_cinematheque():
     TARGET_LOCATIONS = set(LOCATION_MAP.keys())
 
     screenings = []
+    cache = _load_amcin_cache()
     try:
         from_ts = int(datetime.now().replace(hour=0, minute=0, second=0).timestamp())
         to_ts = from_ts + 90 * 86400
@@ -385,6 +454,8 @@ def scrape_american_cinematheque():
             fmts = h.get("event_format", [])
             fmt = next((FORMAT_MAP[f] for f in fmts if f in FORMAT_MAP), "")
 
+            meta = _amcin_meta_for_url(event_url, cache)
+
             for loc_id in locs:
                 venue_name, venue_short = LOCATION_MAP[loc_id]
                 screenings.append({
@@ -395,9 +466,13 @@ def scrape_american_cinematheque():
                     "venue": venue_name,
                     "venue_short": venue_short,
                     "url": event_url,
+                    "description": meta["description"],
+                    "runtime": meta["runtime"],
+                    "director": meta["director"],
                 })
     except Exception as e:
         print(f"[AmCin] Error: {e}")
+    _save_amcin_cache(cache)
     return screenings
 
 
@@ -431,6 +506,7 @@ def scrape_american_cinematheque_runs():
                 if not m:
                     continue
                 data = json.loads(html_lib.unescape(m.group(1)))
+                run_meta = _amcin_detail_metadata(rr.text)
             except Exception:
                 continue
 
@@ -458,6 +534,9 @@ def scrape_american_cinematheque_runs():
                     "venue": venue_name,
                     "venue_short": venue_short,
                     "url": event_url,
+                    "description": run_meta.get("description", ""),
+                    "runtime": run_meta.get("runtime", ""),
+                    "director": run_meta.get("director", ""),
                 })
     except Exception as e:
         print(f"[AmCin/Runs] Error: {e}")

@@ -1,6 +1,7 @@
 # Scraper dependencies — not needed on Vercel (scraping runs locally)
 scraper.py
 scraper_nyc.py
+amcin_meta_cache.json
 screening_state.json
 __pycache__
 .playwright

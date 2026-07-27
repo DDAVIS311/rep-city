@@ -407,6 +407,27 @@
     margin-top: 1px;
     padding-left: 4px;
   }
+  .card-runtime {
+    font-size: 11px;
+    color: var(--muted);
+  }
+  .card-runtime::before { content: "· "; }
+  .card-director {
+    font-size: 11px;
+    color: var(--muted);
+    padding-left: 4px;
+  }
+  .card-desc {
+    font-size: 11.5px;
+    line-height: 1.45;
+    color: #bdbdbd;
+    padding-left: 4px;
+    margin-top: 3px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
   .card[data-venue="IFC"]         .card-venue { color: var(--ifc); }
   .card[data-venue="FilmForum"]   .card-venue { color: var(--filmforum); }
   .card[data-venue="Anthology"]   .card-venue { color: var(--anthology); }
@@ -1067,6 +1088,9 @@ function buildCard(s) {
   const fmtHtml = s.format
     ? `<span class="card-format ${fmtClass(s.format)}">${s.format}</span>`
     : '';
+  const runtimeHtml = s.runtime ? `<span class="card-runtime">${escHtml(s.runtime)}</span>` : '';
+  const directorHtml = s.director ? `<div class="card-director">Dir. ${escHtml(s.director)}</div>` : '';
+  const descHtml = s.description ? `<div class="card-desc">${escHtml(s.description)}</div>` : '';
 
   const wantActive = s.status === 'want';
   const dismissActive = s.status === 'dismissed';
@@ -1076,8 +1100,11 @@ function buildCard(s) {
     <div class="card-meta">
       <span class="card-time">${escHtml(s.time || '—')}</span>
       ${fmtHtml}
+      ${runtimeHtml}
     </div>
     <div class="card-venue">${escHtml(s.venue)}</div>
+    ${directorHtml}
+    ${descHtml}
     <div class="card-actions">
       <button class="btn-want" title="${wantActive ? 'Remove from want list' : 'Add to want list'}">
         ${wantActive ? '&#10003; Watching' : '+ Want'}
