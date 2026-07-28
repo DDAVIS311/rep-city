@@ -661,6 +661,86 @@
     font-size: 20px;
   }
 
+  /* Schedule list view */
+  .schedule-list {
+    padding: 12px 16px 18px;
+    max-height: 74vh;
+    overflow-y: auto;
+  }
+  .sched-empty {
+    text-align: center;
+    color: var(--muted);
+    padding: 40px 16px;
+    font-size: 14px;
+  }
+  .sched-day { margin-bottom: 16px; }
+  .sched-day-header {
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+    color: var(--accent);
+    padding: 6px 0;
+    border-bottom: 1px solid var(--border);
+    margin-bottom: 6px;
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+  }
+  .sched-conflict {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0;
+    text-transform: none;
+    color: #e8a04a;
+  }
+  .sched-item {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 9px 10px;
+    border-radius: 6px;
+    border-left: 3px solid var(--border);
+    cursor: pointer;
+    transition: background .12s;
+  }
+  .sched-item:hover { background: var(--surface2); }
+  .sched-time {
+    font-size: 13px;
+    font-weight: 700;
+    color: var(--text);
+    white-space: nowrap;
+    min-width: 70px;
+  }
+  .sched-info { flex: 1; min-width: 0; }
+  .sched-title {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--text);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .sched-sub {
+    font-size: 11px;
+    color: var(--muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  .sched-tix { flex-shrink: 0; }
+  .sched-remove {
+    flex-shrink: 0;
+    background: transparent;
+    border: none;
+    color: var(--muted);
+    font-size: 14px;
+    cursor: pointer;
+    padding: 4px 7px;
+    border-radius: 4px;
+  }
+  .sched-remove:hover { color: #e85a5a; background: #3a1a1a; }
+
   /* Month nav */
   .cal-nav {
     display: flex;
@@ -903,6 +983,12 @@
     .cal-event { font-size: 8px; padding: 2px 3px; }
     .cal-event-meta { display: none; }
     .cal-month-label { min-width: 84px; font-size: 12px; }
+
+    /* Schedule list: tighter so titles get more room */
+    .schedule-list { padding: 10px 10px 14px; }
+    .sched-item { gap: 8px; padding: 8px 6px; }
+    .sched-time { min-width: 58px; font-size: 12px; }
+    .sched-tix { padding: 3px 7px; }
   }
 </style>
 </head>
@@ -968,23 +1054,9 @@
   <div class="schedule-modal-inner">
     <div class="schedule-modal-header">
       <h2>&#128197; MY SCHEDULE</h2>
-      <div class="cal-nav">
-        <button class="cal-nav-btn" id="cal-prev">&#8249;</button>
-        <span class="cal-month-label" id="cal-month-label"></span>
-        <button class="cal-nav-btn" id="cal-next">&#8250;</button>
-      </div>
       <button class="close-panel" id="close-panel">&#x2715;</button>
     </div>
-    <div class="cal-body">
-      <div class="cal-dow-row">
-        <div class="cal-dow">Sun</div><div class="cal-dow">Mon</div>
-        <div class="cal-dow">Tue</div><div class="cal-dow">Wed</div>
-        <div class="cal-dow">Thu</div><div class="cal-dow">Fri</div>
-        <div class="cal-dow">Sat</div>
-      </div>
-      <div class="cal-grid" id="cal-grid"></div>
-    </div>
-    <div class="schedule-legend" id="schedule-legend"></div>
+    <div class="schedule-list" id="schedule-list"></div>
   </div>
 </div>
 
@@ -1404,81 +1476,64 @@ function initCalMonth() {
 }
 
 function renderSchedulePanel() {
-  const wanted = allScreenings.filter(s => s.status === 'want');
-  const grid = document.getElementById('cal-grid');
-  const label = document.getElementById('cal-month-label');
-  const legend = document.getElementById('schedule-legend');
+  const list = document.getElementById('schedule-list');
+  if (!list) return;
+
+  const wanted = allScreenings.filter(s => s.status === 'want' && s.date >= todayStr);
 
   if (wanted.length === 0) {
-    grid.innerHTML = '<div class="cal-empty-msg" style="grid-column:1/-1">Mark screenings with <strong>+ Want</strong> to build your schedule.</div>';
-    label.textContent = '';
-    legend.innerHTML = '';
+    list.innerHTML = '<div class="sched-empty">Mark screenings with <strong>+ Want</strong> to build your schedule.</div>';
     return;
   }
 
-  if (calYear === null) initCalMonth();
-
-  label.textContent = `${MONTH_NAMES[calMonth]} ${calYear}`;
-
-  // Group wanted by date string
+  // Group by date, sorted chronologically
   const byDate = {};
-  wanted.forEach(s => {
-    if (!byDate[s.date]) byDate[s.date] = [];
-    byDate[s.date].push(s);
-  });
+  wanted.forEach(s => { (byDate[s.date] = byDate[s.date] || []).push(s); });
 
-  // Build calendar grid for calYear/calMonth
-  const today = new Date();
-  const firstDay = new Date(calYear, calMonth, 1).getDay(); // 0=Sun
-  const daysInMonth = new Date(calYear, calMonth + 1, 0).getDate();
-
-  let cells = '';
-
-  // Leading empty cells
-  for (let i = 0; i < firstDay; i++) {
-    cells += '<div class="cal-cell empty"></div>';
-  }
-
-  for (let d = 1; d <= daysInMonth; d++) {
-    const dateStr = `${calYear}-${String(calMonth+1).padStart(2,'0')}-${String(d).padStart(2,'0')}`;
-    const isToday = (today.getFullYear() === calYear && today.getMonth() === calMonth && today.getDate() === d);
-    const events = byDate[dateStr] || [];
-    const hasConflict = events.length > 1;
-
-    let cls = 'cal-cell';
-    if (isToday) cls += ' today';
-    if (events.length) cls += ' has-events';
-
-    let inner = `<div class="cal-day-num">${d}</div>`;
-
-    if (hasConflict) {
-      inner += `<div class="cal-conflict-note">⚠ ${events.length} screenings</div>`;
-    }
-
-    events
+  list.innerHTML = '';
+  Object.keys(byDate).sort().forEach(date => {
+    const items = byDate[date]
       .slice()
-      .sort((a,b) => normalizeTimeForSort(a.time).localeCompare(normalizeTimeForSort(b.time)))
-      .forEach(s => {
-        const fmtStr = s.format ? ` · ${s.format}` : '';
-        inner += `
-          <div class="cal-event${hasConflict ? ' conflict' : ''}" data-venue="${escHtml(s.venue_short)}">
-            <div class="cal-event-title">${escHtml(s.title)}</div>
-            <div class="cal-event-meta">${escHtml(s.time)}${fmtStr} · ${escHtml(s.venue_short)}</div>
-          </div>`;
-      });
+      .sort((a, b) => normalizeTimeForSort(a.time).localeCompare(normalizeTimeForSort(b.time)));
+    const conflict = items.length > 1;
 
-    cells += `<div class="${cls}">${inner}</div>`;
-  }
+    const day = document.createElement('div');
+    day.className = 'sched-day';
+    day.innerHTML = `<div class="sched-day-header">${formatDate(date)}` +
+      (conflict ? ` <span class="sched-conflict">&#9888; ${items.length} overlap</span>` : '') + `</div>`;
 
-  grid.innerHTML = cells;
+    items.forEach(s => {
+      const sub = [s.venue, s.format, s.runtime].filter(Boolean).join(' · ');
+      const row = document.createElement('div');
+      row.className = 'sched-item';
+      row.dataset.venue = s.venue_short;
+      row.style.borderLeftColor = VENUE_COLORS[s.venue_short] || 'var(--border)';
+      row.innerHTML = `
+        <span class="sched-time">${escHtml(s.time || '—')}</span>
+        <div class="sched-info">
+          <div class="sched-title">${escHtml(s.title)}</div>
+          <div class="sched-sub">${escHtml(sub)}</div>
+        </div>
+        ${s.url ? `<a class="btn-ticket sched-tix" href="${escHtml(s.url)}" target="_blank" rel="noopener">Tickets ↗</a>` : ''}
+        <button class="sched-remove" title="Remove from schedule">&#10005;</button>`;
 
-  // Legend — only venues that appear in wanted
-  const venuesUsed = [...new Set(wanted.map(s => s.venue_short))];
-  legend.innerHTML = venuesUsed.map(v => `
-    <span class="schedule-legend-item">
-      <span class="schedule-legend-swatch" style="background:${VENUE_COLORS[v]||'#888'}"></span>
-      ${VENUE_COLORS[v] ? `<span>${v}</span>` : v}
-    </span>`).join('');
+      row.onclick = (e) => {
+        if (e.target.closest('.sched-tix') || e.target.closest('.sched-remove')) return;
+        openDetails(s);
+      };
+      row.querySelector('.sched-remove').onclick = async (e) => {
+        e.stopPropagation();
+        const prev = s.status;
+        s.status = 'available';
+        renderSchedulePanel();
+        renderScreenings();
+        try { await updateStatus(s.id, 'available'); }
+        catch (err) { s.status = prev; renderSchedulePanel(); renderScreenings(); }
+      };
+      day.appendChild(row);
+    });
+    list.appendChild(day);
+  });
 }
 
 // ──────────────────────────────────────────────────────────────
@@ -1546,7 +1601,11 @@ if (_filtersToggle && _controlsPanel) {
   let _lastY = window.scrollY;
   window.addEventListener('scroll', () => {
     const y = window.scrollY;
-    if (y > _lastY && y > 80) _controlsPanel.classList.remove('open');
+    if (y > _lastY && y > 80 && _controlsPanel.classList.contains('open')) {
+      _controlsPanel.classList.remove('open');
+      _filtersToggle.setAttribute('aria-expanded', 'false');
+      _filtersToggle.blur();   // clear the button's focus/active highlight
+    }
     _lastY = y;
   }, { passive: true });
 }
@@ -1578,9 +1637,8 @@ document.getElementById('reset-btn').onclick = async () => {
   renderSchedulePanel();
 };
 
-// Schedule calendar modal
+// Schedule list modal
 document.getElementById('schedule-btn').onclick = () => {
-  initCalMonth();
   renderSchedulePanel();
   document.getElementById('schedule-modal').classList.add('open');
 };
@@ -1601,17 +1659,6 @@ document.getElementById('details-modal').addEventListener('click', (e) => {
 document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape') closeDetails();
 });
-document.getElementById('cal-prev').onclick = () => {
-  calMonth--;
-  if (calMonth < 0) { calMonth = 11; calYear--; }
-  renderSchedulePanel();
-};
-document.getElementById('cal-next').onclick = () => {
-  calMonth++;
-  if (calMonth > 11) { calMonth = 0; calYear++; }
-  renderSchedulePanel();
-};
-
 init();
 </script>
 </body>
