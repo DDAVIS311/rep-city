@@ -945,6 +945,15 @@ def scrape_all():
     if removed:
         print(f"  Removed {removed} duplicate screenings")
 
+    # Decode any HTML entities that slipped through from source pages
+    # (e.g. "Parts 13 &amp; 14" -> "Parts 13 & 14") so the frontend renders them
+    # correctly after its own escaping.
+    import html as _html
+    for s in deduped:
+        for key in ("title", "description", "director"):
+            if s.get(key):
+                s[key] = _html.unescape(s[key])
+
     print(f"\nTotal: {len(deduped)} screenings across all venues")
     return deduped
 

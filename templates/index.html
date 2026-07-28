@@ -318,6 +318,8 @@
     display: flex;
     flex-direction: column;
     gap: 5px;
+    height: 138px;         /* uniform card height */
+    overflow: hidden;
     position: relative;
     transition: opacity .2s, border-color .15s, background .15s;
     cursor: default;
@@ -368,6 +370,10 @@
     font-weight: 600;
     padding-left: 4px;
     line-height: 1.3;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
   }
 
   .card-meta {
@@ -422,8 +428,11 @@
     border: 1px solid var(--border);
     color: var(--muted);
     border-radius: 4px;
-    padding: 3px 8px;
+    padding: 3px 7px;
     font-size: 11px;
+    font-weight: 600;
+    white-space: nowrap;
+    flex-shrink: 0;
     cursor: pointer;
     transition: color .15s, border-color .15s;
   }
@@ -496,18 +505,22 @@
   /* ── Card action buttons ── */
   .card-actions {
     display: flex;
-    gap: 5px;
-    margin-top: 3px;
+    gap: 4px;
+    margin-top: auto;      /* pin actions to the bottom for uniform layout */
     padding-left: 4px;
+    flex-wrap: wrap;
+    align-items: center;
   }
 
   .btn-want, .btn-dismiss, .btn-ticket {
     border: none;
     border-radius: 4px;
-    padding: 3px 8px;
+    padding: 3px 7px;
     cursor: pointer;
     font-size: 11px;
     font-weight: 600;
+    white-space: nowrap;   /* keep icon + label on one line */
+    flex-shrink: 0;
     transition: all .12s;
   }
 
@@ -1159,7 +1172,6 @@ function buildCard(s) {
       ${fmtHtml}
       ${runtimeHtml}
     </div>
-    <div class="card-venue">${escHtml(s.venue)}</div>
     ${directorHtml}
     <div class="card-actions">
       <button class="btn-want" title="${wantActive ? 'Remove from want list' : 'Add to want list'}">
