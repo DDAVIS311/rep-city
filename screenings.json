@@ -1594,16 +1594,6 @@
     "city": "LA"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-07-26",
-    "time": "10:00 AM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3860?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "THE ODYSSEY in 70mm",
     "date": "2026-07-26",
     "time": "10:00 AM",
@@ -1768,16 +1758,6 @@
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=569663~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-07-26",
-    "time": "2:30 PM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
   },
   {
     "title": "THE ODYSSEY in 70mm",
@@ -1976,16 +1956,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-07-26",
-    "time": "7:15 PM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "The Kidnapping of Arabella",
     "date": "2026-07-26",
     "time": "7:25 PM",
@@ -2142,16 +2112,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-07-27",
-    "time": "10:00 AM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3861?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "THE ODYSSEY in 70mm",
     "date": "2026-07-27",
     "time": "10:00 AM",
@@ -2276,16 +2236,6 @@
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=569678~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-07-27",
-    "time": "2:30 PM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3872?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
   },
   {
     "title": "THE ODYSSEY in 70mm",
@@ -2477,16 +2427,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-07-27",
-    "time": "7:15 PM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3873?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "The Kidnapping of Arabella",
     "date": "2026-07-27",
     "time": "7:15 PM",
@@ -2649,16 +2589,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-07-28",
-    "time": "10:00 AM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3862?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "THE ODYSSEY in 70mm",
     "date": "2026-07-28",
     "time": "10:00 AM",
@@ -2682,6 +2612,19 @@
     "description": "THE ODYSSEY is a mythic action epic shot across the world using brand new IMAX film technology. The film brings Homer\u2019s foundational saga to screens for the first time and opens in cinemas everywhere July 17, 2026. The film stars Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong\u2019o, Samantha Morton, Zendaya, and Charlize Theron. THE ODYSSEY is produced by Thomas and Nolan for their company, Syncopy, and is executive produced by Thomas Hayslip. Nolan\u2019s most recent film, 2023\u2019s OPPENHEIMER, earned seven Academy Awards including Best Picture and Best Director.",
     "runtime": "172 min",
     "director": "Christopher Nolan",
+    "city": "LA"
+  },
+  {
+    "title": "The Odyssey (70mm)",
+    "date": "2026-07-28",
+    "time": "10:00 AM",
+    "format": "70mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3862?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -2772,6 +2715,9 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3852?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Gabby lives and works at her dads small diner out in the desert. She can't stand it and wants to go and live with her mother in France. Along comes Alan, a broke man with no will to live, who is traveling to see the pacific, and maybe to drown in it. Meanwhile Duke Mantee a notorious killer and his gang is heading towards the diner where Mantee plan on meeting up with his girl",
+    "runtime": "82 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -2783,16 +2729,6 @@
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=569693~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-07-28",
-    "time": "2:30 PM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3874?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
   },
   {
     "title": "THE ODYSSEY in 70mm",
@@ -2818,6 +2754,19 @@
     "description": "THE ODYSSEY is a mythic action epic shot across the world using brand new IMAX film technology. The film brings Homer\u2019s foundational saga to screens for the first time and opens in cinemas everywhere July 17, 2026. The film stars Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong\u2019o, Samantha Morton, Zendaya, and Charlize Theron. THE ODYSSEY is produced by Thomas and Nolan for their company, Syncopy, and is executive produced by Thomas Hayslip. Nolan\u2019s most recent film, 2023\u2019s OPPENHEIMER, earned seven Academy Awards including Best Picture and Best Director.",
     "runtime": "172 min",
     "director": "Christopher Nolan",
+    "city": "LA"
+  },
+  {
+    "title": "The Odyssey (70mm)",
+    "date": "2026-07-28",
+    "time": "2:30 PM",
+    "format": "70mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3874?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -2991,6 +2940,9 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3875?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -3169,16 +3121,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-07-29",
-    "time": "10:00 AM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3863?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "THE ODYSSEY in 70mm",
     "date": "2026-07-29",
     "time": "10:00 AM",
@@ -3202,6 +3144,19 @@
     "description": "THE ODYSSEY is a mythic action epic shot across the world using brand new IMAX film technology. The film brings Homer\u2019s foundational saga to screens for the first time and opens in cinemas everywhere July 17, 2026. The film stars Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong\u2019o, Samantha Morton, Zendaya, and Charlize Theron. THE ODYSSEY is produced by Thomas and Nolan for their company, Syncopy, and is executive produced by Thomas Hayslip. Nolan\u2019s most recent film, 2023\u2019s OPPENHEIMER, earned seven Academy Awards including Best Picture and Best Director.",
     "runtime": "172 min",
     "director": "Christopher Nolan",
+    "city": "LA"
+  },
+  {
+    "title": "The Odyssey (70mm)",
+    "date": "2026-07-29",
+    "time": "10:00 AM",
+    "format": "70mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3863?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -3302,6 +3257,9 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3853?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "",
+    "runtime": "149 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -3313,16 +3271,6 @@
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=569706~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
-  },
-  {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-07-29",
-    "time": "2:30 PM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3876?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
   },
   {
     "title": "THE ODYSSEY in 70mm",
@@ -3348,6 +3296,19 @@
     "description": "THE ODYSSEY is a mythic action epic shot across the world using brand new IMAX film technology. The film brings Homer\u2019s foundational saga to screens for the first time and opens in cinemas everywhere July 17, 2026. The film stars Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong\u2019o, Samantha Morton, Zendaya, and Charlize Theron. THE ODYSSEY is produced by Thomas and Nolan for their company, Syncopy, and is executive produced by Thomas Hayslip. Nolan\u2019s most recent film, 2023\u2019s OPPENHEIMER, earned seven Academy Awards including Best Picture and Best Director.",
     "runtime": "172 min",
     "director": "Christopher Nolan",
+    "city": "LA"
+  },
+  {
+    "title": "The Odyssey (70mm)",
+    "date": "2026-07-29",
+    "time": "2:30 PM",
+    "format": "70mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3876?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -3494,16 +3455,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-07-29",
-    "time": "7:15 PM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3877?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "The Kidnapping of Arabella",
     "date": "2026-07-29",
     "time": "7:15 PM",
@@ -3512,6 +3463,19 @@
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=569714~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
+  },
+  {
+    "title": "The Odyssey (70mm)",
+    "date": "2026-07-29",
+    "time": "7:15 PM",
+    "format": "70mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3877?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
+    "city": "LA"
   },
   {
     "title": "THE ODYSSEY in 70mm",
@@ -3788,16 +3752,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-07-30",
-    "time": "2:30 PM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3878?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "THE ODYSSEY in 70mm",
     "date": "2026-07-30",
     "time": "2:30 PM",
@@ -3821,6 +3775,19 @@
     "description": "THE ODYSSEY is a mythic action epic shot across the world using brand new IMAX film technology. The film brings Homer\u2019s foundational saga to screens for the first time and opens in cinemas everywhere July 17, 2026. The film stars Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong\u2019o, Samantha Morton, Zendaya, and Charlize Theron. THE ODYSSEY is produced by Thomas and Nolan for their company, Syncopy, and is executive produced by Thomas Hayslip. Nolan\u2019s most recent film, 2023\u2019s OPPENHEIMER, earned seven Academy Awards including Best Picture and Best Director.",
     "runtime": "172 min",
     "director": "Christopher Nolan",
+    "city": "LA"
+  },
+  {
+    "title": "The Odyssey (70mm)",
+    "date": "2026-07-30",
+    "time": "2:30 PM",
+    "format": "70mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3878?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -3957,16 +3924,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-07-30",
-    "time": "7:15 PM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3879?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "The Kidnapping of Arabella",
     "date": "2026-07-30",
     "time": "7:15 PM",
@@ -3975,6 +3932,19 @@
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=569728~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
+  },
+  {
+    "title": "The Odyssey (70mm)",
+    "date": "2026-07-30",
+    "time": "7:15 PM",
+    "format": "70mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3879?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
+    "city": "LA"
   },
   {
     "title": "DUCHAMP PGM 1: DUCHAMP IN/ON FILM",
@@ -4033,6 +4003,9 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "",
+    "runtime": "",
+    "director": "",
     "city": "LA"
   },
   {
@@ -4149,6 +4122,9 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3882?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -4235,6 +4211,9 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3883?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -4419,16 +4398,6 @@
     "city": "LA"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-07-31",
-    "time": "7:30 PM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3884?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "DUCHAMP PGM 2: FOUND FOOTAGE",
     "date": "2026-07-31",
     "time": "7:30 PM",
@@ -4465,16 +4434,6 @@
     "city": "LA"
   },
   {
-    "title": "Green Border with Agnieszka Holland",
-    "date": "2026-07-31",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/green-border-with-agnieszka-holland-019de500-6ff0-16b7-9b06-34d2c9405882",
-    "city": "LA"
-  },
-  {
     "title": "Forastera",
     "date": "2026-07-31",
     "time": "7:30 pm",
@@ -4488,6 +4447,32 @@
     "city": "LA"
   },
   {
+    "title": "Green Border with Agnieszka Holland",
+    "date": "2026-07-31",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/green-border-with-agnieszka-holland-019de500-6ff0-16b7-9b06-34d2c9405882",
+    "description": "Winner of the Special Jury Prize at the 2023 Venice Film Festival, Holland\u2019s \u201cangry and urgent masterpiece\u201d ( The Guardian ) centers around the 2021 migrant crisis that unfolded in the exclusion zone between Poland and Belarus. Named for the swamplands that cover the region, Holland\u2019s impactful narrative was conceived by reflecting on actual events, using interviews with real border guards and refugees to inform the four interwoven stories that supply the work with its incredible emotional depth. Made with trusted collaborators, including cinematographer Tomasz Naumiuk and co-writer Gabriela \u0141azarkiewicz-Sieczko, Green Border insists on depicting regional upheaval and conflict by prioritizing its human impact.",
+    "runtime": "152 min",
+    "director": "Agnieszka Holland PRODUCED BY: Fred Bernstein, Agnieszka Holland, Marcin Wierzchoslawski",
+    "city": "LA"
+  },
+  {
+    "title": "The Odyssey (70mm)",
+    "date": "2026-07-31",
+    "time": "7:30 PM",
+    "format": "70mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3884?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "12 Angry Men",
     "date": "2026-07-31",
     "time": "8:00 PM",
@@ -4495,6 +4480,9 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "",
+    "runtime": "",
+    "director": "",
     "city": "LA"
   },
   {
@@ -4590,16 +4578,6 @@
     "city": "LA"
   },
   {
-    "title": "Saturday Night",
-    "date": "2026-07-31",
-    "time": "11:59 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3908?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "Jackie Brown",
     "date": "2026-07-31",
     "time": "11:59 pm",
@@ -4613,6 +4591,19 @@
     "city": "LA"
   },
   {
+    "title": "Saturday Night",
+    "date": "2026-07-31",
+    "time": "11:59 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3908?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "At 11:30pm on October 11, 1975, a ferocious troupe of young comedians and writers changed television \u2013 and culture \u2013 forever. Directed by Jason Reitman and written by Gil Kenan & Reitman, Saturday Night is based on the true story of what happened behind the scenes in the 90 minutes leading up to the first broadcast of Saturday Night Live. Full of humor, chaos, and the magic of a revolution that almost wasn\u2019t, we count down the minutes in real time until we hear those famous words\u2026",
+    "runtime": "109 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "CIANI/ORKEST",
     "date": "2026-07-31",
     "time": "8 PM",
@@ -4621,16 +4612,6 @@
     "venue_short": "LowCinema",
     "url": "https://lowcinema.com/checkout/62bcc7b9-dd4d-47f4-9ddc-87147e986533/",
     "city": "NYC"
-  },
-  {
-    "title": "The Old Fashioned Way",
-    "date": "2026-08-01",
-    "time": "10:00 AM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3896?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
   },
   {
     "title": "THE ODYSSEY in 70mm",
@@ -4646,13 +4627,29 @@
     "city": "LA"
   },
   {
+    "title": "The Old Fashioned Way",
+    "date": "2026-08-01",
+    "time": "10:00 AM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3896?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "The Great McGonigle and his troupe of third-rate vaudevillians manage to stay one step ahead of the bill collectors and the sheriff.",
+    "runtime": "70 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "Who Framed Roger Rabbit?",
     "date": "2026-08-01",
     "time": "11:00 AM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/who-framed-roger-rabbit-019db102-6a44-5086-0897-939caa28feba",
+    "description": "Eddie Valiant (Bob Hoskins), a private eye in 1930s Los Angeles, gets an unexpected client\u2014Roger Rabbit, a cartoon film star. Director Robert Zemeckis\u2019s witty comedy-mystery is a dazzling mix of live-action and animation, incorporating beloved cartoon characters from Disney and other studios. Nominated for its art direction, cinematography, and sound, it won for its film editing, sound effects editing, and visual effects. Richard Williams also received a Special Achievement Award from the Academy for his animation direction.",
+    "runtime": "107 min",
+    "director": "Robert Zemeckis",
     "city": "LA"
   },
   {
@@ -4735,16 +4732,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-08-01",
-    "time": "1:30 PM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3885?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "Wild Inside",
     "date": "2026-08-01",
     "time": "1:30 PM",
@@ -4753,6 +4740,19 @@
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565865~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
+  },
+  {
+    "title": "The Odyssey (70mm)",
+    "date": "2026-08-01",
+    "time": "1:30 PM",
+    "format": "70mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3885?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
+    "city": "LA"
   },
   {
     "title": "Whisper of the Heart (English Dubbed Version)",
@@ -4784,10 +4784,13 @@
     "title": "Franz with Agnieszka Holland",
     "date": "2026-08-01",
     "time": "2:30 PM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/franz-with-agnieszka-holland-019de501-60bd-d662-b2b6-9044e8295dde",
+    "description": "Based on the life of German-speaking Jewish-Czech modernist author Franz Kafka, who died in 1924 at 40 after publishing three novels and a handful of short stories and parables, Franz was a natural story for Holland to adapt into a film: she read his famous Metamorphosis when she was 14 and felt \u201csince that time, Kafka is my brother\u201d ( Screen Daily ). Wanting to give the character \u201clight\u2014and some punk infusion,\u201d Holland takes a playful approach to the author\u2019s idiosyncratic personality through \u201csome kind of biography\u201d that she hopes appeals to young people who might not be familiar with this man who has been written about far more voluminously than he was able to write for himself.",
+    "runtime": "127 min",
+    "director": "Agnieszka Holland PRODUCED BY: \u0160\u00e1rka Cimbalov\u00e1, Agnieszka Holland",
     "city": "LA"
   },
   {
@@ -4920,16 +4923,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-08-01",
-    "time": "6:30 PM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3887?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "Wild Inside",
     "date": "2026-08-01",
     "time": "6:30 PM",
@@ -4963,6 +4956,19 @@
     "description": "Brain Dead Studios presents TROMA \u2014 a double feature celebrating two of Troma\u2019s most depraved cult classics.",
     "runtime": "210 min",
     "director": "Lloyd Kaufman",
+    "city": "LA"
+  },
+  {
+    "title": "The Odyssey (70mm)",
+    "date": "2026-08-01",
+    "time": "6:30 PM",
+    "format": "70mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3887?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -5025,16 +5031,6 @@
     "city": "LA"
   },
   {
-    "title": "Europa Europa with Agnieszka Holland",
-    "date": "2026-08-01",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/europa-europa-with-agnieszka-holland-019de508-00ca-3ab5-3fe2-e71f692cf80b",
-    "city": "LA"
-  },
-  {
     "title": "Twin Peaks: The Original Mystery \u2013 Episodes 3 + 4",
     "date": "2026-08-01",
     "time": "7:30 pm",
@@ -5045,6 +5041,19 @@
     "description": "She\u2019s dead\u2026 wrapped in plastic. If your summer plans call for an enigmatic journey to the Pacific Northwest and a small sleepy burg called Twin Peaks , have we got news for you! Go back to the beginning of David Lynch and Mark Frost\u2019s game-changing television phenomenon with a special theatrical screening of the first two episodes of this landmark series on our beautiful big screen. When the homecoming queen washes ashore shrouded in a plastic coccoon, this small town is thrown into tragedy and panic. Luckily, the FBI\u2019s most intriguing special agent, Dale Cooper, is on the case and vows to unravel this enduring mystery that extends beyond Twin Peaks and into the dark recesses of this universe and beyond. Whether you\u2019re starting the show for the first time, or you\u2019re revisiting for your twentieth, there\u2019s nothing like seeing this dark, clever, mystical, metaphysical, and offbeat masterpiece at Vidiots!",
     "runtime": "90 min",
     "director": "David Lynch, Tina Rathborne",
+    "city": "LA"
+  },
+  {
+    "title": "Europa Europa with Agnieszka Holland",
+    "date": "2026-08-01",
+    "time": "7:30 PM",
+    "format": "35mm",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/europa-europa-with-agnieszka-holland-019de508-00ca-3ab5-3fe2-e71f692cf80b",
+    "description": "Inspired by the memoirs of Solomon Perel, a German Jew who evaded Nazi persecution by joining their ranks, Holland\u2019s WWII\u2013era biopic offers \"new immediacy to the outrage by locating specific, wrenching details that transcend clich\u00e9\" ( New York Times ). Nominated for Best Adapted Screenplay at the 64th Oscars\u2014the film was shut out of the then-named Foreign Language Film category when Germany refused to nominate it for its thematic content\u2014Holland\u2019s complicated work investigates ways that denial and untruths can lead to irrepressible personal, generational, and cultural anguish.",
+    "runtime": "112 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -5154,16 +5163,6 @@
     "city": "NYC"
   },
   {
-    "title": "Saturday Night",
-    "date": "2026-08-01",
-    "time": "11:59 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3909?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "Dredd",
     "date": "2026-08-01",
     "time": "11:59 pm",
@@ -5177,6 +5176,19 @@
     "city": "LA"
   },
   {
+    "title": "Saturday Night",
+    "date": "2026-08-01",
+    "time": "11:59 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3909?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "At 11:30pm on October 11, 1975, a ferocious troupe of young comedians and writers changed television \u2013 and culture \u2013 forever. Directed by Jason Reitman and written by Gil Kenan & Reitman, Saturday Night is based on the true story of what happened behind the scenes in the 90 minutes leading up to the first broadcast of Saturday Night Live. Full of humor, chaos, and the magic of a revolution that almost wasn\u2019t, we count down the minutes in real time until we hear those famous words\u2026",
+    "runtime": "109 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "A Lost Man (Un Homme Perdu)",
     "date": "2026-08-01",
     "time": "8 PM",
@@ -5185,16 +5197,6 @@
     "venue_short": "LowCinema",
     "url": "https://lowcinema.com/checkout/f9190051-ac06-46d7-b347-83fe26651f23/",
     "city": "NYC"
-  },
-  {
-    "title": "The Old Fashioned Way",
-    "date": "2026-08-02",
-    "time": "10:00 AM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3897?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
   },
   {
     "title": "THE ODYSSEY in 70mm",
@@ -5207,6 +5209,19 @@
     "description": "THE ODYSSEY is a mythic action epic shot across the world using brand new IMAX film technology. The film brings Homer\u2019s foundational saga to screens for the first time and opens in cinemas everywhere July 17, 2026. The film stars Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong\u2019o, Samantha Morton, Zendaya, and Charlize Theron. THE ODYSSEY is produced by Thomas and Nolan for their company, Syncopy, and is executive produced by Thomas Hayslip. Nolan\u2019s most recent film, 2023\u2019s OPPENHEIMER, earned seven Academy Awards including Best Picture and Best Director.",
     "runtime": "172 min",
     "director": "Christopher Nolan",
+    "city": "LA"
+  },
+  {
+    "title": "The Old Fashioned Way",
+    "date": "2026-08-02",
+    "time": "10:00 AM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3897?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "The Great McGonigle and his troupe of third-rate vaudevillians manage to stay one step ahead of the bill collectors and the sheriff.",
+    "runtime": "70 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -5263,16 +5278,6 @@
     "city": "LA"
   },
   {
-    "title": "Korczak with Agnieszka Holland",
-    "date": "2026-08-02",
-    "time": "1:00 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/korczak-with-agnieszka-holland-019de508-ee77-5b77-a19b-d73be4f73701",
-    "city": "LA"
-  },
-  {
     "title": "One Hundred and One Dalmatians",
     "date": "2026-08-02",
     "time": "1:00 pm",
@@ -5286,6 +5291,19 @@
     "city": "LA"
   },
   {
+    "title": "Korczak with Agnieszka Holland",
+    "date": "2026-08-02",
+    "time": "1:00 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/korczak-with-agnieszka-holland-019de508-ee77-5b77-a19b-d73be4f73701",
+    "description": "Just after Agnieszka Holland completed film school in Prague, Polish filmmaker Andrzej Wajda, already an established and celebrated auteur for films like Ashes and Diamonds (1958), welcomed the young aspirant to visit his set of The Wedding (1973). Over time, Holland said, \u201cour relation moved from \u2018master\u2013pupil\u2019 to something much more equal in collaboration and friendship,\u201d and she started to write scripts with him. One of their most meaningful collaborations was this 1990 biopic about the extraordinary Polish-Jewish humanitarian Janusz Korczak, remembered \u201cfor his pedagogical philosophy and his heroic actions during the Holocaust,\u201d Holland told the BFI. With stunning cinematography by Robby M\u00fcller ( Dead Man , 1995), Korczak is, as Steven Spielberg once wrote, \"one of the most important European pictures about the Holocaust.\"",
+    "runtime": "118 min",
+    "director": "Andrzej Wajda PRODUCED BY: Janusz Morgenstern, Willi Segler, Daniel Toscan du Plantier, Regina Ziegler",
+    "city": "LA"
+  },
+  {
     "title": "The Odyssey (70mm)",
     "date": "2026-08-02",
     "time": "1:30 PM",
@@ -5293,16 +5311,9 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3886?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
-    "title": "Out of Africa",
-    "date": "2026-08-02",
-    "time": "2:00 PM",
-    "format": "35mm",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/out-of-africa-019d8806-52fd-216b-45c9-4904d7d5b323",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -5316,6 +5327,19 @@
     "description": "An animated coming of age classic from the beloved Studio Ghibli, featuring a funny, heartfelt screenplay by Hayao Miyazaki based on the original manga by Aoi Hiiragi. When a quiet, creative girl with dreams of becoming a writer looks carefully through her library books, she discovers they were all checked out previously by the same person, leading her on a life-changing quest that unlocks her talent & potential. Take Me Home, Country Roads.",
     "runtime": "111 min",
     "director": "",
+    "city": "LA"
+  },
+  {
+    "title": "Out of Africa",
+    "date": "2026-08-02",
+    "time": "2:00 PM",
+    "format": "35mm",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/out-of-africa-019d8806-52fd-216b-45c9-4904d7d5b323",
+    "description": "The memoir of Danish author Karen Blixen (published under her pen name Isak Dinesen) was adapted by director Sydney Pollack and screenwriter Kurt Leudtke for this lavish romantic drama, focusing on the years Blixen (Best Actress nominee Meryl Streep) spent running a coffee farm in Nairobi and her relationship with hunter Denys Finch-Hatton (Robert Redford). Out of Africa was nominated for 11 Oscars and won seven including Best Picture, Directing (both for Pollack), Adapted Screenplay, Art Direction, Cinematography and Sound, with John Barry winning his fourth Oscar for an achingly romantic score.",
+    "runtime": "162 min",
+    "director": "Sydney Pollack",
     "city": "LA"
   },
   {
@@ -5457,16 +5481,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-08-02",
-    "time": "6:30 PM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3888?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "Throw Momma from the Train             / Ruthless People",
     "date": "2026-08-02",
     "time": "6:30 pm / 8:30 pm",
@@ -5477,6 +5491,19 @@
     "description": "Danny DeVito and Billy Crystal star in a black comedy riff on Hitchcock\u2019s Strangers on a Train ! Crystal plays a newly divorced sad sack bitter that his ex-wife stole his novel and turned it into her own bestseller. DeVito is the long-suffering momma\u2019s boy eager to get out from his mother\u2019s thumb. But when one suggests trading murders as the perfect alibi, the foul play will spin hilariously out of control. DeVito directs his first theatrical feature film, while director of photography Barry Sonnenfeld adds a stylish & energetic verve to the proceedings (the same year he also helmed Raising Arizona ). Plus, Anne Ramsey is unforgettable as DeVito\u2019s domineering mother.",
     "runtime": "88 min",
     "director": "Danny DeVito",
+    "city": "LA"
+  },
+  {
+    "title": "The Odyssey (70mm)",
+    "date": "2026-08-02",
+    "time": "6:30 PM",
+    "format": "70mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3888?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -5647,10 +5674,13 @@
     "title": "The Cat Returns",
     "date": "2026-08-03",
     "time": "2:30 PM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/the-cat-returns-019dd517-16d7-e8e7-5dcb-d39a9c5fd257",
+    "description": "A spin-off of Whisper of the Heart, The Cat Returns finds another schoolgirl encountering a mysterious tomcat on the street, though this time she is led to a fantastic world beyond her wildest dreams. Launched into a cobblestoned magic kingdom ruled by cat royalty\u2014including a motorcade replete with vassals, maidens, and even Secret Service\u2014she must enlist the help of the elusive Baron Humbert von Gikkingen (the same cat featured as a statue in Whisper of the Heart) if she hopes to make it back home. The only feature film directed by Hiroyuki Morita to date, The Cat Returns is a feline flight of fancy.",
+    "runtime": "75 min",
+    "director": "Hiroyuki Morita",
     "city": "LA"
   },
   {
@@ -5661,6 +5691,9 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3889?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -5744,6 +5777,9 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3890?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -5757,16 +5793,6 @@
     "description": "THE ODYSSEY is a mythic action epic shot across the world using brand new IMAX film technology. The film brings Homer\u2019s foundational saga to screens for the first time and opens in cinemas everywhere July 17, 2026. The film stars Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong\u2019o, Samantha Morton, Zendaya, and Charlize Theron. THE ODYSSEY is produced by Thomas and Nolan for their company, Syncopy, and is executive produced by Thomas Hayslip. Nolan\u2019s most recent film, 2023\u2019s OPPENHEIMER, earned seven Academy Awards including Best Picture and Best Director.",
     "runtime": "172 min",
     "director": "Christopher Nolan",
-    "city": "LA"
-  },
-  {
-    "title": "A Man Escaped",
-    "date": "2026-08-03",
-    "time": "7:30 PM",
-    "format": "35mm",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/a-man-escaped-019dd584-92b4-fd24-11c8-7d0ce23af494",
     "city": "LA"
   },
   {
@@ -5793,6 +5819,19 @@
     "description": "She\u2019s dead\u2026 wrapped in plastic. If your summer plans call for an enigmatic journey to the Pacific Northwest and a small sleepy burg called Twin Peaks , have we got news for you! Go back to the beginning of David Lynch and Mark Frost\u2019s game-changing television phenomenon with a special theatrical screening of the first two episodes of this landmark series on our beautiful big screen. When the homecoming queen washes ashore shrouded in a plastic coccoon, this small town is thrown into tragedy and panic. Luckily, the FBI\u2019s most intriguing special agent, Dale Cooper, is on the case and vows to unravel this enduring mystery that extends beyond Twin Peaks and into the dark recesses of this universe and beyond. Whether you\u2019re starting the show for the first time, or you\u2019re revisiting for your twentieth, there\u2019s nothing like seeing this dark, clever, mystical, metaphysical, and offbeat masterpiece at Vidiots!",
     "runtime": "90 min",
     "director": "Lesli Linka Glatter, Tim Hunter",
+    "city": "LA"
+  },
+  {
+    "title": "A Man Escaped",
+    "date": "2026-08-03",
+    "time": "7:30 PM",
+    "format": "35mm",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/a-man-escaped-019dd584-92b4-fd24-11c8-7d0ce23af494",
+    "description": "\u201cOn one side, thick walls, bars, soldiers, weapons. On the other, one lone man, unarmed, doomed from the start.\u201d In minimalist Robert Bresson\u2019s 1956 film, a French Resistance fighter attempts escape from a German military prison against impossible odds. While the title of the film seems to say it all, it belies the film\u2019s gripping tension and near-silent sequences of harrowing engineering feats, unbelievable patience, and human resilience, all performed with placid determination by Fran\u00e7ois Leterrier as he embodies lieutenant Fontaine, a proxy for Andr\u00e9 Devigny, whose life Bresson loosely adapted for the screen from his 1956 memoir.",
+    "runtime": "101 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -5908,16 +5947,6 @@
     "city": "LA"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-08-04",
-    "time": "3:00 PM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3891?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "La Haine",
     "date": "2026-08-04",
     "time": "3:00 PM",
@@ -5926,6 +5955,19 @@
     "venue_short": "Metrograph",
     "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30617",
     "city": "NYC"
+  },
+  {
+    "title": "The Odyssey (70mm)",
+    "date": "2026-08-04",
+    "time": "3:00 PM",
+    "format": "70mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3891?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
+    "city": "LA"
   },
   {
     "title": "Arabesque",
@@ -5998,6 +6040,9 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3892?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -6145,10 +6190,13 @@
     "title": "The Cat Returns",
     "date": "2026-08-05",
     "time": "2:30 PM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/the-cat-returns-019dd517-e48c-ba35-4370-f1b96ed34a7a",
+    "description": "A spin-off of Whisper of the Heart, The Cat Returns finds another schoolgirl encountering a mysterious tomcat on the street, though this time she is led to a fantastic world beyond her wildest dreams. Launched into a cobblestoned magic kingdom ruled by cat royalty\u2014including a motorcade replete with vassals, maidens, and even Secret Service\u2014she must enlist the help of the elusive Baron Humbert von Gikkingen (the same cat featured as a statue in Whisper of the Heart) if she hopes to make it back home. The only feature film directed by Hiroyuki Morita to date, The Cat Returns is a feline flight of fancy.",
+    "runtime": "75 min",
+    "director": "Hiroyuki Morita",
     "city": "LA"
   },
   {
@@ -6159,6 +6207,9 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3893?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -6195,16 +6246,6 @@
     "city": "LA"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-08-05",
-    "time": "7:15 PM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3894?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "THE WRONG GIRLS",
     "date": "2026-08-05",
     "time": "7:15 PM",
@@ -6215,6 +6256,19 @@
     "description": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
     "runtime": "99 min",
     "director": "Dylan Meyer",
+    "city": "LA"
+  },
+  {
+    "title": "The Odyssey (70mm)",
+    "date": "2026-08-05",
+    "time": "7:15 PM",
+    "format": "70mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3894?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -6257,16 +6311,6 @@
     "city": "LA"
   },
   {
-    "title": "Titicut Follies",
-    "date": "2026-08-05",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/titicut-follies-019dd531-3419-7f41-baa2-1ec05eb4f02f",
-    "city": "LA"
-  },
-  {
     "title": "Midnight Run             / 48 Hrs.",
     "date": "2026-08-05",
     "time": "7:30 pm / 10:05 pm",
@@ -6277,6 +6321,19 @@
     "description": "The odd couple classic! Robert De Niro is a tough ex-cop tasked with finding Charles Grodin, a mild-mannered mob accountant who\u2019s skipped bail and on the lam. But what was supposed to be a simple Midnight Run turns into a comedic, action-packed cross country chase where he\u2019ll have to get the FBI off his case, the mob off his trail, and Grodin off his back!",
     "runtime": "126 min",
     "director": "Martin Brest",
+    "city": "LA"
+  },
+  {
+    "title": "Titicut Follies",
+    "date": "2026-08-05",
+    "time": "7:30 PM",
+    "format": "",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/titicut-follies-019dd531-3419-7f41-baa2-1ec05eb4f02f",
+    "description": "",
+    "runtime": "",
+    "director": "",
     "city": "LA"
   },
   {
@@ -6342,16 +6399,6 @@
     "city": "LA"
   },
   {
-    "title": "The Odyssey (70mm)",
-    "date": "2026-08-06",
-    "time": "10:00 AM",
-    "format": "70mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3895?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "THE ODYSSEY in 70mm",
     "date": "2026-08-06",
     "time": "10:00 AM",
@@ -6362,6 +6409,19 @@
     "description": "THE ODYSSEY is a mythic action epic shot across the world using brand new IMAX film technology. The film brings Homer\u2019s foundational saga to screens for the first time and opens in cinemas everywhere July 17, 2026. The film stars Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong\u2019o, Samantha Morton, Zendaya, and Charlize Theron. THE ODYSSEY is produced by Thomas and Nolan for their company, Syncopy, and is executive produced by Thomas Hayslip. Nolan\u2019s most recent film, 2023\u2019s OPPENHEIMER, earned seven Academy Awards including Best Picture and Best Director.",
     "runtime": "172 min",
     "director": "Christopher Nolan",
+    "city": "LA"
+  },
+  {
+    "title": "The Odyssey (70mm)",
+    "date": "2026-08-06",
+    "time": "10:00 AM",
+    "format": "70mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3895?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
+    "runtime": "172 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -6464,16 +6524,6 @@
     "city": "LA"
   },
   {
-    "title": "In the Cut",
-    "date": "2026-08-06",
-    "time": "7:30 PM",
-    "format": "35mm",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/in-the-cut-019dd585-40b8-73e6-0781-56750aa09dd3",
-    "city": "LA"
-  },
-  {
     "title": "Taxi Driver",
     "date": "2026-08-06",
     "time": "7:30 pm",
@@ -6484,6 +6534,19 @@
     "description": "Martin Scorsese directs Paul Schrader\u2019s searing script about alienation and desperation, following a shattered nightcrawler haunting the neon-lit streets of seedy \u201870s NYC as a nightshift Taxi Driver as he hurtles towards his imagined destiny. The gritty and hard-hitting masterpiece features an all-time great performance from Robert De Niro and scored the Palme d\u2019Or at the Cannes Film Festival for the director.",
     "runtime": "114 min",
     "director": "Martin Scorsese",
+    "city": "LA"
+  },
+  {
+    "title": "In the Cut",
+    "date": "2026-08-06",
+    "time": "7:30 PM",
+    "format": "35mm",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/in-the-cut-019dd585-40b8-73e6-0781-56750aa09dd3",
+    "description": "Jane Campion\u2019s gritty erotic thriller stars Meg Ryan as Frannie Avery, a seemingly apathetic writer and English teacher who finds solace in her daydream of language and literature. At a bar near her apartment, Frannie accidentally witnesses a sexual encounter between a woman and a man whose face she cannot recall. The woman is later found dismembered, spurring a visit from a detective who quickly becomes Frannie\u2019s infatuation. Paralleling the desolate ambience of the urban landscape is Frannie\u2019s facade, until her suppressed emotions trigger outbursts that may lead her straight into the path of a serial killer of women.",
+    "runtime": "119 min",
+    "director": "Jane Campion",
     "city": "LA"
   },
   {
@@ -6596,10 +6659,13 @@
     "title": "The Cat Returns",
     "date": "2026-08-07",
     "time": "2:30 PM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/the-cat-returns-019dd519-9fe3-64e5-f810-1c587e19cb45",
+    "description": "A spin-off of Whisper of the Heart, The Cat Returns finds another schoolgirl encountering a mysterious tomcat on the street, though this time she is led to a fantastic world beyond her wildest dreams. Launched into a cobblestoned magic kingdom ruled by cat royalty\u2014including a motorcade replete with vassals, maidens, and even Secret Service\u2014she must enlist the help of the elusive Baron Humbert von Gikkingen (the same cat featured as a statue in Whisper of the Heart) if she hopes to make it back home. The only feature film directed by Hiroyuki Morita to date, The Cat Returns is a feline flight of fancy.",
+    "runtime": "75 min",
+    "director": "Hiroyuki Morita",
     "city": "LA"
   },
   {
@@ -6754,16 +6820,6 @@
     "city": "LA"
   },
   {
-    "title": "Basic Instinct",
-    "date": "2026-08-07",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/basic-instinct-019dd587-0e22-9625-5806-8b921623f8a2",
-    "city": "LA"
-  },
-  {
     "title": "Taxi Driver",
     "date": "2026-08-07",
     "time": "7:30 pm",
@@ -6787,6 +6843,19 @@
     "description": "Johnny Knoxville and the gang return for one final fling at the big screen. Featuring all-new stunts and stupidity along with the greatest hits and biggest laughs from the past, jackass: best and last is a joyously raucous celebration of all the mischievous camaraderie that you\u2019ve come to love and expect from these idiots over the past 25 years. So, grab your dumb little buddies, raise your glasses, and come experience the cinematic event that promises to be the last time you\u2019ll ever laugh this hard in a theatre.",
     "runtime": "92 min",
     "director": "Jeff Tremaine",
+    "city": "LA"
+  },
+  {
+    "title": "Basic Instinct",
+    "date": "2026-08-07",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/basic-instinct-019dd587-0e22-9625-5806-8b921623f8a2",
+    "description": "Hardboiled San Francisco detective Nick Curran (Michael Douglas) is assigned to the case of a murdered rock star and gets in over his head when he meets the victim\u2019s lover, Catherine Tramell (Sharon Stone). A crime novelist whose latest work mirrors Curran\u2019s case, and past relationships with violent people, Catherine becomes the prime suspect. Confronted by Tramell\u2019s smoldering sensuality and mysterious past, Curran struggles to maintain his professionalism and not give into his carnal instincts. Paul Verhoeven\u2019s erotic thriller made a huge impact, serving as a pop-culture reference for many years and defining the genre for the 1990s. The recipient of Academy Award nominations for editing (Frank J. Urioste) and Jerry Goldsmith\u2019s original score, Basic Instinct, originally edited for sexual and violent content, has been restored in 4K and is now available in Verhoeven\u2019s original, uncut version.",
+    "runtime": "127 min",
+    "director": "Paul Verhoeven",
     "city": "LA"
   },
   {
@@ -6892,16 +6961,6 @@
     "city": "NYC"
   },
   {
-    "title": "Ice Cream Man",
-    "date": "2026-08-07",
-    "time": "11:59 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3880?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "Pulp Fiction",
     "date": "2026-08-07",
     "time": "11:59 pm",
@@ -6915,13 +6974,16 @@
     "city": "LA"
   },
   {
-    "title": "Three Wise Girls",
-    "date": "2026-08-08",
-    "time": "10:00 AM",
-    "format": "",
+    "title": "Ice Cream Man",
+    "date": "2026-08-07",
+    "time": "11:59 PM",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3910?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3880?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+    "runtime": "106 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -6938,13 +7000,29 @@
     "city": "LA"
   },
   {
+    "title": "Three Wise Girls",
+    "date": "2026-08-08",
+    "time": "10:00 AM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3910?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Fed up with her tiny hometown, the lovely Cassie Barnes packs up and splits for New York City, where she rooms with her pal Dot. Cassie takes a series of disappointing jobs before her friend Gladys gets her a modeling gig. Then Cassie begins a romance with Jerry , who initially seems like the perfect man. Unfortunately, it turns out that he's married. He tries to tell Cassie that his marriage is already ending, but she's not convinced.",
+    "runtime": "68 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "Harriet the Spy",
     "date": "2026-08-08",
     "time": "11:00 AM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/harriet-the-spy-019db102-fe01-43a3-84a5-eeeb5fb60e21",
+    "description": "The first motion picture produced by Nickelodeon is also Bronwen Hughes\u2019s feature film directorial debut, starring Michelle Trachtenberg as a 12-year-old Harriet Welsch, who devotes her time spying on everyone and recording her discreet detective work in a \u201cPRIVATE\u201d notebook. When those secrets get exposed, Harriet finds her entire class against her, including her two best friends. This sweet drama boldly and candidly surveys the bittersweet pre-teen years as an exploration of self, complementing the confusion that marks this transitional phase with Harriet\u2019s unapologetic, cheeky spirit, letting her fight her own battles and attain redemption.",
+    "runtime": "100 min",
+    "director": "Bronwen Hughes",
     "city": "LA"
   },
   {
@@ -7027,16 +7105,6 @@
     "city": "LA"
   },
   {
-    "title": "Fritz Lang's M",
-    "date": "2026-08-08",
-    "time": "2:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/fritz-lang-s-m-019dd589-21a2-cf22-47aa-909c46d0348a",
-    "city": "LA"
-  },
-  {
     "title": "Woodstock on 35mm",
     "date": "2026-08-08",
     "time": "2:30 pm",
@@ -7047,6 +7115,19 @@
     "description": "We got you front row passes to the most legendary concert in American history \u2013 and you get to enjoy the whole thing in the air conditioning! An intimate look at the Woodstock Music & Art Festival held in Bethel, NY in 1969, from preparation through cleanup, with historic access to insiders, blistering concert footage, and portraits of the concertgoers; negative and positive aspects are shown, from drug use by performers to naked fans sliding in the mud, from the collapse of the fences by the unexpected hordes to the surreal arrival of National Guard helicopters with food and medical assistance for the impromptu city of 500,000. Join in on the musical mayhem on our big screen in glorious celluloid!",
     "runtime": "184 min",
     "director": "Michael Wadleigh",
+    "city": "LA"
+  },
+  {
+    "title": "Fritz Lang's M",
+    "date": "2026-08-08",
+    "time": "2:30 PM",
+    "format": "",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/fritz-lang-s-m-019dd589-21a2-cf22-47aa-909c46d0348a",
+    "description": "",
+    "runtime": "",
+    "director": "",
     "city": "LA"
   },
   {
@@ -7188,16 +7269,6 @@
     "city": "LA"
   },
   {
-    "title": "The Fourth Man",
-    "date": "2026-08-08",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/the-fourth-man-019dd589-d8d0-bf49-4cbf-adea87d13136",
-    "city": "LA"
-  },
-  {
     "title": "Taxi Driver",
     "date": "2026-08-08",
     "time": "7:30 pm",
@@ -7221,6 +7292,19 @@
     "description": "She\u2019s dead\u2026 wrapped in plastic. If your summer plans call for an enigmatic journey to the Pacific Northwest and a small sleepy burg called Twin Peaks , have we got news for you! Go back to the beginning of David Lynch and Mark Frost\u2019s game-changing television phenomenon with a special theatrical screening of the first two episodes of this landmark series on our beautiful big screen. When the homecoming queen washes ashore shrouded in a plastic coccoon, this small town is thrown into tragedy and panic. Luckily, the FBI\u2019s most intriguing special agent, Dale Cooper, is on the case and vows to unravel this enduring mystery that extends beyond Twin Peaks and into the dark recesses of this universe and beyond. Whether you\u2019re starting the show for the first time, or you\u2019re revisiting for your twentieth, there\u2019s nothing like seeing this dark, clever, mystical, metaphysical, and offbeat masterpiece at Vidiots!",
     "runtime": "90 min",
     "director": "Caleb Deschanel, Mark Frost",
+    "city": "LA"
+  },
+  {
+    "title": "The Fourth Man",
+    "date": "2026-08-08",
+    "time": "7:30 PM",
+    "format": "",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/the-fourth-man-019dd589-d8d0-bf49-4cbf-adea87d13136",
+    "description": "",
+    "runtime": "",
+    "director": "",
     "city": "LA"
   },
   {
@@ -7310,16 +7394,6 @@
     "city": "NYC"
   },
   {
-    "title": "Ice Cream Man",
-    "date": "2026-08-08",
-    "time": "11:59 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3881?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "Cannibal Holocaust",
     "date": "2026-08-08",
     "time": "11:59 pm",
@@ -7333,13 +7407,29 @@
     "city": "LA"
   },
   {
+    "title": "Ice Cream Man",
+    "date": "2026-08-08",
+    "time": "11:59 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3881?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+    "runtime": "106 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "Three Wise Girls",
     "date": "2026-08-09",
     "time": "10:00 AM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3911?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Fed up with her tiny hometown, the lovely Cassie Barnes packs up and splits for New York City, where she rooms with her pal Dot. Cassie takes a series of disappointing jobs before her friend Gladys gets her a modeling gig. Then Cassie begins a romance with Jerry , who initially seems like the perfect man. Unfortunately, it turns out that he's married. He tries to tell Cassie that his marriage is already ending, but she's not convinced.",
+    "runtime": "68 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -7409,16 +7499,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Thin Red Line",
-    "date": "2026-08-09",
-    "time": "2:00 PM",
-    "format": "35mm",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/the-thin-red-line-019d8806-49c1-0b1c-0a34-0cd360c2e8e9",
-    "city": "LA"
-  },
-  {
     "title": "School of Rock",
     "date": "2026-08-09",
     "time": "2:00 pm",
@@ -7432,13 +7512,29 @@
     "city": "LA"
   },
   {
+    "title": "The Thin Red Line",
+    "date": "2026-08-09",
+    "time": "2:00 PM",
+    "format": "35mm",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/the-thin-red-line-019d8806-49c1-0b1c-0a34-0cd360c2e8e9",
+    "description": "Terrence Malick adapted James Jones\u2019s 1962 novel, inspired by the author\u2019s experiences serving in World War II\u2019s Guadalcanal campaign, for his first film since his 1978 classic Days of Heaven . Malick assembled an all-star cast (including George Clooney, Nick Nolte and John Travolta) for his unusually contemplative war epic, which received seven Oscar nominations including Directing, Adapted Screenplay (both for Malick) and Best Picture. Nominated composer Hans Zimmer spent nine months working on his evocative score, which he termed the most challenging assignment of his career.",
+    "runtime": "165 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "Bunny Lake is Missing",
     "date": "2026-08-09",
     "time": "2:30 PM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/bunny-lake-is-missing-019dd58a-8b76-50a9-ab86-a9842016a5b1",
+    "description": "One of the most important auteurs of the 20th century cinema, Otto Preminger is known for his bold exploration of themes challenging the societal norms of his era. Carol Lynley, in an exceptional performance, portrays Ann Lake, a mother recently moved to London from New York with her 4-year-old daughter, Bunny. When Bunny vanishes without a trace, as if she never existed in the first place, Superintendent Newhouse excavates disturbing truths behind a family\u2019s refined fa\u00e7ade. Preminger finesses a subtle construction of atmospheric tension, amplified with a crisp, black-and-white cinematography that articulates Ann\u2019s psychological isolation and creates an eerie, claustrophobic ambience.",
+    "runtime": "107 min",
+    "director": "Otto Preminger",
     "city": "LA"
   },
   {
@@ -7534,16 +7630,6 @@
     "city": "NYC"
   },
   {
-    "title": "Elle",
-    "date": "2026-08-09",
-    "time": "6:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/elle-019dd58b-36cb-2931-b14f-63ac39d62b9b",
-    "city": "LA"
-  },
-  {
     "title": "Taxi Driver",
     "date": "2026-08-09",
     "time": "6:30 pm",
@@ -7567,6 +7653,19 @@
     "description": "Originally broadcast on late-night Los Angeles television between 1985 and 1988, Eternity\u2019s Pillar is Alice Coltrane\u2019s rarely seen series blending devotional music, meditation, and spiritual teachings. This special screening presents four newly restored episodes from the Coltrane archive, offering a rare glimpse into the visionary artist\u2019s extraordinary creative and spiritual practice.",
     "runtime": "112 min",
     "director": "",
+    "city": "LA"
+  },
+  {
+    "title": "Elle",
+    "date": "2026-08-09",
+    "time": "6:30 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/elle-019dd58b-36cb-2931-b14f-63ac39d62b9b",
+    "description": "Mich\u00e8le (Isabelle Huppert), the head of a popular video game company, is attacked in her home by a masked assailant. Unaware of her attacker\u2019s identity and suspicious of the men in her life, she begins to track down the criminal herself, stepping into a dangerous game of cat and mouse. Based on the award-winning novel Oh... by Philippe Djian and propelled by Huppert\u2019s Oscar-nominated performance, Paul Verhoeven\u2019s first French-language film was France\u2019s official submission for International Feature Film for the 89th Academy Awards.",
+    "runtime": "130 min",
+    "director": "Paul Verhoeven",
     "city": "LA"
   },
   {
@@ -7663,6 +7762,9 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/howl-s-moving-castle-019dd51d-7564-f197-c616-12ecc8530357",
+    "description": "",
+    "runtime": "",
+    "director": "",
     "city": "LA"
   },
   {
@@ -7689,16 +7791,6 @@
     "city": "LA"
   },
   {
-    "title": "The Prestige",
-    "date": "2026-08-10",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/the-prestige-019dd58c-400e-aae7-d42b-8937636a5c73",
-    "city": "LA"
-  },
-  {
     "title": "Ice Cream Man",
     "date": "2026-08-10",
     "time": "7:30 pm",
@@ -7709,6 +7801,19 @@
     "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results. (The Horror Section)",
     "runtime": "86 min",
     "director": "Eli Roth",
+    "city": "LA"
+  },
+  {
+    "title": "The Prestige",
+    "date": "2026-08-10",
+    "time": "7:30 PM",
+    "format": "",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/the-prestige-019dd58c-400e-aae7-d42b-8937636a5c73",
+    "description": "Two illusionists compete at the turn of the 20th century to create history\u2019s greatest magic trick in this time-fracturing thriller from director/co-writer Christopher Nolan. Based on the 1995 novel by Christopher Priest, the film earned Oscar nominations for its cinematography (Wally Pfister) and art direction (Nathan Crowley, Julie Ochipinti), which cleverly used surviving Los Angeles picture palaces as key locations. The stellar cast includes Hugh Jackman and Christian Bale as the rivals, Michael Caine as their mentor, Scarlett Johansson and Rebecca Hall as the women in their lives, and a memorable cameo from David Bowie as the inventor Nikola Tesla.",
+    "runtime": "130 min",
+    "director": "Christopher Nolan",
     "city": "LA"
   },
   {
@@ -7788,6 +7893,9 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/howl-s-moving-castle-019dd51d-f06d-ae0b-1b9a-1454e7f686d7",
+    "description": "",
+    "runtime": "",
+    "director": "",
     "city": "LA"
   },
   {
@@ -7827,16 +7935,6 @@
     "city": "LA"
   },
   {
-    "title": "To Be or Not To Be",
-    "date": "2026-08-12",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/to-be-or-not-to-be-019dd531-8cec-e732-df70-044dfc38219b",
-    "city": "LA"
-  },
-  {
     "title": "My Dinner with Andre             / Vanya on 42nd Street",
     "date": "2026-08-12",
     "time": "7:30 pm / 9:50 pm",
@@ -7860,6 +7958,19 @@
     "description": "Before Silence of the Lambs , Michael Mann first introduced the cinema world to infamous cannibal Hannibal Lecter in this sizzling and stylish thriller. FBI criminal profiler Will Graham (William Petersen) is called out of early retirement to assist on a serial murder case involving a killer known as the \u201cTooth Fairy\u201d. Graham enlists the help of imprisoned serial killer \u2014 and cannibal \u2014 Dr. Hannibal Lecktor (Brian Cox), who is the reason Graham took an early retirement. Soon, Graham and the FBI are entangled in a deadly cat-and-mouse game between the Tooth Fairy, Lecktor and an interfering journalist.",
     "runtime": "122 min",
     "director": "Michael Mann",
+    "city": "LA"
+  },
+  {
+    "title": "To Be or Not To Be",
+    "date": "2026-08-12",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/to-be-or-not-to-be-019dd531-8cec-e732-df70-044dfc38219b",
+    "description": "A Shakespearean actor reluctantly joins a Resistance plot against the Nazis in 1939 Warsaw in this daring comedy directed by two-time Oscar nominee Ernst Lubitsch ( Heaven Can Wait, 1943). Comedy legend Jack Benny had his greatest screen role as the pompous ham Joseph Tura, and Oscar nominee Carole Lombard ( My Man Godfrey , 1936) was his expert match as his actress wife, Maria, her final film role before her death weeks before the film\u2019s release. Finding the perfect balance between wartime tension and hilarious farce, Lubitsch\u2019s classic\u2014 filmed right as the U.S. entered World War II\u2014 was remade in 1983, with Mel Brooks and Anne Bancroft as the couple.",
+    "runtime": "100 min",
+    "director": "Ernst Lubitsch",
     "city": "LA"
   },
   {
@@ -7932,16 +8043,6 @@
     "city": "LA"
   },
   {
-    "title": "Fatal Attraction",
-    "date": "2026-08-13",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/fatal-attraction-019dd58c-f37f-8692-e2f3-b2c358295fda",
-    "city": "LA"
-  },
-  {
     "title": "My Dinner with Andre             / Vanya on 42nd Street",
     "date": "2026-08-13",
     "time": "7:30 pm / 9:50 pm",
@@ -7952,6 +8053,19 @@
     "description": "In this captivating and philosophical film directed by Louis Malle, actor and playwright Wallace Shawn sits down with his friend the theater director Andr\u00e9 Gregory at a restaurant on New York\u2019s Upper West Side, and the pair proceed through an alternately whimsical and despairing confessional about love, death, money, and all the superstition in between. Playing variations on their own New York\u2013honed personas, Shawn and Gregory, who also cowrote the screenplay, dive in with introspective intellectual gusto, and Malle captures it all with a delicate, artful detachment. A fascinating freeze-frame of cosmopolitan culture, My Dinner with Andr\u00e9 remains a unique work in cinema history. (Janus Films)",
     "runtime": "111 min",
     "director": "Louis Malle",
+    "city": "LA"
+  },
+  {
+    "title": "Fatal Attraction",
+    "date": "2026-08-13",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/fatal-attraction-019dd58c-f37f-8692-e2f3-b2c358295fda",
+    "description": "Adrian Lyne\u2019s groundbreaking 1987 erotic thriller, which garnered six Oscar nominations, contributed to the phenomenal boom of this subgenre, and it remains iconic and timeless. Glenn Close is compelling in her portrayal of Alex, a book editor who has an affair with Dan (Michael Douglas), a happily married attorney whose life becomes an unbearable torture after the tryst. Passion turns into obsession; Alex not only terrorizes Dan but also his wife and young daughter. Close\u2019s deep dive into Alex\u2019s psychological state, exhibited in the extreme measures she takes to possess Dan, is manifested in an intense performance,and the chemistry she shares with Douglas\u2019s riveting Dan creates simultaneously repulsive and magnetic dynamics between them.",
+    "runtime": "119 min",
+    "director": "Adrian Lyne",
     "city": "LA"
   },
   {
@@ -8018,6 +8132,9 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/howl-s-moving-castle-019dd51e-9196-b3fe-be48-1f0c289cf9e4",
+    "description": "",
+    "runtime": "",
+    "director": "",
     "city": "LA"
   },
   {
@@ -8146,16 +8263,6 @@
     "city": "LA"
   },
   {
-    "title": "Unfaithful",
-    "date": "2026-08-14",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/unfaithful-019dd58d-916f-a50b-c633-78a0ffd1e907",
-    "city": "LA"
-  },
-  {
     "title": "Cabaret (IB Tech Print)",
     "date": "2026-08-14",
     "time": "7:30 pm",
@@ -8179,6 +8286,19 @@
     "description": "CAM and FACES OF DEATH come together for a special double feature, followed by an in-person Q&A with director Daniel Goldhaber and writer Isa Mazzei.",
     "runtime": "221 min",
     "director": "",
+    "city": "LA"
+  },
+  {
+    "title": "Unfaithful",
+    "date": "2026-08-14",
+    "time": "7:30 PM",
+    "format": "35mm",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/unfaithful-019dd58d-916f-a50b-c633-78a0ffd1e907",
+    "description": "Diane Lane received an Oscar nomination for her remarkable portrayal of Connie Sumner, who lives an admirable life in an upper-class neighborhood of upstate New York with loving husband Edward and 8-year-old son Charlie. In a gush of wind, an unpredictable encounter occurs between Connie and an attractive man in the street of New York City, followed by the irreversible measures of an illicit affair. Adrian Lyne candidly and without judgment surveys on lust, passion, jealousy, and guilt, unearthing a dark, dense pool of human emotion and the arbitrariness of its motivation.",
+    "runtime": "124 min",
+    "director": "Adrian Lyne",
     "city": "LA"
   },
   {
@@ -8258,16 +8378,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Dark Knight Rises",
-    "date": "2026-08-14",
-    "time": "11:00 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3898?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "Irreversible",
     "date": "2026-08-14",
     "time": "11:00 PM",
@@ -8276,6 +8386,19 @@
     "venue_short": "Metrograph",
     "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30554",
     "city": "NYC"
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "date": "2026-08-14",
+    "time": "11:00 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3898?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again.",
+    "runtime": "164 min",
+    "director": "",
+    "city": "LA"
   },
   {
     "title": "Pulp Fiction",
@@ -8294,10 +8417,13 @@
     "title": "Misbehaving Ladies",
     "date": "2026-08-15",
     "time": "10:00 AM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3902?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "A princess from Europe plays along when she is mistaken for a seamstress in her American hometown.",
+    "runtime": "75 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -8308,6 +8434,9 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/scooby-doo-019db103-7ebb-e23a-c52a-b153e188f713",
+    "description": "The Mystery Inc. gang from Hanna-Barbera\u2019s classic cartoon, Scooby-Doo, Where Are You! took their sleuthing skills to the big screen with their first live-action adventure in 2002\u2019s Scooby-Doo . Led by \u201890s teen heartthrobs and real-life couple Freddie Prinze Jr. and Sarah Michelle Gellar as Fred and Daphne, the amateur detectives Velma (Linda Cardellini), Shaggy (Matthew Lillard) and his best friend, the cowardly, always hungry, and vocal Great Dane, Scooby-Doo, reunite to solve the mystery of ghostly happenings at the tropical resort Spooky Island. From a script co-written by James Gunn and featuring Rowan Atkinson as the eccentric resort-owner, the film was a box office success on its release and continues to have an avid following.",
+    "runtime": "86 min",
+    "director": "Raja Gosnell",
     "city": "LA"
   },
   {
@@ -8386,10 +8515,13 @@
     "title": "Train to Busan",
     "date": "2026-08-15",
     "time": "2:30 PM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/train-to-busan-019e0a0b-adbd-3b4f-a93e-c94024d83aed",
+    "description": "With the South Korean peninsula in the throes of a national disaster, travelers board the KTX, a fast a train to Busan, a city unaffected by the crisis. Among them is Seok-woo, a workaholic father traveling with his daughter. When a young woman, scuffed and dazed, gets on board, an unimaginable horror erupts in the train\u2019s claustrophobic confines. Director Yeon Sang-ho, whose prior filmmaking comprises groundbreaking animated features, balances an upbeat, kinetic energy with solid emotional storytelling to deliver much more than just an action-driven genre film.",
+    "runtime": "118 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -8551,16 +8683,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Ugly",
-    "date": "2026-08-15",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/the-ugly-019e0a0a-e285-aa70-93a8-d960d2b0c160",
-    "city": "LA"
-  },
-  {
     "title": "Cabaret (IB Tech Print)",
     "date": "2026-08-15",
     "time": "7:30 pm",
@@ -8584,6 +8706,19 @@
     "description": "Deep Water , Adrian Lyne\u2019s powerfully sexy, witty, and intoxicating return to the erotic thriller, finally receives its theatrical premiere. Lyne will join Hollywood Entertainment in person for a very special evening\u2014including some unprecedented interactive surprises!",
     "runtime": "116 min",
     "director": "Adrian Lyne",
+    "city": "LA"
+  },
+  {
+    "title": "The Ugly",
+    "date": "2026-08-15",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/the-ugly-019e0a0a-e285-aa70-93a8-d960d2b0c160",
+    "description": "Starring in Yeon Sang-ho\u2019s intimate suspense drama is Park Jeong-min, in his compelling portrayal of Dong-hwan and the younger version of his father, Yeong-gyu, in flashback sequences. Yeong-gyu, who cannot see, is a renowned wooden seal carver, respected for his intricate craftsmanship. Dong-hwan has no memory of his mother, who has been missing for 40 years\u2014or so he\u2019s been told\u2014until he receives a startling call about her remains. Adapted from his own graphic novel, Yeon excavates the ugly aspects of societal standards and perceptions of beauty, and unapologetically exhibits the dark sides of human greed, desire, and trauma.",
+    "runtime": "103 min",
+    "director": "Yeon Sang-ho",
     "city": "LA"
   },
   {
@@ -8666,10 +8801,13 @@
     "title": "The Dark Knight Rises",
     "date": "2026-08-15",
     "time": "11:00 PM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3899?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again.",
+    "runtime": "164 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -8689,10 +8827,13 @@
     "title": "Misbehaving Ladies",
     "date": "2026-08-16",
     "time": "10:00 AM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3903?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "A princess from Europe plays along when she is mistaken for a seamstress in her American hometown.",
+    "runtime": "75 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -8749,16 +8890,6 @@
     "city": "NYC"
   },
   {
-    "title": "Munich",
-    "date": "2026-08-16",
-    "time": "2:00 PM",
-    "format": "35mm",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/munich-019d8804-e004-8e70-0ae5-e53d81175bb7",
-    "city": "LA"
-  },
-  {
     "title": "Knights of the Round Table",
     "date": "2026-08-16",
     "time": "2:00 pm",
@@ -8769,6 +8900,19 @@
     "description": "All the glory and splendor of King Arthur\u2019s court presented in massive CinemaScope! The Arthurian legend receives a lavish Metro-Goldwyn-Mayer adaptation, lusciously lensed by Freddie Young ( Lawrence of Arabia ) & Stephen Dade ( Zulu ), and featuring a stirring Miklos Rozsa score. Sir Lancelot (Robert Taylor) is sworn to serve King Arthur (Mel Ferrer), but his devotion to the queen (Ava Gardner) could provide fuel for their enemies to destroy Camelot.",
     "runtime": "115 min",
     "director": "Richard Thorpe",
+    "city": "LA"
+  },
+  {
+    "title": "Munich",
+    "date": "2026-08-16",
+    "time": "2:00 PM",
+    "format": "35mm",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/munich-019d8804-e004-8e70-0ae5-e53d81175bb7",
+    "description": "After the killing of Israeli hostages at the 1972 Summer Olympics in Munich, a Mossad agent (Eric Bana) assembles a team to assassinate the men deemed responsible for the murders. Steven Spielberg\u2019s fact-based international thriller is a thoughtful look at the moral costs of violence, with gripping suspense and an impressive supporting cast including Best Actor winner Geoffrey Rush ( Shine , 1996), Supporting Actor nominee Ciar\u00e1n Hinds ( Belfast , 2021), and Daniel Craig, shortly before he debuted as James Bond. The film received five Oscar nominations including Best Picture, Directing, and , for John Williams\u2019 music, his 22nd feature score for the director. Williams\u2019s somber, restrained score focused on, in the composer\u2019s words, \u201cthe enormous suffering and guilt, and eventually, paranoia\u201d of Bana\u2019s protagonist.",
+    "runtime": "167 min",
+    "director": "Steven Spielberg",
     "city": "LA"
   },
   {
@@ -8974,6 +9118,9 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/ponyo-019dd51f-43b5-e687-8774-0d5f81c04a9c",
+    "description": "Ponyo focuses on the friendship between 5-year-old Sosuke and a magical goldfish named Brunhilde, the young daughter of a sorcerer father and a sea-goddess mother. After wandering away from her father\u2019s four-flippered submarine, Brunhilde washes ashore and is discovered by the curious Sosuke. Now renamed Ponyo, she forms a quick bond with Sosuke that fuels her yearning to be a real girl, and together they shoulder the cost of what that might take. The vibrant and colorful hand-drawn animations are a delight for audiences of all ages, as Hayao Miyazaki builds a world filled with magical goldfish, spellcasters, and sea goddesses in this tale of how friendships can blossom anywhere\u2014even in the ocean\u2019s depths.",
+    "runtime": "103 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -9003,16 +9150,6 @@
     "city": "LA"
   },
   {
-    "title": "A Snake of June",
-    "date": "2026-08-17",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/a-snake-of-june-019dd58f-be6b-74f3-d4b0-11084892d642",
-    "city": "LA"
-  },
-  {
     "title": "The Thrill Killers             / Psychedelic Sexualis",
     "date": "2026-08-17",
     "time": "7:30 pm / 9:10 pm",
@@ -9036,6 +9173,19 @@
     "description": "Join us for one of Pedro Almod\u00f3var\u2019s best dark comedies in all its colorful mastery in glorious 35mm film! From Academy Award-winner Pedro Almod\u00f3var comes Volver , a darkly comedic and compassionate tribute to women and their resilience in the face of life\u2019s most outrageous tribulations. A luminous Pen\u00e9lope Cruz leads an ensemble of gifted actresses, including Carmen Maura, star of Almod\u00f3var\u2019s Women on the Verge of a Nervous Breakdown .",
     "runtime": "121 min",
     "director": "Pedro Almod\u00f3var",
+    "city": "LA"
+  },
+  {
+    "title": "A Snake of June",
+    "date": "2026-08-17",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/a-snake-of-june-019dd58f-be6b-74f3-d4b0-11084892d642",
+    "description": "Rinko Tatsumi (Asuka Kurosawa) is a suicide hotline worker resigned to a life of unhappiness until she receives a package from a blackmailer. Through the increasingly vulgar acts of exhibitionism her blackmailer forces upon her, she learns to shed the social restrictions and repression dominating her life. Shot on black-and-white film and tinted a monochromatic blue, Shinya Tsukamoto\u2019s A Snake of June is a visual feast. Filled with shaky, hand-held camerawork, voyeuristic close-ups, and near-constant rain, Tsukamoto creates a damp and cold erotic thriller that explores sexual dynamics, transformation, and releasing one's inner desires.",
+    "runtime": "77 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -9105,6 +9255,9 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/ponyo-019dd51f-cf25-51cc-c97d-ba287de07ded",
+    "description": "Ponyo focuses on the friendship between 5-year-old Sosuke and a magical goldfish named Brunhilde, the young daughter of a sorcerer father and a sea-goddess mother. After wandering away from her father\u2019s four-flippered submarine, Brunhilde washes ashore and is discovered by the curious Sosuke. Now renamed Ponyo, she forms a quick bond with Sosuke that fuels her yearning to be a real girl, and together they shoulder the cost of what that might take. The vibrant and colorful hand-drawn animations are a delight for audiences of all ages, as Hayao Miyazaki builds a world filled with magical goldfish, spellcasters, and sea goddesses in this tale of how friendships can blossom anywhere\u2014even in the ocean\u2019s depths.",
+    "runtime": "103 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -9154,16 +9307,6 @@
     "city": "LA"
   },
   {
-    "title": "Out of Sight",
-    "date": "2026-08-19",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/out-of-sight-019dd532-0b98-b1eb-af29-bc9f09d740b6",
-    "city": "LA"
-  },
-  {
     "title": "Ball of Fire             / The Lady Eve",
     "date": "2026-08-19",
     "time": "7:30 pm / 9:50 pm",
@@ -9187,6 +9330,19 @@
     "description": "Escape to the hilariously switched-on world of Programme 4 , the groovy, feature-length \u201cbroadcast\u201d from the Botany 500 Age of Television. Transmitting surreal local programming from the wall-to-wall carpeted dimension of Golden Sands \u2014 exclusively screened in-person for your analog pleasure with Programme 4 creator Rachel Lichtman and more special guests.",
     "runtime": "90 min",
     "director": "Rachel Lichtman",
+    "city": "LA"
+  },
+  {
+    "title": "Out of Sight",
+    "date": "2026-08-19",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/out-of-sight-019dd532-0b98-b1eb-af29-bc9f09d740b6",
+    "description": "Bank robber Jake Foley\u2019s prison escape is complicated by an inconvenient encounter with U.S. marshal Karen Sisco, and an unexpected attraction between them. Making his first major studio film, director Steven Soderbergh, working with an Oscar nominated screenplay by Scott Frank, brings the world of master crime novelist Elmore Leonard to the screen in a dazzling combination of old-fashioned Hollywood glamour and contemporary grit. The film was also nominated for its editing, by the accomplished Anne V. Coates ( Lawrence of Arabia, 1962), who employs intercutting, flashbacks, and freeze frames to enhance the swooningly romantic chemistry of stars George Clooney and Jennifer Lopez.",
+    "runtime": "123 min",
+    "director": "Steven Soderbergh",
     "city": "LA"
   },
   {
@@ -9233,16 +9389,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Searchers",
-    "date": "2026-08-20",
-    "time": "7:30 PM",
-    "format": "70mm",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/the-searchers-019de50c-7daf-6b53-eb10-eaee76152d11",
-    "city": "LA"
-  },
-  {
     "title": "Moneyball",
     "date": "2026-08-20",
     "time": "7:30 pm",
@@ -9253,6 +9399,19 @@
     "description": "Oakland A\u2019s general manager Billy Beane (Brad Pitt) challenges the system and defies conventional wisdom when he is forced to rebuild his small-market team, on a limited budget. Despite opposition from the old guard, the media, fans and their own manager (Philip Seymour Hoffman), Beane \u2013 with the help of a young, number-crunching, Yale-educated economist (Jonah Hill) \u2013 develops a roster of misfits\u2026 and along the way, forever changes the way the game is played. (Sony Pictures)",
     "runtime": "133 min",
     "director": "Bennett Miller",
+    "city": "LA"
+  },
+  {
+    "title": "The Searchers",
+    "date": "2026-08-20",
+    "time": "7:30 PM",
+    "format": "70mm",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/the-searchers-019de50c-7daf-6b53-eb10-eaee76152d11",
+    "description": "When the family of Civil War veteran Ethan Edwards (John Wayne) is killed in a Comanche raid, he spends years looking for his kidnapped niece\u2014but her uncle may prove more of a threat than her abductors. John Ford\u2019s epic, morally complex Western drama has become one of his most revered films in the 70 years since its release. It has been cited as a favorite by many filmmakers, including Francis Ford Coppola, Martin Scorsese and Steven Spielberg, and has influenced films as diverse as Star Wars (1977) and Hardcore (1979). Three-time Oscar winner Winton C. Hoch ( The Quiet Man, 1952) shot the film in VistaVision on stunning outdoor locations, including Monument Valley, culminating in a powerful, frequently imitated final image.",
+    "runtime": "119 min",
+    "director": "John Ford",
     "city": "LA"
   },
   {
@@ -9289,10 +9448,13 @@
     "title": "The Fast and the Furious (25th Anniversary)",
     "date": "2026-08-21",
     "time": "1:00 PM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3791?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -9313,6 +9475,9 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/ponyo-019dd520-9708-d19c-3849-8e284a442b56",
+    "description": "Ponyo focuses on the friendship between 5-year-old Sosuke and a magical goldfish named Brunhilde, the young daughter of a sorcerer father and a sea-goddess mother. After wandering away from her father\u2019s four-flippered submarine, Brunhilde washes ashore and is discovered by the curious Sosuke. Now renamed Ponyo, she forms a quick bond with Sosuke that fuels her yearning to be a real girl, and together they shoulder the cost of what that might take. The vibrant and colorful hand-drawn animations are a delight for audiences of all ages, as Hayao Miyazaki builds a world filled with magical goldfish, spellcasters, and sea goddesses in this tale of how friendships can blossom anywhere\u2014even in the ocean\u2019s depths.",
+    "runtime": "103 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -9352,10 +9517,13 @@
     "title": "The Fast and the Furious (25th Anniversary)",
     "date": "2026-08-21",
     "time": "4:15 PM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3792?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -9441,16 +9609,6 @@
     "city": "LA"
   },
   {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "date": "2026-08-21",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3793?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "STRANGERS ON A TRAIN",
     "date": "2026-08-21",
     "time": "7:30 PM",
@@ -9459,16 +9617,6 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61669",
     "city": "NYC"
-  },
-  {
-    "title": "Gunfight at the O.K. Corral",
-    "date": "2026-08-21",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/gunfight-at-the-o-k-corral-019de50d-75de-011b-6835-d2abcb4adec8",
-    "city": "LA"
   },
   {
     "title": "Moneyball",
@@ -9481,6 +9629,32 @@
     "description": "Oakland A\u2019s general manager Billy Beane (Brad Pitt) challenges the system and defies conventional wisdom when he is forced to rebuild his small-market team, on a limited budget. Despite opposition from the old guard, the media, fans and their own manager (Philip Seymour Hoffman), Beane \u2013 with the help of a young, number-crunching, Yale-educated economist (Jonah Hill) \u2013 develops a roster of misfits\u2026 and along the way, forever changes the way the game is played. (Sony Pictures)",
     "runtime": "133 min",
     "director": "Bennett Miller",
+    "city": "LA"
+  },
+  {
+    "title": "Gunfight at the O.K. Corral",
+    "date": "2026-08-21",
+    "time": "7:30 PM",
+    "format": "",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/gunfight-at-the-o-k-corral-019de50d-75de-011b-6835-d2abcb4adec8",
+    "description": "",
+    "runtime": "",
+    "director": "",
+    "city": "LA"
+  },
+  {
+    "title": "The Fast and the Furious (25th Anniversary)",
+    "date": "2026-08-21",
+    "time": "7:30 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3793?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -9560,16 +9734,6 @@
     "city": "NYC"
   },
   {
-    "title": "Child's Play",
-    "date": "2026-08-21",
-    "time": "11:59 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3900?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "Pulp Fiction",
     "date": "2026-08-21",
     "time": "11:59 pm",
@@ -9583,23 +9747,42 @@
     "city": "LA"
   },
   {
+    "title": "Child's Play",
+    "date": "2026-08-21",
+    "time": "11:59 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3900?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "A dying serial killer transfers his consciousness into a popular kids doll using voodoo. A struggling single mother gifts her six-year-old son the much sought-after doll for his birthday, and the doll slowly begins to show its true colors.",
+    "runtime": "87 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "The Crime of the Century",
     "date": "2026-08-22",
     "time": "10:00 AM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3904?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "A doctor who is also a \"mentalist\" confesses to a murder. The only problem is that the murder he's confessed to hasn't happened yet--although dead bodies are now starting to turn up all over the place. A reporter sets out to solve the \"mystery\".",
+    "runtime": "73 min",
+    "director": "",
     "city": "LA"
   },
   {
     "title": "Nancy Drew",
     "date": "2026-08-22",
     "time": "11:00 AM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/nancy-drew-019db103-fddd-6a12-cf78-c41fe1e4486c",
+    "description": "Emma Roberts steps into the role of Nancy Drew in this contemporary adaptation of the iconic teen detective. When Nancy\u2019s father (Tate Donovan) gets a job that moves them to Los Angeles, he encourages her to behave like an average teenager and refrain from sleuthing. Unable to refrain from her passion, Nancy dives into a famous cold case involving the death of a movie star. The subject of hundreds of novels, and numerous film, television and video game adaptations, the character of Nancy Drew has been inspiring young women since the 1930s.",
+    "runtime": "97 min",
+    "director": "Andrew Fleming",
     "city": "LA"
   },
   {
@@ -9620,6 +9803,9 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/the-ten-commandments-019de50f-21df-5b2b-aa64-3ac6e6d9ce9e",
+    "description": "",
+    "runtime": "",
+    "director": "",
     "city": "LA"
   },
   {
@@ -9652,10 +9838,13 @@
     "title": "The Fast and the Furious (25th Anniversary)",
     "date": "2026-08-22",
     "time": "1:15 PM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3796?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -9705,16 +9894,6 @@
     "city": "LA"
   },
   {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "date": "2026-08-22",
-    "time": "4:15 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3794?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "A GIRL IS A GUN / UNE AVENTURE DE BILLY LE KID",
     "date": "2026-08-22",
     "time": "4:15 PM",
@@ -9723,6 +9902,19 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61797",
     "city": "NYC"
+  },
+  {
+    "title": "The Fast and the Furious (25th Anniversary)",
+    "date": "2026-08-22",
+    "time": "4:15 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3794?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
+    "city": "LA"
   },
   {
     "title": "Welcome Space Brothers",
@@ -9781,16 +9973,6 @@
     "city": "NYC"
   },
   {
-    "title": "An Evening with Charlize Theron featuring Mad Max: Fury Road",
-    "date": "2026-08-22",
-    "time": "7:00 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/an-evening-with-charlize-theron-featuring-mad-max-fury-road-019f24e4-20c3-8b06-55f7-05f9a1187e85",
-    "city": "LA"
-  },
-  {
     "title": "Mystic Pizza",
     "date": "2026-08-22",
     "time": "7:00 pm",
@@ -9804,13 +9986,16 @@
     "city": "LA"
   },
   {
-    "title": "The Fast and the Furious (25th Anniversary)",
+    "title": "An Evening with Charlize Theron featuring Mad Max: Fury Road",
     "date": "2026-08-22",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3795?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/an-evening-with-charlize-theron-featuring-mad-max-fury-road-019f24e4-20c3-8b06-55f7-05f9a1187e85",
+    "description": "George Miller returned to the memorable post-apocalyptic world he created for Mad Max with this nonstop thrill ride that introduced a new Max (Tom Hardy) as well as a memorable action heroine (Charlize Theron as Imperator Furiosa). The film received 10 nominations including Best Picture and Directing, and earned Oscars for Costume Design, Film Editing, Makeup and Hairstyling, Production Design, Sound Editing, and Sound Mixing.",
+    "runtime": "120 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -9822,6 +10007,19 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61707",
     "city": "NYC"
+  },
+  {
+    "title": "The Fast and the Furious (25th Anniversary)",
+    "date": "2026-08-22",
+    "time": "7:30 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3795?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
+    "city": "LA"
   },
   {
     "title": "Bram Stoker's Dracula",
@@ -9887,16 +10085,6 @@
     "city": "NYC"
   },
   {
-    "title": "Child's Play",
-    "date": "2026-08-22",
-    "time": "11:59 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3901?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
     "title": "Ghost World",
     "date": "2026-08-22",
     "time": "11:59 pm",
@@ -9910,13 +10098,29 @@
     "city": "LA"
   },
   {
+    "title": "Child's Play",
+    "date": "2026-08-22",
+    "time": "11:59 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3901?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "A dying serial killer transfers his consciousness into a popular kids doll using voodoo. A struggling single mother gifts her six-year-old son the much sought-after doll for his birthday, and the doll slowly begins to show its true colors.",
+    "runtime": "87 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "The Crime of the Century",
     "date": "2026-08-23",
     "time": "10:00 AM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3905?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "A doctor who is also a \"mentalist\" confesses to a murder. The only problem is that the murder he's confessed to hasn't happened yet--although dead bodies are now starting to turn up all over the place. A reporter sets out to solve the \"mystery\".",
+    "runtime": "73 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -9943,10 +10147,13 @@
     "title": "Funny Face",
     "date": "2026-08-23",
     "time": "11:00 AM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/funny-face-019dff3e-49fd-4d34-726a-fa34142e7d20",
+    "description": "Stanley Donen directed this charming May-December romantic musical comedy that pokes fun at the world of fashion photography and features songs by George and Ira Gershwin, as well as Technicolor cinematography of Paris locations. Fred Astaire plays the photographer (inspired by Richard Avedon, whose work appears in the film), and Audrey Hepburn is the shy bookshop assistant who becomes his model and muse.",
+    "runtime": "103 min",
+    "director": "Stanley Donen",
     "city": "LA"
   },
   {
@@ -9983,26 +10190,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "date": "2026-08-23",
-    "time": "2:00 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3797?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
-    "title": "Jackie",
-    "date": "2026-08-23",
-    "time": "2:00 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/jackie-019d8803-b2c0-a887-a0ba-9fdddd5907b3",
-    "city": "LA"
-  },
-  {
     "title": "The Mummy (1999)",
     "date": "2026-08-23",
     "time": "2:00 pm",
@@ -10016,6 +10203,32 @@
     "city": "LA"
   },
   {
+    "title": "Jackie",
+    "date": "2026-08-23",
+    "time": "2:00 PM",
+    "format": "",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/jackie-019d8803-b2c0-a887-a0ba-9fdddd5907b3",
+    "description": "Natalie Portman was nominated for her uncanny performance as Jacqueline Bouvier Kennedy in this unusual biopic directed by Pablo Larra\u00edn ( Maria , 2024). The screenplay by Noah Oppenheim is structured around an interview by a magazine journalist (Billy Crudup) and focuses on key events in the First Lady\u2019s life, especially the assassination of her husband. The film was also nominated for Madeline Fontaine\u2019s authentic costume designs and the unsettling score by Mica Levi ( Under the Skin , 2013), which used flutes and strings to evoke its heroine\u2019s combination of vulnerability and resilience.",
+    "runtime": "100 min",
+    "director": "Pablo Larra\u00edn",
+    "city": "LA"
+  },
+  {
+    "title": "The Fast and the Furious (25th Anniversary)",
+    "date": "2026-08-23",
+    "time": "2:00 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3797?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "Petite Maman",
     "date": "2026-08-23",
     "time": "2:45 PM",
@@ -10024,16 +10237,6 @@
     "venue_short": "Metrograph",
     "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30602",
     "city": "NYC"
-  },
-  {
-    "title": "Hot Spell",
-    "date": "2026-08-23",
-    "time": "3:00 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/hot-spell-019de511-03b4-d950-feef-fa89b7d15a45",
-    "city": "LA"
   },
   {
     "title": "La Strada",
@@ -10046,6 +10249,19 @@
     "description": "The circus is in town, and with the legendary Federico Fellini helming the big top with the extraordinary Giulietta Masina at center stage, you know you\u2019re in for a magnificent show! \u00a0Maestro Federico Fellini\u2019s La Strada launched both him and his luminous wife Giulietta Masina to international stardom. Gelsomina (Masina) is sold by her mother into the employ of Zampan\u00f2 (Anthony Quinn), a brutal strongman in a traveling circus. When Zampan\u00f2 encounters an old rival in highwire artist the Fool (Richard Basehart), his fury is provoked to its breaking point. With La Strada Fellini left behind the familiar signposts of Italian neorealism for a poetic fable of love and cruelty, evoking brilliant performances and winning the hearts of audiences and critics worldwide. A phenomenal early work from one of Italy and the world\u2019s greatest masters of cinema.",
     "runtime": "115 min",
     "director": "Federico Fellini",
+    "city": "LA"
+  },
+  {
+    "title": "Hot Spell",
+    "date": "2026-08-23",
+    "time": "3:00 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/hot-spell-019de511-03b4-d950-feef-fa89b7d15a45",
+    "description": "Based on the unproduced play Next of Kin , Hot Spell is a New Orleans-set drama about matriarch Alma, whose boundless optimism stands at odds with her husband John\u2019s philandering and her adult children\u2019s desire to move on from the family home. Set during one sweltering summer evening, screenwriter James Poe, who also adapted Tennessee Williams\u2019s Cat on a Hot Tin Roof (1958), slowly ratchets up the pressure on the tenuous facade of the happy mid-century nuclear family. Starring a trifecta of Oscar winners\u2014Shirley Booth ( Come Back, Little Sheba , 1952), Anthony Quinn ( Wild is the Wind , 1958; Zorba the Greek , 1964), Shirley MacLaine ( Terms of Endearment , 1983)\u2014and supported by another\u2014Eileen Heckart ( Butterflies Are Free , 1972) as Alma\u2019s jaded best friend\u2014this tender, layered production offers a heartbreaking view of generational tensions and the nuances of family dynamics.",
+    "runtime": "86 min",
+    "director": "Daniel Mann",
     "city": "LA"
   },
   {
@@ -10148,10 +10364,13 @@
     "title": "The Fast and the Furious (25th Anniversary)",
     "date": "2026-08-23",
     "time": "7:00 PM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3798?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -10172,6 +10391,9 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/white-christmas-019de512-76dc-82b2-35eb-c7b2f9f6791e",
+    "description": "",
+    "runtime": "",
+    "director": "",
     "city": "LA"
   },
   {
@@ -10221,20 +10443,26 @@
     "title": "The Secret World of Arrietty",
     "date": "2026-08-24",
     "time": "2:30 PM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/the-secret-world-of-arrietty-019dd521-7b44-c524-f75d-3935ed4b9d41",
+    "description": "Debut director Hiromasa Yonebayashi ( When Marnie Was There, 2014) and Studio Ghibli teamed up for this film version of Mary Norton\u2019s 1952 children\u2019s classic The Borrowers , full of gorgeous imagery of the natural world. Arrietty is the daughter of a family of Borrowers\u2014miniature people secretly living in an occupied house\u2014who risk their home when she befriends a human boy.",
+    "runtime": "94 min",
+    "director": "Hiromasa Yonebayashi",
     "city": "LA"
   },
   {
     "title": "The Fast and the Furious (25th Anniversary)",
     "date": "2026-08-24",
     "time": "4:00 PM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3800?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -10258,26 +10486,6 @@
     "description": "The life of American lawyer and journalist William Walker, who named himself president of Nicaragua during the 1850s.",
     "runtime": "94 min",
     "director": "Alex Cox",
-    "city": "LA"
-  },
-  {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "date": "2026-08-24",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3799?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
-    "title": "Anything Goes",
-    "date": "2026-08-24",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/anything-goes-019de513-00e0-5754-7620-1708e4e8d8c2",
     "city": "LA"
   },
   {
@@ -10307,6 +10515,32 @@
     "city": "LA"
   },
   {
+    "title": "Anything Goes",
+    "date": "2026-08-24",
+    "time": "7:30 PM",
+    "format": "",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/anything-goes-019de513-00e0-5754-7620-1708e4e8d8c2",
+    "description": "",
+    "runtime": "",
+    "director": "",
+    "city": "LA"
+  },
+  {
+    "title": "The Fast and the Furious (25th Anniversary)",
+    "date": "2026-08-24",
+    "time": "7:30 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3799?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "APACHES / APACHEN",
     "date": "2026-08-24",
     "time": "9:00 PM",
@@ -10320,10 +10554,13 @@
     "title": "The Fast and the Furious (25th Anniversary)",
     "date": "2026-08-25",
     "time": "4:00 PM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3802?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -10335,16 +10572,6 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61806",
     "city": "NYC"
-  },
-  {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "date": "2026-08-25",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3801?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
   },
   {
     "title": "To Live and Die in L.A.             / The Rip",
@@ -10373,6 +10600,19 @@
     "city": "LA"
   },
   {
+    "title": "The Fast and the Furious (25th Anniversary)",
+    "date": "2026-08-25",
+    "time": "7:30 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3801?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "DEADLOCK",
     "date": "2026-08-25",
     "time": "9:00 PM",
@@ -10386,20 +10626,26 @@
     "title": "The Secret World of Arrietty",
     "date": "2026-08-26",
     "time": "2:30 PM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/the-secret-world-of-arrietty-019dd521-b4f4-a7ee-5873-dcf85008501d",
+    "description": "Debut director Hiromasa Yonebayashi ( When Marnie Was There, 2014) and Studio Ghibli teamed up for this film version of Mary Norton\u2019s 1952 children\u2019s classic The Borrowers , full of gorgeous imagery of the natural world. Arrietty is the daughter of a family of Borrowers\u2014miniature people secretly living in an occupied house\u2014who risk their home when she befriends a human boy.",
+    "runtime": "94 min",
+    "director": "Hiromasa Yonebayashi",
     "city": "LA"
   },
   {
     "title": "The Fast and the Furious (25th Anniversary)",
     "date": "2026-08-26",
     "time": "4:00 PM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3804?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -10413,26 +10659,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "date": "2026-08-26",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3803?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
-    "title": "To Catch a Thief",
-    "date": "2026-08-26",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/to-catch-a-thief-019de51f-1614-b551-b58a-67d29d24c360",
-    "city": "LA"
-  },
-  {
     "title": "To Live and Die in L.A.             / The Rip",
     "date": "2026-08-26",
     "time": "7:30 pm / 9:55 pm",
@@ -10443,6 +10669,32 @@
     "description": "A federal agent is dead. A killer is loose. And the City of Angels is about to explode.",
     "runtime": "116 min",
     "director": "William Friedkin",
+    "city": "LA"
+  },
+  {
+    "title": "To Catch a Thief",
+    "date": "2026-08-26",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/to-catch-a-thief-019de51f-1614-b551-b58a-67d29d24c360",
+    "description": "John Robie (Cary Grant), a former French Resistance fighter and cat burglar, is enjoying his early retirement in the Riviera when a series of thefts make him once more the prime suspect\u2014and for the beautiful heiress Frances Stevens (Grace Kelly), these suspicions only add to his appeal. Alfred Hitchcock paired two of Hollywood\u2019s most effortlessly glamorous stars for this witty combination of romantic comedy and caper thriller, adapted by John Michael Hayes ( Rear Window , 1954) from the novel by David Dodge. The Oscar-winning VistaVision cinematography of Hitchcock\u2019s regular collaborator Robert Burks ( Strangers on a Train , 1951) captures the beauty of the co-stars and the setting in all its splendor.",
+    "runtime": "106 min",
+    "director": "Alfred Hitchcock",
+    "city": "LA"
+  },
+  {
+    "title": "The Fast and the Furious (25th Anniversary)",
+    "date": "2026-08-26",
+    "time": "7:30 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3803?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -10459,10 +10711,13 @@
     "title": "The Fast and the Furious (25th Anniversary)",
     "date": "2026-08-27",
     "time": "4:00 PM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3806?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -10486,26 +10741,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Fast and the Furious (25th Anniversary)",
-    "date": "2026-08-27",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3805?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "city": "LA"
-  },
-  {
-    "title": "We're No Angels",
-    "date": "2026-08-27",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/we-re-no-angels-019de514-3234-fd98-dc7c-4435b1633d41",
-    "city": "LA"
-  },
-  {
     "title": "To Live and Die in L.A.             / The Rip",
     "date": "2026-08-27",
     "time": "7:30 pm / 9:55 pm",
@@ -10516,6 +10751,32 @@
     "description": "A federal agent is dead. A killer is loose. And the City of Angels is about to explode.",
     "runtime": "116 min",
     "director": "William Friedkin",
+    "city": "LA"
+  },
+  {
+    "title": "We're No Angels",
+    "date": "2026-08-27",
+    "time": "7:30 PM",
+    "format": "",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/we-re-no-angels-019de514-3234-fd98-dc7c-4435b1633d41",
+    "description": "",
+    "runtime": "",
+    "director": "",
+    "city": "LA"
+  },
+  {
+    "title": "The Fast and the Furious (25th Anniversary)",
+    "date": "2026-08-27",
+    "time": "7:30 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/3805?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
+    "runtime": "106 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -10555,10 +10816,13 @@
     "title": "The Secret World of Arrietty",
     "date": "2026-08-28",
     "time": "2:30 PM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/the-secret-world-of-arrietty-019dd522-293b-8db0-1e4f-d04df892a954",
+    "description": "Debut director Hiromasa Yonebayashi ( When Marnie Was There, 2014) and Studio Ghibli teamed up for this film version of Mary Norton\u2019s 1952 children\u2019s classic The Borrowers , full of gorgeous imagery of the natural world. Arrietty is the daughter of a family of Borrowers\u2014miniature people secretly living in an occupied house\u2014who risk their home when she befriends a human boy.",
+    "runtime": "94 min",
+    "director": "Hiromasa Yonebayashi",
     "city": "LA"
   },
   {
@@ -10621,16 +10885,6 @@
     "city": "NYC"
   },
   {
-    "title": "North by Northwest",
-    "date": "2026-08-28",
-    "time": "7:30 PM",
-    "format": "70mm",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/north-by-northwest-019de51f-ab06-6108-b040-1bbb6bce74fc",
-    "city": "LA"
-  },
-  {
     "title": "I Want Your Sex",
     "date": "2026-08-28",
     "time": "7:30 pm",
@@ -10641,6 +10895,19 @@
     "description": "Los Angeles indie legend Gregg Araki\u2019s newest absurd comedy is a raunchy, kinky delight and it\u2019s steaming up our microcinema in all its eye-popping, kink-positive, raucously funny glory! When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
     "runtime": "90 min",
     "director": "Gregg Araki",
+    "city": "LA"
+  },
+  {
+    "title": "North by Northwest",
+    "date": "2026-08-28",
+    "time": "7:30 PM",
+    "format": "70mm",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/north-by-northwest-019de51f-ab06-6108-b040-1bbb6bce74fc",
+    "description": "Hitchcock plays with the concept of the wrong man, a frequent theme in his narratives, in one of the most admired and entertaining of his mid-career films. North by Northwest stars four-time collaborator Grant as Roger O. Thornhill, a suave ad executive whose identity is mistaken for a government agent. Ruthless spy Philip Vandamm (James Mason) is after Thornhill; on a separate mission is a group of secret agents who follows Thornhill across the country. On the run, Thornhill meets Eve Kendall, a mesmerizing, peculiar woman whose mysterious identity amplifies the level of danger he is in. The film\u2019s ironically ecstatic tone parallels the enchanting aspect of Grant\u2019s portrayal of Thornhill\u2014elegantly sarcastic with a witty sense of humor. Processed in Technicolor, this spectacular thriller showcases now-iconic action sequences such as the crop duster plane chase and climax at Mount Rushmore.",
+    "runtime": "136 min",
+    "director": "Alfred Hitchcock",
     "city": "LA"
   },
   {
@@ -10709,20 +10976,26 @@
     "title": "Blonde Ransom",
     "date": "2026-08-29",
     "time": "10:00 AM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3906?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "A woman engineers a daring scheme to raise phony ransom payments and save her boyfriend's nightclub from criminals.",
+    "runtime": "68 min",
+    "director": "",
     "city": "LA"
   },
   {
     "title": "Zootopia",
     "date": "2026-08-29",
     "time": "11:00 AM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/zootopia-019dda3b-5b6c-ff0e-36d9-e452ba39a26f",
+    "description": "Accessible screening On the last Saturday of every month, the museum's Family Matinee is an accommodative screening where we offer open captioning, keep the theater dimly lit, and maintain a lower volume specifically for neurodivergent viewers. When a young rabbit from Bunnyburrow moves to the big city of Zootopia to achieve her lifelong dream of becoming a police officer, she uncovers a sinister conspiracy. She also develops an unexpected friendship with a wily fox in this computer-animated comedy that imaginatively depicts a metropolis populated by animals of every type. The winner of the 2016 Animated Feature Film Oscar, Zootopia benefits from its expert voice cast, led by Ginnifer Goodwin as the bunny cop, Jason Bateman as the cynical fox, and Idris Elba as the world-weary Cape buffalo police chief.",
+    "runtime": "108 min",
+    "director": "Byron Howard, Rich Moore",
     "city": "LA"
   },
   {
@@ -10752,16 +11025,6 @@
     "city": "LA"
   },
   {
-    "title": "The Court Jester",
-    "date": "2026-08-29",
-    "time": "2:00 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/the-court-jester-019de530-6df9-22e6-2f9f-98c8af80ef63",
-    "city": "LA"
-  },
-  {
     "title": "The Man with the Golden Gun",
     "date": "2026-08-29",
     "time": "2:00 pm",
@@ -10772,6 +11035,19 @@
     "description": "He never misses his target, and now his target is 007. Roger Moore is back as Bond, this time on a dangerous mission to recover a stolen solar invention. But The Man with the Golden Gun , the world\u2019s most expensive assassin, is hunting him . Christopher Lee, Britt Ekland, Maud Adams, and Herv\u00e9 Villechaize co-star in this globetrotting action hit filmed across Thailand, Hong Kong, Macau, and beyond.",
     "runtime": "125 min",
     "director": "Guy Hamilton",
+    "city": "LA"
+  },
+  {
+    "title": "The Court Jester",
+    "date": "2026-08-29",
+    "time": "2:00 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/the-court-jester-019de530-6df9-22e6-2f9f-98c8af80ef63",
+    "description": "The second film from Dena Enterprises, the production company founded by actor Danny Kaye ( White Christmas, 1954) and his songwriter wife, Sylvia Fine, The Court Jester is a delightful vehicle for the comedic icon to showcase his unparalleled timing, physical humor, and witty wordplay. Kaye is Hubert Hawkins, a retired carnival performer who disguises himself as a jester to help overturn an evil plot against a rightful British king. This ridiculous romp, with undeniable star Kaye at its center, is buttressed by a sincere Glynis Johns ( Mary Poppins , 1964) as Maid Jean and an arch Basil Rathbone ( Sherlock Holmes, 1939\u20131946) as Lord Ravenhurst. The most expensive comedy ever made at the time, primarily for its lavish sets, The Court Jester earned Kaye a Golden Globe nomination, and in 2004, the National Film Registry added the film to its list of titles considered \u201cculturally, historically, or aesthetically significant.\u201d",
+    "runtime": "101 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -10844,16 +11120,6 @@
     "city": "LA"
   },
   {
-    "title": "The Joker is Wild",
-    "date": "2026-08-29",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/the-joker-is-wild-019de521-a3d9-0807-ac46-6ad21e437134",
-    "city": "LA"
-  },
-  {
     "title": "I Want Your Sex",
     "date": "2026-08-29",
     "time": "7:30 pm",
@@ -10864,6 +11130,19 @@
     "description": "Los Angeles indie legend Gregg Araki\u2019s newest absurd comedy is a raunchy, kinky delight and it\u2019s steaming up our microcinema in all its eye-popping, kink-positive, raucously funny glory! When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
     "runtime": "90 min",
     "director": "Gregg Araki",
+    "city": "LA"
+  },
+  {
+    "title": "The Joker is Wild",
+    "date": "2026-08-29",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/the-joker-is-wild-019de521-a3d9-0807-ac46-6ad21e437134",
+    "description": "This gritty biopic dives into the smoky, dangerous glamor of Prohibition-era Chicago for the true story of nightclub performer Joe E. Lewis, famous for being one of the few people who could make gangster Al Capone laugh. Crooner Frank Sinatra, lauded by the film's marketing as \u201cthe most electric personality of our time,\u201d follows Lewis\u2019s highs and lows with the same realism and range he brought to The Man with the Golden Arm (1955). Ol\u2019 Blue Eyes also adds musical dimension to the character \u2014 the real Lewis was more comedian than singer\u2014with director Charles Vidor (no relation to fellow director King) compounding his experience with musicals and comedies into a story with dramatic nuance.",
+    "runtime": "126 min",
+    "director": "Charles Vidor",
     "city": "LA"
   },
   {
@@ -10929,20 +11208,26 @@
     "title": "Blonde Ransom",
     "date": "2026-08-30",
     "time": "10:00 AM",
-    "format": "",
+    "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3907?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "A woman engineers a daring scheme to raise phony ransom payments and save her boyfriend's nightclub from criminals.",
+    "runtime": "68 min",
+    "director": "",
     "city": "LA"
   },
   {
     "title": "Artists and Models",
     "date": "2026-08-30",
     "time": "11:00 AM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/artists-and-models-019de531-95a3-83a5-d03e-2cf9083cbd5e",
+    "description": "This zany romantic comedy was the fourteenth film to pair iconic comic duo Dean Martin and Jerry Lewis, released a year before their professional breakup. Martin plays Rick, a struggling painter, and Lewis is his roommate, Eugene, who is obsessed with a comic book character called Bat Lady. They become entangled with Bat Lady\u2019s creator (Dorothy Malone) and her roommate/model (Shirley MacLaine) in a farcical plot that manages to incorporate government secrets and enemy spies. Frank Tashlin\u2019s background in animation made him the perfect choice to direct this cartoon-infused romp, and he would collaborate often with Lewis after the split with Martin.",
+    "runtime": "109 min",
+    "director": "Frank Tashlin",
     "city": "LA"
   },
   {
@@ -10959,16 +11244,6 @@
     "city": "LA"
   },
   {
-    "title": "Da 5 Bloods",
-    "date": "2026-08-30",
-    "time": "2:00 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/da-5-bloods-019d8802-dd35-9e27-711e-afcf7156045f",
-    "city": "LA"
-  },
-  {
     "title": "The Man with the Golden Gun",
     "date": "2026-08-30",
     "time": "2:00 pm",
@@ -10982,13 +11257,29 @@
     "city": "LA"
   },
   {
+    "title": "Da 5 Bloods",
+    "date": "2026-08-30",
+    "time": "2:00 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/da-5-bloods-019d8802-dd35-9e27-711e-afcf7156045f",
+    "description": "Four veterans return to the jungles of Vietnam in hopes of recovering a buried fortune in director/co-writer Spike Lee\u2019s epic adventure drama, which pays homage to the classic The Treasure of the Sierra Madre (a favorite of the filmmaker\u2019s) while exploring the rarely told experiences of Black soldiers in the Vietnam War. The top-notch cast includes Sinners supporting actor nominee Delroy Lindo as a proud Trump supporter; two stars of TV\u2019s The Wire , Clarke Peters and Isiah Whitlock, Jr.; and Chadwick Boseman in one of his final performances. The film\u2019s one Oscar nomination was earned by seven-time Grammy winner Terence Blanchard, a regular collaborator of Lee\u2019s, whose bold orchestral score sits comfortably alongside the vintage Marvin Gaye songs that fill the film\u2019s soundtrack.",
+    "runtime": "156 min",
+    "director": "Spike Lee",
+    "city": "LA"
+  },
+  {
     "title": "The Girl Rush",
     "date": "2026-08-30",
     "time": "3:00 PM",
-    "format": "",
+    "format": "DCP",
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/the-girl-rush-019de532-8da6-6426-d183-19f2891686ac",
+    "description": "Fast-talking Rosalind Russell ( His Girl Friday , 1940) is absolutely captivating as Kim Halliday, the daughter of a deceased career gambler who joins her father\u2019s former business partner to run a Vegas casino. Russell's unflappable confidence is a fine match for the swagger of Fernando Lamas as Victor Monte, a rival club owner who vies for Kim\u2019s affections\u2014and her casino. There\u2019s nothing quite like the neon lights of Sin City captured in high-definition VistaVision and vibrant Technicolor, which appear here in gorgeous documentary footage of the Strip; like most studio productions of the era, however, the bulk of this musical comedy was shot on producer Paramount\u2019s lot.",
+    "runtime": "85 min",
+    "director": "Robert Pirosh",
     "city": "LA"
   },
   {
@@ -11081,6 +11372,9 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/one-battle-after-another-019de515-367d-098b-c57d-6dacbcee8e5a",
+    "description": "",
+    "runtime": "",
+    "director": "",
     "city": "LA"
   },
   {
@@ -11150,16 +11444,6 @@
     "city": "LA"
   },
   {
-    "title": "One-Eyed Jacks",
-    "date": "2026-08-31",
-    "time": "7:30 PM",
-    "format": "",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/one-eyed-jacks-019de522-dc97-112e-3113-d16e7bff810d",
-    "city": "LA"
-  },
-  {
     "title": "The Blade             / Love In The Time Of Twilight",
     "date": "2026-08-31",
     "time": "7:30 pm / 9:45 pm",
@@ -11183,6 +11467,19 @@
     "description": "Get ready for Steven Soderbergh\u2019s Palme d\u2019Or Winning feature debut masterpiece of sexuality and neuroses to hit our big screen! Ann, a frustrated wife, enters into counseling due to a troubled marriage. Unbeknownst to her, her husband John has begun an affair with her sister. When John\u2019s best friend Graham arrives, his penchant for interviewing women about their sex lives forever changes John and Ann\u2019s rocky marriage. An impressive debut by any standards, Soderbergh burst onto the scene at 26 with the sure hand of a fully-fledged master, and with this as his start, it\u2019s no wonder he has become one of America\u2019s most prolific auteurs \u2013 even if he tries to retire from time to time!",
     "runtime": "101 min",
     "director": "Steven Soderbergh",
+    "city": "LA"
+  },
+  {
+    "title": "One-Eyed Jacks",
+    "date": "2026-08-31",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "Academy Museum",
+    "venue_short": "Academy",
+    "url": "https://www.academymuseum.org/en/programs/detail/one-eyed-jacks-019de522-dc97-112e-3113-d16e7bff810d",
+    "description": "Marlon Brando took on his only feature directing project\u2014following the last-minute departure of original director Stanley Kubrick\u2014with this character-oriented Western about a bank robber who tracks down a friend (frequent Brando co-star Karl Malden) who betrayed him. The Academy Award\u2013nominated VistaVision color cinematography by Charles Lang Jr. ( How the West Was Won ,1962) makes strong use of scenic locations in Mexico and California, with vivid imagery of Brando riding his horse along the Monterey coastline. Until 2024, One-Eyed Jacks was the final film shot with the VistaVision process.",
+    "runtime": "141 min",
+    "director": "Marlon Brando",
     "city": "LA"
   },
   {
@@ -11356,6 +11653,9 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/test-fall-programming-019f90e7-3719-f096-9677-8659c7e1a740",
+    "description": "",
+    "runtime": "",
+    "director": "",
     "city": "LA"
   },
   {
@@ -11366,6 +11666,9 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/carrie-with-sissy-spacek-019efac4-788f-5c34-1b3d-6cf7811d1697",
+    "description": "Celebrate the 50th anniversary of Brian De Palma\u2019s horror classic Carrie (1976) with a screening of the film and a conversation with its star, Sissy Spacek. Tickets go on sale mid-August, with early access for Academy Museum members. This event has early access for Academy Museum members. Please check back for ticket on-sale information. Not a member? Join now for early access to this program, plus year-round discounts and free general admission.",
+    "runtime": "98 min",
+    "director": "Brian De Palma",
     "city": "LA"
   }
 ]

@@ -193,14 +193,76 @@ def scrape_new_bev():
     return screenings
 
 
-def scrape_vista():
-    """Vista Theater via Veezi ticketing — static HTML"""
-    screenings = []
+VISTA_SESSIONS_URL = "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+VISTA_META_CACHE_FILE = os.path.join(os.path.dirname(__file__), "vista_meta_cache.json")
+
+
+def _load_vista_cache():
     try:
-        r = requests.get(
-            "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-            headers=HEADERS, timeout=15
-        )
+        with open(VISTA_META_CACHE_FILE) as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def _save_vista_cache(cache):
+    try:
+        with open(VISTA_META_CACHE_FILE, "w") as f:
+            json.dump(cache, f, indent=0, sort_keys=True)
+    except Exception:
+        pass
+
+
+def _vista_playwright_enrich(need, cache):
+    """The Vista's runtime + synopsis live only on the Veezi purchase pages,
+    which are Cloudflare-protected (plain requests get challenged). Load them
+    with a headless browser. `need` maps title-key -> one purchase URL. Best
+    effort: only successful results are cached (so failures retry next run)."""
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            ctx = browser.new_context(user_agent=HEADERS["User-Agent"],
+                                      viewport={"width": 1280, "height": 900})
+            for tkey, url in need.items():
+                meta = {"runtime": "", "description": ""}
+                try:
+                    page = ctx.new_page()
+                    page.goto(url, wait_until="domcontentloaded", timeout=30000)
+                    page.wait_for_timeout(2500)
+                    body = page.inner_text("body")
+                    rm = re.search(r"\((\d{1,3})\s*minutes?\)", body)
+                    if rm:
+                        meta["runtime"] = f"{int(rm.group(1))} min"
+                    try:
+                        page.click("text=Show More", timeout=2500)
+                        page.wait_for_timeout(400)
+                    except Exception:
+                        pass
+                    el = page.query_selector(".synopsis")
+                    if el:
+                        meta["description"] = re.sub(r"\s*Show (More|Less)\s*$", "",
+                                                     el.inner_text()).strip()
+                    page.close()
+                except Exception:
+                    pass
+                if meta["runtime"] or meta["description"]:
+                    cache[tkey] = meta
+            browser.close()
+    except Exception as e:
+        print(f"[Vista/PW] Error: {e}")
+
+
+def scrape_vista():
+    """Vista Theater via Veezi ticketing. The listing is static HTML (title /
+    date / times); film synopsis + runtime come from the Cloudflare-protected
+    purchase pages via Playwright, cached by title. Format defaults to 35mm
+    unless the title/description denotes otherwise (70mm, 16mm, VHS, DVD)."""
+    screenings = []
+    cache = _load_vista_cache()
+    pending = []       # (screening dict, title_key)
+    to_fetch = {}      # title_key -> one purchase URL
+    try:
+        r = requests.get(VISTA_SESSIONS_URL, headers=HEADERS, timeout=15)
         soup = BeautifulSoup(r.text, "html.parser")
 
         for film_div in soup.select("div.film"):
@@ -209,10 +271,11 @@ def scrape_vista():
                 if not title_el:
                     continue
                 title = title_el.text.strip()
+                tkey = title.lower()
 
-                # Format from description text
+                # Vista is 35mm unless the title/description denotes otherwise
                 desc_text = film_div.get_text(" ", strip=True)
-                fmt = normalize_format(desc_text)
+                fmt = normalize_format(desc_text) or "35mm"
 
                 for date_container in film_div.select("div.date-container"):
                     date_el = date_container.select_one("h4.date")
@@ -220,7 +283,6 @@ def scrape_vista():
                         continue
                     date_text = date_el.text.strip()  # e.g. "Sunday 28, June"
 
-                    # Parse "Sunday 28, June" or "Sunday 28, June 2025"
                     date_match = re.search(r"(\d{1,2}),?\s+(\w+)(?:\s+(\d{4}))?", date_text)
                     if not date_match:
                         continue
@@ -239,12 +301,13 @@ def scrape_vista():
                     for time_el in date_container.select("time"):
                         time_str = time_el.text.strip()
                         parent_a = time_el.find_parent("a")
-                        url = parent_a["href"] if parent_a and parent_a.get("href") else \
-                            "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww"
+                        url = parent_a["href"] if parent_a and parent_a.get("href") else VISTA_SESSIONS_URL
                         if url.startswith("/"):
                             url = "https://ticketing.uswest.veezi.com" + url
+                        if "/purchase/" in url:
+                            to_fetch.setdefault(tkey, url)
 
-                        screenings.append({
+                        screening = {
                             "title": title,
                             "date": date_str,
                             "time": time_str,
@@ -252,11 +315,25 @@ def scrape_vista():
                             "venue": "Vista Theater",
                             "venue_short": "Vista",
                             "url": url,
-                        })
+                        }
+                        pending.append((screening, tkey))
             except Exception:
                 continue
+
+        # Fetch metadata only for films not already cached
+        need = {k: u for k, u in to_fetch.items() if k not in cache}
+        if need:
+            _vista_playwright_enrich(need, cache)
+
+        for screening, tkey in pending:
+            meta = cache.get(tkey) or {}
+            screening["description"] = meta.get("description", "")
+            screening["runtime"] = meta.get("runtime", "")
+            screening["director"] = ""
+            screenings.append(screening)
     except Exception as e:
         print(f"[Vista] Error: {e}")
+    _save_vista_cache(cache)
     return screenings
 
 
@@ -418,28 +495,59 @@ def scrape_braindead():
 ACADEMY_META_CACHE_FILE = os.path.join(os.path.dirname(__file__), "academy_meta_cache.json")
 
 
-def _academy_format_for_url(url, cache):
-    """The Academy ticketing API omits the projection format; it only appears in
-    the event page title (e.g. 'Munich in 35mm'). Fetch it once per event
-    (cached) and normalize."""
-    if not url:
+def _contentful_text(field):
+    """Flatten a Contentful rich-text field ({'json': {...}}) to plain text."""
+    if not isinstance(field, dict):
         return ""
+    out = []
+
+    def walk(n):
+        if isinstance(n, dict):
+            if n.get("nodeType") == "text" and n.get("value"):
+                out.append(n["value"])
+            for v in n.values():
+                walk(v)
+        elif isinstance(n, list):
+            for x in n:
+                walk(x)
+
+    walk(field.get("json"))
+    return re.sub(r"\s+", " ", " ".join(out)).strip()
+
+
+def _academy_meta_for_url(url, cache):
+    """The Academy ticketing API carries no film details. Pull format, runtime,
+    director and synopsis from the event page's Contentful __NEXT_DATA__
+    (filmFormat1 / filmMetadata1 credits / filmDescription1). Cached per event."""
+    empty = {"description": "", "runtime": "", "director": "", "format": ""}
+    if not url:
+        return dict(empty)
     if url in cache:
         return cache[url]
-    fmt = ""
+    meta = dict(empty)
     try:
         rr = requests.get(url, headers=HEADERS, timeout=15)
-        m = re.search(r"<title[^>]*>(.*?)</title>", rr.text, re.S | re.I)
+        m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', rr.text, re.S)
         if m:
-            fmt = normalize_format(m.group(1))
-        if not fmt:
-            og = re.search(r'og:title[^>]+content="([^"]+)"', rr.text, re.I)
-            if og:
-                fmt = normalize_format(og.group(1))
+            prog = (json.loads(m.group(1)).get("props", {})
+                    .get("pageProps", {}).get("program") or {})
+            meta["format"] = normalize_format(prog.get("filmFormat1") or "")
+            credits = _contentful_text(prog.get("filmMetadata1"))
+            rt = re.search(r"(\d{1,3})\s*min", credits, re.I)
+            if rt:
+                meta["runtime"] = f"{int(rt.group(1))} min"
+            dr = re.search(r"DIRECTED BY:\s*(.+?)(?:\s{2,}|WRITTEN BY|WITH:|Print courtesy|$)", credits, re.I)
+            if dr:
+                meta["director"] = re.sub(r"\s+", " ", dr.group(1)).strip(" .,")
+            meta["description"] = _contentful_text(prog.get("filmDescription1"))
+        if not meta["format"]:
+            tm = re.search(r"<title[^>]*>(.*?)</title>", rr.text, re.S | re.I)
+            if tm:
+                meta["format"] = normalize_format(tm.group(1))
     except Exception:
         pass
-    cache[url] = fmt
-    return fmt
+    cache[url] = meta
+    return meta
 
 
 def _load_academy_cache():
@@ -513,13 +621,14 @@ def scrape_academy():
             event_id = tmpl.get("id", "")
             event_url = f"https://www.academymuseum.org/en/programs/detail/{slug}-{event_id}"
 
-            # Format: title/subtitle rarely carry it in the API, so fall back to
-            # the event page title ("<Film> in 35mm"), cached per event.
+            # The ticketing API carries no film details, so enrich from the event
+            # page's Contentful data (format / runtime / director / synopsis).
+            meta = _academy_meta_for_url(event_url, cache)
             fmt = normalize_format(title)
             if not fmt:
                 fmt = normalize_format(tmpl.get("subtitle", "") + " " + tmpl.get("summary", ""))
             if not fmt:
-                fmt = _academy_format_for_url(event_url, cache)
+                fmt = meta.get("format", "")
 
             screenings.append({
                 "title": title,
@@ -529,6 +638,9 @@ def scrape_academy():
                 "venue": "Academy Museum",
                 "venue_short": "Academy",
                 "url": event_url,
+                "description": meta["description"],
+                "runtime": meta["runtime"],
+                "director": meta["director"],
             })
     except Exception as e:
         print(f"[Academy] Error: {e}")
