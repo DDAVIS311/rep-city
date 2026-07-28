@@ -260,9 +260,65 @@ def scrape_vista():
     return screenings
 
 
+SHOWTIME_META_CACHE_FILE = os.path.join(os.path.dirname(__file__), "showtime_meta_cache.json")
+
+
+def _showtime_synopsis(movie_url, cache):
+    """Fetch a film synopsis from a Vidiots/BrainDead movie page (first real
+    paragraph, else og:description), cached by URL. Director/runtime already come
+    from the listing's show-specs, so this is the only per-film fetch."""
+    if not movie_url or "/movies/" not in movie_url:
+        return ""
+    if movie_url in cache:
+        return cache[movie_url]
+    desc = ""
+    SKIP = ("select a showtime", "walk-up", "looking for more",
+            "tickets for sale", "no online tickets")
+    try:
+        rr = requests.get(movie_url, headers=HEADERS, timeout=15)
+        msoup = BeautifulSoup(rr.text, "html.parser")
+        for p in msoup.find_all("p"):
+            t = p.get_text(" ", strip=True)
+            low = t.lower()
+            if len(t) <= 80:
+                continue
+            if any(k in low for k in SKIP):
+                continue
+            # Skip credit/spec lines (Director:, Screenwriters :, Starring:, Run Time:, …)
+            if re.match(r"[A-Za-z][A-Za-z .]{1,20}:\s", t):
+                continue
+            desc = t
+            break
+        if not desc:
+            og = msoup.select_one('meta[property="og:description"]')
+            if og:
+                desc = (og.get("content") or "").strip()
+    except Exception:
+        pass
+    cache[movie_url] = desc
+    return desc
+
+
+def _load_showtime_cache():
+    try:
+        with open(SHOWTIME_META_CACHE_FILE) as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def _save_showtime_cache(cache):
+    try:
+        with open(SHOWTIME_META_CACHE_FILE, "w") as f:
+            json.dump(cache, f, indent=0, sort_keys=True)
+    except Exception:
+        pass
+
+
 def _scrape_showtime_site(url, venue_name, venue_short):
     """Generic scraper for Vidiots/BrainDead (same CMS)."""
     screenings = []
+    cache = _load_showtime_cache()
     try:
         r = requests.get(url, headers=HEADERS, timeout=15)
         soup = BeautifulSoup(r.text, "html.parser")
@@ -274,16 +330,22 @@ def _scrape_showtime_site(url, venue_name, venue_short):
                     continue
                 title = title_el.text.strip()
 
-                # Format from specs
-                fmt = ""
+                # Specs (format / director / runtime) are labeled spans in the listing
+                specs = {}
                 for spec in show.select("p.show-specs span"):
-                    text = spec.get_text(" ", strip=True)
-                    if "Format:" in text or normalize_format(text):
-                        fmt = normalize_format(text)
-                        if fmt:
-                            break
+                    t = spec.get_text(" ", strip=True)
+                    m = re.match(r"([\w ]+?):\s*(.+)", t)
+                    if m and m.group(2).strip():
+                        specs.setdefault(m.group(1).strip().lower(), m.group(2).strip())
+
+                fmt = normalize_format(specs.get("format", ""))
                 if not fmt:
                     fmt = normalize_format(show.get_text(" ", strip=True))
+                director = specs.get("director", "")
+                runtime = specs.get("run time", "")
+                if runtime:
+                    rm = re.search(r"\d{1,3}", runtime)
+                    runtime = f"{int(rm.group())} min" if rm else ""
 
                 # Movie page URL
                 link_el = title_el if title_el.name == "a" else title_el.find("a")
@@ -295,6 +357,8 @@ def _scrape_showtime_site(url, venue_name, venue_short):
                     else:
                         from urllib.parse import urljoin
                         movie_url = urljoin(url, href)
+
+                synopsis = _showtime_synopsis(movie_url, cache)
 
                 # Dates from data-date timestamps
                 for date_li in show.select("li.show-date"):
@@ -323,11 +387,15 @@ def _scrape_showtime_site(url, venue_name, venue_short):
                             "venue": venue_name,
                             "venue_short": venue_short,
                             "url": ticket_url,
+                            "description": synopsis,
+                            "runtime": runtime,
+                            "director": director,
                         })
             except Exception:
                 continue
     except Exception as e:
         print(f"[{venue_short}] Error: {e}")
+    _save_showtime_cache(cache)
     return screenings
 
 
