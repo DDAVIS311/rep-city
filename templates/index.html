@@ -58,13 +58,31 @@
     border-bottom: 1px solid #2a1f14;
     padding: 10px 20px;
     display: flex;
-    align-items: center;
-    gap: 20px;
-    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 10px;
     position: sticky;
     top: 0;
     z-index: 100;
   }
+
+  /* Always-visible top bar: logo + search + (mobile) Filters + Schedule */
+  .header-bar {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .header-bar .search-input { flex: 1; min-width: 180px; margin: 0; }
+
+  /* Filter controls (city / status / theatre / reset) */
+  .controls-panel {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+
+  #filters-toggle { display: none; }   /* desktop: filters always shown */
 
   /* ── Rep City marquee logo ── */
   .rc-logo {
@@ -808,11 +826,33 @@
   }
   .search-input:focus { outline: none; border-color: var(--accent); }
   .search-input::placeholder { color: var(--muted); }
+
+  /* ── Mobile ─────────────────────────────────────────────────── */
+  @media (max-width: 700px) {
+    header { padding: 8px 12px; gap: 8px; }
+
+    /* Compact logo: single-line wordmark, drop bulbs/kicker/tagline */
+    .rc-logo { padding: 4px 11px 3px; box-shadow: 0 0 0 2px var(--rc-bg), 0 0 12px rgba(240,181,74,.25); }
+    .rc-bulbs, .rc-kicker, .rc-tagline { display: none; }
+    .rc-wordmark { font-size: 21px; text-shadow: 0 0 8px rgba(240,181,74,.4); }
+
+    .header-bar { gap: 8px; }
+    .header-bar .search-input { min-width: 0; }
+    #filters-toggle { display: inline-flex; align-items: center; }
+    #schedule-btn .btn-label { display: none; }   /* icon only on mobile */
+
+    /* Filters drawer: collapsed by default, opens on tap */
+    .controls-panel { display: none; }
+    .controls-panel.open { display: flex; flex-direction: column; align-items: stretch; }
+    #city-filter, #status-filter, #venue-filters { width: 100%; }
+    .status-bar { width: 100%; text-align: left; }
+  }
 </style>
 </head>
 <body>
 
-<header>
+<header id="site-header">
+  <div class="header-bar">
   <div class="rc-logo" role="img" aria-label="Rep City">
     <div class="rc-bulbs rc-bulbs--top">
       <span class="rc-bulb"></span><span class="rc-bulb"></span><span class="rc-bulb"></span>
@@ -833,14 +873,15 @@
     </div>
   </div>
 
-  <div class="header-controls">
-    <div class="filter-group" id="city-filter">
-      <button class="filter-btn active" data-city="all">All Cities</button>
-      <button class="filter-btn" data-city="LA">Los Angeles</button>
-      <button class="filter-btn" data-city="NYC">New York</button>
-    </div>
+    <input type="text" class="search-input" id="search" placeholder="Search titles...">
+    <button class="action-btn" id="filters-toggle" aria-expanded="false" aria-controls="controls-panel">&#9776; Filters</button>
+    <button class="action-btn" id="schedule-btn">&#128197;<span class="btn-label"> My Schedule</span></button>
+  </div>
 
-    <div class="filter-group">
+  <div class="controls-panel" id="controls-panel">
+    <div class="filter-group" id="city-filter"></div>
+
+    <div class="filter-group" id="status-filter">
       <button class="filter-btn active" data-filter="all">All</button>
       <button class="filter-btn" data-filter="want">&#10003; Want to See</button>
       <button class="filter-btn" data-filter="available">Available</button>
@@ -848,13 +889,8 @@
 
     <div class="venue-filters" id="venue-filters"></div>
 
-    <input type="text" class="search-input" id="search" placeholder="Search titles...">
-
-    <div class="spacer"></div>
-
     <span class="status-bar" id="status-bar">Loading...</span>
 
-    <button class="action-btn" id="schedule-btn">&#128197; My Schedule</button>
     <button class="action-btn" id="reset-btn">Reset All</button>
   </div>
 </header>
@@ -916,7 +952,7 @@
 let allScreenings = [];
 let activeFilter = 'all';
 let activeVenues = new Set();   // empty = all theatres; otherwise show only these
-let activeCity = 'all';    // 'all' | 'LA' | 'NYC'
+let activeCities = new Set();   // empty = all cities; otherwise show only these
 let searchQuery = '';
 
 // ── Persisted preferences (localStorage) ──
@@ -927,18 +963,16 @@ function loadPrefs() {
 function savePrefs() {
   try {
     localStorage.setItem(PREFS_KEY, JSON.stringify({
-      city: activeCity, venues: [...activeVenues], filter: activeFilter,
+      cities: [...activeCities], venues: [...activeVenues], filter: activeFilter,
     }));
   } catch (_) {}
 }
 function applyStoredPrefs() {
   const p = loadPrefs();
-  if (p.city)   activeCity = p.city;
+  if (Array.isArray(p.cities)) activeCities = new Set(p.cities);
   if (Array.isArray(p.venues)) activeVenues = new Set(p.venues);
   if (p.filter) activeFilter = p.filter;
-  // Reflect stored choices in the toolbar button states
-  document.querySelectorAll('#city-filter .filter-btn').forEach(b =>
-    b.classList.toggle('active', b.dataset.city === activeCity));
+  // Status filter buttons are static; city/venue pills are rebuilt from state
   document.querySelectorAll('.filter-btn[data-filter]').forEach(b =>
     b.classList.toggle('active', b.dataset.filter === activeFilter));
 }
@@ -1017,11 +1051,44 @@ function normalizeTimeForSort(t) {
 // ──────────────────────────────────────────────────────────────
 // Render
 // ──────────────────────────────────────────────────────────────
+const CITY_LABELS = { LA: 'Los Angeles', NYC: 'New York' };
+
+function buildCityFilters() {
+  const cities = [...new Set(allScreenings.map(s => s.city).filter(Boolean))].sort();
+  const container = document.getElementById('city-filter');
+  if (!container) return;
+  container.innerHTML = '';
+
+  const addPill = (city, label) => {
+    const active = city === 'all' ? activeCities.size === 0 : activeCities.has(city);
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn' + (active ? ' active' : '');
+    btn.textContent = label;
+    btn.onclick = () => {
+      if (city === 'all') {
+        activeCities.clear();
+      } else if (activeCities.has(city)) {
+        activeCities.delete(city);
+      } else {
+        activeCities.add(city);
+      }
+      savePrefs();
+      buildCityFilters();
+      buildVenueFilters();   // venue list depends on which cities are selected
+      renderScreenings();
+    };
+    container.appendChild(btn);
+  };
+
+  addPill('all', 'All Cities');
+  cities.forEach(c => addPill(c, CITY_LABELS[c] || c));
+}
+
 function buildVenueFilters() {
-  // Venues available in the active city
+  // Venues available in the active cities (empty selection = all cities)
   const venues = [...new Set(
     allScreenings
-      .filter(s => activeCity === 'all' || s.city === activeCity)
+      .filter(s => activeCities.size === 0 || activeCities.has(s.city))
       .map(s => s.venue_short)
   )].sort();
 
@@ -1069,7 +1136,7 @@ const todayStr = new Date().toISOString().slice(0, 10);
 
 function cardVisible(s) {
   if (s.date < todayStr) return false;
-  if (activeCity !== 'all' && s.city !== activeCity) return false;
+  if (activeCities.size && !activeCities.has(s.city)) return false;
   if (activeVenues.size && !activeVenues.has(s.venue_short)) return false;
   if (searchQuery && !s.title.toLowerCase().includes(searchQuery)) return false;
   if (activeFilter === 'want') return s.status === 'want';
@@ -1366,6 +1433,7 @@ async function init() {
   try {
     allScreenings = await fetchScreenings();
     applyStoredPrefs();
+    buildCityFilters();
     buildVenueFilters();
     renderScreenings();
     renderSchedulePanel();
@@ -1384,17 +1452,24 @@ function hideLoading() {
   document.getElementById('loading').classList.remove('show');
 }
 
-// City filter buttons
-document.querySelectorAll('#city-filter .filter-btn').forEach(btn => {
-  btn.onclick = () => {
-    document.querySelectorAll('#city-filter .filter-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    activeCity = btn.dataset.city;
-    savePrefs();
-    buildVenueFilters();   // validates the selected theatre for the new city
-    renderScreenings();
+// City filter pills are built by buildCityFilters() (multi-select, like theatres)
+
+// Mobile: Filters drawer toggle
+const _filtersToggle = document.getElementById('filters-toggle');
+const _controlsPanel = document.getElementById('controls-panel');
+if (_filtersToggle && _controlsPanel) {
+  _filtersToggle.onclick = () => {
+    const open = _controlsPanel.classList.toggle('open');
+    _filtersToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
   };
-});
+  // Collapse the drawer once the user scrolls down into the results
+  let _lastY = window.scrollY;
+  window.addEventListener('scroll', () => {
+    const y = window.scrollY;
+    if (y > _lastY && y > 80) _controlsPanel.classList.remove('open');
+    _lastY = y;
+  }, { passive: true });
+}
 
 // Status filter buttons
 document.querySelectorAll('.filter-btn[data-filter]').forEach(btn => {
