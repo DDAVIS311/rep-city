@@ -4,8 +4,10 @@ Same output schema as scraper.py: {title, date, time, format, venue, venue_short
 """
 
 import re
+import os
 import json
 import time
+import html as html_lib
 import requests
 from bs4 import BeautifulSoup, Comment
 from datetime import datetime, timedelta
@@ -37,11 +39,272 @@ def _normalize_format(text):
     return ""
 
 
-def _make(title, date, time_str, fmt, venue, venue_short, url):
-    return {
+def _make(title, date, time_str, fmt, venue, venue_short, url, meta=None):
+    d = {
         "title": title, "date": date, "time": time_str, "format": fmt,
         "venue": venue, "venue_short": venue_short, "url": url, "city": "NYC",
     }
+    if meta:
+        d["description"] = meta.get("description", "")
+        d["runtime"] = meta.get("runtime", "")
+        d["director"] = meta.get("director", "")
+    return d
+
+
+# ── Film-metadata enrichment (director / runtime / synopsis) ──────────────────
+# Each venue's detail page is fetched once and cached by URL, so daily runs only
+# hit pages for films they haven't seen. Extractors are per-venue (each site has
+# its own markup) and return {"description","runtime","director"}.
+
+NYC_META_CACHE_FILE = os.path.join(os.path.dirname(__file__), "nyc_meta_cache.json")
+_EMPTY_META = {"description": "", "runtime": "", "director": ""}
+
+
+def _load_nyc_cache():
+    try:
+        with open(NYC_META_CACHE_FILE) as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def _save_nyc_cache(cache):
+    try:
+        with open(NYC_META_CACHE_FILE, "w") as f:
+            json.dump(cache, f, indent=0, sort_keys=True)
+    except Exception:
+        pass
+
+
+def _nyc_meta(url, cache, extractor):
+    """Cache-aware fetch + extract for a film detail page."""
+    if not url or not url.startswith("http"):
+        return dict(_EMPTY_META)
+    if url in cache:
+        return cache[url]
+    meta = dict(_EMPTY_META)
+    try:
+        rr = requests.get(url, headers=HEADERS, timeout=15)
+        meta = extractor(rr.text)
+    except Exception:
+        pass
+    cache[url] = meta
+    return meta
+
+
+def _ifc_extract(html):
+    """IFC Center — structured ul.film-details rows + prose paragraphs."""
+    meta = dict(_EMPTY_META)
+    try:
+        soup = BeautifulSoup(html, "html.parser")
+        fd = soup.select_one("ul.film-details")
+        details = {}
+        if fd:
+            for li in fd.find_all("li"):
+                strong = li.find("strong")
+                if not strong:
+                    continue
+                label = re.sub(r"\s+", " ", strong.get_text()).strip()
+                value = re.sub(r"\s+", " ", li.get_text(" ", strip=True)).strip()
+                if value.lower().startswith(label.lower()):
+                    value = value[len(label):].strip()
+                details[label.lower().rstrip(":")] = value
+        meta["director"] = re.sub(r"^(directed by|director)\s*[:\-]?\s*", "",
+                                  details.get("director", ""), flags=re.I).strip()
+        rt = re.search(r"\d+", details.get("running time", "") or details.get("runtime", ""))
+        if rt:
+            meta["runtime"] = f"{rt.group(0)} min"
+
+        drop = re.compile(r"^(screening as part|previously screened|also screening|part of|"
+                          r"ifc center does not|buy tickets|get tickets|showtimes|sign up|"
+                          r"newsletter|watch the trailer|view the trailer|see all|share this)", re.I)
+        event = re.compile(r"^(mon|tues|wednes|thurs|fri|satur|sun)day\b.*\bat\b\s*\d{1,2}", re.I)
+        paras = []
+        if fd is not None:
+            for child in fd.parent.find_all("p", recursive=False):
+                if fd in child.find_all_previous("ul") or child.get("class"):
+                    continue
+                txt = re.sub(r"\s+", " ", child.get_text(" ", strip=True)).strip()
+                if not txt or drop.match(txt) or event.match(txt):
+                    continue
+                if len(txt) <= 70 and txt.endswith("!"):
+                    continue
+                paras.append(txt)
+        meta["description"] = " ".join(paras).strip()
+    except Exception:
+        pass
+    return meta
+
+
+def _ff_extract(html):
+    """Film Forum — first <p> inside div.copy (credits-first or synopsis-first)."""
+    meta = dict(_EMPTY_META)
+    try:
+        cm = re.search(r'<div class="copy">', html)
+        if not cm:
+            return meta
+        pm = re.search(r"<p\b[^>]*>(.*?)</p>", html[cm.end():], re.S)
+        if not pm:
+            return meta
+        para_html = pm.group(1)
+        para_text = re.sub(r"[ \t]+", " ", html_lib.unescape(
+            re.sub(r"<[^>]+>", "", para_html)).replace("\xa0", " ")).strip()
+
+        dm = re.search(r"(?:written\s+and\s+|co-)?directed\s+by\s+(.+)", para_text, re.I)
+        if dm:
+            d = re.split(r"\s+from\s+|\s*[.(]|,\s|\s+&\s|\s+based\s+on\b", dm.group(1), 1, flags=re.I)[0]
+            meta["director"] = d.strip().strip(" .;")
+        rm = re.search(r"(\d{1,3})\s*\.?\s*min\b", para_text, re.I)
+        if rm:
+            meta["runtime"] = f"{rm.group(1)} min"
+
+        body = re.sub(r"<strong\b[^>]*>.*?</strong>", "\n", para_html, flags=re.S | re.I)
+        body = re.sub(r"<br\s*/?>", "\n", body, flags=re.I)
+        drop = re.compile(r"^(presented\b|restored\b|a\b.*\brestoration\b|restoration\b"
+                          r"|in\s+[a-z].*subtitles\b|(mon|tues|wednes|thurs|fri|satur|sun)day\b"
+                          r"|open\s+caption\b|a\s+[a-z].*\brelease\b)", re.I)
+
+        def shouty(ln):
+            letters = [c for c in ln if c.isalpha()]
+            return bool(letters) and sum(c.isupper() for c in letters) / len(letters) > 0.6
+
+        prose = []
+        for ln in body.split("\n"):
+            ln = re.sub(r"[ \t]+", " ", html_lib.unescape(re.sub(r"<[^>]+>", "", ln)).replace("\xa0", " ")).strip()
+            if len(ln) >= 50 and not drop.match(ln) and not shouty(ln):
+                prose.append(ln)
+        meta["description"] = " ".join(prose).strip()
+    except Exception:
+        pass
+    return meta
+
+
+def _low_extract(html):
+    """Low Cinema — div.movie-description: "Dir. X, YEAR, COUNTRY, NN min." + prose."""
+    meta = dict(_EMPTY_META)
+    try:
+        m = re.search(r'<div class="movie-description">(.*?)</div>', html, re.S)
+        block = m.group(1) if m else ""
+
+        def clean(s):
+            return re.sub(r"\s+", " ", html_lib.unescape(re.sub(r"<[^>]+>", "", s))).strip()
+
+        paras = [p for p in (clean(x) for x in re.findall(r"<p\b[^>]*>(.*?)</p>", block, re.S)) if p]
+        credit = re.compile(r"^Dir\.\s*(?P<director>.+?),\s*(?P<year>\d{4})\s*,\s*"
+                            r"(?P<country>[^,]+?)\s*,\s*(?P<runtime>\d+)\s*min\b", re.I)
+        for p in paras:
+            cm = credit.match(p)
+            if cm:
+                meta["director"] = cm.group("director").strip()
+                meta["runtime"] = f'{cm.group("runtime")} min'
+                break
+        if not meta["runtime"]:
+            rm = re.search(r"(\d+)\s*min\b", block)
+            if rm:
+                meta["runtime"] = f"{rm.group(1)} min"
+        for p in paras:
+            if credit.match(p) or p.lower().startswith("all sales are final") or len(p) < 60:
+                continue
+            meta["description"] = p
+            break
+    except Exception:
+        pass
+    return meta
+
+
+def _metrograph_extract(html):
+    """Metrograph — div.movie-info: <h5>Director: X</h5>, <h5>YEAR / NNNmin / FMT</h5>, prose <p>."""
+    meta = dict(_EMPTY_META)
+    try:
+        soup = BeautifulSoup(html, "html.parser")
+        mi = soup.find("div", class_="movie-info")
+        if not mi:
+            return meta
+        for h5 in mi.find_all("h5"):
+            t = re.sub(r"\s+", " ", h5.get_text(" ", strip=True)).strip()
+            dm = re.match(r"Directors?\s*:\s*(.+)$", t, re.I)
+            if dm and not meta["director"]:
+                meta["director"] = re.sub(r"\s+", " ", dm.group(1)).strip()
+                continue
+            if not meta["runtime"] and not t.lower().startswith("director"):
+                rm = re.search(r"(\d{1,3})\s*min", t, re.I)
+                if rm:
+                    meta["runtime"] = f"{rm.group(1)} min"
+        sh = mi.find("div", class_="showtimes")
+        if sh:
+            sh.decompose()
+        paras = []
+        for p in mi.find_all("p"):
+            if p.find("p") or p.find("a", class_="back-link"):
+                continue
+            txt = re.sub(r"\s+", " ", p.get_text(" ", strip=True)).strip()
+            if txt and not re.match(r"^(Distributor|Distributed by|Print courtesy)\s*:", txt, re.I):
+                paras.append(txt)
+        meta["description"] = " ".join(paras).strip()
+    except Exception:
+        pass
+    return meta
+
+
+_AFA_BLOCK_RE = re.compile(
+    r'<div class="film-showing clearfix">.*?'
+    r'(?=<div class="film-showing clearfix">|<div class="rule">|$)', re.S)
+_AFA_NAME_RE = re.compile(r'name="showing-(\d+)"')
+
+
+def _afa_blocks(list_html):
+    """Map {showing_id: block_html} for one Anthology list-view month page."""
+    out = {}
+    for m in _AFA_BLOCK_RE.finditer(list_html):
+        blk = m.group(0)
+        idm = _AFA_NAME_RE.search(blk)
+        if idm:
+            out[idm.group(1)] = blk
+    return out
+
+
+def _anthology_extract(block_html):
+    """One Anthology film-showing block -> {director, runtime, description}."""
+    meta = dict(_EMPTY_META)
+    try:
+        soup = BeautifulSoup(block_html, "html.parser")
+        details = soup.find("div", class_="showing-details")
+        notes = soup.find("div", class_="film-notes")
+
+        head_text = ""
+        if details:
+            head = details.decode_contents().split('<span class="share-toggle"')[0].split('<div class="film-notes"')[0]
+            hs = BeautifulSoup(head, "html.parser")
+            t = hs.find("span", class_="film-title")
+            if t:
+                t.extract()
+            head_text = hs.get_text("\n", strip=True)
+
+        for line in head_text.split("\n"):
+            line = line.strip()
+            if line.lower().startswith("by "):
+                meta["director"] = line[3:].strip(" ,")
+                break
+
+        rt = re.search(r"(\d{1,3})\s*min\b", head_text)
+        if not rt and notes:
+            ntext = notes.get_text(" ", strip=True)
+            rt = (re.search(r"[Tt]otal running time:\s*(?:ca\.?\s*)?(\d{1,3})\s*min", ntext)
+                  or re.search(r"(\d{1,3})\s*min\b", ntext))
+        if rt:
+            meta["runtime"] = f"{int(rt.group(1))} min"
+
+        if notes:
+            for a in notes.find_all("a"):
+                if "buy tickets" in a.get_text(strip=True).lower():
+                    a.extract()
+            for img in notes.find_all("img"):
+                img.extract()
+            desc = re.sub(r"\s+", " ", notes.get_text(" ", strip=True)).strip()
+            meta["description"] = re.sub(r"\s*CLICK HERE TO BUY TICKETS NOW!?\s*$", "", desc, flags=re.I).strip()
+    except Exception:
+        pass
+    return meta
 
 
 # ─────────────────────────────────────────────────────────────
@@ -49,6 +312,7 @@ def _make(title, date, time_str, fmt, venue, venue_short, url):
 # ─────────────────────────────────────────────────────────────
 def scrape_ifc():
     screenings = []
+    cache = _load_nyc_cache()
     try:
         r = requests.get("https://www.ifccenter.com/", headers=HEADERS, timeout=15)
         soup = BeautifulSoup(r.text, "html.parser")
@@ -74,15 +338,17 @@ def scrape_ifc():
                     continue
                 title = title_el.text.strip()
                 film_url = title_el.get("href", "https://www.ifccenter.com/")
+                meta = _nyc_meta(film_url, cache, _ifc_extract)
 
                 for time_li in film_li.select("ul.times li a"):
                     time_str = time_li.text.strip()
                     ticket_url = time_li.get("href", film_url)
                     if title and time_str:
-                        screenings.append(_make(title, date_str, time_str, "", "IFC Center", "IFC", ticket_url))
+                        screenings.append(_make(title, date_str, time_str, "", "IFC Center", "IFC", ticket_url, meta))
 
     except Exception as e:
         print(f"[IFC] Error: {e}")
+    _save_nyc_cache(cache)
     return screenings
 
 
@@ -112,6 +378,7 @@ def _parse_ifc_date(text):
 # ─────────────────────────────────────────────────────────────
 def scrape_film_forum():
     screenings = []
+    cache = _load_nyc_cache()
     try:
         r = requests.get("https://filmforum.org/films", headers=HEADERS, timeout=15)
         soup = BeautifulSoup(r.text, "html.parser")
@@ -181,15 +448,17 @@ def scrape_film_forum():
                         film_url = "https://filmforum.org" + film_url
 
                     fmt = format_by_title.get(title.upper(), _normalize_format(p.get_text()))
+                    meta = _nyc_meta(film_url, cache, _ff_extract)
 
                     for span in p.select("span"):
                         raw_time = span.text.strip()  # "12:20" or "7:00"
                         time_str = _ff_time_to_ampm(raw_time)
                         if time_str:
-                            screenings.append(_make(title, date_str, time_str, fmt, "Film Forum", "FilmForum", film_url))
+                            screenings.append(_make(title, date_str, time_str, fmt, "Film Forum", "FilmForum", film_url, meta))
 
     except Exception as e:
         print(f"[FilmForum] Error: {e}")
+    _save_nyc_cache(cache)
     return screenings
 
 
@@ -247,6 +516,18 @@ def scrape_anthology():
                 continue
             soup = BeautifulSoup(r.text, "html.parser")
 
+            # The list view carries the metadata blocks (synopsis/credits/runtime),
+            # keyed by the same showing id as the grid's <li>. Fetch once per month.
+            blocks = {}
+            try:
+                lv = requests.get(
+                    f"https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month={month:02d}&year={year}",
+                    headers=HEADERS, timeout=15)
+                if lv.ok:
+                    blocks = _afa_blocks(lv.text)
+            except Exception:
+                pass
+
             for day_td in soup.select("td.calendar_day[name]"):
                 day_num = int(day_td["name"])
                 try:
@@ -273,7 +554,9 @@ def scrape_anthology():
                         if link_el and link_el["href"].startswith("/") \
                         else "https://www.anthologyfilmarchives.org/film_screenings"
 
-                    screenings.append(_make(title, date_str, time_str, "", "Anthology Film Archives", "Anthology", ev_url))
+                    sid = ev.get("id")
+                    meta = _anthology_extract(blocks[sid]) if sid and sid in blocks else None
+                    screenings.append(_make(title, date_str, time_str, "", "Anthology Film Archives", "Anthology", ev_url, meta))
 
             time.sleep(0.5)
 
@@ -287,6 +570,7 @@ def scrape_anthology():
 # ─────────────────────────────────────────────────────────────
 def scrape_low_cinema():
     screenings = []
+    cache = _load_nyc_cache()
     try:
         r = requests.get("https://lowcinema.com/", headers=HEADERS, timeout=15)
         m = re.search(r"window\.showingsData\s*=\s*(\{.*?\});", r.text, re.DOTALL)
@@ -311,10 +595,12 @@ def scrape_low_cinema():
                 url = ticket_url or movie_url or "https://lowcinema.com/"
 
                 if title:
-                    screenings.append(_make(title, date_str, time_str, "", "Low Cinema", "LowCinema", url))
+                    meta = _nyc_meta(movie_url, cache, _low_extract)
+                    screenings.append(_make(title, date_str, time_str, "", "Low Cinema", "LowCinema", url, meta))
 
     except Exception as e:
         print(f"[LowCinema] Error: {e}")
+    _save_nyc_cache(cache)
     return screenings
 
 
@@ -323,6 +609,7 @@ def scrape_low_cinema():
 # ─────────────────────────────────────────────────────────────
 def scrape_metrograph():
     screenings = []
+    cache = _load_nyc_cache()
     try:
         r = requests.get("https://metrograph.com/", headers=HEADERS, timeout=15)
         soup = BeautifulSoup(r.text, "html.parser")
@@ -355,6 +642,8 @@ def scrape_metrograph():
                         fmt = f
                         break
 
+                meta = _nyc_meta(film_href, cache, _metrograph_extract)
+
                 for time_a in item.select("div.showtimes a"):
                     raw_time = time_a.get_text(strip=True)  # e.g. "3:15pm"
                     if not raw_time:
@@ -363,10 +652,11 @@ def scrape_metrograph():
                     ticket_url = time_a.get("href") or film_href or "https://metrograph.com/"
                     if ticket_url.startswith("/"):
                         ticket_url = "https://metrograph.com" + ticket_url
-                    screenings.append(_make(title, date_str, time_str, fmt, "Metrograph", "Metrograph", ticket_url))
+                    screenings.append(_make(title, date_str, time_str, fmt, "Metrograph", "Metrograph", ticket_url, meta))
 
     except Exception as e:
         print(f"[Metrograph] Error: {e}")
+    _save_nyc_cache(cache)
     return screenings
 
 
