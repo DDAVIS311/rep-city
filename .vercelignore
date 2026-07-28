@@ -3,6 +3,7 @@ scraper.py
 scraper_nyc.py
 amcin_meta_cache.json
 academy_meta_cache.json
+newbev_meta_cache.json
 screening_state.json
 __pycache__
 .playwright

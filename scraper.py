@@ -43,9 +43,81 @@ def normalize_format(text):
     return ""
 
 
+NEWBEV_META_CACHE_FILE = os.path.join(os.path.dirname(__file__), "newbev_meta_cache.json")
+
+
+def _newbev_detail_metadata(html):
+    """Pull {description, runtime, director, format} from a New Beverly program
+    page. Credits live in a labeled block (Director / Writer / Starring / Format
+    / Running Time); the synopsis is the first substantial content paragraph
+    (skipping ticketing notices)."""
+    import html as html_lib
+    NOTICE = ("ticket", "sold out", "box office", "will be available",
+              "doors open", "rsvp", "no late seating")
+    meta = {"description": "", "runtime": "", "director": "", "format": ""}
+    try:
+        text = html_lib.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html)))
+        dr = re.search(
+            r"Director\s+([A-Z][A-Za-z.\-'’,& ]{2,45}?)\s+"
+            r"(?:Writer|Screenplay|Starring|Format|Running Time)", text)
+        if dr:
+            meta["director"] = dr.group(1).strip(" ,")
+        rt = re.search(r"Running Time\s+(\d{1,3})\s*min", text, re.I)
+        if rt:
+            meta["runtime"] = f"{int(rt.group(1))} min"
+        fm = re.search(r"Format\s+([0-9A-Za-z ]+?)\s+(?:Running Time|Director|Writer|Starring|Aspect)", text)
+        if fm:
+            meta["format"] = normalize_format(fm.group(1))
+
+        m = re.search(r"movie__content(.*?)(?:Upcoming Showtimes|movie__details)", html, re.S | re.I)
+        seg = m.group(1) if m else html
+        for p in re.findall(r"<p[^>]*>(.*?)</p>", seg, re.S | re.I):
+            t = html_lib.unescape(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", p))).strip()
+            low = t.lower()
+            if len(t) > 80 and not any(k in low for k in NOTICE):
+                meta["description"] = t
+                break
+    except Exception:
+        pass
+    return meta
+
+
+def _newbev_meta_for_url(url, cache):
+    empty = {"description": "", "runtime": "", "director": "", "format": ""}
+    if not url or "/program/" not in url:
+        return empty
+    if url in cache:
+        return cache[url]
+    meta = empty
+    try:
+        rr = requests.get(url, headers=HEADERS, timeout=15)
+        meta = _newbev_detail_metadata(rr.text)
+    except Exception:
+        pass
+    cache[url] = meta
+    return meta
+
+
+def _load_newbev_cache():
+    try:
+        with open(NEWBEV_META_CACHE_FILE) as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def _save_newbev_cache(cache):
+    try:
+        with open(NEWBEV_META_CACHE_FILE, "w") as f:
+            json.dump(cache, f, indent=0, sort_keys=True)
+    except Exception:
+        pass
+
+
 def scrape_new_bev():
     """New Beverly Cinema — static HTML"""
     screenings = []
+    cache = _load_newbev_cache()
     try:
         r = requests.get("https://thenewbev.com/schedule/", headers=HEADERS, timeout=15)
         soup = BeautifulSoup(r.text, "html.parser")
@@ -89,7 +161,16 @@ def scrape_new_bev():
                     fmt = normalize_format(full_text)
 
                 link_el = card.select_one("a[href]")
-                url = "https://thenewbev.com" + link_el["href"] if link_el else "https://thenewbev.com/schedule/"
+                if link_el and link_el.get("href"):
+                    href = link_el["href"]
+                    # hrefs are now absolute; guard against the old double-prefix bug
+                    url = href if href.startswith("http") else "https://thenewbev.com" + href
+                else:
+                    url = "https://thenewbev.com/schedule/"
+
+                meta = _newbev_meta_for_url(url, cache)
+                if not fmt:
+                    fmt = meta.get("format", "")
 
                 if title:
                     screenings.append({
@@ -100,11 +181,15 @@ def scrape_new_bev():
                         "venue": "New Beverly Cinema",
                         "venue_short": "NewBev",
                         "url": url,
+                        "description": meta["description"],
+                        "runtime": meta["runtime"],
+                        "director": meta["director"],
                     })
             except Exception:
                 continue
     except Exception as e:
         print(f"[NewBev] Error: {e}")
+    _save_newbev_cache(cache)
     return screenings
 
 

@@ -1760,16 +1760,6 @@
     "city": "NYC"
   },
   {
-    "title": "Back to the Future",
-    "date": "2026-07-26",
-    "time": "2:00 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/july-26-back-to-the-future-family-matinee/",
-    "city": "LA"
-  },
-  {
     "title": "Tally Brown, New York",
     "date": "2026-07-26",
     "time": "2:10 PM",
@@ -2160,16 +2150,6 @@
     "venue_short": "LowCinema",
     "url": "https://lowcinema.com/checkout/5281c518-019f-48c2-ac76-291887aa5204/",
     "city": "NYC"
-  },
-  {
-    "title": "Misery             / Dead Calm",
-    "date": "2026-07-26",
-    "time": "6:30 pm / 8:45 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/july-26-misery-dead-calm/",
-    "city": "LA"
   },
   {
     "title": "The Odyssey (70mm)",
@@ -2573,6 +2553,19 @@
     "city": "LA"
   },
   {
+    "title": "Tiger on the Beat 2             / The Cyprus Tigers",
+    "date": "2026-07-27",
+    "time": "7:30 pm / 9:35 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/july-27-tiger-on-the-beat-2-the-cyprus-tigers/",
+    "description": "This in-name-only sequel to the first film \u2013 but peppered with much of the same cast \u2013 is an action-packed Hong Kong cop comedy. Captain Lam is nearing 40 and looking to accomplish something memorable before retiring. But first he\u2019s gotta help find his nephew a suitable wife\u2026 while avoiding the deadly crosshairs of a dangerous smuggling ring. The Killer \u2019s Danny Lee headlines with martial arts superstar Conan Lee.",
+    "runtime": "94 min",
+    "director": "Lau Kar-Leung",
+    "city": "LA"
+  },
+  {
     "title": "Bride of the Earth",
     "date": "2026-07-27",
     "time": "7:40 PM",
@@ -2684,16 +2677,6 @@
     "venue_short": "LowCinema",
     "url": "https://lowcinema.com/checkout/62fefd14-8684-4f59-940b-e84086a4535a/",
     "city": "NYC"
-  },
-  {
-    "title": "Tiger on the Beat 2             / The Cyprus Tigers",
-    "date": "2026-07-27",
-    "time": "7:30 pm / 9:35 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/july-27-tiger-on-the-beat-2-the-cyprus-tigers/",
-    "city": "LA"
   },
   {
     "title": "Chronicle of a Summer",
@@ -3087,6 +3070,19 @@
     "city": "LA"
   },
   {
+    "title": "Dusty and Sweets McGee (IB Tech Print)             / Born to Win",
+    "date": "2026-07-28",
+    "time": "7:30 pm / 9:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/july-28-dusty-and-sweets-mcgee-born-to-win/",
+    "description": "Meet Tip, Pam, Larry, Kit, Dusty, Sweets McGee and nameless, aimless more with young faces and old eyes. Meet them, but don\u2019t get too attached. Because tomorrow some of them may not be alive. Most of the people who appear in his astonishing semi-documentary about the daily life of Los Angeles heroin abusers are real-life addicts, caught up in an endless cycle of stealing, hustling, jail time, shooting up, and coming down. Realistic and unapologetic, the film includes only a handful of actors, including Billy Grey ( Father Knows Best ) portraying a street-smart drug dealer. Directed by Floyd Mutrux ( American Hot Wax ), with graphic cinematography by William A. Fraker ( Bullitt ), Dusty and Sweets McGee is \u201ca film in its own category. There are long stretches during which it\u2019s hard to take your eyes off the screen\u201d (Mick LaSalle, San Francisco Chronicle ). (Warner Bros)",
+    "runtime": "88 min",
+    "director": "Floyd Mutrux",
+    "city": "LA"
+  },
+  {
     "title": "Basic Instinct",
     "date": "2026-07-28",
     "time": "7:40 PM",
@@ -3198,16 +3194,6 @@
     "venue_short": "LowCinema",
     "url": "https://lowcinema.com/checkout/dfac662c-ac00-460f-9ad3-e60f4ef14b20/",
     "city": "NYC"
-  },
-  {
-    "title": "Dusty and Sweets McGee (IB Tech Print)             / Born to Win",
-    "date": "2026-07-28",
-    "time": "7:30 pm / 9:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/july-28-dusty-and-sweets-mcgee-born-to-win/",
-    "city": "LA"
   },
   {
     "title": "Chronicle of a Summer",
@@ -3601,6 +3587,19 @@
     "city": "LA"
   },
   {
+    "title": "Dusty and Sweets McGee (IB Tech Print)             / Born to Win",
+    "date": "2026-07-29",
+    "time": "7:30 pm / 9:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/july-29-dusty-and-sweets-mcgee-born-to-win/",
+    "description": "Meet Tip, Pam, Larry, Kit, Dusty, Sweets McGee and nameless, aimless more with young faces and old eyes. Meet them, but don\u2019t get too attached. Because tomorrow some of them may not be alive. Most of the people who appear in his astonishing semi-documentary about the daily life of Los Angeles heroin abusers are real-life addicts, caught up in an endless cycle of stealing, hustling, jail time, shooting up, and coming down. Realistic and unapologetic, the film includes only a handful of actors, including Billy Grey ( Father Knows Best ) portraying a street-smart drug dealer. Directed by Floyd Mutrux ( American Hot Wax ), with graphic cinematography by William A. Fraker ( Bullitt ), Dusty and Sweets McGee is \u201ca film in its own category. There are long stretches during which it\u2019s hard to take your eyes off the screen\u201d (Mick LaSalle, San Francisco Chronicle ). (Warner Bros)",
+    "runtime": "88 min",
+    "director": "Floyd Mutrux",
+    "city": "LA"
+  },
+  {
     "title": "Total Recall",
     "date": "2026-07-29",
     "time": "8:00 pm",
@@ -3692,16 +3691,6 @@
     "venue_short": "LowCinema",
     "url": "https://lowcinema.com/checkout/2dc1483f-2be8-4fc2-92b5-d1baad960298/",
     "city": "NYC"
-  },
-  {
-    "title": "Dusty and Sweets McGee (IB Tech Print)             / Born to Win",
-    "date": "2026-07-29",
-    "time": "7:30 pm / 9:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/july-29-dusty-and-sweets-mcgee-born-to-win/",
-    "city": "LA"
   },
   {
     "title": "THE ODYSSEY in 70mm",
@@ -4029,16 +4018,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Deer Hunter",
-    "date": "2026-07-30",
-    "time": "7:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/july-30-the-deer-hunter/",
-    "city": "LA"
-  },
-  {
     "title": "DUCHAMP PGM 1: DUCHAMP IN/ON FILM",
     "date": "2026-07-30",
     "time": "7:30 PM",
@@ -4072,6 +4051,19 @@
     "description": "THE ODYSSEY is a mythic action epic shot across the world using brand new IMAX film technology. The film brings Homer\u2019s foundational saga to screens for the first time and opens in cinemas everywhere July 17, 2026. The film stars Matt Damon, Tom Holland, Anne Hathaway, Robert Pattinson, Lupita Nyong\u2019o, Samantha Morton, Zendaya, and Charlize Theron. THE ODYSSEY is produced by Thomas and Nolan for their company, Syncopy, and is executive produced by Thomas Hayslip. Nolan\u2019s most recent film, 2023\u2019s OPPENHEIMER, earned seven Academy Awards including Best Picture and Best Director.",
     "runtime": "172 min",
     "director": "Christopher Nolan",
+    "city": "LA"
+  },
+  {
+    "title": "The Deer Hunter",
+    "date": "2026-07-30",
+    "time": "7:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/july-30-the-deer-hunter/",
+    "description": "\u201cA big, awkward, crazily ambitious motion picture that comes as close to being a popular epic as any movie about this country since The Godfather . Its vision is that of an original, major new filmmaker.\u201d \u2013 Vincent Canby, The New York Times",
+    "runtime": "184 min",
+    "director": "Michael Cimino",
     "city": "LA"
   },
   {
@@ -4360,16 +4352,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Deer Hunter",
-    "date": "2026-07-31",
-    "time": "6:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/july-31-the-deer-hunter/",
-    "city": "LA"
-  },
-  {
     "title": "Wild Inside",
     "date": "2026-07-31",
     "time": "6:30 PM",
@@ -4378,6 +4360,19 @@
     "venue_short": "IFC",
     "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=565868~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
     "city": "NYC"
+  },
+  {
+    "title": "The Deer Hunter",
+    "date": "2026-07-31",
+    "time": "6:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/july-31-the-deer-hunter/",
+    "description": "\u201cA big, awkward, crazily ambitious motion picture that comes as close to being a popular epic as any movie about this country since The Godfather . Its vision is that of an original, major new filmmaker.\u201d \u2013 Vincent Canby, The New York Times",
+    "runtime": "184 min",
+    "director": "Michael Cimino",
+    "city": "LA"
   },
   {
     "title": "Jimmy",
@@ -4612,16 +4607,6 @@
     "city": "LA"
   },
   {
-    "title": "Jackie Brown",
-    "date": "2026-07-31",
-    "time": "11:59 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/july-31-jackie-brown-midnight-show/",
-    "city": "LA"
-  },
-  {
     "title": "Saturday Night",
     "date": "2026-07-31",
     "time": "11:59 PM",
@@ -4629,6 +4614,19 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3908?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "city": "LA"
+  },
+  {
+    "title": "Jackie Brown",
+    "date": "2026-07-31",
+    "time": "11:59 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/july-31-jackie-brown-midnight-show/",
+    "description": "A stewardess, a gun runner, a bail bondsman, a federal agent, an ex-con and a stoned-out beach bunny are all on the trail of half-million dollars in Quentin Tarantino\u2019s Jackie Brown , a mesmerizing, all-star adaptation of Elmore Leonard\u2019s novel Rum Punch . But who\u2019s getting played and who\u2019s gonna make the big score?",
+    "runtime": "154 min",
+    "director": "Quentin Tarantino",
     "city": "LA"
   },
   {
@@ -4774,10 +4772,13 @@
     "title": "Whisper of the Heart (English Dubbed Version)",
     "date": "2026-08-01",
     "time": "2:00 pm",
-    "format": "",
+    "format": "35mm",
     "venue": "New Beverly Cinema",
     "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-1-whisper-of-the-heart-family-matinee/",
+    "url": "https://thenewbev.com/program/august-1-whisper-of-the-heart-family-matinee/",
+    "description": "An animated coming of age classic from the beloved Studio Ghibli, featuring a funny, heartfelt screenplay by Hayao Miyazaki based on the original manga by Aoi Hiiragi. When a quiet, creative girl with dreams of becoming a writer looks carefully through her library books, she discovers they were all checked out previously by the same person, leading her on a life-changing quest that unlocks her talent & potential. Take Me Home, Country Roads.",
+    "runtime": "111 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -4957,6 +4958,19 @@
     "city": "NYC"
   },
   {
+    "title": "Throw Momma from the Train             / Ruthless People",
+    "date": "2026-08-01",
+    "time": "6:30 pm / 8:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-1-throw-momma-from-the-train-ruthless-people/",
+    "description": "Danny DeVito and Billy Crystal star in a black comedy riff on Hitchcock\u2019s Strangers on a Train ! Crystal plays a newly divorced sad sack bitter that his ex-wife stole his novel and turned it into her own bestseller. DeVito is the long-suffering momma\u2019s boy eager to get out from his mother\u2019s thumb. But when one suggests trading murders as the perfect alibi, the foul play will spin hilariously out of control. DeVito directs his first theatrical feature film, while director of photography Barry Sonnenfeld adds a stylish & energetic verve to the proceedings (the same year he also helmed Raising Arizona ). Plus, Anne Ramsey is unforgettable as DeVito\u2019s domineering mother.",
+    "runtime": "88 min",
+    "director": "Danny DeVito",
+    "city": "LA"
+  },
+  {
     "title": "Millionaires' Express",
     "date": "2026-08-01",
     "time": "6:40 PM",
@@ -5133,16 +5147,6 @@
     "city": "NYC"
   },
   {
-    "title": "Dredd",
-    "date": "2026-08-01",
-    "time": "11:59 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-1-dredd-midnight-show/",
-    "city": "LA"
-  },
-  {
     "title": "Saturday Night",
     "date": "2026-08-01",
     "time": "11:59 PM",
@@ -5153,13 +5157,16 @@
     "city": "LA"
   },
   {
-    "title": "Throw Momma from the Train             / Ruthless People",
+    "title": "Dredd",
     "date": "2026-08-01",
-    "time": "6:30 pm / 8:30 pm",
-    "format": "",
+    "time": "11:59 pm",
+    "format": "35mm",
     "venue": "New Beverly Cinema",
     "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-1-throw-momma-from-the-train-ruthless-people/",
+    "url": "https://thenewbev.com/program/august-1-dredd-midnight-show/",
+    "description": "In a hyper-violent dystopic metropolis, an elite law enforcement group acts as judge, jury, and executioner. And when veteran officer Judge Dredd (Karl Urban) and his young recruit (Olivia Thirlby) arrive at a 200-storey tower block to investigate a murder, they\u2019ll find themselves in a ruthless battle with a vicious drug kingpin (Lena Headey) and her seemingly endless army of killers. Screenwriter Alex Garland adapts the legendary comic.",
+    "runtime": "96 min",
+    "director": "Pete Travis",
     "city": "LA"
   },
   {
@@ -5279,16 +5286,6 @@
     "city": "LA"
   },
   {
-    "title": "Whisper of the Heart (English Dubbed Version)",
-    "date": "2026-08-02",
-    "time": "2:00 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-2-whisper-of-the-heart-family-matinee/",
-    "city": "LA"
-  },
-  {
     "title": "Out of Africa",
     "date": "2026-08-02",
     "time": "2:00 PM",
@@ -5296,6 +5293,19 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/out-of-africa-019d8806-52fd-216b-45c9-4904d7d5b323",
+    "city": "LA"
+  },
+  {
+    "title": "Whisper of the Heart (English Dubbed Version)",
+    "date": "2026-08-02",
+    "time": "2:00 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-2-whisper-of-the-heart-family-matinee/",
+    "description": "An animated coming of age classic from the beloved Studio Ghibli, featuring a funny, heartfelt screenplay by Hayao Miyazaki based on the original manga by Aoi Hiiragi. When a quiet, creative girl with dreams of becoming a writer looks carefully through her library books, she discovers they were all checked out previously by the same person, leading her on a life-changing quest that unlocks her talent & potential. Take Me Home, Country Roads.",
+    "runtime": "111 min",
+    "director": "",
     "city": "LA"
   },
   {
@@ -5438,6 +5448,19 @@
     "city": "LA"
   },
   {
+    "title": "Throw Momma from the Train             / Ruthless People",
+    "date": "2026-08-02",
+    "time": "6:30 pm / 8:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-2-throw-momma-from-the-train-ruthless-people/",
+    "description": "Danny DeVito and Billy Crystal star in a black comedy riff on Hitchcock\u2019s Strangers on a Train ! Crystal plays a newly divorced sad sack bitter that his ex-wife stole his novel and turned it into her own bestseller. DeVito is the long-suffering momma\u2019s boy eager to get out from his mother\u2019s thumb. But when one suggests trading murders as the perfect alibi, the foul play will spin hilariously out of control. DeVito directs his first theatrical feature film, while director of photography Barry Sonnenfeld adds a stylish & energetic verve to the proceedings (the same year he also helmed Raising Arizona ). Plus, Anne Ramsey is unforgettable as DeVito\u2019s domineering mother.",
+    "runtime": "88 min",
+    "director": "Danny DeVito",
+    "city": "LA"
+  },
+  {
     "title": "Miller\u2019s Crossing",
     "date": "2026-08-02",
     "time": "7:00 pm",
@@ -5567,16 +5590,6 @@
     "description": "In silent-era Hollywood, stuntman Roy Walker (Lee Pace) is brought to a hospital after an on-set accident. There, he befriends a young girl (Catinca Untaru) and tells her a fantastical tale of epic heroes taking revenge on an evil ruler. The story transports her from the hospital into the exotic landscapes of her imagination.",
     "runtime": "119 min",
     "director": "Tarsem Singh",
-    "city": "LA"
-  },
-  {
-    "title": "Throw Momma from the Train             / Ruthless People",
-    "date": "2026-08-02",
-    "time": "6:30 pm / 8:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-2-throw-momma-from-the-train-ruthless-people/",
     "city": "LA"
   },
   {
@@ -5742,6 +5755,19 @@
     "city": "LA"
   },
   {
+    "title": "The Informer (1935)             / Air Mail",
+    "date": "2026-08-03",
+    "time": "7:30 pm / 9:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-3-the-informer-air-mail/",
+    "description": "Gypo Nolan stumbles through a foggy Irish night, his brain pickled in whiskey and his soul tormented by shame and fear. Gypo is an informer, a turncoat who betrayed his friend to the British police for 20 pounds. Now he can\u2019t spend the money fast enough \u2013 nor can he run from his treachery fast enough \u2013 as he brawls, brags, swaggers and lies his way toward his fate. John Ford earned his first Best Director Academy Award, and star Victor McLaglen took home a Best Actor statuette for this searing four-time Oscar winner set in 1922 Dublin. Timely in its exploration of the tortured netherworld of human guilt, The Informer is filmmaking for the ages. (Warner Bros)",
+    "runtime": "91 min",
+    "director": "John Ford",
+    "city": "LA"
+  },
+  {
     "title": "Europa",
     "date": "2026-08-03",
     "time": "7:35 PM",
@@ -5822,16 +5848,6 @@
     "description": "\u201cWhy would I tie myself to one woman if I were interested in others?\u201d says Jer\u00f4me, even as he plans on marrying a diplomat\u2019s daughter by summer\u2019s end. Before then, Jer\u00f4me spends his July at a lakeside boardinghouse nursing crushes on the sixteen-year-old Laura and, more tantalizingly, Laura\u2019s long-legged, blonde stepsister, Claire. Baring her knee on a ladder under a blooming cherry tree, Claire unwittingly instigates Jer\u00f4me\u2019s moral crisis and creates both one of French cinema\u2019s most enduring moments and what has become the iconic image of Rohmer\u2019s Moral Tales.",
     "runtime": "105 min",
     "director": "\u00c9ric Rohmer",
-    "city": "LA"
-  },
-  {
-    "title": "The Informer (1935)             / Air Mail",
-    "date": "2026-08-03",
-    "time": "7:30 pm / 9:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-3-the-informer-air-mail/",
     "city": "LA"
   },
   {
@@ -5987,6 +6003,19 @@
     "city": "LA"
   },
   {
+    "title": "Midnight Run             / 48 Hrs.",
+    "date": "2026-08-04",
+    "time": "7:30 pm / 10:05 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-4-midnight-run-48-hrs/",
+    "description": "The odd couple classic! Robert De Niro is a tough ex-cop tasked with finding Charles Grodin, a mild-mannered mob accountant who\u2019s skipped bail and on the lam. But what was supposed to be a simple Midnight Run turns into a comedic, action-packed cross country chase where he\u2019ll have to get the FBI off his case, the mob off his trail, and Grodin off his back!",
+    "runtime": "126 min",
+    "director": "Martin Brest",
+    "city": "LA"
+  },
+  {
     "title": "Fairfax Film Festival: Revelations of Divine Love",
     "date": "2026-08-04",
     "time": "8:00 pm",
@@ -6047,16 +6076,6 @@
     "description": "In silent-era Hollywood, stuntman Roy Walker (Lee Pace) is brought to a hospital after an on-set accident. There, he befriends a young girl (Catinca Untaru) and tells her a fantastical tale of epic heroes taking revenge on an evil ruler. The story transports her from the hospital into the exotic landscapes of her imagination.",
     "runtime": "119 min",
     "director": "Tarsem Singh",
-    "city": "LA"
-  },
-  {
-    "title": "Midnight Run             / 48 Hrs.",
-    "date": "2026-08-04",
-    "time": "7:30 pm / 10:05 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-4-midnight-run-48-hrs/",
     "city": "LA"
   },
   {
@@ -6211,6 +6230,19 @@
     "city": "LA"
   },
   {
+    "title": "Midnight Run             / 48 Hrs.",
+    "date": "2026-08-05",
+    "time": "7:30 pm / 10:05 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-5-midnight-run-48-hrs/",
+    "description": "The odd couple classic! Robert De Niro is a tough ex-cop tasked with finding Charles Grodin, a mild-mannered mob accountant who\u2019s skipped bail and on the lam. But what was supposed to be a simple Midnight Run turns into a comedic, action-packed cross country chase where he\u2019ll have to get the FBI off his case, the mob off his trail, and Grodin off his back!",
+    "runtime": "126 min",
+    "director": "Martin Brest",
+    "city": "LA"
+  },
+  {
     "title": "EC: THE GOLD RUSH",
     "date": "2026-08-05",
     "time": "8:45 PM",
@@ -6267,16 +6299,6 @@
     "description": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
     "runtime": "99 min",
     "director": "Dylan Meyer",
-    "city": "LA"
-  },
-  {
-    "title": "Midnight Run             / 48 Hrs.",
-    "date": "2026-08-05",
-    "time": "7:30 pm / 10:05 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-5-midnight-run-48-hrs/",
     "city": "LA"
   },
   {
@@ -6389,16 +6411,6 @@
     "city": "LA"
   },
   {
-    "title": "Taxi Driver",
-    "date": "2026-08-06",
-    "time": "7:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-6-taxi-driver/",
-    "city": "LA"
-  },
-  {
     "title": "THE ODYSSEY in 70mm",
     "date": "2026-08-06",
     "time": "7:30 PM",
@@ -6419,6 +6431,19 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/in-the-cut-019dd585-40b8-73e6-0781-56750aa09dd3",
+    "city": "LA"
+  },
+  {
+    "title": "Taxi Driver",
+    "date": "2026-08-06",
+    "time": "7:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-6-taxi-driver/",
+    "description": "Martin Scorsese directs Paul Schrader\u2019s searing script about alienation and desperation, following a shattered nightcrawler haunting the neon-lit streets of seedy \u201870s NYC as a nightshift Taxi Driver as he hurtles towards his imagined destiny. The gritty and hard-hitting masterpiece features an all-time great performance from Robert De Niro and scored the Palme d\u2019Or at the Cannes Film Festival for the director.",
+    "runtime": "114 min",
+    "director": "Martin Scorsese",
     "city": "LA"
   },
   {
@@ -6667,16 +6692,6 @@
     "city": "NYC"
   },
   {
-    "title": "Taxi Driver",
-    "date": "2026-08-07",
-    "time": "7:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-7-taxi-driver/",
-    "city": "LA"
-  },
-  {
     "title": "Jackass: Best and Last",
     "date": "2026-08-07",
     "time": "7:30 pm",
@@ -6707,6 +6722,19 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/basic-instinct-019dd587-0e22-9625-5806-8b921623f8a2",
+    "city": "LA"
+  },
+  {
+    "title": "Taxi Driver",
+    "date": "2026-08-07",
+    "time": "7:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-7-taxi-driver/",
+    "description": "Martin Scorsese directs Paul Schrader\u2019s searing script about alienation and desperation, following a shattered nightcrawler haunting the neon-lit streets of seedy \u201870s NYC as a nightshift Taxi Driver as he hurtles towards his imagined destiny. The gritty and hard-hitting masterpiece features an all-time great performance from Robert De Niro and scored the Palme d\u2019Or at the Cannes Film Festival for the director.",
+    "runtime": "114 min",
+    "director": "Martin Scorsese",
     "city": "LA"
   },
   {
@@ -6803,16 +6831,6 @@
     "city": "NYC"
   },
   {
-    "title": "Pulp Fiction",
-    "date": "2026-08-07",
-    "time": "11:59 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-7-pulp-fiction-midnight-show/",
-    "city": "LA"
-  },
-  {
     "title": "Ice Cream Man",
     "date": "2026-08-07",
     "time": "11:59 PM",
@@ -6823,13 +6841,16 @@
     "city": "LA"
   },
   {
-    "title": "Cartoon Club",
-    "date": "2026-08-08",
-    "time": "10:00 am",
-    "format": "",
+    "title": "Pulp Fiction",
+    "date": "2026-08-07",
+    "time": "11:59 pm",
+    "format": "35mm",
     "venue": "New Beverly Cinema",
     "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-8-cartoon-club/",
+    "url": "https://thenewbev.com/program/august-7-pulp-fiction-midnight-show/",
+    "description": "Two hitmen out to retrieve a suitcase stolen. An aging boxer paid to lose his next fight. A couple of young lovers and small-time thieves who decide they need a change of venue. Their lives are woven together in the exhilarating Pulp Fiction . Quentin Tarantino\u2019s Palme d\u2019Or-winning classic is packed with electric dialogue, potent pop-culture touchstones, and an unforgettable ensemble cast. You won\u2019t know the facts until you\u2019ve seen the fiction.",
+    "runtime": "154 min",
+    "director": "Quentin Tarantino",
     "city": "LA"
   },
   {
@@ -6840,6 +6861,19 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3910?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "city": "LA"
+  },
+  {
+    "title": "Cartoon Club",
+    "date": "2026-08-08",
+    "time": "10:00 am",
+    "format": "",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-8-cartoon-club/",
+    "description": "Calling all animation aficionados! Join us for a celebration of the art and history of one of our favorite mediums with our monthly Cartoon Club! Enjoy a feature-length assemblage of classic shorts, including rare gems unearthed from the vaults and other animated antics lovingly assembled from our large archive of film treasures.",
+    "runtime": "",
+    "director": "",
     "city": "LA"
   },
   {
@@ -6906,16 +6940,6 @@
     "city": "NYC"
   },
   {
-    "title": "School of Rock",
-    "date": "2026-08-08",
-    "time": "2:00 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-8-school-of-rock-family-matinee/",
-    "city": "LA"
-  },
-  {
     "title": "Chocolat",
     "date": "2026-08-08",
     "time": "2:00 PM",
@@ -6924,6 +6948,19 @@
     "venue_short": "Metrograph",
     "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30526",
     "city": "NYC"
+  },
+  {
+    "title": "School of Rock",
+    "date": "2026-08-08",
+    "time": "2:00 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-8-school-of-rock-family-matinee/",
+    "description": "In the role he was born to play, Jack Black is Dewey Finn, a slacker guitar player still holding on to the dream of being a rock star. Due to a mix-up (and a low-level con), the wildly unqualified Dewey ends up substitute teacher in a prestigious elementary school. He recruits the bored prep school kids to form a new band, so these talented kids can rock the battle of the bands like it\u2019s never been rocked before. This hilariously quoteable contemporary classic made Jack Black a superstar. And of course, it\u2019s got a killer rock n rock soundtrack featuring songs from Led Zeppelin, Cream, T. Rex and the Black Keys, not to mention the original anthems performed by the kids themselves. Let\u2019s get rockin!",
+    "runtime": "109 min",
+    "director": "Richard Linklater",
+    "city": "LA"
   },
   {
     "title": "Woodstock on 35mm",
@@ -7075,16 +7112,6 @@
     "city": "LA"
   },
   {
-    "title": "Taxi Driver",
-    "date": "2026-08-08",
-    "time": "7:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-8-taxi-driver/",
-    "city": "LA"
-  },
-  {
     "title": "Twin Peaks: The Original Mystery \u2013 Episodes 7 + 8",
     "date": "2026-08-08",
     "time": "7:30 pm",
@@ -7102,6 +7129,19 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/the-fourth-man-019dd589-d8d0-bf49-4cbf-adea87d13136",
+    "city": "LA"
+  },
+  {
+    "title": "Taxi Driver",
+    "date": "2026-08-08",
+    "time": "7:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-8-taxi-driver/",
+    "description": "Martin Scorsese directs Paul Schrader\u2019s searing script about alienation and desperation, following a shattered nightcrawler haunting the neon-lit streets of seedy \u201870s NYC as a nightshift Taxi Driver as he hurtles towards his imagined destiny. The gritty and hard-hitting masterpiece features an all-time great performance from Robert De Niro and scored the Palme d\u2019Or at the Cannes Film Festival for the director.",
+    "runtime": "114 min",
+    "director": "Martin Scorsese",
     "city": "LA"
   },
   {
@@ -7185,16 +7225,6 @@
     "city": "NYC"
   },
   {
-    "title": "Cannibal Holocaust",
-    "date": "2026-08-08",
-    "time": "11:59 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-8-cannibal-holocaust-midnight-show/",
-    "city": "LA"
-  },
-  {
     "title": "Ice Cream Man",
     "date": "2026-08-08",
     "time": "11:59 PM",
@@ -7202,6 +7232,19 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3881?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "city": "LA"
+  },
+  {
+    "title": "Cannibal Holocaust",
+    "date": "2026-08-08",
+    "time": "11:59 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-8-cannibal-holocaust-midnight-show/",
+    "description": "An anthropologist ventures to South America in search of a group who went missing while filming a documentary about cannibal tribes. And when he finds their lost footage, it will contain the shocking truth about their gruesome fate. The most controversial movie ever made has lost none of its unflinching power, a cruel cinematic landmark featuring special effects so realistic that director Ruggero Deodato was arrested on suspicion of murder.",
+    "runtime": "96 min",
+    "director": "Ruggero Deodato",
     "city": "LA"
   },
   {
@@ -7278,16 +7321,6 @@
     "city": "NYC"
   },
   {
-    "title": "School of Rock",
-    "date": "2026-08-09",
-    "time": "2:00 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-9-school-of-rock-family-matinee/",
-    "city": "LA"
-  },
-  {
     "title": "The Thin Red Line",
     "date": "2026-08-09",
     "time": "2:00 PM",
@@ -7295,6 +7328,19 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/the-thin-red-line-019d8806-49c1-0b1c-0a34-0cd360c2e8e9",
+    "city": "LA"
+  },
+  {
+    "title": "School of Rock",
+    "date": "2026-08-09",
+    "time": "2:00 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-9-school-of-rock-family-matinee/",
+    "description": "In the role he was born to play, Jack Black is Dewey Finn, a slacker guitar player still holding on to the dream of being a rock star. Due to a mix-up (and a low-level con), the wildly unqualified Dewey ends up substitute teacher in a prestigious elementary school. He recruits the bored prep school kids to form a new band, so these talented kids can rock the battle of the bands like it\u2019s never been rocked before. This hilariously quoteable contemporary classic made Jack Black a superstar. And of course, it\u2019s got a killer rock n rock soundtrack featuring songs from Led Zeppelin, Cream, T. Rex and the Black Keys, not to mention the original anthems performed by the kids themselves. Let\u2019s get rockin!",
+    "runtime": "109 min",
+    "director": "Richard Linklater",
     "city": "LA"
   },
   {
@@ -7394,16 +7440,6 @@
     "city": "NYC"
   },
   {
-    "title": "Taxi Driver",
-    "date": "2026-08-09",
-    "time": "6:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-9-taxi-driver/",
-    "city": "LA"
-  },
-  {
     "title": "Alice Coltrane: Eternity\u2019s Pillar",
     "date": "2026-08-09",
     "time": "6:30 pm",
@@ -7421,6 +7457,19 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/elle-019dd58b-36cb-2931-b14f-63ac39d62b9b",
+    "city": "LA"
+  },
+  {
+    "title": "Taxi Driver",
+    "date": "2026-08-09",
+    "time": "6:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-9-taxi-driver/",
+    "description": "Martin Scorsese directs Paul Schrader\u2019s searing script about alienation and desperation, following a shattered nightcrawler haunting the neon-lit streets of seedy \u201870s NYC as a nightshift Taxi Driver as he hurtles towards his imagined destiny. The gritty and hard-hitting masterpiece features an all-time great performance from Robert De Niro and scored the Palme d\u2019Or at the Cannes Film Festival for the director.",
+    "runtime": "114 min",
+    "director": "Martin Scorsese",
     "city": "LA"
   },
   {
@@ -7537,16 +7586,6 @@
     "city": "LA"
   },
   {
-    "title": "Ice Cream Man",
-    "date": "2026-08-10",
-    "time": "7:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-10-ice-cream-man/",
-    "city": "LA"
-  },
-  {
     "title": "The Prestige",
     "date": "2026-08-10",
     "time": "7:30 PM",
@@ -7554,6 +7593,19 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/the-prestige-019dd58c-400e-aae7-d42b-8937636a5c73",
+    "city": "LA"
+  },
+  {
+    "title": "Ice Cream Man",
+    "date": "2026-08-10",
+    "time": "7:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-10-ice-cream-man/",
+    "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results. (The Horror Section)",
+    "runtime": "86 min",
+    "director": "Eli Roth",
     "city": "LA"
   },
   {
@@ -7600,16 +7652,6 @@
     "city": "LA"
   },
   {
-    "title": "Ice Cream Man",
-    "date": "2026-08-11",
-    "time": "7:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-11-ice-cream-man/",
-    "city": "LA"
-  },
-  {
     "title": "Sound and Fury: JAWBREAKER: Anti-Cimex Documentary w/ Q+A",
     "date": "2026-08-11",
     "time": "7:30 pm",
@@ -7617,6 +7659,19 @@
     "venue": "Brain Dead Studios",
     "venue_short": "BrainDead",
     "url": "https://dice.fm/partner/tickets/event/7dx8q7-sound-and-fury-presents-jawbreaker-anti-cimex-documentary-w-qa-11th-aug-brain-dead-studios-los-angeles-tickets?dice_id=9964963&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_branch_match_id=1256662425127165609&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Q8zNDIwsDBKMzIxTLWvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQCWaOELOwAAAA%3D%3D",
+    "city": "LA"
+  },
+  {
+    "title": "Ice Cream Man",
+    "date": "2026-08-11",
+    "time": "7:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-11-ice-cream-man/",
+    "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results. (The Horror Section)",
+    "runtime": "86 min",
+    "director": "Eli Roth",
     "city": "LA"
   },
   {
@@ -7693,6 +7748,19 @@
     "city": "LA"
   },
   {
+    "title": "My Dinner with Andre             / Vanya on 42nd Street",
+    "date": "2026-08-12",
+    "time": "7:30 pm / 9:50 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-12-my-dinner-with-andre-vanya-on-42nd-street/",
+    "description": "In this captivating and philosophical film directed by Louis Malle, actor and playwright Wallace Shawn sits down with his friend the theater director Andr\u00e9 Gregory at a restaurant on New York\u2019s Upper West Side, and the pair proceed through an alternately whimsical and despairing confessional about love, death, money, and all the superstition in between. Playing variations on their own New York\u2013honed personas, Shawn and Gregory, who also cowrote the screenplay, dive in with introspective intellectual gusto, and Malle captures it all with a delicate, artful detachment. A fascinating freeze-frame of cosmopolitan culture, My Dinner with Andr\u00e9 remains a unique work in cinema history. (Janus Films)",
+    "runtime": "111 min",
+    "director": "Louis Malle",
+    "city": "LA"
+  },
+  {
     "title": "The Dreamers",
     "date": "2026-08-12",
     "time": "8:00 pm",
@@ -7723,16 +7791,6 @@
     "description": "Set just prior to the start of the 21st century, this vaguely futuristic story follows two residents of a quickly crumbling building who refuse to leave their homes in spite of a virus that has forced the evacuation of the area. As rain pours down relentlessly, a single man is stuck with an unfinished plumbing job and a hole in his floor. This results in a very odd relationship with the woman who lives below him. Combining deadpan humor with an austere view of loneliness and a couple of unexpected musical numbers, Tsai Ming-Liang crafted one of the most original films of the 1990s.",
     "runtime": "95 min",
     "director": "Tsai Ming-liang",
-    "city": "LA"
-  },
-  {
-    "title": "My Dinner with Andre             / Vanya on 42nd Street",
-    "date": "2026-08-12",
-    "time": "7:30 pm / 9:50 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-12-my-dinner-with-andre-vanya-on-42nd-street/",
     "city": "LA"
   },
   {
@@ -7776,6 +7834,19 @@
     "city": "LA"
   },
   {
+    "title": "My Dinner with Andre             / Vanya on 42nd Street",
+    "date": "2026-08-13",
+    "time": "7:30 pm / 9:50 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-13-my-dinner-with-andre-vanya-on-42nd-street/",
+    "description": "In this captivating and philosophical film directed by Louis Malle, actor and playwright Wallace Shawn sits down with his friend the theater director Andr\u00e9 Gregory at a restaurant on New York\u2019s Upper West Side, and the pair proceed through an alternately whimsical and despairing confessional about love, death, money, and all the superstition in between. Playing variations on their own New York\u2013honed personas, Shawn and Gregory, who also cowrote the screenplay, dive in with introspective intellectual gusto, and Malle captures it all with a delicate, artful detachment. A fascinating freeze-frame of cosmopolitan culture, My Dinner with Andr\u00e9 remains a unique work in cinema history. (Janus Films)",
+    "runtime": "111 min",
+    "director": "Louis Malle",
+    "city": "LA"
+  },
+  {
     "title": "C\u00d3DIGO MARCOS",
     "date": "2026-08-13",
     "time": "8:30 PM",
@@ -7796,16 +7867,6 @@
     "description": "The American Cinematheque is a member-donor-volunteer supported 501(c)(3) non-profit arts organization whose mission is to celebrate the experience of cinema.",
     "runtime": "",
     "director": "",
-    "city": "LA"
-  },
-  {
-    "title": "My Dinner with Andre             / Vanya on 42nd Street",
-    "date": "2026-08-13",
-    "time": "7:30 pm / 9:50 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-13-my-dinner-with-andre-vanya-on-42nd-street/",
     "city": "LA"
   },
   {
@@ -7968,16 +8029,6 @@
     "city": "LA"
   },
   {
-    "title": "Cabaret (IB Tech Print)",
-    "date": "2026-08-14",
-    "time": "7:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-14-cabaret/",
-    "city": "LA"
-  },
-  {
     "title": "CAM & FACES OF DEATH + Q&A w/ Daniel Goldhaber & Isa Mazzei",
     "date": "2026-08-14",
     "time": "7:30 pm",
@@ -7995,6 +8046,19 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/unfaithful-019dd58d-916f-a50b-c633-78a0ffd1e907",
+    "city": "LA"
+  },
+  {
+    "title": "Cabaret (IB Tech Print)",
+    "date": "2026-08-14",
+    "time": "7:30 pm",
+    "format": "",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-14-cabaret/",
+    "description": "Winner of 8 Academy Awards, including Best Actress and Best Director, director / choreographer Bob Fosse\u2019s adaptation of the Broadway show is a stylish, big screen musical masterpiece. Set in 1931 Berlin, Cabaret chronicles young American Sally Bowles (Liza Minnelli) and her bohemian life as a performer at the Kit Kat Klub during the last days of the Weimar Republic, as well as her relationships with a reserved academic (Michael York) and a rich playboy (Helmut Griem). Minnelli is electric in her star-making role and a stellar Joel Grey shines in his Best Supporting Actor performance as the bawdy Master of Ceremonies.",
+    "runtime": "123 min",
+    "director": "Bob Fosse",
     "city": "LA"
   },
   {
@@ -8091,10 +8155,13 @@
     "title": "Pulp Fiction",
     "date": "2026-08-14",
     "time": "11:59 pm",
-    "format": "",
+    "format": "35mm",
     "venue": "New Beverly Cinema",
     "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-14-pulp-fiction-midnight-show/",
+    "url": "https://thenewbev.com/program/august-14-pulp-fiction-midnight-show/",
+    "description": "Two hitmen out to retrieve a suitcase stolen. An aging boxer paid to lose his next fight. A couple of young lovers and small-time thieves who decide they need a change of venue. Their lives are woven together in the exhilarating Pulp Fiction . Quentin Tarantino\u2019s Palme d\u2019Or-winning classic is packed with electric dialogue, potent pop-culture touchstones, and an unforgettable ensemble cast. You won\u2019t know the facts until you\u2019ve seen the fiction.",
+    "runtime": "154 min",
+    "director": "Quentin Tarantino",
     "city": "LA"
   },
   {
@@ -8174,10 +8241,13 @@
     "title": "Knights of the Round Table",
     "date": "2026-08-15",
     "time": "2:00 pm",
-    "format": "",
+    "format": "35mm",
     "venue": "New Beverly Cinema",
     "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-15-knights-of-the-round-table-family-matinee/",
+    "url": "https://thenewbev.com/program/august-15-knights-of-the-round-table-family-matinee/",
+    "description": "All the glory and splendor of King Arthur\u2019s court presented in massive CinemaScope! The Arthurian legend receives a lavish Metro-Goldwyn-Mayer adaptation, lusciously lensed by Freddie Young ( Lawrence of Arabia ) & Stephen Dade ( Zulu ), and featuring a stirring Miklos Rozsa score. Sir Lancelot (Robert Taylor) is sworn to serve King Arthur (Mel Ferrer), but his devotion to the queen (Ava Gardner) could provide fuel for their enemies to destroy Camelot.",
+    "runtime": "115 min",
+    "director": "Richard Thorpe",
     "city": "LA"
   },
   {
@@ -8337,16 +8407,6 @@
     "city": "NYC"
   },
   {
-    "title": "Cabaret (IB Tech Print)",
-    "date": "2026-08-15",
-    "time": "7:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-15-cabaret/",
-    "city": "LA"
-  },
-  {
     "title": "Deep Water",
     "date": "2026-08-15",
     "time": "7:30 pm",
@@ -8364,6 +8424,19 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/the-ugly-019e0a0a-e285-aa70-93a8-d960d2b0c160",
+    "city": "LA"
+  },
+  {
+    "title": "Cabaret (IB Tech Print)",
+    "date": "2026-08-15",
+    "time": "7:30 pm",
+    "format": "",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-15-cabaret/",
+    "description": "Winner of 8 Academy Awards, including Best Actress and Best Director, director / choreographer Bob Fosse\u2019s adaptation of the Broadway show is a stylish, big screen musical masterpiece. Set in 1931 Berlin, Cabaret chronicles young American Sally Bowles (Liza Minnelli) and her bohemian life as a performer at the Kit Kat Klub during the last days of the Weimar Republic, as well as her relationships with a reserved academic (Michael York) and a rich playboy (Helmut Griem). Minnelli is electric in her star-making role and a stellar Joel Grey shines in his Best Supporting Actor performance as the bawdy Master of Ceremonies.",
+    "runtime": "123 min",
+    "director": "Bob Fosse",
     "city": "LA"
   },
   {
@@ -8450,10 +8523,13 @@
     "title": "Nirvanna the Band the Show the Movie",
     "date": "2026-08-15",
     "time": "11:59 pm",
-    "format": "",
+    "format": "35mm",
     "venue": "New Beverly Cinema",
     "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-15-nirvanna-the-band-the-show-the-movie-midnight-show/",
+    "url": "https://thenewbev.com/program/august-15-nirvanna-the-band-the-show-the-movie-midnight-show/",
+    "description": "The cult Canadian show makes the giant leap to the big screen with this wildly ambitious & riotously funny instant-classic that demands to be seen with an audience. When their elaborate plans to book a show at the Rivoli goes horribly wrong, a pair of best buds (Matt Johnson & Jay McCarrol) accidentally get sent back in time to the year 2008.",
+    "runtime": "100 min",
+    "director": "Matt Johnson",
     "city": "LA"
   },
   {
@@ -8517,16 +8593,6 @@
     "city": "NYC"
   },
   {
-    "title": "Knights of the Round Table",
-    "date": "2026-08-16",
-    "time": "2:00 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-16-knights-of-the-round-table-family-matinee/",
-    "city": "LA"
-  },
-  {
     "title": "Munich",
     "date": "2026-08-16",
     "time": "2:00 PM",
@@ -8534,6 +8600,19 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/munich-019d8804-e004-8e70-0ae5-e53d81175bb7",
+    "city": "LA"
+  },
+  {
+    "title": "Knights of the Round Table",
+    "date": "2026-08-16",
+    "time": "2:00 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-16-knights-of-the-round-table-family-matinee/",
+    "description": "All the glory and splendor of King Arthur\u2019s court presented in massive CinemaScope! The Arthurian legend receives a lavish Metro-Goldwyn-Mayer adaptation, lusciously lensed by Freddie Young ( Lawrence of Arabia ) & Stephen Dade ( Zulu ), and featuring a stirring Miklos Rozsa score. Sir Lancelot (Robert Taylor) is sworn to serve King Arthur (Mel Ferrer), but his devotion to the queen (Ava Gardner) could provide fuel for their enemies to destroy Camelot.",
+    "runtime": "115 min",
+    "director": "Richard Thorpe",
     "city": "LA"
   },
   {
@@ -8630,10 +8709,13 @@
     "title": "20,000 Leagues Under the Sea (1916)(Silent with Live Music Score)",
     "date": "2026-08-16",
     "time": "6:30 pm",
-    "format": "",
+    "format": "35mm",
     "venue": "New Beverly Cinema",
     "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-16-20000-leagues-under-the-sea/",
+    "url": "https://thenewbev.com/program/august-16-20000-leagues-under-the-sea/",
+    "description": "A groundbreaking underwater adventure based on the timeless Jules Verne tale! When a vessel investigating a monster terrorizing the seas is attacked, they\u2019ll discover Captain Nemo and his fantastic submarine, the Nautilus. But the danger & mysteries deepen as Nemo\u2019s backstory comes into focus.",
+    "runtime": "86 min",
+    "director": "Stuart Paton",
     "city": "LA"
   },
   {
@@ -8773,10 +8855,13 @@
     "title": "The Thrill Killers             / Psychedelic Sexualis",
     "date": "2026-08-17",
     "time": "7:30 pm / 9:10 pm",
-    "format": "",
+    "format": "35mm",
     "venue": "New Beverly Cinema",
     "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-17-the-thrill-killers-psychedelic-sexualis/",
+    "url": "https://thenewbev.com/program/august-17-the-thrill-killers-psychedelic-sexualis/",
+    "description": "Homicidal maniacs on a bloody rampage! In director Ray Dennis Steckler\u2019s cult mindblower, a trio of psychotic killers escape from a mental institution and wreak havoc across Los Angeles. Liz Renay ( Desperate Living ), Steckler regular Carolyn Brandt, legendary stuntman Gary Kent, and Steckler himself (under his Cash Flagg alias) star.",
+    "runtime": "70 min",
+    "director": "Ray Dennis Steckler",
     "city": "LA"
   },
   {
@@ -8813,6 +8898,19 @@
     "city": "LA"
   },
   {
+    "title": "Ball of Fire             / The Lady Eve",
+    "date": "2026-08-18",
+    "time": "7:30 pm / 9:50 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-18-ball-of-fire-the-lady-eve/",
+    "description": "Gary Cooper & Barbara Stanwyck star in a comedy classic from director Howard Hawks and screenwriters Charles Brackett and Billy Wilder!",
+    "runtime": "111 min",
+    "director": "Howard Hawks",
+    "city": "LA"
+  },
+  {
     "title": "ZACHARIAH",
     "date": "2026-08-18",
     "time": "9:00 PM",
@@ -8821,16 +8919,6 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61793",
     "city": "NYC"
-  },
-  {
-    "title": "Ball of Fire             / The Lady Eve",
-    "date": "2026-08-18",
-    "time": "7:30 pm / 9:50 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-18-ball-of-fire-the-lady-eve/",
-    "city": "LA"
   },
   {
     "title": "Ponyo",
@@ -8906,6 +8994,19 @@
     "city": "LA"
   },
   {
+    "title": "Ball of Fire             / The Lady Eve",
+    "date": "2026-08-19",
+    "time": "7:30 pm / 9:50 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-19-ball-of-fire-the-lady-eve/",
+    "description": "Gary Cooper & Barbara Stanwyck star in a comedy classic from director Howard Hawks and screenwriters Charles Brackett and Billy Wilder!",
+    "runtime": "111 min",
+    "director": "Howard Hawks",
+    "city": "LA"
+  },
+  {
     "title": "Cosmos",
     "date": "2026-08-19",
     "time": "8:00 pm",
@@ -8924,16 +9025,6 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61800",
     "city": "NYC"
-  },
-  {
-    "title": "Ball of Fire             / The Lady Eve",
-    "date": "2026-08-19",
-    "time": "7:30 pm / 9:50 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-19-ball-of-fire-the-lady-eve/",
-    "city": "LA"
   },
   {
     "title": "EC: JOSEPH CORNELL",
@@ -8956,16 +9047,6 @@
     "city": "NYC"
   },
   {
-    "title": "Moneyball",
-    "date": "2026-08-20",
-    "time": "7:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-20-moneyball/",
-    "city": "LA"
-  },
-  {
     "title": "The Searchers",
     "date": "2026-08-20",
     "time": "7:30 PM",
@@ -8973,6 +9054,19 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/the-searchers-019de50c-7daf-6b53-eb10-eaee76152d11",
+    "city": "LA"
+  },
+  {
+    "title": "Moneyball",
+    "date": "2026-08-20",
+    "time": "7:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-20-moneyball/",
+    "description": "Oakland A\u2019s general manager Billy Beane (Brad Pitt) challenges the system and defies conventional wisdom when he is forced to rebuild his small-market team, on a limited budget. Despite opposition from the old guard, the media, fans and their own manager (Philip Seymour Hoffman), Beane \u2013 with the help of a young, number-crunching, Yale-educated economist (Jonah Hill) \u2013 develops a roster of misfits\u2026 and along the way, forever changes the way the game is played. (Sony Pictures)",
+    "runtime": "133 min",
+    "director": "Bennett Miller",
     "city": "LA"
   },
   {
@@ -9149,16 +9243,6 @@
     "city": "LA"
   },
   {
-    "title": "Moneyball",
-    "date": "2026-08-21",
-    "time": "7:30 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-21-moneyball/",
-    "city": "LA"
-  },
-  {
     "title": "The Fast and the Furious (25th Anniversary)",
     "date": "2026-08-21",
     "time": "7:30 PM",
@@ -9186,6 +9270,19 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/gunfight-at-the-o-k-corral-019de50d-75de-011b-6835-d2abcb4adec8",
+    "city": "LA"
+  },
+  {
+    "title": "Moneyball",
+    "date": "2026-08-21",
+    "time": "7:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-21-moneyball/",
+    "description": "Oakland A\u2019s general manager Billy Beane (Brad Pitt) challenges the system and defies conventional wisdom when he is forced to rebuild his small-market team, on a limited budget. Despite opposition from the old guard, the media, fans and their own manager (Philip Seymour Hoffman), Beane \u2013 with the help of a young, number-crunching, Yale-educated economist (Jonah Hill) \u2013 develops a roster of misfits\u2026 and along the way, forever changes the way the game is played. (Sony Pictures)",
+    "runtime": "133 min",
+    "director": "Bennett Miller",
     "city": "LA"
   },
   {
@@ -9259,16 +9356,6 @@
     "city": "NYC"
   },
   {
-    "title": "Pulp Fiction",
-    "date": "2026-08-21",
-    "time": "11:59 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-21-pulp-fiction-midnight-show/",
-    "city": "LA"
-  },
-  {
     "title": "Child's Play",
     "date": "2026-08-21",
     "time": "11:59 PM",
@@ -9276,6 +9363,19 @@
     "venue": "Vista Theater",
     "venue_short": "Vista",
     "url": "https://ticketing.uswest.veezi.com/purchase/3900?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "city": "LA"
+  },
+  {
+    "title": "Pulp Fiction",
+    "date": "2026-08-21",
+    "time": "11:59 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-21-pulp-fiction-midnight-show/",
+    "description": "Two hitmen out to retrieve a suitcase stolen. An aging boxer paid to lose his next fight. A couple of young lovers and small-time thieves who decide they need a change of venue. Their lives are woven together in the exhilarating Pulp Fiction . Quentin Tarantino\u2019s Palme d\u2019Or-winning classic is packed with electric dialogue, potent pop-culture touchstones, and an unforgettable ensemble cast. You won\u2019t know the facts until you\u2019ve seen the fiction.",
+    "runtime": "154 min",
+    "director": "Quentin Tarantino",
     "city": "LA"
   },
   {
@@ -9352,10 +9452,13 @@
     "title": "The Mummy (1999)",
     "date": "2026-08-22",
     "time": "2:00 pm",
-    "format": "",
+    "format": "35mm",
     "venue": "New Beverly Cinema",
     "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-22-the-mummy-family-matinee/",
+    "url": "https://thenewbev.com/program/august-22-the-mummy-family-matinee/",
+    "description": "The sands will rise. The heavens will part. The power will be unleashed. Brendan Fraser & Rachel Weisz star in a rollicking, thrill-a-minute adventure that\u2019s one of the most entertaining blockbusters of the \u201890s. When an American adventurer (Fraser) teams with an Egyptologist librarian (Weisz) and her brother (John Hannah) to uncover the lost City of the Dead, they\u2019ll discover that disturbing the slumber of an ancient priest doomed for eternity could destroy the world.",
+    "runtime": "125 min",
+    "director": "Stephen Sommers",
     "city": "LA"
   },
   {
@@ -9437,6 +9540,19 @@
     "venue_short": "Metrograph",
     "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30592",
     "city": "NYC"
+  },
+  {
+    "title": "The War of the Worlds (1953)             / Earth vs. the Flying Saucers",
+    "date": "2026-08-22",
+    "time": "6:30 pm / 8:25 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-22-the-war-of-the-worlds-earth-vs-the-flying-saucers/",
+    "description": "H.G. Wells\u2019 most famous and fantastic story rockets across the screen in one of the most celebrated science fiction films of all time! When a mysterious object lands in a small Southern California town, a Martian invasion unleashes a mighty panorama of earth-shaking fury. Genre icon producer George Pal presents a classic terror tale for the atomic age, a thrill-a-minute stunner featuring Oscar-winning visual effects, iconic leads in Gene Barry and Ann Robinson, a stellar Leith Stevens score, and costuming by Edith Head.",
+    "runtime": "85 min",
+    "director": "Byron Haskin",
+    "city": "LA"
   },
   {
     "title": "DEADLOCK",
@@ -9549,16 +9665,6 @@
     "city": "NYC"
   },
   {
-    "title": "Ghost World",
-    "date": "2026-08-22",
-    "time": "11:59 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-22-ghost-world-midnight-show/",
-    "city": "LA"
-  },
-  {
     "title": "Child's Play",
     "date": "2026-08-22",
     "time": "11:59 PM",
@@ -9569,13 +9675,16 @@
     "city": "LA"
   },
   {
-    "title": "The War of the Worlds (1953)             / Earth vs. the Flying Saucers",
+    "title": "Ghost World",
     "date": "2026-08-22",
-    "time": "6:30 pm / 8:25 pm",
-    "format": "",
+    "time": "11:59 pm",
+    "format": "35mm",
     "venue": "New Beverly Cinema",
     "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-22-the-war-of-the-worlds-earth-vs-the-flying-saucers/",
+    "url": "https://thenewbev.com/program/august-22-ghost-world-midnight-show/",
+    "description": "Documentary filmmaker Terry Zwigoff\u2019s first fictional feature is a bitingly funny adaptation of Daniel Clowes\u2019 famed underground comic. A sardonic Thora Birch and a young Scarlett Johansson are quintessential teenage outsiders adrift in post-high school ennui. But crossing paths with kindred spirit Seymour (Steve Buscemi) will change their friendship forever. Filled with a dream team supporting cast, Ghost World creates specific, believable people and all-too-relatable cringe-inducing laughs.",
+    "runtime": "111 min",
+    "director": "Terry Zwigoff",
     "city": "LA"
   },
   {
@@ -9649,16 +9758,6 @@
     "city": "NYC"
   },
   {
-    "title": "The Mummy (1999)",
-    "date": "2026-08-23",
-    "time": "2:00 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-23-the-mummy-family-matinee/",
-    "city": "LA"
-  },
-  {
     "title": "The Fast and the Furious (25th Anniversary)",
     "date": "2026-08-23",
     "time": "2:00 PM",
@@ -9676,6 +9775,19 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/jackie-019d8803-b2c0-a887-a0ba-9fdddd5907b3",
+    "city": "LA"
+  },
+  {
+    "title": "The Mummy (1999)",
+    "date": "2026-08-23",
+    "time": "2:00 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-23-the-mummy-family-matinee/",
+    "description": "The sands will rise. The heavens will part. The power will be unleashed. Brendan Fraser & Rachel Weisz star in a rollicking, thrill-a-minute adventure that\u2019s one of the most entertaining blockbusters of the \u201890s. When an American adventurer (Fraser) teams with an Egyptologist librarian (Weisz) and her brother (John Hannah) to uncover the lost City of the Dead, they\u2019ll discover that disturbing the slumber of an ancient priest doomed for eternity could destroy the world.",
+    "runtime": "125 min",
+    "director": "Stephen Sommers",
     "city": "LA"
   },
   {
@@ -9769,6 +9881,19 @@
     "city": "NYC"
   },
   {
+    "title": "The War of the Worlds (1953)             / Earth vs. the Flying Saucers",
+    "date": "2026-08-23",
+    "time": "6:30 pm / 8:25 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-23-the-war-of-the-worlds-earth-vs-the-flying-saucers/",
+    "description": "H.G. Wells\u2019 most famous and fantastic story rockets across the screen in one of the most celebrated science fiction films of all time! When a mysterious object lands in a small Southern California town, a Martian invasion unleashes a mighty panorama of earth-shaking fury. Genre icon producer George Pal presents a classic terror tale for the atomic age, a thrill-a-minute stunner featuring Oscar-winning visual effects, iconic leads in Gene Barry and Ann Robinson, a stellar Leith Stevens score, and costuming by Edith Head.",
+    "runtime": "85 min",
+    "director": "Byron Haskin",
+    "city": "LA"
+  },
+  {
     "title": "Bram Stoker's Dracula",
     "date": "2026-08-23",
     "time": "6:40 PM",
@@ -9859,16 +9984,6 @@
     "city": "NYC"
   },
   {
-    "title": "The War of the Worlds (1953)             / Earth vs. the Flying Saucers",
-    "date": "2026-08-23",
-    "time": "6:30 pm / 8:25 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-23-the-war-of-the-worlds-earth-vs-the-flying-saucers/",
-    "city": "LA"
-  },
-  {
     "title": "The Secret World of Arrietty",
     "date": "2026-08-24",
     "time": "2:30 PM",
@@ -9942,6 +10057,19 @@
     "city": "LA"
   },
   {
+    "title": "These Are the Damned             / The Curse of the Werewolf",
+    "date": "2026-08-24",
+    "time": "7:30 pm / 9:25 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-24-these-are-the-damned-the-curse-of-the-werewolf/",
+    "description": "Hammer Film Productions creates an icily strange juvenile delinquent / sci-fi horror hybrid featuring an unforgettable Oliver Reed!",
+    "runtime": "87 min",
+    "director": "Joseph Losey",
+    "city": "LA"
+  },
+  {
     "title": "APACHES / APACHEN",
     "date": "2026-08-24",
     "time": "9:00 PM",
@@ -9950,16 +10078,6 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61815",
     "city": "NYC"
-  },
-  {
-    "title": "These Are the Damned             / The Curse of the Werewolf",
-    "date": "2026-08-24",
-    "time": "7:30 pm / 9:25 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-24-these-are-the-damned-the-curse-of-the-werewolf/",
-    "city": "LA"
   },
   {
     "title": "The Fast and the Furious (25th Anniversary)",
@@ -10002,6 +10120,19 @@
     "city": "LA"
   },
   {
+    "title": "To Live and Die in L.A.             / The Rip",
+    "date": "2026-08-25",
+    "time": "7:30 pm / 9:55 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-25-to-live-and-die-in-l-a-the-rip/",
+    "description": "A federal agent is dead. A killer is loose. And the City of Angels is about to explode.",
+    "runtime": "116 min",
+    "director": "William Friedkin",
+    "city": "LA"
+  },
+  {
     "title": "DEADLOCK",
     "date": "2026-08-25",
     "time": "9:00 PM",
@@ -10010,16 +10141,6 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61802",
     "city": "NYC"
-  },
-  {
-    "title": "To Live and Die in L.A.             / The Rip",
-    "date": "2026-08-25",
-    "time": "7:30 pm / 9:55 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-25-to-live-and-die-in-l-a-the-rip/",
-    "city": "LA"
   },
   {
     "title": "The Secret World of Arrietty",
@@ -10072,6 +10193,19 @@
     "city": "LA"
   },
   {
+    "title": "To Live and Die in L.A.             / The Rip",
+    "date": "2026-08-26",
+    "time": "7:30 pm / 9:55 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-26-to-live-and-die-in-l-a-the-rip/",
+    "description": "A federal agent is dead. A killer is loose. And the City of Angels is about to explode.",
+    "runtime": "116 min",
+    "director": "William Friedkin",
+    "city": "LA"
+  },
+  {
     "title": "ZACHARIAH",
     "date": "2026-08-26",
     "time": "9:15 PM",
@@ -10080,16 +10214,6 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61794",
     "city": "NYC"
-  },
-  {
-    "title": "To Live and Die in L.A.             / The Rip",
-    "date": "2026-08-26",
-    "time": "7:30 pm / 9:55 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-26-to-live-and-die-in-l-a-the-rip/",
-    "city": "LA"
   },
   {
     "title": "The Fast and the Furious (25th Anniversary)",
@@ -10142,6 +10266,19 @@
     "city": "LA"
   },
   {
+    "title": "To Live and Die in L.A.             / The Rip",
+    "date": "2026-08-27",
+    "time": "7:30 pm / 9:55 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-27-to-live-and-die-in-l-a-the-rip/",
+    "description": "A federal agent is dead. A killer is loose. And the City of Angels is about to explode.",
+    "runtime": "116 min",
+    "director": "William Friedkin",
+    "city": "LA"
+  },
+  {
     "title": "EC: MAYA DEREN",
     "date": "2026-08-27",
     "time": "8:15 PM",
@@ -10160,16 +10297,6 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61821",
     "city": "NYC"
-  },
-  {
-    "title": "To Live and Die in L.A.             / The Rip",
-    "date": "2026-08-27",
-    "time": "7:30 pm / 9:55 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-27-to-live-and-die-in-l-a-the-rip/",
-    "city": "LA"
   },
   {
     "title": "THE OTHER",
@@ -10203,6 +10330,19 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61824",
     "city": "NYC"
+  },
+  {
+    "title": "The 39 Steps (1935)             / Sabotage (1936)",
+    "date": "2026-08-28",
+    "time": "6:30 pm / 8:25 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-28-the-39-steps-sabotage/",
+    "description": "A heart-racing spy story by Alfred Hitchcock, The 39 Steps follows Richard Hannay (Robert Donat) as he stumbles upon a conspiracy that thrusts him into a hectic chase across the Scottish moors \u2013 a chase in which he is both the pursuer and the pursued \u2013 as well as into an unexpected romance with the cool Pamela (Madeline Carroll). This classic wrong-man thriller from the Master of Suspense anticipates the director\u2019s most famous works (especially North by Northwest ), and remains one of his cleverest and most entertaining films. (American Genre Film Archive)",
+    "runtime": "86 min",
+    "director": "Alfred Hitchcock",
+    "city": "LA"
   },
   {
     "title": "Dirty Dancing",
@@ -10298,20 +10438,13 @@
     "title": "Pulp Fiction",
     "date": "2026-08-28",
     "time": "11:59 pm",
-    "format": "",
+    "format": "35mm",
     "venue": "New Beverly Cinema",
     "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-28-pulp-fiction-midnight-show/",
-    "city": "LA"
-  },
-  {
-    "title": "The 39 Steps (1935)             / Sabotage (1936)",
-    "date": "2026-08-28",
-    "time": "6:30 pm / 8:25 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-28-the-39-steps-sabotage/",
+    "url": "https://thenewbev.com/program/august-28-pulp-fiction-midnight-show/",
+    "description": "Two hitmen out to retrieve a suitcase stolen. An aging boxer paid to lose his next fight. A couple of young lovers and small-time thieves who decide they need a change of venue. Their lives are woven together in the exhilarating Pulp Fiction . Quentin Tarantino\u2019s Palme d\u2019Or-winning classic is packed with electric dialogue, potent pop-culture touchstones, and an unforgettable ensemble cast. You won\u2019t know the facts until you\u2019ve seen the fiction.",
+    "runtime": "154 min",
+    "director": "Quentin Tarantino",
     "city": "LA"
   },
   {
@@ -10358,16 +10491,6 @@
     "city": "LA"
   },
   {
-    "title": "The Man with the Golden Gun",
-    "date": "2026-08-29",
-    "time": "2:00 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-29-the-man-with-the-golden-gun-family-matinee/",
-    "city": "LA"
-  },
-  {
     "title": "The Court Jester",
     "date": "2026-08-29",
     "time": "2:00 PM",
@@ -10375,6 +10498,19 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/the-court-jester-019de530-6df9-22e6-2f9f-98c8af80ef63",
+    "city": "LA"
+  },
+  {
+    "title": "The Man with the Golden Gun",
+    "date": "2026-08-29",
+    "time": "2:00 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-29-the-man-with-the-golden-gun-family-matinee/",
+    "description": "He never misses his target, and now his target is 007. Roger Moore is back as Bond, this time on a dangerous mission to recover a stolen solar invention. But The Man with the Golden Gun , the world\u2019s most expensive assassin, is hunting him . Christopher Lee, Britt Ekland, Maud Adams, and Herv\u00e9 Villechaize co-star in this globetrotting action hit filmed across Thailand, Hong Kong, Macau, and beyond.",
+    "runtime": "125 min",
+    "director": "Guy Hamilton",
     "city": "LA"
   },
   {
@@ -10429,6 +10565,19 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61818",
     "city": "NYC"
+  },
+  {
+    "title": "The 39 Steps (1935)             / Sabotage (1936)",
+    "date": "2026-08-29",
+    "time": "6:30 pm / 8:25 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-29-the-39-steps-sabotage/",
+    "description": "A heart-racing spy story by Alfred Hitchcock, The 39 Steps follows Richard Hannay (Robert Donat) as he stumbles upon a conspiracy that thrusts him into a hectic chase across the Scottish moors \u2013 a chase in which he is both the pursuer and the pursued \u2013 as well as into an unexpected romance with the cool Pamela (Madeline Carroll). This classic wrong-man thriller from the Master of Suspense anticipates the director\u2019s most famous works (especially North by Northwest ), and remains one of his cleverest and most entertaining films. (American Genre Film Archive)",
+    "runtime": "86 min",
+    "director": "Alfred Hitchcock",
+    "city": "LA"
   },
   {
     "title": "I Want Your Sex",
@@ -10494,20 +10643,13 @@
     "title": "Strange Brew",
     "date": "2026-08-29",
     "time": "11:59 pm",
-    "format": "",
+    "format": "35mm",
     "venue": "New Beverly Cinema",
     "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-29-strange-brew-midnight-show/",
-    "city": "LA"
-  },
-  {
-    "title": "The 39 Steps (1935)             / Sabotage (1936)",
-    "date": "2026-08-29",
-    "time": "6:30 pm / 8:25 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-29-the-39-steps-sabotage/",
+    "url": "https://thenewbev.com/program/august-29-strange-brew-midnight-show/",
+    "description": "Canadian slackers Bob & Doug McKenzie (Rick Moranis & Dave Thomas) will do anything to keep the suds flowing. But when they land a gig at Elsinore Brewing and discover a diabolical scheme to take over the world, they\u2019ll have to stop the evil Brewmeister Smith (Max von Sydow) and his hockey-playing hellions in this SCTV cult classic.",
+    "runtime": "90 min",
+    "director": "Rick Moranis, Dave Thomas",
     "city": "LA"
   },
   {
@@ -10541,16 +10683,6 @@
     "city": "LA"
   },
   {
-    "title": "The Man with the Golden Gun",
-    "date": "2026-08-30",
-    "time": "2:00 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-30-the-man-with-the-golden-gun-family-matinee/",
-    "city": "LA"
-  },
-  {
     "title": "Da 5 Bloods",
     "date": "2026-08-30",
     "time": "2:00 PM",
@@ -10558,6 +10690,19 @@
     "venue": "Academy Museum",
     "venue_short": "Academy",
     "url": "https://www.academymuseum.org/en/programs/detail/da-5-bloods-019d8802-dd35-9e27-711e-afcf7156045f",
+    "city": "LA"
+  },
+  {
+    "title": "The Man with the Golden Gun",
+    "date": "2026-08-30",
+    "time": "2:00 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-30-the-man-with-the-golden-gun-family-matinee/",
+    "description": "He never misses his target, and now his target is 007. Roger Moore is back as Bond, this time on a dangerous mission to recover a stolen solar invention. But The Man with the Golden Gun , the world\u2019s most expensive assassin, is hunting him . Christopher Lee, Britt Ekland, Maud Adams, and Herv\u00e9 Villechaize co-star in this globetrotting action hit filmed across Thailand, Hong Kong, Macau, and beyond.",
+    "runtime": "125 min",
+    "director": "Guy Hamilton",
     "city": "LA"
   },
   {
@@ -10621,6 +10766,19 @@
     "city": "NYC"
   },
   {
+    "title": "The 39 Steps (1935)             / Sabotage (1936)",
+    "date": "2026-08-30",
+    "time": "6:30 pm / 8:25 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-30-the-39-steps-sabotage/",
+    "description": "A heart-racing spy story by Alfred Hitchcock, The 39 Steps follows Richard Hannay (Robert Donat) as he stumbles upon a conspiracy that thrusts him into a hectic chase across the Scottish moors \u2013 a chase in which he is both the pursuer and the pursued \u2013 as well as into an unexpected romance with the cool Pamela (Madeline Carroll). This classic wrong-man thriller from the Master of Suspense anticipates the director\u2019s most famous works (especially North by Northwest ), and remains one of his cleverest and most entertaining films. (American Genre Film Archive)",
+    "runtime": "86 min",
+    "director": "Alfred Hitchcock",
+    "city": "LA"
+  },
+  {
     "title": "Pride & Prejudice",
     "date": "2026-08-30",
     "time": "7:00 pm",
@@ -10669,16 +10827,6 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61819",
     "city": "NYC"
-  },
-  {
-    "title": "The 39 Steps (1935)             / Sabotage (1936)",
-    "date": "2026-08-30",
-    "time": "6:30 pm / 8:25 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-30-the-39-steps-sabotage/",
-    "city": "LA"
   },
   {
     "title": "GANZ + STREETER, PGM 1: NEW DISCOVERIES (filmmakers in person on Aug 28 & 29!)",
@@ -10734,6 +10882,19 @@
     "city": "LA"
   },
   {
+    "title": "The Blade             / Love In The Time Of Twilight",
+    "date": "2026-08-31",
+    "time": "7:30 pm / 9:45 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/august-31-the-blade-love-in-the-time-of-twilight/",
+    "description": "Director Tsui Hark helms one of the most kinetic & visually striking action films to emerge from the Hong Kong golden age! A young man discovers the truth about his father\u2019s death and embarks on quest for revenge where he loses his right arm and is left for dead. But when violence comes to his home again, he\u2019ll have to pick up his father\u2019s broken sword and find a new way to wield it.",
+    "runtime": "105 min",
+    "director": "Tsui Hark",
+    "city": "LA"
+  },
+  {
     "title": "GANZ + STREETER, PGM 2: ENCORE SCREENINGS",
     "date": "2026-08-31",
     "time": "8:45 PM",
@@ -10752,16 +10913,6 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=08&year=2026#showing-61825",
     "city": "NYC"
-  },
-  {
-    "title": "The Blade             / Love In The Time Of Twilight",
-    "date": "2026-08-31",
-    "time": "7:30 pm / 9:45 pm",
-    "format": "",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.comhttps://thenewbev.com/program/august-31-the-blade-love-in-the-time-of-twilight/",
-    "city": "LA"
   },
   {
     "title": "WRITTEN ON THE WIND",
