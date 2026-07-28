@@ -83,6 +83,12 @@
   }
 
   #filters-toggle { display: none; }   /* desktop: filters always shown */
+  /* Selected state reflects whether the drawer is open (not hover) */
+  #filters-toggle[aria-expanded="true"] {
+    background: var(--accent);
+    color: #000;
+    border-color: var(--accent);
+  }
 
   /* ── Rep City marquee logo ── */
   .rc-logo {
