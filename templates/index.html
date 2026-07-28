@@ -166,6 +166,52 @@
   .filter-btn:hover { border-color: var(--accent); color: var(--text); }
   .filter-btn.active { background: var(--accent); color: #000; border-color: var(--accent); font-weight: 600; }
 
+  /* Show the focus ring only for keyboard nav, not lingering after mouse clicks */
+  .filter-btn:focus:not(:focus-visible),
+  .venue-pill:focus:not(:focus-visible),
+  .action-btn:focus:not(:focus-visible),
+  .dropdown-btn:focus:not(:focus-visible) { outline: none; }
+  .filter-btn:focus-visible,
+  .venue-pill:focus-visible,
+  .action-btn:focus-visible,
+  .dropdown-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+  /* City multi-select dropdown */
+  .dropdown { position: relative; }
+  .dropdown-btn { display: inline-flex; align-items: center; gap: 6px; }
+  .dropdown-menu {
+    display: none;
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 0;
+    z-index: 150;
+    min-width: 170px;
+    max-height: 320px;
+    overflow-y: auto;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 4px;
+    box-shadow: 0 8px 24px rgba(0,0,0,.55);
+  }
+  .dropdown-menu.open { display: block; }
+  .dropdown-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 7px 10px;
+    border-radius: 5px;
+    font-size: 13px;
+    color: var(--text);
+    cursor: pointer;
+    white-space: nowrap;
+    user-select: none;
+  }
+  .dropdown-item:hover { background: var(--surface); }
+  .dropdown-item.checked { color: var(--accent); font-weight: 600; }
+  .dd-check { width: 12px; display: inline-block; text-align: center; color: var(--accent); }
+  .dd-caret { color: var(--muted); font-size: 10px; }
+
   /* ── Venue filter pills ── */
   .venue-filters {
     display: flex;
@@ -646,7 +692,7 @@
 
   .cal-dow-row {
     display: grid;
-    grid-template-columns: repeat(7, 1fr);
+    grid-template-columns: repeat(7, minmax(0, 1fr));
     gap: 4px;
     margin-bottom: 4px;
   }
@@ -662,7 +708,7 @@
 
   .cal-grid {
     display: grid;
-    grid-template-columns: repeat(7, 1fr);
+    grid-template-columns: repeat(7, minmax(0, 1fr));
     gap: 4px;
   }
 
@@ -844,8 +890,19 @@
     /* Filters drawer: collapsed by default, opens on tap */
     .controls-panel { display: none; }
     .controls-panel.open { display: flex; flex-direction: column; align-items: stretch; }
-    #city-filter, #status-filter, #venue-filters { width: 100%; }
+    #status-filter, #venue-filters { width: 100%; }
     .status-bar { width: 100%; text-align: left; }
+
+    /* Calendar fits the viewport instead of overflowing */
+    #schedule-modal { padding: 10px; }
+    .schedule-modal-header { padding: 12px; }
+    .cal-body { padding: 10px 8px 12px; }
+    .cal-grid, .cal-dow-row { gap: 2px; }
+    .cal-cell { min-height: 54px; padding: 3px; border-radius: 4px; }
+    .cal-day-num { font-size: 10px; margin-bottom: 2px; }
+    .cal-event { font-size: 8px; padding: 2px 3px; }
+    .cal-event-meta { display: none; }
+    .cal-month-label { min-width: 84px; font-size: 12px; }
   }
 </style>
 </head>
@@ -879,7 +936,10 @@
   </div>
 
   <div class="controls-panel" id="controls-panel">
-    <div class="filter-group" id="city-filter"></div>
+    <div class="dropdown" id="city-dropdown">
+      <button class="filter-btn dropdown-btn" id="city-dropdown-btn" aria-expanded="false" aria-haspopup="true">All Cities <span class="dd-caret">&#9662;</span></button>
+      <div class="dropdown-menu" id="city-dropdown-menu"></div>
+    </div>
 
     <div class="filter-group" id="status-filter">
       <button class="filter-btn active" data-filter="all">All</button>
@@ -1055,16 +1115,17 @@ const CITY_LABELS = { LA: 'Los Angeles', NYC: 'New York' };
 
 function buildCityFilters() {
   const cities = [...new Set(allScreenings.map(s => s.city).filter(Boolean))].sort();
-  const container = document.getElementById('city-filter');
-  if (!container) return;
-  container.innerHTML = '';
+  const menu = document.getElementById('city-dropdown-menu');
+  const btn = document.getElementById('city-dropdown-btn');
+  if (!menu || !btn) return;
+  menu.innerHTML = '';
 
-  const addPill = (city, label) => {
-    const active = city === 'all' ? activeCities.size === 0 : activeCities.has(city);
-    const btn = document.createElement('button');
-    btn.className = 'filter-btn' + (active ? ' active' : '');
-    btn.textContent = label;
-    btn.onclick = () => {
+  const addItem = (city, label) => {
+    const on = city === 'all' ? activeCities.size === 0 : activeCities.has(city);
+    const item = document.createElement('div');
+    item.className = 'dropdown-item' + (on ? ' checked' : '');
+    item.innerHTML = `<span class="dd-check">${on ? '&#10003;' : ''}</span>${escHtml(label)}`;
+    item.onclick = () => {
       if (city === 'all') {
         activeCities.clear();
       } else if (activeCities.has(city)) {
@@ -1077,11 +1138,17 @@ function buildCityFilters() {
       buildVenueFilters();   // venue list depends on which cities are selected
       renderScreenings();
     };
-    container.appendChild(btn);
+    menu.appendChild(item);
   };
 
-  addPill('all', 'All Cities');
-  cities.forEach(c => addPill(c, CITY_LABELS[c] || c));
+  addItem('all', 'All Cities');
+  cities.forEach(c => addItem(c, CITY_LABELS[c] || c));
+
+  let label;
+  if (activeCities.size === 0) label = 'All Cities';
+  else if (activeCities.size === 1) { const c = [...activeCities][0]; label = CITY_LABELS[c] || c; }
+  else label = `${activeCities.size} cities`;
+  btn.innerHTML = `${escHtml(label)} <span class="dd-caret">&#9662;</span>`;
 }
 
 function buildVenueFilters() {
@@ -1452,7 +1519,20 @@ function hideLoading() {
   document.getElementById('loading').classList.remove('show');
 }
 
-// City filter pills are built by buildCityFilters() (multi-select, like theatres)
+// City multi-select dropdown open/close
+const _cityDd = document.getElementById('city-dropdown');
+const _cityBtn = document.getElementById('city-dropdown-btn');
+const _cityMenu = document.getElementById('city-dropdown-menu');
+if (_cityBtn && _cityMenu) {
+  _cityBtn.onclick = (e) => {
+    e.stopPropagation();
+    const open = _cityMenu.classList.toggle('open');
+    _cityBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+  };
+  document.addEventListener('click', (e) => {
+    if (_cityDd && !_cityDd.contains(e.target)) _cityMenu.classList.remove('open');
+  });
+}
 
 // Mobile: Filters drawer toggle
 const _filtersToggle = document.getElementById('filters-toggle');
