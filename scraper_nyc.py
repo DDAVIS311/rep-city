@@ -938,22 +938,21 @@ def _parse_moma_listing(html):
     return rows
 
 
-def _moma_detail(ctx, event_id):
-    """Load a MoMA event detail page and extract JSON-LD ScreeningEvent occurrences
-    keyed by ISO start datetime -> {format, runtime, description, director}."""
+def _moma_detail(browser, event_id):
+    """Load one MoMA event detail page and extract JSON-LD ScreeningEvent
+    occurrences keyed by ISO start datetime -> {format, runtime, description,
+    director}. Uses a FRESH browser context per call: bulk loads in a single
+    context get Cloudflare rate-flagged, but isolated contexts load cleanly."""
     out = {}
     try:
+        ctx = browser.new_context(user_agent=HEADERS["User-Agent"],
+                                  viewport={"width": 1280, "height": 900})
         page = ctx.new_page()
         page.goto(f"https://www.moma.org/calendar/events/{event_id}",
                   wait_until="domcontentloaded", timeout=30000)
-        page.wait_for_timeout(1500)
+        page.wait_for_timeout(1600)
         html = page.content()
-        # Rapid sequential loads can hit a Cloudflare challenge that auto-resolves;
-        # give it a moment and re-read if the structured data isn't there yet.
-        if "ScreeningEvent" not in html:
-            page.wait_for_timeout(3500)
-            html = page.content()
-        page.close()
+        ctx.close()
         for blk in re.findall(r'<script type="application/ld\+json">(.*?)</script>', html, re.S):
             try:
                 obj = json.loads(blk)
@@ -983,29 +982,51 @@ def _moma_detail(ctx, event_id):
 
 def scrape_moma():
     """MoMA film calendar. Server-rendered HTML behind Cloudflare, loaded with a
-    real headless browser (robots-permitted /calendar/). Title / date / time /
-    director come from the listing. Per-film format/runtime/synopsis live on the
-    detail pages, but those rate-limit hard under Cloudflare on bulk loads, so
-    they're intentionally not fetched here."""
+    real headless browser (robots-permitted /calendar/). Title/date/time/director
+    come from the listing; format/runtime/synopsis from each film's detail-page
+    JSON-LD. Detail pages are fetched one-per-fresh-context and throttled (bulk
+    loads in a shared context get Cloudflare rate-flagged) and cached by event id,
+    so daily runs only fetch newly-added films."""
     screenings = []
+    cache = _load_moma_cache()
     try:
         with sync_playwright() as p:
             browser = p.chromium.launch(headless=True)
-            ctx = browser.new_context(user_agent=HEADERS["User-Agent"],
-                                      viewport={"width": 1280, "height": 900})
-            page = ctx.new_page()
+            lctx = browser.new_context(user_agent=HEADERS["User-Agent"],
+                                       viewport={"width": 1280, "height": 900})
+            page = lctx.new_page()
             page.goto(MOMA_LISTING_URL, wait_until="domcontentloaded", timeout=45000)
             page.wait_for_timeout(3500)
             html = page.content()
+            lctx.close()
+            if "Just a moment" in html:
+                raise RuntimeError("Blocked by Cloudflare challenge")
+            rows = _parse_moma_listing(html)
+
+            for eid in {r["_event_id"] for r in rows}:
+                if eid not in cache:
+                    cache[eid] = _moma_detail(browser, eid)
+                    time.sleep(1.5)   # throttle to avoid Cloudflare rate-flagging
             browser.close()
-        if "Just a moment" in html:
-            raise RuntimeError("Blocked by Cloudflare challenge")
-        for r in _parse_moma_listing(html):
-            screenings.append(_make(r["title"], r["date"], r.get("time", ""), "",
-                                    "MoMA", "MoMA", r["url"],
-                                    {"description": "", "runtime": "", "director": r.get("director", "")}))
+
+        for r in rows:
+            occ = cache.get(r["_event_id"]) or {}
+            hit = next((v for iso, v in occ.items() if iso.startswith(r["date"])), None)
+            if hit is None and occ:
+                hit = next(iter(occ.values()))
+            fmt = ""
+            meta = {"description": "", "runtime": "", "director": r.get("director", "")}
+            if hit:
+                fmt = hit.get("format") or ""
+                meta["runtime"] = hit.get("runtime", "")
+                meta["description"] = hit.get("description", "")
+                if hit.get("director"):
+                    meta["director"] = hit["director"]
+            screenings.append(_make(r["title"], r["date"], r.get("time", ""), fmt,
+                                    "MoMA", "MoMA", r["url"], meta))
     except Exception as e:
         print(f"[MoMA] Error: {e}")
+    _save_moma_cache(cache)
     return screenings
 
 
