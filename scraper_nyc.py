@@ -687,42 +687,87 @@ def _normalize_12h(raw):
 # ─────────────────────────────────────────────────────────────
 # Film at Lincoln Center — Playwright + API interception
 # ─────────────────────────────────────────────────────────────
+FLC_SHOWTIMES_URL = "https://api.filmlinc.org/showtimes"
+FLC_GRAPHQL_URL = "https://wp.filmlinc.org/graphql"
+FLC_KNOWN_FORMATS = {"70mm", "35mm", "16mm", "3-D", "DCP", "4K", "2K"}
+
+
+def _strip_html_text(s):
+    if not s:
+        return ""
+    return re.sub(r"\s+", " ", html_lib.unescape(re.sub(r"<[^>]+>", "", s))).strip()
+
+
+def _flc_metadata(slugs):
+    """Batch-fetch FLC film metadata from WPGraphQL (aliased queries), keyed by slug."""
+    fragment = ("nodes { slug excerpt content filmDetails { runningTime year country "
+                "language format presentationFormats directors { name } } }")
+    out = {}
+    slugs = list(dict.fromkeys([s for s in slugs if s]))
+    for i in range(0, len(slugs), 25):
+        chunk = slugs[i:i + 25]
+        sels, alias_to_slug = [], {}
+        for j, slug in enumerate(chunk):
+            alias = f"f{i + j}"
+            alias_to_slug[alias] = slug
+            esc = slug.replace('"', '\\"')
+            sels.append(f'{alias}: films(first: 1, where: {{name: "{esc}"}}) {{{fragment}}}')
+        query = "{\n" + "\n".join(sels) + "\n}"
+        try:
+            r = requests.post(FLC_GRAPHQL_URL, json={"query": query}, headers=HEADERS, timeout=45)
+            data = (r.json() or {}).get("data") or {}
+        except Exception:
+            continue
+        for alias, slug in alias_to_slug.items():
+            nodes = ((data.get(alias) or {}).get("nodes")) or []
+            if nodes:
+                out[slug] = nodes[0]
+    return out
+
+
+def _flc_format(fd):
+    if not fd:
+        return ""
+    pf = fd.get("presentationFormats")
+    if isinstance(pf, list):
+        picked = ([x for x in pf if isinstance(x, str) and x in FLC_KNOWN_FORMATS]
+                  or [x for x in pf if isinstance(x, str) and x.strip()])
+        if picked:
+            return ", ".join(dict.fromkeys(picked))
+    return fd.get("format") or ""
+
+
 def scrape_film_linc():
+    """Film at Lincoln Center. www.filmlinc.org is a Cloudflare-gated Next.js app,
+    but the data lives on two public JSON APIs (no browser needed): the Tessitura
+    showtimes feed and a WPGraphQL metadata endpoint, joined by film slug."""
     screenings = []
     try:
-        api_data = []
+        r = requests.get(FLC_SHOWTIMES_URL, headers=HEADERS, timeout=30)
+        films = r.json().get("films", [])
+        meta_by_slug = _flc_metadata([f.get("slug") for f in films])
 
-        with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
-            ctx = browser.new_context(
-                user_agent=HEADERS["User-Agent"],
-                viewport={"width": 1280, "height": 800},
-            )
-            page = ctx.new_page()
+        for film in films:
+            title = (film.get("title") or "").strip()
+            meta_obj = meta_by_slug.get(film.get("slug")) or {}
+            fd = meta_obj.get("filmDetails") or {}
+            directors = [d.get("name") for d in (fd.get("directors") or []) if d.get("name")]
+            rt = fd.get("runningTime")
+            runtime = f"{rt} min" if rt not in (None, "") else ""
+            desc = _strip_html_text(meta_obj.get("excerpt")) or _strip_html_text(meta_obj.get("content"))
+            fmt = _flc_format(fd)
 
-            def handle_response(resp):
-                if "filmlinc" in resp.url and "json" in resp.headers.get("content-type", ""):
-                    try:
-                        api_data.append({"url": resp.url, "body": resp.json()})
-                    except Exception:
-                        pass
-
-            page.on("response", handle_response)
-            page.goto("https://www.filmlinc.org/calendar/", wait_until="networkidle", timeout=30000)
-            page.wait_for_timeout(2000)
-            html = page.content()
-            browser.close()
-
-        # Try to extract from intercepted API calls first
-        for call in api_data:
-            extracted = _parse_filmlinc_api(call["body"])
-            screenings.extend(extracted)
-
-        if not screenings:
-            # Fall back to parsing rendered HTML
-            soup = BeautifulSoup(html, "html.parser")
-            screenings = _parse_filmlinc_html(soup)
-
+            for st in film.get("showtimes", []):
+                if "Pass" in (st.get("venue") or ""):
+                    continue
+                date = st.get("date") or ""
+                if not title or not re.match(r"\d{4}-\d{2}-\d{2}$", date):
+                    continue
+                url = st.get("ticketsUrl") or "https://www.filmlinc.org/now-playing/"
+                screenings.append(_make(title, date, st.get("time") or "", fmt,
+                                        "Film at Lincoln Center", "FilmLinc", url,
+                                        {"description": desc, "runtime": runtime,
+                                         "director": ", ".join(directors)}))
     except Exception as e:
         print(f"[FilmLinc] Error: {e}")
     return screenings
@@ -821,32 +866,144 @@ def _parse_filmlinc_html(soup):
 # ─────────────────────────────────────────────────────────────
 # MoMA — try their API, fall back to Playwright
 # ─────────────────────────────────────────────────────────────
+MOMA_LISTING_URL = "https://www.moma.org/calendar/?happening_filter=Films&locale=en&location=both"
+MOMA_META_CACHE_FILE = os.path.join(os.path.dirname(__file__), "moma_meta_cache.json")
+
+_MOMA_HDR_RE = re.compile(r"^(Mon|Tue|Wed|Thu|Fri|Sat|Sun),\s*([A-Z][a-z]{2})\s+(\d{1,2})$")
+_MOMA_MONTHS = {m: i for i, m in enumerate(
+    ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"], 1)}
+_MOMA_TIME_RE = re.compile(r"\d{1,2}:\d{2}\s*[ap]\.?m\.?", re.I)
+_MOMA_FORMAT_RE = re.compile(r"\b(35mm|16mm|8mm|DCP|4K DCP|4K|2K|Blu-ray|Digital(?:\s+projection)?|Video)\b")
+
+
+def _load_moma_cache():
+    try:
+        with open(MOMA_META_CACHE_FILE) as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def _save_moma_cache(cache):
+    try:
+        with open(MOMA_META_CACHE_FILE, "w") as f:
+            json.dump(cache, f, indent=0, sort_keys=True)
+    except Exception:
+        pass
+
+
+def _moma_title_blob(blob):
+    """'A Day of Fury. 1956. Directed by Harmon Jones' -> (title, director)."""
+    blob = re.sub(r"\s+", " ", blob.replace("\xa0", " ")).strip()
+    title, director = blob, ""
+    m = re.match(r"^(.*?)\.\s*(\d{4})\.\s*(.*)$", blob)
+    if m:
+        title = m.group(1).strip()
+        dm = re.search(r"(?:Written and directed|Directed|Written)\s+by\s+(.+?)(?:\.|$)", m.group(3), re.I)
+        if dm:
+            director = dm.group(1).strip()
+    return title, director
+
+
+def _parse_moma_listing(html):
+    """Parse MoMA's film calendar HTML into rows with _event_id (dates come from
+    the <h2> headers; the listing has no format/runtime/synopsis)."""
+    soup = BeautifulSoup(html, "html.parser")
+    today = datetime.now().date()
+    rows, current_date = [], None
+    for el in soup.find_all(["h2", "h3", "a"]):
+        if el.name in ("h2", "h3"):
+            m = _MOMA_HDR_RE.match(re.sub(r"\s+", " ", el.get_text()).strip())
+            if m:
+                month = _MOMA_MONTHS[m.group(2)]
+                day = int(m.group(3))
+                year = today.year + (1 if month < today.month - 1 else 0)
+                current_date = f"{year:04d}-{month:02d}-{day:02d}"
+            continue
+        href = el.get("href", "")
+        if not href.startswith("/calendar/events/") or not current_date:
+            continue
+        blob_el = el.select_one(".balance-text")
+        if not blob_el:
+            continue
+        title, director = _moma_title_blob(blob_el.get_text())
+        tm = _MOMA_TIME_RE.search(re.sub(r"\s+", " ", el.get_text()))
+        time_str = ""
+        if tm:
+            time_str = re.sub(r"\s+", " ", tm.group(0).replace(".", "").upper()
+                              .replace("AM", " AM").replace("PM", " PM")).strip()
+        rows.append({"title": title, "date": current_date, "time": time_str,
+                     "director": director, "url": "https://www.moma.org" + href,
+                     "_event_id": href.rstrip("/").rsplit("/", 1)[-1]})
+    return rows
+
+
+def _moma_detail(ctx, event_id):
+    """Load a MoMA event detail page and extract JSON-LD ScreeningEvent occurrences
+    keyed by ISO start datetime -> {format, runtime, description, director}."""
+    out = {}
+    try:
+        page = ctx.new_page()
+        page.goto(f"https://www.moma.org/calendar/events/{event_id}",
+                  wait_until="domcontentloaded", timeout=30000)
+        page.wait_for_timeout(1500)
+        html = page.content()
+        # Rapid sequential loads can hit a Cloudflare challenge that auto-resolves;
+        # give it a moment and re-read if the structured data isn't there yet.
+        if "ScreeningEvent" not in html:
+            page.wait_for_timeout(3500)
+            html = page.content()
+        page.close()
+        for blk in re.findall(r'<script type="application/ld\+json">(.*?)</script>', html, re.S):
+            try:
+                obj = json.loads(blk)
+            except Exception:
+                continue
+            if obj.get("@type") != "ScreeningEvent":
+                continue
+            desc = re.sub(r"\s+", " ", html_lib.unescape(
+                re.sub(r"<[^>]+>", " ", obj.get("description", "")))).strip()
+            fm = _MOMA_FORMAT_RE.search(desc)
+            rm = re.search(r"(\d+)\s*min", desc, re.I)
+            directors = []
+            for w in obj.get("workPresented", []) or []:
+                for d in w.get("director", []) or []:
+                    if d.get("name"):
+                        directors.append(d["name"])
+            out[obj.get("startDate", "")] = {
+                "format": (fm.group(1) if fm else ""),
+                "runtime": (f"{rm.group(1)} min" if rm else ""),
+                "description": desc,
+                "director": ", ".join(directors),
+            }
+    except Exception:
+        pass
+    return out
+
+
 def scrape_moma():
+    """MoMA film calendar. Server-rendered HTML behind Cloudflare, loaded with a
+    real headless browser (robots-permitted /calendar/). Title / date / time /
+    director come from the listing. Per-film format/runtime/synopsis live on the
+    detail pages, but those rate-limit hard under Cloudflare on bulk loads, so
+    they're intentionally not fetched here."""
     screenings = []
     try:
-        # MoMA has an events API
-        today = datetime.now()
-        from_str = today.strftime("%Y-%m-%d")
-        to_str = (today + timedelta(days=90)).strftime("%Y-%m-%d")
-
-        for api_url in [
-            f"https://www.moma.org/api/calendar/events?type=film&from={from_str}&to={to_str}&per_page=200",
-            f"https://www.moma.org/calendar/events.json?type=film&start_date={from_str}&end_date={to_str}",
-            "https://www.moma.org/api/v1/events?category=film&limit=200",
-        ]:
-            r = requests.get(api_url, headers=HEADERS, timeout=12)
-            if r.ok and "json" in r.headers.get("content-type", ""):
-                data = r.json()
-                if data:
-                    events = data if isinstance(data, list) else data.get("events") or data.get("data") or []
-                    screenings = _parse_moma_events(events)
-                    if screenings:
-                        break
-
-        if not screenings:
-            # Try Playwright
-            screenings = _scrape_moma_playwright()
-
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            ctx = browser.new_context(user_agent=HEADERS["User-Agent"],
+                                      viewport={"width": 1280, "height": 900})
+            page = ctx.new_page()
+            page.goto(MOMA_LISTING_URL, wait_until="domcontentloaded", timeout=45000)
+            page.wait_for_timeout(3500)
+            html = page.content()
+            browser.close()
+        if "Just a moment" in html:
+            raise RuntimeError("Blocked by Cloudflare challenge")
+        for r in _parse_moma_listing(html):
+            screenings.append(_make(r["title"], r["date"], r.get("time", ""), "",
+                                    "MoMA", "MoMA", r["url"],
+                                    {"description": "", "runtime": "", "director": r.get("director", "")}))
     except Exception as e:
         print(f"[MoMA] Error: {e}")
     return screenings
@@ -1008,17 +1165,16 @@ def scrape_all_nyc():
     results["Metrograph"] = scrape_metrograph()
     print(f"    → {len(results['Metrograph'])} screenings")
 
-    print("  Scraping Film at Lincoln Center (Playwright)...")
+    print("  Scraping Film at Lincoln Center (API)...")
     results["FilmLinc"] = scrape_film_linc()
     print(f"    → {len(results['FilmLinc'])} screenings")
 
-    print("  Scraping MoMA...")
+    print("  Scraping MoMA (Playwright)...")
     results["MoMA"] = scrape_moma()
     print(f"    → {len(results['MoMA'])} screenings")
 
-    print("  Scraping Museum of Moving Image (Playwright)...")
-    results["MoMI"] = scrape_momi()
-    print(f"    → {len(results['MoMI'])} screenings")
+    # MoMI (movingimage.org) intentionally skipped: it blocks automated access
+    # (Cloudflare WAF) and its robots.txt disallows bots.
 
     all_screenings = []
     for v in results.values():
