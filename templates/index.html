@@ -963,7 +963,8 @@
     .rc-wordmark { font-size: 21px; text-shadow: 0 0 8px rgba(240,181,74,.4); }
 
     .header-bar { gap: 8px; }
-    .header-bar .search-input { min-width: 0; }
+    /* 16px avoids iOS Safari auto-zoom on focus */
+    .header-bar .search-input { min-width: 0; font-size: 16px; }
     #filters-toggle { display: inline-flex; align-items: center; }
     #schedule-btn .btn-label { display: none; }   /* icon only on mobile */
 
@@ -989,6 +990,16 @@
     .sched-item { gap: 8px; padding: 8px 6px; }
     .sched-time { min-width: 58px; font-size: 12px; }
     .sched-tix { padding: 3px 7px; }
+  }
+
+  /* Touch devices: don't let :hover styles "stick" after a tap
+     (was leaving the Filters button and pills looking selected) */
+  @media (hover: none) {
+    .filter-btn:hover:not(.active) { border-color: var(--border); color: var(--muted); }
+    .action-btn:hover { border-color: var(--border); }
+    .btn-details:hover { color: var(--muted); border-color: var(--border); }
+    .btn-ticket:hover { color: var(--muted); border-color: var(--border); }
+    .sched-item:hover { background: transparent; }
   }
 </style>
 </head>
