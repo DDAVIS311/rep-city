@@ -114,6 +114,7 @@ def _ifc_extract(html):
         rt = re.search(r"\d+", details.get("running time", "") or details.get("runtime", ""))
         if rt:
             meta["runtime"] = f"{rt.group(0)} min"
+        meta["format"] = _normalize_format(details.get("format", ""))
 
         drop = re.compile(r"^(screening as part|previously screened|also screening|part of|"
                           r"ifc center does not|buy tickets|get tickets|showtimes|sign up|"
@@ -157,6 +158,13 @@ def _ff_extract(html):
         rm = re.search(r"(\d{1,3})\s*\.?\s*min\b", para_text, re.I)
         if rm:
             meta["runtime"] = f"{rm.group(1)} min"
+
+        # Format lives in the credits <strong> block (e.g. "104 min. 35mm.").
+        # Scope to <strong> so synopsis prose can't leak a false match, and
+        # default to DCP when unspecified (Film Forum's convention).
+        strong_text = re.sub(r"<[^>]+>", " ", " ".join(
+            re.findall(r"<strong\b[^>]*>(.*?)</strong>", para_html, re.S | re.I)))
+        meta["format"] = _normalize_format(strong_text) or "DCP"
 
         body = re.sub(r"<strong\b[^>]*>.*?</strong>", "\n", para_html, flags=re.S | re.I)
         body = re.sub(r"<br\s*/?>", "\n", body, flags=re.I)
@@ -226,10 +234,15 @@ def _metrograph_extract(html):
             if dm and not meta["director"]:
                 meta["director"] = re.sub(r"\s+", " ", dm.group(1)).strip()
                 continue
-            if not meta["runtime"] and not t.lower().startswith("director"):
-                rm = re.search(r"(\d{1,3})\s*min", t, re.I)
-                if rm:
-                    meta["runtime"] = f"{rm.group(1)} min"
+            if not t.lower().startswith("director"):
+                if not meta["runtime"]:
+                    rm = re.search(r"(\d{1,3})\s*min", t, re.I)
+                    if rm:
+                        meta["runtime"] = f"{rm.group(1)} min"
+                if not meta.get("format"):
+                    f = _normalize_format(t)
+                    if f:
+                        meta["format"] = f
         sh = mi.find("div", class_="showtimes")
         if sh:
             sh.decompose()
@@ -285,6 +298,9 @@ def _anthology_extract(block_html):
             if line.lower().startswith("by "):
                 meta["director"] = line[3:].strip(" ,")
                 break
+
+        # Specs line carries the format, e.g. "..., 1930, 73 min, 35mm, b&w"
+        meta["format"] = _normalize_format(head_text)
 
         rt = re.search(r"(\d{1,3})\s*min\b", head_text)
         if not rt and notes:
@@ -344,7 +360,7 @@ def scrape_ifc():
                     time_str = time_li.text.strip()
                     ticket_url = time_li.get("href", film_url)
                     if title and time_str:
-                        screenings.append(_make(title, date_str, time_str, "", "IFC Center", "IFC", ticket_url, meta))
+                        screenings.append(_make(title, date_str, time_str, meta.get("format", ""), "IFC Center", "IFC", ticket_url, meta))
 
     except Exception as e:
         print(f"[IFC] Error: {e}")
@@ -454,7 +470,7 @@ def scrape_film_forum():
                         raw_time = span.text.strip()  # "12:20" or "7:00"
                         time_str = _ff_time_to_ampm(raw_time)
                         if time_str:
-                            screenings.append(_make(title, date_str, time_str, fmt, "Film Forum", "FilmForum", film_url, meta))
+                            screenings.append(_make(title, date_str, time_str, meta.get("format") or fmt, "Film Forum", "FilmForum", film_url, meta))
 
     except Exception as e:
         print(f"[FilmForum] Error: {e}")
@@ -556,7 +572,7 @@ def scrape_anthology():
 
                     sid = ev.get("id")
                     meta = _anthology_extract(blocks[sid]) if sid and sid in blocks else None
-                    screenings.append(_make(title, date_str, time_str, "", "Anthology Film Archives", "Anthology", ev_url, meta))
+                    screenings.append(_make(title, date_str, time_str, (meta.get("format", "") if meta else ""), "Anthology Film Archives", "Anthology", ev_url, meta))
 
             time.sleep(0.5)
 
@@ -652,7 +668,7 @@ def scrape_metrograph():
                     ticket_url = time_a.get("href") or film_href or "https://metrograph.com/"
                     if ticket_url.startswith("/"):
                         ticket_url = "https://metrograph.com" + ticket_url
-                    screenings.append(_make(title, date_str, time_str, fmt, "Metrograph", "Metrograph", ticket_url, meta))
+                    screenings.append(_make(title, date_str, time_str, meta.get("format") or fmt, "Metrograph", "Metrograph", ticket_url, meta))
 
     except Exception as e:
         print(f"[Metrograph] Error: {e}")
