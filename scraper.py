@@ -949,10 +949,15 @@ def scrape_all():
     # (e.g. "Parts 13 &amp; 14" -> "Parts 13 & 14") so the frontend renders them
     # correctly after its own escaping.
     import html as _html
+    # New Beverly and Vista exclusively screen film prints (never digital), so
+    # an unlabeled screening there defaults to 35mm; everywhere else it's DCP.
+    FILM_PRINT_VENUES = {"NewBev", "Vista"}
     for s in deduped:
         for key in ("title", "description", "director"):
             if s.get(key):
                 s[key] = _html.unescape(s[key])
+        if not s.get("format"):
+            s["format"] = "35mm" if s.get("venue_short") in FILM_PRINT_VENUES else "DCP"
 
     print(f"\nTotal: {len(deduped)} screenings across all venues")
     return deduped
