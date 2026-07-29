@@ -37,6 +37,11 @@
     --moma: #e8e8e8;
     --momi: #8a4ae8;
 
+    /* London venues */
+    --ica: #e0619e;
+    --barbican: #4ab0e8;
+    --pcc: #f0a03c;
+
     --want-bg: #1a2e1a;
     --want-border: #4a8a4a;
     --dismissed-opacity: 0.22;
@@ -273,6 +278,13 @@
   .venue-pill.active[data-venue="LosFeliz"]    { background: var(--losfeliz);    color: #000; }
   .venue-pill.active[data-venue="DirsVillage"] { background: var(--dirsvillage); color: #000; }
 
+  .venue-pill[data-venue="ICA"]        { color: var(--ica);      border-color: var(--ica); }
+  .venue-pill[data-venue="Barbican"]   { color: var(--barbican); border-color: var(--barbican); }
+  .venue-pill[data-venue="PCC"]        { color: var(--pcc);      border-color: var(--pcc); }
+  .venue-pill.active[data-venue="ICA"]      { background: var(--ica);      color: #000; }
+  .venue-pill.active[data-venue="Barbican"] { background: var(--barbican); color: #000; }
+  .venue-pill.active[data-venue="PCC"]      { background: var(--pcc);      color: #000; }
+
   /* ── Action buttons ── */
   .action-btn {
     padding: 5px 12px;
@@ -434,6 +446,10 @@
   .card[data-venue="Egyptian"]::before    { background: var(--egyptian); }
   .card[data-venue="LosFeliz"]::before    { background: var(--losfeliz); }
   .card[data-venue="DirsVillage"]::before { background: var(--dirsvillage); }
+
+  .card[data-venue="ICA"]::before         { background: var(--ica); }
+  .card[data-venue="Barbican"]::before    { background: var(--barbican); }
+  .card[data-venue="PCC"]::before         { background: var(--pcc); }
 
   .card-title {
     font-size: 13px;
@@ -1480,6 +1496,7 @@ const VENUE_COLORS = {
   Aero: '#e8c84a', Egyptian: '#c8874a', LosFeliz: '#4ac8c8', DirsVillage: '#a8c84a',
   IFC: '#e84a4a', FilmForum: '#e8824a', Anthology: '#e8b84a', LowCinema: '#c84ae8',
   Metrograph: '#4a82e8', FilmLinc: '#4ae8c8', MoMA: '#e8e8e8', MoMI: '#8a4ae8',
+  ICA: '#e0619e', Barbican: '#4ab0e8', PCC: '#f0a03c',
 };
 
 function initCalMonth() {
