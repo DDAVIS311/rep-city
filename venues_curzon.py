@@ -176,7 +176,7 @@ def scrape_curzon_soho():
                 "format": fmt,
                 "venue": "Curzon Soho",
                 "venue_short": "CurzonSoho",
-                "url": f"https://www.curzon.com/ticketing/?showtimeId={st.get('id')}",
+                "url": f"https://www.curzon.com/ticketing/seats/{st.get('id')}/",
                 "city": "London",
                 "description": desc,
                 "runtime": runtime,
