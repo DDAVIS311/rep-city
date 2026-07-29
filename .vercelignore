@@ -10,6 +10,9 @@ showtime_meta_cache.json
 vista_meta_cache.json
 nyc_meta_cache.json
 moma_meta_cache.json
+barbican_meta_cache.json
+ica_meta_cache.json
+pcc_meta_cache.json
 screening_state.json
 __pycache__
 .playwright
