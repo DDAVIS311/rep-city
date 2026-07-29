@@ -7,6 +7,7 @@ User identity: UUID stored in a browser cookie (rc_user).
 import json
 import os
 import uuid
+import secrets
 from flask import Flask, jsonify, request, send_from_directory, make_response
 
 app = Flask(__name__, static_folder="static", template_folder="templates")
@@ -148,6 +149,38 @@ def reset_state(user_id):
         json.dump({}, f)
 
 
+# ── Device sync (anonymous pairing codes) ──────────────────────────────────────
+# A device mints a short, single-use code that maps to its rc_user id in the KV
+# store with a short TTL. Another device redeems the code to adopt that id, so
+# both devices then share the same state:{id} hash. No accounts / email.
+
+# Unambiguous alphabet (no 0/O/1/I/L) so codes are easy to read and type.
+_SYNC_ALPHABET = "ABCDEFGHJKMNPQRSTUVWXYZ23456789"
+_SYNC_TTL = 900          # 15 minutes
+_SYNC_CODE_LEN = 6
+
+
+def _sync_key(code):
+    return f"sync:{code.upper()}"
+
+
+def _gen_sync_code():
+    return "".join(secrets.choice(_SYNC_ALPHABET) for _ in range(_SYNC_CODE_LEN))
+
+
+def force_user_cookie(response, user_id):
+    """Set (overwriting) the rc_user cookie — used when a device adopts another
+    device's id during sync."""
+    response.set_cookie(
+        "rc_user", user_id,
+        max_age=60 * 60 * 24 * 365 * 5,
+        samesite="Lax",
+        httponly=True,
+        secure=os.environ.get("VERCEL") is not None,
+    )
+    return response
+
+
 # ── Cookie helpers ─────────────────────────────────────────────────────────────
 
 def get_user_id():
@@ -252,6 +285,62 @@ def reset_state_route():
         return jsonify({"error": str(e)}), 500
     resp = make_response(jsonify({"ok": True}))
     attach_user_cookie(resp, user_id)
+    return resp
+
+
+@app.route("/api/sync/create", methods=["POST"])
+def sync_create():
+    """Mint a short single-use code that points at this device's rc_user id."""
+    kv = _get_kv()
+    if kv is None:
+        return jsonify({"error": "Sync isn't available on this instance."}), 503
+    user_id = get_user_id()
+    # Retry a few times in the (vanishingly unlikely) event of a code collision.
+    for _ in range(5):
+        code = _gen_sync_code()
+        key = _sync_key(code)
+        if not kv.get(key):
+            kv.set(key, user_id, ex=_SYNC_TTL)
+            break
+    else:
+        return jsonify({"error": "Could not allocate a code, try again."}), 500
+    resp = make_response(jsonify({"code": code, "expires_in": _SYNC_TTL}))
+    attach_user_cookie(resp, user_id)   # ensure the minting device has a stable id
+    return resp
+
+
+@app.route("/api/sync/claim", methods=["POST"])
+def sync_claim():
+    """Redeem a code: adopt the source device's id, merging this device's list in."""
+    kv = _get_kv()
+    if kv is None:
+        return jsonify({"error": "Sync isn't available on this instance."}), 503
+    code = (request.json or {}).get("code", "").strip().upper()
+    if not code:
+        return jsonify({"error": "Enter a sync code."}), 400
+    src_id = kv.get(_sync_key(code))
+    if not src_id:
+        return jsonify({"error": "That code is invalid or has expired."}), 404
+
+    cur_id = get_user_id()
+    merged = 0
+    if cur_id != src_id:
+        # Fold this device's existing wants/skips into the shared list (source
+        # wins on conflict), then retire this device's now-orphaned hash.
+        cur_state = load_state(cur_id)
+        if cur_state:
+            src_state = load_state(src_id)
+            adds = [{"id": sid, "status": st} for sid, st in cur_state.items()
+                    if sid not in src_state]
+            if adds:
+                bulk_set_state(src_id, adds)
+                merged = len(adds)
+            reset_state(cur_id)
+    kv.delete(_sync_key(code))   # single-use
+
+    count = len(load_state(src_id))
+    resp = make_response(jsonify({"ok": True, "merged": merged, "count": count}))
+    force_user_cookie(resp, src_id)
     return resp
 
 

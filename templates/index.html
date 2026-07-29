@@ -594,6 +594,46 @@
     position: absolute;
     top: 14px; right: 16px;
   }
+
+  /* ── Device sync modal ── */
+  #sync-modal {
+    display: none;
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,.72);
+    z-index: 210;
+    align-items: center; justify-content: center;
+    padding: 20px;
+  }
+  #sync-modal.open { display: flex; }
+  .sync-actions { display: flex; gap: 10px; margin-bottom: 18px; }
+  .sync-actions .action-btn { flex: 1; }
+  .sync-panel { display: none; }
+  .sync-panel.open { display: block; }
+  .sync-hint { font-size: 13px; line-height: 1.55; color: var(--muted); margin-bottom: 12px; }
+  .sync-note { margin-top: 12px; margin-bottom: 0; }
+  .sync-code {
+    font-family: 'Courier New', monospace;
+    font-size: 38px; font-weight: 700; letter-spacing: .18em;
+    text-align: center; color: var(--accent);
+    background: var(--bg);
+    border: 1px dashed var(--border); border-radius: 8px;
+    padding: 16px 10px; margin-bottom: 12px;
+    user-select: all;
+  }
+  #sync-code-input {
+    width: 100%;
+    font-size: 20px; font-weight: 700; letter-spacing: .12em;
+    text-align: center; text-transform: uppercase;
+    font-family: 'Courier New', monospace;
+    background: var(--bg); color: var(--text);
+    border: 1px solid var(--border); border-radius: 8px;
+    padding: 12px; margin-bottom: 12px;
+    box-sizing: border-box;
+  }
+  #sync-submit { width: 100%; }
+  .sync-msg { font-size: 13px; margin-top: 12px; min-height: 18px; }
+  .sync-msg.ok { color: #5ac85a; }
+  .sync-msg.err { color: #e85a5a; }
   .card[data-venue="IFC"]         .card-venue { color: var(--ifc); }
   .card[data-venue="FilmForum"]   .card-venue { color: var(--filmforum); }
   .card[data-venue="Anthology"]   .card-venue { color: var(--anthology); }
@@ -1095,6 +1135,7 @@
 
     <span class="status-bar" id="status-bar">Loading...</span>
 
+    <button class="action-btn" id="sync-btn">&#8646; Sync</button>
     <button class="action-btn" id="reset-btn">Reset All</button>
   </div>
 </header>
@@ -1126,6 +1167,34 @@
     <div class="details-sub" id="details-sub"></div>
     <p class="details-desc" id="details-desc"></p>
     <a class="btn-ticket" id="details-tickets" target="_blank" rel="noopener">Tickets ↗</a>
+  </div>
+</div>
+
+<!-- Device sync modal -->
+<div id="sync-modal">
+  <div class="details-modal-inner">
+    <button class="close-panel" id="sync-close">&#x2715;</button>
+    <h2>SYNC DEVICES</h2>
+    <div class="details-sub">Carry your want / skip list between phone &amp; laptop — no account needed</div>
+
+    <div class="sync-actions">
+      <button class="action-btn" id="sync-show">Show my code</button>
+      <button class="action-btn" id="sync-enter">Enter a code</button>
+    </div>
+
+    <div id="sync-code-panel" class="sync-panel">
+      <p class="sync-hint">On your other device: open Rep City &rarr; Sync &rarr; <b>Enter a code</b> and type this within 15&nbsp;minutes:</p>
+      <div class="sync-code" id="sync-code-value">&hellip;</div>
+      <button class="action-btn" id="sync-copy">Copy code</button>
+      <p class="sync-hint sync-note">Single use. This links the other device to this one's list.</p>
+    </div>
+
+    <div id="sync-enter-panel" class="sync-panel">
+      <p class="sync-hint">Enter the code shown on your other device:</p>
+      <input type="text" id="sync-code-input" placeholder="e.g. 2UKG9X" maxlength="8" autocapitalize="characters" autocomplete="off" spellcheck="false">
+      <button class="action-btn" id="sync-submit">Sync this device</button>
+      <p class="sync-msg" id="sync-msg"></p>
+    </div>
   </div>
 </div>
 
@@ -1697,6 +1766,72 @@ document.getElementById('reset-btn').onclick = async () => {
   renderScreenings();
   renderSchedulePanel();
 };
+
+// ── Device sync ──────────────────────────────────────────────────────────────
+const syncModal = document.getElementById('sync-modal');
+function openSyncPanel(which) {
+  document.getElementById('sync-code-panel').classList.toggle('open', which === 'code');
+  document.getElementById('sync-enter-panel').classList.toggle('open', which === 'enter');
+}
+document.getElementById('sync-btn').onclick = () => {
+  openSyncPanel(null);
+  document.getElementById('sync-msg').textContent = '';
+  syncModal.classList.add('open');
+};
+document.getElementById('sync-close').onclick = () => syncModal.classList.remove('open');
+syncModal.addEventListener('click', (e) => { if (e.target === syncModal) syncModal.classList.remove('open'); });
+
+document.getElementById('sync-show').onclick = async () => {
+  openSyncPanel('code');
+  const el = document.getElementById('sync-code-value');
+  el.textContent = '…';
+  try {
+    const res = await fetch('/api/sync/create', {method:'POST'});
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || 'Could not create a code.');
+    el.textContent = data.code;
+  } catch (e) {
+    el.textContent = '—';
+    document.getElementById('sync-code-value').textContent = e.message;
+  }
+};
+
+document.getElementById('sync-copy').onclick = async () => {
+  const code = document.getElementById('sync-code-value').textContent;
+  try { await navigator.clipboard.writeText(code); document.getElementById('sync-copy').textContent = 'Copied ✓'; }
+  catch (e) { /* clipboard may be blocked; code is selectable */ }
+  setTimeout(() => { document.getElementById('sync-copy').textContent = 'Copy code'; }, 1500);
+};
+
+document.getElementById('sync-enter').onclick = () => {
+  openSyncPanel('enter');
+  document.getElementById('sync-msg').textContent = '';
+  document.getElementById('sync-code-input').focus();
+};
+
+document.getElementById('sync-submit').onclick = async () => {
+  const msg = document.getElementById('sync-msg');
+  const code = document.getElementById('sync-code-input').value.trim();
+  if (!code) { msg.className = 'sync-msg err'; msg.textContent = 'Enter a code.'; return; }
+  msg.className = 'sync-msg'; msg.textContent = 'Syncing…';
+  try {
+    const res = await fetch('/api/sync/claim', {
+      method: 'POST', headers: {'Content-Type':'application/json'},
+      body: JSON.stringify({code})
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || 'Sync failed.');
+    msg.className = 'sync-msg ok';
+    msg.textContent = `Synced! ${data.count} item${data.count===1?'':'s'} on this device now.`;
+    setTimeout(() => location.reload(), 1200);
+  } catch (e) {
+    msg.className = 'sync-msg err';
+    msg.textContent = e.message;
+  }
+};
+document.getElementById('sync-code-input').addEventListener('keydown', (e) => {
+  if (e.key === 'Enter') document.getElementById('sync-submit').click();
+});
 
 // Schedule list modal
 document.getElementById('schedule-btn').onclick = () => {
