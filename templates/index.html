@@ -47,6 +47,7 @@
     --nickel: #46c9b0;
     --peckhamplex: #8a95a5;
     --electric: #d94fd9;
+    --curzonsoho: #e8d24a;
 
     --want-bg: #1a2e1a;
     --want-border: #4a8a4a;
@@ -297,12 +298,14 @@
   .venue-pill[data-venue="Nickel"]      { color: var(--nickel);      border-color: var(--nickel); }
   .venue-pill[data-venue="Peckhamplex"] { color: var(--peckhamplex); border-color: var(--peckhamplex); }
   .venue-pill[data-venue="Electric"]    { color: var(--electric);    border-color: var(--electric); }
+  .venue-pill[data-venue="CurzonSoho"]  { color: var(--curzonsoho);  border-color: var(--curzonsoho); }
   .venue-pill.active[data-venue="Garden"]      { background: var(--garden);      color: #000; }
   .venue-pill.active[data-venue="Castle"]      { background: var(--castle);      color: #fff; }
   .venue-pill.active[data-venue="Rio"]         { background: var(--rio);         color: #fff; }
   .venue-pill.active[data-venue="Nickel"]      { background: var(--nickel);      color: #000; }
   .venue-pill.active[data-venue="Peckhamplex"] { background: var(--peckhamplex); color: #000; }
   .venue-pill.active[data-venue="Electric"]    { background: var(--electric);    color: #fff; }
+  .venue-pill.active[data-venue="CurzonSoho"]  { background: var(--curzonsoho);  color: #000; }
 
   /* ── Action buttons ── */
   .action-btn {
@@ -475,6 +478,7 @@
   .card[data-venue="Nickel"]::before      { background: var(--nickel); }
   .card[data-venue="Peckhamplex"]::before { background: var(--peckhamplex); }
   .card[data-venue="Electric"]::before    { background: var(--electric); }
+  .card[data-venue="CurzonSoho"]::before  { background: var(--curzonsoho); }
 
   .card-title {
     font-size: 13px;
@@ -1524,6 +1528,7 @@ const VENUE_COLORS = {
   ICA: '#e0619e', Barbican: '#4ab0e8', PCC: '#f0a03c',
   Garden: '#5ec46e', Castle: '#9d6ae8', Rio: '#e05252',
   Nickel: '#46c9b0', Peckhamplex: '#8a95a5', Electric: '#d94fd9',
+  CurzonSoho: '#e8d24a',
 };
 
 function initCalMonth() {

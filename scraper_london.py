@@ -13,10 +13,13 @@ Venues:
     metadata server-rendered into static HTML; one request covers ~4-5 months).
   - Garden, Castle, Rio, Nickel, Peckhamplex, Electric -> each in its own
     venues_*.py module (self-contained requests/bs4 scrapers), imported below.
+  - Curzon Soho (venues_curzon.py) -> Vista OCAPI. The API takes plain requests
+    with a bearer token; the token is grabbed from the Cloudflare-fronted SPA
+    with headless Playwright (same headless-browser approach as MoMA/Vista).
 
-Not yet included (need a real browser that won't run in the headless daily CI):
-  - Curzon Soho (Vista OCAPI behind Cloudflare; token fetch needs a browser)
-  - Close-Up (concrete5 behind Cloudflare; only a *headed* browser passes)
+Not included:
+  - Close-Up (concrete5 behind Cloudflare; only a *headed* browser passes the
+    challenge and it rate-limits, so it can't run in the headless daily CI).
 """
 
 import os
@@ -37,6 +40,7 @@ from venues_rio import scrape_rio
 from venues_nickel import scrape_nickel
 from venues_peckhamplex import scrape_peckhamplex
 from venues_electric import scrape_electric
+from venues_curzon import scrape_curzon_soho
 
 LONDON = ZoneInfo("Europe/London")
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
@@ -444,6 +448,7 @@ def scrape_all_london():
         ("The Nickel Cinema", scrape_nickel),
         ("Peckhamplex", scrape_peckhamplex),
         ("Electric Cinema", scrape_electric),
+        ("Curzon Soho", scrape_curzon_soho),
     ]
     for label, fn in OTHER_VENUES:
         try:
