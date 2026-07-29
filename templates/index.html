@@ -226,6 +226,18 @@
   }
   .dropdown-item:hover { background: var(--surface); }
   .dropdown-item.checked { color: var(--accent); font-weight: 600; }
+  /* Right-aligned menu (utility menu anchored to the right edge of the header) */
+  .dropdown-menu.menu-right { left: auto; right: 0; }
+  /* dropdown-item as a <button> (utility menu actions) */
+  button.dropdown-item {
+    width: 100%;
+    background: none;
+    border: 0;
+    text-align: left;
+    font: inherit;
+    font-size: 13px;
+  }
+  #menu-btn { font-size: 18px; line-height: 1; padding: 5px 11px; }
   .dd-check { width: 12px; display: inline-block; text-align: center; color: var(--accent); }
   .dd-caret { color: var(--muted); font-size: 10px; }
 
@@ -325,22 +337,6 @@
     font-size: 11px;
     color: var(--muted);
     white-space: nowrap;
-  }
-
-  /* ── Legend ── */
-  .legend {
-    padding: 8px 20px;
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    display: flex;
-    gap: 20px;
-    font-size: 11px;
-    color: var(--muted);
-  }
-  .legend-item { display: flex; align-items: center; gap: 6px; }
-  .legend-dot {
-    width: 8px; height: 8px; border-radius: 50%;
-    display: inline-block;
   }
 
   /* ── Main layout ── */
@@ -1053,7 +1049,6 @@
     /* 16px avoids iOS Safari auto-zoom on focus */
     .header-bar .search-input { min-width: 0; font-size: 16px; }
     #filters-toggle { display: inline-flex; align-items: center; }
-    #schedule-btn .btn-label { display: none; }   /* icon only on mobile */
 
     /* Filters drawer: collapsed by default, opens on tap */
     .controls-panel { display: none; }
@@ -1116,7 +1111,14 @@
 
     <input type="text" class="search-input" id="search" placeholder="Search titles...">
     <button class="action-btn" id="filters-toggle" aria-expanded="false" aria-controls="controls-panel">&#9776; Filters</button>
-    <button class="action-btn" id="schedule-btn">&#128197;<span class="btn-label"> My Schedule</span></button>
+    <div class="dropdown" id="menu-wrap">
+      <button class="action-btn" id="menu-btn" aria-expanded="false" aria-haspopup="true" aria-label="Menu">&#8942;</button>
+      <div class="dropdown-menu menu-right" id="menu-dropdown">
+        <button class="dropdown-item" id="schedule-btn">&#128197; My Schedule</button>
+        <button class="dropdown-item" id="sync-btn">&#8646; Sync devices</button>
+        <button class="dropdown-item" id="reset-btn">&#8635; Reset all</button>
+      </div>
+    </div>
   </div>
 
   <div class="controls-panel" id="controls-panel">
@@ -1134,17 +1136,8 @@
     <div class="venue-filters" id="venue-filters"></div>
 
     <span class="status-bar" id="status-bar">Loading...</span>
-
-    <button class="action-btn" id="sync-btn">&#8646; Sync</button>
-    <button class="action-btn" id="reset-btn">Reset All</button>
   </div>
 </header>
-
-<div class="legend">
-  <span class="legend-item"><span class="legend-dot" style="background:#5ac85a"></span> Want to see</span>
-  <span class="legend-item"><span class="legend-dot" style="background:#e85a5a"></span> Dismissed</span>
-  <span class="legend-item"><span class="legend-dot" style="background:var(--muted)"></span> Available</span>
-</div>
 
 <main id="main"></main>
 
@@ -1717,6 +1710,26 @@ if (_cityBtn && _cityMenu) {
   document.addEventListener('click', (e) => {
     if (_cityDd && !_cityDd.contains(e.target)) _cityMenu.classList.remove('open');
   });
+}
+
+// Utility menu (My Schedule / Sync / Reset)
+const _menuBtn = document.getElementById('menu-btn');
+const _menuDd = document.getElementById('menu-dropdown');
+const _menuWrap = document.getElementById('menu-wrap');
+if (_menuBtn && _menuDd) {
+  _menuBtn.onclick = (e) => {
+    e.stopPropagation();
+    const open = _menuDd.classList.toggle('open');
+    _menuBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+  };
+  document.addEventListener('click', (e) => {
+    if (_menuWrap && !_menuWrap.contains(e.target)) _menuDd.classList.remove('open');
+  });
+  _menuDd.querySelectorAll('.dropdown-item').forEach(el =>
+    el.addEventListener('click', () => {
+      _menuDd.classList.remove('open');
+      _menuBtn.setAttribute('aria-expanded', 'false');
+    }));
 }
 
 // Mobile: Filters drawer toggle
