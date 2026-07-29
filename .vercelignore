@@ -3,6 +3,12 @@ scraper.py
 scraper_nyc.py
 scraper_london.py
 adapters.py
+venues_garden.py
+venues_castle.py
+venues_rio.py
+venues_nickel.py
+venues_peckhamplex.py
+venues_electric.py
 amcin_meta_cache.json
 academy_meta_cache.json
 newbev_meta_cache.json
@@ -13,6 +19,7 @@ moma_meta_cache.json
 barbican_meta_cache.json
 ica_meta_cache.json
 pcc_meta_cache.json
+peckhamplex_meta_cache.json
 screening_state.json
 __pycache__
 .playwright

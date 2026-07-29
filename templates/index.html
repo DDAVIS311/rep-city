@@ -41,6 +41,12 @@
     --ica: #e0619e;
     --barbican: #4ab0e8;
     --pcc: #f0a03c;
+    --garden: #5ec46e;
+    --castle: #9d6ae8;
+    --rio: #e05252;
+    --nickel: #46c9b0;
+    --peckhamplex: #8a95a5;
+    --electric: #d94fd9;
 
     --want-bg: #1a2e1a;
     --want-border: #4a8a4a;
@@ -285,6 +291,19 @@
   .venue-pill.active[data-venue="Barbican"] { background: var(--barbican); color: #000; }
   .venue-pill.active[data-venue="PCC"]      { background: var(--pcc);      color: #000; }
 
+  .venue-pill[data-venue="Garden"]      { color: var(--garden);      border-color: var(--garden); }
+  .venue-pill[data-venue="Castle"]      { color: var(--castle);      border-color: var(--castle); }
+  .venue-pill[data-venue="Rio"]         { color: var(--rio);         border-color: var(--rio); }
+  .venue-pill[data-venue="Nickel"]      { color: var(--nickel);      border-color: var(--nickel); }
+  .venue-pill[data-venue="Peckhamplex"] { color: var(--peckhamplex); border-color: var(--peckhamplex); }
+  .venue-pill[data-venue="Electric"]    { color: var(--electric);    border-color: var(--electric); }
+  .venue-pill.active[data-venue="Garden"]      { background: var(--garden);      color: #000; }
+  .venue-pill.active[data-venue="Castle"]      { background: var(--castle);      color: #fff; }
+  .venue-pill.active[data-venue="Rio"]         { background: var(--rio);         color: #fff; }
+  .venue-pill.active[data-venue="Nickel"]      { background: var(--nickel);      color: #000; }
+  .venue-pill.active[data-venue="Peckhamplex"] { background: var(--peckhamplex); color: #000; }
+  .venue-pill.active[data-venue="Electric"]    { background: var(--electric);    color: #fff; }
+
   /* ── Action buttons ── */
   .action-btn {
     padding: 5px 12px;
@@ -450,6 +469,12 @@
   .card[data-venue="ICA"]::before         { background: var(--ica); }
   .card[data-venue="Barbican"]::before    { background: var(--barbican); }
   .card[data-venue="PCC"]::before         { background: var(--pcc); }
+  .card[data-venue="Garden"]::before      { background: var(--garden); }
+  .card[data-venue="Castle"]::before      { background: var(--castle); }
+  .card[data-venue="Rio"]::before         { background: var(--rio); }
+  .card[data-venue="Nickel"]::before      { background: var(--nickel); }
+  .card[data-venue="Peckhamplex"]::before { background: var(--peckhamplex); }
+  .card[data-venue="Electric"]::before    { background: var(--electric); }
 
   .card-title {
     font-size: 13px;
@@ -1497,6 +1522,8 @@ const VENUE_COLORS = {
   IFC: '#e84a4a', FilmForum: '#e8824a', Anthology: '#e8b84a', LowCinema: '#c84ae8',
   Metrograph: '#4a82e8', FilmLinc: '#4ae8c8', MoMA: '#e8e8e8', MoMI: '#8a4ae8',
   ICA: '#e0619e', Barbican: '#4ab0e8', PCC: '#f0a03c',
+  Garden: '#5ec46e', Castle: '#9d6ae8', Rio: '#e05252',
+  Nickel: '#46c9b0', Peckhamplex: '#8a95a5', Electric: '#d94fd9',
 };
 
 function initCalMonth() {

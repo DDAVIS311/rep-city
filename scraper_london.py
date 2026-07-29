@@ -11,6 +11,12 @@ Venues:
     embed URL and no director/synopsis). Front-end detail pages are cached by URL.
   - Prince Charles Cinema -> WordPress/Jacro what's-on page (all showtimes and
     metadata server-rendered into static HTML; one request covers ~4-5 months).
+  - Garden, Castle, Rio, Nickel, Peckhamplex, Electric -> each in its own
+    venues_*.py module (self-contained requests/bs4 scrapers), imported below.
+
+Not yet included (need a real browser that won't run in the headless daily CI):
+  - Curzon Soho (Vista OCAPI behind Cloudflare; token fetch needs a browser)
+  - Close-Up (concrete5 behind Cloudflare; only a *headed* browser passes)
 """
 
 import os
@@ -25,6 +31,12 @@ import requests
 from bs4 import BeautifulSoup
 
 from adapters import scrape_spektrix
+from venues_garden import scrape_garden
+from venues_castle import scrape_castle
+from venues_rio import scrape_rio
+from venues_nickel import scrape_nickel
+from venues_peckhamplex import scrape_peckhamplex
+from venues_electric import scrape_electric
 
 LONDON = ZoneInfo("Europe/London")
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
@@ -423,12 +435,29 @@ def scrape_all_london():
         except Exception as e:
             print(f"  {venue}: FAILED ({e})")
 
-    try:
-        pcc = scrape_prince_charles()
-        print(f"  Prince Charles Cinema: {len(pcc)} screenings")
-        screenings += pcc
-    except Exception as e:
-        print(f"  Prince Charles Cinema: FAILED ({e})")
+    # Self-contained single-venue scrapers (each in its own venues_*.py module).
+    OTHER_VENUES = [
+        ("Prince Charles Cinema", scrape_prince_charles),
+        ("The Garden Cinema", scrape_garden),
+        ("The Castle Cinema", scrape_castle),
+        ("Rio Cinema", scrape_rio),
+        ("The Nickel Cinema", scrape_nickel),
+        ("Peckhamplex", scrape_peckhamplex),
+        ("Electric Cinema", scrape_electric),
+    ]
+    for label, fn in OTHER_VENUES:
+        try:
+            rows = fn()
+            print(f"  {label}: {len(rows)} screenings")
+            screenings += rows
+        except Exception as e:
+            print(f"  {label}: FAILED ({e})")
+
+    # Normalize any bare-number runtime (e.g. "172") to "172 min" for consistency.
+    for s in screenings:
+        rt = str(s.get("runtime", "")).strip()
+        if rt.isdigit():
+            s["runtime"] = f"{rt} min"
 
     return screenings
 
