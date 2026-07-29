@@ -1200,7 +1200,7 @@ function normalizeTimeForSort(t) {
 // ──────────────────────────────────────────────────────────────
 // Render
 // ──────────────────────────────────────────────────────────────
-const CITY_LABELS = { LA: 'Los Angeles', NYC: 'New York' };
+const CITY_LABELS = { LA: 'Los Angeles', NYC: 'New York', London: 'London' };
 
 function buildCityFilters() {
   const cities = [...new Set(allScreenings.map(s => s.city).filter(Boolean))].sort();

@@ -919,6 +919,12 @@ def scrape_all():
     print(f"  NYC subtotal: {len(nyc)} screenings")
     all_screenings += nyc
 
+    print("\n── London ──")
+    from scraper_london import scrape_all_london
+    london = scrape_all_london()
+    print(f"  London subtotal: {len(london)} screenings")
+    all_screenings += london
+
     # Sort by date then time
     def sort_key(s):
         t = s.get("time", "")
