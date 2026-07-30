@@ -6,8 +6,10 @@ User identity: UUID stored in a browser cookie (rc_user).
 
 import json
 import os
+import re
 import uuid
 import secrets
+import unicodedata
 from flask import Flask, jsonify, request, send_from_directory, make_response
 
 app = Flask(__name__, static_folder="static", template_folder="templates")
@@ -181,6 +183,54 @@ def force_user_cookie(response, user_id):
     return response
 
 
+# ── Aggregate demand signal (privacy-preserving; no per-user linkage) ──────────
+# Each want/skip bumps a Redis sorted set keyed by a NORMALIZED film title, so the
+# same film aggregates across venues and formats (e.g. "THE ODYSSEY in 70mm" and
+# "The Odyssey (15) 35mm" both count toward "the odyssey"). This is a count of
+# want/skip *actions* (intent events), not unique users — fine for relative demand.
+
+_DEMAND_FMT_RE = re.compile(
+    r"\b(?:(?:in|on)\s+)?(?:70mm|35mm|16mm|4k\s*dcp|2k\s*dcp|dcp|imax|4k|digital|nitrate|vhs|dvd)\b",
+    re.I,
+)
+
+
+def _title_from_id(sid):
+    # screening_id == "venue_short|title|date|time"; title may itself contain "|".
+    try:
+        return sid.split("|", 1)[1].rsplit("|", 2)[0]
+    except Exception:
+        return ""
+
+
+def _normalize_title(raw):
+    t = unicodedata.normalize("NFKC", raw or "")
+    if ": " in t:
+        t = t.split(": ")[-1]                          # drop strand/series prefix
+    t = re.sub(r"[\(\[][^\)\]]*[\)\]]", " ", t)         # drop (15), [35mm], (4K Restoration)
+    t = _DEMAND_FMT_RE.sub(" ", t)                      # drop format tokens / "in 70mm"
+    t = re.sub(r"\b(?:UK|US|EUROPEAN|WORLD|LONDON|INTERNATIONAL)\s+PREMIERE\b", " ", t, re.I)
+    t = re.sub(r"\bpremiere\b|\bpreview\b", " ", t, re.I)
+    t = re.sub(r"[^0-9A-Za-z&'’.\- ]+", " ", t)         # strip punctuation noise
+    t = re.sub(r"\s+", " ", t).strip()
+    return t.lower()
+
+
+def _bump_demand(status, sid):
+    """Increment the aggregate demand tally. Never raises — a demand-store hiccup
+    must not break the user's want/skip action."""
+    try:
+        kv = _get_kv()
+        if not kv:
+            return
+        title = _normalize_title(_title_from_id(sid))
+        if not title:
+            return
+        kv.zincrby("demand:want" if status == "want" else "demand:skip", 1, title)
+    except Exception:
+        pass
+
+
 # ── Cookie helpers ─────────────────────────────────────────────────────────────
 
 def get_user_id():
@@ -267,6 +317,8 @@ def update_state():
         set_state_item(user_id, sid, status)
     except Exception as e:
         return jsonify({"error": str(e)}), 500
+    if status in ("want", "dismissed"):
+        _bump_demand(status, sid)
     resp = make_response(jsonify({"ok": True}))
     attach_user_cookie(resp, user_id)
     return resp
@@ -365,6 +417,75 @@ def sync_claim():
     resp = make_response(jsonify({"ok": True, "merged": merged, "count": count}))
     force_user_cookie(resp, src_id)
     return resp
+
+
+def _demand_top(kv, key, n=150):
+    """Return [(title, count), ...] highest-first from a demand sorted set,
+    tolerating either flat [m, s, m, s] or [(m, s), ...] return shapes."""
+    raw = kv.zrange(key, 0, n - 1, rev=True, withscores=True) or []
+    pairs = []
+    if raw and isinstance(raw[0], (list, tuple)):
+        pairs = [(m, s) for m, s in raw]
+    else:
+        it = iter(raw)
+        pairs = list(zip(it, it))
+    out = []
+    for m, s in pairs:
+        try:
+            out.append((str(m), int(float(s))))
+        except (TypeError, ValueError):
+            out.append((str(m), 0))
+    return out
+
+
+@app.route("/demand")
+def demand_view():
+    """Aggregate most-wanted / most-skipped films. Gated by a DEMAND_KEY env var
+    so it isn't public; visit /demand?key=YOUR_KEY."""
+    from markupsafe import escape
+    secret = os.environ.get("DEMAND_KEY")
+    if not secret:
+        return ("Set a DEMAND_KEY environment variable in the Vercel project, "
+                "then open /demand?key=YOUR_KEY", 503)
+    if request.args.get("key") != secret:
+        return ("Not found", 404)
+    kv = _get_kv()
+    if kv is None:
+        return ("State store not configured.", 503)
+    want = _demand_top(kv, "demand:want")
+    skip = _demand_top(kv, "demand:skip")
+
+    def table(title, rows):
+        body = "".join(
+            f"<tr><td class='n'>{i+1}</td><td>{escape(t.title())}</td>"
+            f"<td class='c'>{c}</td></tr>"
+            for i, (t, c) in enumerate(rows)
+        ) or "<tr><td colspan='3' class='empty'>No data yet.</td></tr>"
+        return (f"<section><h2>{title}</h2><table>"
+                f"<tr><th>#</th><th>Film</th><th>Count</th></tr>{body}</table></section>")
+
+    html = f"""<!doctype html><html><head><meta charset=utf-8>
+<meta name=viewport content="width=device-width, initial-scale=1">
+<title>Rep City — Demand</title><style>
+  body {{ font-family: -apple-system, system-ui, sans-serif; background:#0e0e10; color:#e8e8e8;
+         margin:0; padding:24px; }}
+  h1 {{ font-size:20px; margin:0 0 4px; }}
+  .sub {{ color:#8a8a90; font-size:13px; margin-bottom:24px; }}
+  .cols {{ display:flex; gap:32px; flex-wrap:wrap; align-items:flex-start; }}
+  section {{ flex:1; min-width:280px; }}
+  h2 {{ font-size:14px; text-transform:uppercase; letter-spacing:.05em; color:#c8a04a; }}
+  table {{ border-collapse:collapse; width:100%; font-size:14px; }}
+  th, td {{ text-align:left; padding:6px 10px; border-bottom:1px solid #232327; }}
+  th {{ color:#8a8a90; font-weight:600; font-size:12px; }}
+  td.n {{ color:#6a6a70; width:28px; }}
+  td.c {{ text-align:right; font-variant-numeric:tabular-nums; color:#c8a04a; font-weight:600; }}
+  .empty {{ color:#6a6a70; }}
+</style></head><body>
+<h1>Rep City — Demand signal</h1>
+<div class=sub>Aggregate want / skip actions by film (normalized across venues &amp; formats).</div>
+<div class=cols>{table('Most wanted', want)}{table('Most skipped', skip)}</div>
+</body></html>"""
+    return html
 
 
 if __name__ == "__main__":
