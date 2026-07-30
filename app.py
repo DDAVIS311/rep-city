@@ -217,18 +217,41 @@ def index():
 
 @app.route("/api/screenings")
 def get_screenings():
-    user_id = get_user_id()
+    # Base screening list — identical for every visitor. Deliberately sets NO
+    # cookie and touches NO KV, so the response is cacheable at Vercel's edge and
+    # a traffic spike is served from the CDN instead of this function. The data
+    # only changes on deploy (each scrape commits + deploys, which purges the edge
+    # cache). Per-user want/skip is fetched separately from GET /api/state and
+    # merged in the browser.
     screenings = load_screenings()
-    state = load_state(user_id)
     result = []
     for s in screenings:
-        sid = screening_id(s)
         s_copy = dict(s)
-        s_copy["id"] = sid
-        s_copy["status"] = state.get(sid, "available")
+        s_copy["id"] = screening_id(s)
+        s_copy["status"] = "available"
         result.append(s_copy)
     resp = make_response(jsonify(result))
-    attach_user_cookie(resp, user_id)
+    resp.headers["Cache-Control"] = (
+        "public, max-age=600, s-maxage=21600, stale-while-revalidate=86400"
+    )
+    return resp
+
+
+@app.route("/api/state", methods=["GET"])
+def get_state():
+    # Brand-new visitors have no cookie and therefore no saved state — return an
+    # empty map WITHOUT touching KV. This is what keeps anonymous browsing (the
+    # bulk of a launch spike) off the Redis command budget entirely.
+    if not request.cookies.get("rc_user"):
+        resp = make_response(jsonify({}))
+        resp.headers["Cache-Control"] = "private, no-store"
+        return resp
+    try:
+        state = load_state(get_user_id())
+    except Exception:
+        state = {}          # state store down/over-quota -> degrade, don't 500
+    resp = make_response(jsonify(state))
+    resp.headers["Cache-Control"] = "private, no-store"
     return resp
 
 

@@ -1245,6 +1245,18 @@ async function fetchScreenings() {
   return res.json();
 }
 
+// Per-user want/skip map, fetched separately from the (cached) base list.
+// Degrades to an empty map if the state store is unreachable — browsing still works.
+async function fetchState() {
+  try {
+    const res = await fetch('/api/state');
+    if (!res.ok) return {};
+    return await res.json();
+  } catch (_) {
+    return {};
+  }
+}
+
 async function updateStatus(id, status) {
   const res = await fetch('/api/state', {
     method: 'POST',
@@ -1676,7 +1688,9 @@ function updateStatusBar() {
 async function init() {
   showLoading('Loading schedule data…');
   try {
-    allScreenings = await fetchScreenings();
+    const [screenings, stateMap] = await Promise.all([fetchScreenings(), fetchState()]);
+    allScreenings = screenings;
+    allScreenings.forEach(s => { s.status = stateMap[s.id] || 'available'; });
     applyStoredPrefs();
     buildCityFilters();
     buildVenueFilters();
