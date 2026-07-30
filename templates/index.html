@@ -1084,6 +1084,11 @@
     .sched-item:hover { background: transparent; }
   }
 </style>
+<!-- Vercel Web Analytics (privacy-friendly, cookieless). No-ops until enabled in the Vercel dashboard. -->
+<script>
+  window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
+</script>
+<script defer src="/_vercel/insights/script.js"></script>
 </head>
 <body>
 
@@ -1240,6 +1245,11 @@ const VENUE_NAMES = {
 // ──────────────────────────────────────────────────────────────
 // API helpers
 // ──────────────────────────────────────────────────────────────
+// Vercel Web Analytics custom event (safe no-op if analytics isn't enabled).
+function track(name, data) {
+  try { if (window.va) window.va('event', data ? { name, data } : { name }); } catch (_) {}
+}
+
 async function fetchScreenings() {
   const res = await fetch('/api/screenings');
   return res.json();
@@ -1336,6 +1346,7 @@ function buildCityFilters() {
         activeCities.delete(city);
       } else {
         activeCities.add(city);
+        track('city_selected', { city });
       }
       savePrefs();
       buildCityFilters();
@@ -1519,7 +1530,7 @@ function buildCard(s) {
         ${dismissActive ? '&#8635; Restore' : '&#10005; Skip'}
       </button>
       ${detailsHtml}
-      ${s.url ? `<a class="btn-ticket" href="${escHtml(s.url)}" target="_blank" rel="noopener">Tickets ↗</a>` : ''}
+      ${s.url ? `<a class="btn-ticket" href="${escHtml(s.url)}" target="_blank" rel="noopener" data-venue="${escHtml(s.venue_short)}" data-city="${escHtml(s.city || '')}">Tickets ↗</a>` : ''}
     </div>
   `;
 
@@ -1527,6 +1538,7 @@ function buildCard(s) {
     e.stopPropagation();
     const prev = s.status;
     const newStatus = s.status === 'want' ? 'available' : 'want';
+    if (newStatus === 'want') track('want', { venue: s.venue_short, city: s.city });
     s.status = newStatus;
     renderScreenings();
     renderSchedulePanel();
@@ -1547,6 +1559,7 @@ function buildCard(s) {
     e.stopPropagation();
     const prev = s.status;
     const newStatus = s.status === 'dismissed' ? 'available' : 'dismissed';
+    if (newStatus === 'dismissed') track('skip', { venue: s.venue_short, city: s.city });
     s.status = newStatus;
     renderScreenings();
     try {
@@ -1649,7 +1662,7 @@ function renderSchedulePanel() {
           <div class="sched-title">${escHtml(s.title)}</div>
           <div class="sched-sub">${escHtml(sub)}</div>
         </div>
-        ${s.url ? `<a class="btn-ticket sched-tix" href="${escHtml(s.url)}" target="_blank" rel="noopener">Tickets ↗</a>` : ''}
+        ${s.url ? `<a class="btn-ticket sched-tix" href="${escHtml(s.url)}" target="_blank" rel="noopener" data-venue="${escHtml(s.venue_short)}" data-city="${escHtml(s.city || '')}">Tickets ↗</a>` : ''}
         <button class="sched-remove" title="Remove from schedule">&#10005;</button>`;
 
       row.onclick = (e) => {
@@ -1817,6 +1830,7 @@ document.getElementById('sync-show').onclick = async () => {
     const data = await res.json();
     if (!res.ok) throw new Error(data.error || 'Could not create a code.');
     el.textContent = data.code;
+    track('sync', { action: 'create' });
   } catch (e) {
     el.textContent = '—';
     document.getElementById('sync-code-value').textContent = e.message;
@@ -1850,6 +1864,7 @@ document.getElementById('sync-submit').onclick = async () => {
     if (!res.ok) throw new Error(data.error || 'Sync failed.');
     msg.className = 'sync-msg ok';
     msg.textContent = `Synced! ${data.count} item${data.count===1?'':'s'} on this device now.`;
+    track('sync', { action: 'claim' });
     setTimeout(() => location.reload(), 1200);
   } catch (e) {
     msg.className = 'sync-msg err';
@@ -1860,8 +1875,15 @@ document.getElementById('sync-code-input').addEventListener('keydown', (e) => {
   if (e.key === 'Enter') document.getElementById('sync-submit').click();
 });
 
+// Ticket-link clicks (intent signal) — delegated so it covers cards + schedule rows
+document.addEventListener('click', (e) => {
+  const a = e.target.closest && e.target.closest('a.btn-ticket');
+  if (a) track('tickets_click', { venue: a.dataset.venue || '', city: a.dataset.city || '' });
+});
+
 // Schedule list modal
 document.getElementById('schedule-btn').onclick = () => {
+  track('schedule_opened');
   renderSchedulePanel();
   document.getElementById('schedule-modal').classList.add('open');
 };
