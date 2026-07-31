@@ -72,6 +72,11 @@
 "director": "",
 "runtime": ""
 },
+"https://metrograph.com/film/?vista_film_id=9999000006": {
+"description": "",
+"director": "",
+"runtime": ""
+},
 "https://metrograph.com/film/?vista_film_id=9999000051": {
 "description": "Coming-of-age, Eustache-style: the director followed up The Mother and the Whore with an intimate drama based on his childhood, about a boy\u2019s awkward, provincial adolescence in the south of France. This unsentimental, elegantly somber, visually driven film about sexual self-discovery and the passage of time was gorgeously photographed by the legendary Nestor Almendros. Eustache\u2019s only other feature-length narrative film other than The Mother and the Whore, it owns a rightful place next to that film as a true masterpiece.",
 "director": "Jean Eustache",
@@ -125,6 +130,12 @@
 "format": "DCP",
 "runtime": "99 min"
 },
+"https://metrograph.com/film/?vista_film_id=9999000660": {
+"description": "Shot in the environs of Lake Annecy, Claire\u2019s Knee\u2014the fifth entry in Rohmer\u2019s series of Six Moral Tales\u2014concerns a cultured, soon-to-be-wed diplomat (Jean-Claude Brialy) who develops a consuming obsession with the knee of an acquaintance\u2019s daughter, a fetish which in Rohmer\u2019s hands takes on the character of an almost religious quest. With the always wonderful B\u00e9atrice Romand, making her first appearance in Rohmer\u2019s stock company.",
+"director": "\u00c9ric Rohmer",
+"format": "DCP",
+"runtime": "106 min"
+},
 "https://metrograph.com/film/?vista_film_id=9999000678": {
 "description": "\u201cLast night I dreamt I went to Manderlay again\u2026\u201d Hitchcock was still a newly arrived UK import when this gothic thriller/romance, based on the novel of the same title by Daphne du Maurier, took Outstanding Production (later \u201cBest Picture\u201d) honors at the Academy Awards. Joan Fontaine stars as a terribly self-conscious young woman, never identified by name, who becomes enamored with a saturnine, aristocratic widower, Maxim de Winter (Laurence Olivier, fresh from Wuthering Heights)\u2014and, once she\u2019s been taken as his bride, obsessed with his late wife\u2019s phantom presence in their home on the Cornwall coast. A marvel of directorial assurance that turns the screws with poise and panache. Walt Disney Studios/20th Century Part of In Her Shadow",
 "director": "Alfred Hitchcock",
@@ -160,6 +171,11 @@
 "director": "Michelangelo Antonioni",
 "format": "DCP",
 "runtime": "106 min"
+},
+"https://metrograph.com/film/?vista_film_id=9999001076": {
+"description": "",
+"director": "",
+"runtime": ""
 },
 "https://metrograph.com/film/?vista_film_id=9999001110": {
 "description": "A relentless, breakneck, candy-colored chase through the heart of Queens and Nassau County, the Safdies\u2019 long, dark night of the soul thriller follows ne\u2019er-do-well punk grifter \u201cConnie\u201d Nikas (Robert Pattinson) as he scrambles to spring brother Nick (Benny Safdie) from the clink after a bank job gone awry, finding himself embroiled in one botched scheme after another in the course of a sleepless night that takes him to sugar mama Jennifer Jason Leigh, through an Adventureland dark ride, and to the limits of endurance. A mesmerizing, frantic performance by Pattinson, in a harrowing work of bridge-and-tunnel psychedelia. Part of This Night Has Opened My Eyes",
@@ -202,11 +218,21 @@
 "format": "35mm",
 "runtime": "94 min"
 },
+"https://metrograph.com/film/?vista_film_id=9999001549": {
+"description": "",
+"director": "",
+"runtime": ""
+},
 "https://metrograph.com/film/?vista_film_id=9999001554": {
 "description": "A surreal nocturnal animated odyssey from Yuasa, the mad genius behind Mind Game, rendered in a frenetic, galaxy-brained, endlessly morphing style. The Night is Short, Walk on Girl follows a mysterious high schooler known only as The Girl with Black Hair through the streets of Kyoto\u2019s famed Ponto-Cho party district, drinking middle-aged salarymen under the table when she\u2019s not mixing with barflies, obsessive collectors, and guerilla theater performers, all the while oblivious to the efforts of a fellow student who has been creating increasingly fantastic and contrived reasons to run into her in a gambit to win her love. A comic fable of fleeting youthful passions, as lived out through one mad, unforgettable night. Part of This Night Has Opened My Eyes",
 "director": "Masaaki Yuasa",
 "format": "DCP",
 "runtime": "93 min"
+},
+"https://metrograph.com/film/?vista_film_id=9999001795": {
+"description": "",
+"director": "",
+"runtime": ""
 },
 "https://metrograph.com/film/?vista_film_id=9999001804": {
 "description": "A stylish and seductive submersion into the techno-scored neon nightlife of Taipei, Hou\u2019s much-misunderstood marvel stars Shu Qi (The Assassin) as an aimless bar hostess drifting away from her blowhard boyfriend and towards Jack Kao\u2019s suave, sensitive gangster. Structured as a flashback to the then-present from the then-future of 2011, it\u2019s a transfixing trance-out of a movie, drenched in club lights, ecstatic endorphin-rush exhilaration, and a nagging undercurrent of ennui. Hou and longtime cinematographer Lee here break from their familiar pattern of elegantly composed long shot long takes to create something both more intimate and hectic, a film whose shallow-focus images, jittery camerawork, and cramped locations evoke both the claustrophobic character of Taiwan\u2019s capital city and, in Lee\u2019s words, \u201cthe feeling of youth.\u201d",
@@ -224,6 +250,11 @@
 "director": "Charlie Chaplin",
 "format": "35mm",
 "runtime": "53 min"
+},
+"https://metrograph.com/film/?vista_film_id=9999002169": {
+"description": "",
+"director": "",
+"runtime": ""
 },
 "https://metrograph.com/film/?vista_film_id=9999002290": {
 "description": "An early and enormous artistic triumph of the French New Wave, Chabrol\u2019s quietly class-conscious film records the dreams, dramas, and self-deceptions of a quartet of young Parisian girls working at an appliance shop, among them Bernadette Lafont and St\u00e9phane Audran. A study of the social habits of the petite bourgeoisie, set against indubitably authentic locations seen in crisp black-and-white courtesy DP Henri Deca\u00eb, which develops into a melancholy cautionary tale on the risks of romantic illusion. Part of Among Friends",
@@ -334,6 +365,11 @@
 "format": "35mm",
 "runtime": "125 min"
 },
+"https://metrograph.com/film/?vista_film_id=9999003764": {
+"description": "",
+"director": "",
+"runtime": ""
+},
 "https://metrograph.com/film/?vista_film_id=9999003839": {
 "description": "After years of honing her craft as assistant director for the likes of Jim Jarmusch and Wim Wenders, Denis emerged as a filmmaker with a distinct and fully-formed sense of her art in this, her sensual and infinitely sensitive semi-autobiographical feature debut, drawing on memories of a childhood spent in French-occupied Africa. In Cameroon, civil servant Fran\u00e7ois Cluzet comes and goes on his appointed rounds, while his young daughter and neglected wife (Giulia Boschi) gravitate ever closer to their house servant, Prot\u00e9e (Isaach de Bankol\u00e9) in his absence, and the murmurs of anti-colonial resistance increase in vehemence away from eavesdropping whites. \u201cSome kind of miniature classic.\u201d\u2014Vincent Canby, The New York Times Part of Jean-Louis Ughetto: The Sound of Things",
 "director": "Claire Denis",
@@ -350,6 +386,11 @@
 "director": "Martha Coolidge",
 "format": "35mm",
 "runtime": "112 min"
+},
+"https://metrograph.com/film/?vista_film_id=9999004396": {
+"description": "",
+"director": "",
+"runtime": ""
 },
 "https://metrograph.com/film/?vista_film_id=9999004603": {
 "description": "With their last high school concert only days away, bandmates Kei, Kyoko, and Nozomi\u2019s hopes of taking the stage appear to be dashed when their lead singer quits the group, leaving them to hastily recruit a Korean exchange student with a limited grasp of Japanese (Bae Doona) and go into lockdown practice mode. Featuring the music of The Blue Hearts and Base Ball Bear as well as original instrumentals courtesy of Smashing Pumpkins\u2019s James Iha, Yamashita\u2019s newly restored, irresistibly charming, bumptious hangout movie, subject of a healthy cult following in Japan as well as abroad, is less concerned with \u201ccoming of age\u201d than with taking shelter, with a few good friends, from the oncoming adult crash. 20th Anniversary 4k Restoration A GKIDS Release Part of Among Friends",
@@ -641,6 +682,26 @@
 "runtime": ""
 },
 "https://metrograph.com/film/?vista_film_id=9999004973": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/?vista_film_id=9999004974": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/?vista_film_id=9999004975": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/?vista_film_id=9999004976": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/?vista_film_id=9999004977": {
 "description": "",
 "director": "",
 "runtime": ""
