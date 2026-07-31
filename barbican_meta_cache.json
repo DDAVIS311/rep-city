@@ -262,5 +262,11 @@
   "description": "In his final film, master of cinema Andrei Tarkovsky explores a world on the brink of nuclear war.",
   "runtime": "149 min",
   "format": "4K DCP"
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/members-screening-nostalghia": {
+  "director": "Andrei Tarkovsky",
+  "description": "Andrei Tarkovsky’s unforgettably haunting film, his first to be made outside Russia, follows Gorchakov, a Russian poet researching in Italy.",
+  "runtime": "125 min",
+  "format": ""
  }
 }
