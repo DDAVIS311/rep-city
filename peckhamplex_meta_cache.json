@@ -124,5 +124,17 @@
   "description": "Silents Synced pairs classic silent movies with epic rock music to bring audiences a unique big screen experience. This reimagining of the iconic Nosferatu (1922) features Radiohead’s Kid A (2000) and Amnesiac (2001) albums. An unauthorized adaptation of Bram Stoker’s Dracula, Nosferatu (1922) is the quintessential silent vampire film, crafted by legendary German director F. W. Murnau. Rather than depicting Dracula as a shape-shifting monster or debonair gentleman, Murnau’s Graf Orlok (as portrayed by Max Schreck) is a nightmarish, spidery creature of bulbous head and taloned claws - perhaps the most genuinely disturbing incarnation of vampirism yet envisioned. Don’t miss out on the chance to experience this imaginative new take on an iconic horror classic!",
   "runtime": "94 min",
   "format": ""
+ },
+ "https://www.peckhamplex.london/film/super-troopers-3": {
+  "director": "Jay Chandrasekhar",
+  "description": "The third installment in the Super Troopers franchise.",
+  "runtime": "104 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/ice-cream-man": {
+  "director": "Eli Roth",
+  "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+  "runtime": "86 min",
+  "format": ""
  }
 }
