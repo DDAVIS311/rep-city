@@ -274,5 +274,23 @@
   "description": "Christopher Nolan brings one of the world's most famous ancient texts to life in this mythic action epic starring Matt Damon, Anne Hathaway, Tom Holland and more.",
   "runtime": "172 min",
   "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/love-me-tender": {
+  "director": "Anna Cazenave Cambet",
+  "description": "After coming out to her ex-husband, Clémence ( Vicky Krieps ) must fight a brutal custody battle to keep her son – and her right to love who she chooses.",
+  "runtime": "134 min",
+  "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/david-byrnes-american-utopia": {
+  "director": "Spike Lee",
+  "description": "Spike Lee documents the wildly popular Broadway show from legend David Byrne , blending music, dance and spoken word alongside classics from Talking Heads .",
+  "runtime": "135 min",
+  "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/the-summer-book": {
+  "director": "Charlie McDowell",
+  "description": "Based on Tove Jansson 's beloved novel, The Summer Book tells the story of Sophia, a nine-year-old girl who is growing up on an island in the Gulf of Finland, alongside her elderly grandmother.",
+  "runtime": "90 min",
+  "format": ""
  }
 }
