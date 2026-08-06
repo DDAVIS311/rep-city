@@ -566,6 +566,28 @@ def _save_academy_cache(cache):
         pass
 
 
+ACADEMY_CALENDAR_URL = "https://www.academymuseum.org/en/calendar"
+
+
+def _academy_slug_map():
+    """Map ticketure event id -> Contentful slug, read once from the calendar
+    page's __NEXT_DATA__ (cfProgramsKeyedByTkId). The public detail-page slug is
+    NOT derivable from the title (e.g. "The Fourth Man" -> "the-4th-man",
+    "Fritz Lang's M" -> "fritz-langs-m"), so it must be looked up here. Returns {}
+    on failure — callers then fall back to the calendar URL and skip enrichment."""
+    try:
+        r = requests.get(ACADEMY_CALENDAR_URL, headers=HEADERS, timeout=20)
+        m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', r.text, re.S)
+        if not m:
+            return {}
+        cf = (json.loads(m.group(1)).get("props", {}).get("pageProps", {})
+              .get("cfProgramsKeyedByTkId", {}) or {})
+        return {tkid: prog["slug"] for tkid, prog in cf.items()
+                if isinstance(prog, dict) and prog.get("slug")}
+    except Exception:
+        return {}
+
+
 def scrape_academy():
     """Academy Museum — tickets.academymuseum.org REST API (replaces slow Playwright scraper)."""
     FILM_CATS = {"Film Screening", "Film Screening: Matinee", "Film Screening: Double Feature"}
@@ -574,6 +596,7 @@ def scrape_academy():
 
     screenings = []
     cache = _load_academy_cache()
+    slug_map = _academy_slug_map()
     try:
         from_dt = datetime.now().replace(hour=0, minute=0, second=0, microsecond=0)
         from_str = from_dt.strftime("%Y-%m-%dT07:00:00.000Z")  # midnight LA as UTC
@@ -616,14 +639,17 @@ def scrape_academy():
             h12 = hour % 12 or 12
             time_str = f"{h12}:{minute:02d} {ampm}"
 
-            # Event URL: /en/programs/detail/{slug}-{id}
-            slug = re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
+            # Public detail URL uses the Contentful slug looked up by ticketure id
+            # (NOT derivable from the title). Fall back to the calendar page for
+            # programs not published there, and skip enrichment in that case.
             event_id = tmpl.get("id", "")
-            event_url = f"https://www.academymuseum.org/en/programs/detail/{slug}-{event_id}"
-
-            # The ticketing API carries no film details, so enrich from the event
-            # page's Contentful data (format / runtime / director / synopsis).
-            meta = _academy_meta_for_url(event_url, cache)
+            slug = slug_map.get(event_id)
+            if slug:
+                event_url = f"https://www.academymuseum.org/en/programs/detail/{slug}"
+                meta = _academy_meta_for_url(event_url, cache)
+            else:
+                event_url = ACADEMY_CALENDAR_URL
+                meta = {"description": "", "runtime": "", "director": "", "format": ""}
             fmt = normalize_format(title)
             if not fmt:
                 fmt = normalize_format(tmpl.get("subtitle", "") + " " + tmpl.get("summary", ""))
@@ -896,13 +922,40 @@ def scrape_all():
     except Exception:
         prev_rows = []
 
-    def _safe(label, fn, city=None):
+    import signal as _signal
+    import time as _time
+
+    _has_alarm = hasattr(_signal, "SIGALRM")
+
+    class _VenueTimeout(Exception):
+        pass
+
+    def _safe(label, fn, city=None, timeout=180):
+        """Run a scraper with a hard wall-clock cap. A crash OR a hang both end in
+        an empty result (→ fall back to last-known), so no single venue can stall
+        or abort the whole scrape. The SIGALRM cap is what stops HANGS — a bare
+        try/except cannot (a request/browser call that never returns just runs
+        until the CI job is killed, which is what was failing the scrape)."""
+        def _on_alarm(signum, frame):
+            raise _VenueTimeout(f"exceeded {timeout}s")
+        t0 = _time.time()
+        print(f"  → {label} …", flush=True)
+        if _has_alarm:
+            _old = _signal.signal(_signal.SIGALRM, _on_alarm)
+            _signal.alarm(timeout)
         try:
             rows = fn()
-            return _tag_city(rows, city) if city else rows
+            rows = _tag_city(rows, city) if city else rows
+            print(f"    {label}: {len(rows)} ({_time.time() - t0:.0f}s)", flush=True)
+            return rows
         except Exception as e:
-            print(f"  [{label}] FAILED: {e} — falling back to last-known if available")
+            print(f"  [{label}] FAILED after {_time.time() - t0:.0f}s: {e} "
+                  f"— falling back to last-known if available", flush=True)
             return []
+        finally:
+            if _has_alarm:
+                _signal.alarm(0)
+                _signal.signal(_signal.SIGALRM, _old)
 
     all_screenings = []
 
@@ -917,11 +970,11 @@ def scrape_all():
 
     print("\n── New York City ──")
     from scraper_nyc import scrape_all_nyc
-    all_screenings += _safe("NYC", scrape_all_nyc)
+    all_screenings += _safe("NYC", scrape_all_nyc, timeout=900)
 
     print("\n── London ──")
     from scraper_london import scrape_all_london
-    all_screenings += _safe("London", scrape_all_london)
+    all_screenings += _safe("London", scrape_all_london, timeout=600)
 
     # Sort by date then time
     def sort_key(s):
