@@ -77,15 +77,29 @@
   }
 
   /* Always-visible top bar: logo + search + (mobile) Filters + Schedule */
-  .header-bar {
+  /* Logo on the left; search bar + filters stack in a column to its right, so the
+     filters align under the search and wrap onto multiple lines as needed. */
+  .header-top {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+  }
+  .rc-logo { flex-shrink: 0; }
+  .header-main {
+    flex: 1;
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .search-row {
     display: flex;
     align-items: center;
     gap: 12px;
-    flex-wrap: wrap;
   }
-  .header-bar .search-input { flex: 1; min-width: 180px; margin: 0; }
+  .search-row .search-input { flex: 1; min-width: 0; margin: 0; }
 
-  /* Filter controls (city / status / theatre / reset) */
+  /* Filter controls (city / status / theatre / reset) — wrap under the search bar */
   .controls-panel {
     display: flex;
     align-items: center;
@@ -415,7 +429,7 @@
     display: flex;
     flex-direction: column;
     gap: 5px;
-    height: 138px;         /* uniform card height */
+    min-height: 138px;     /* uniform floor; grid stretches cards in a row to match */
     overflow: hidden;
     position: relative;
     transition: opacity .2s, border-color .15s, background .15s;
@@ -476,7 +490,8 @@
     font-size: 13px;
     font-weight: 600;
     padding-left: 4px;
-    line-height: 1.3;
+    padding-bottom: 2px;      /* room for descenders on the last line (no clipping) */
+    line-height: 1.35;
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
@@ -1045,9 +1060,13 @@
     .rc-bulbs, .rc-kicker, .rc-tagline { display: none; }
     .rc-wordmark { font-size: 21px; text-shadow: 0 0 8px rgba(240,181,74,.4); }
 
-    .header-bar { gap: 8px; }
+    /* Stack: compact logo on its own row, then a full-width search row; filters
+       go in the drawer (full width, not cramped beside the logo). */
+    .header-top { flex-direction: column; align-items: stretch; gap: 8px; }
+    .rc-logo { align-self: flex-start; }
+    .search-row { gap: 8px; }
     /* 16px avoids iOS Safari auto-zoom on focus */
-    .header-bar .search-input { min-width: 0; font-size: 16px; }
+    .search-row .search-input { min-width: 0; font-size: 16px; }
     #filters-toggle { display: inline-flex; align-items: center; }
 
     /* Filters drawer: collapsed by default, opens on tap */
@@ -1093,7 +1112,7 @@
 <body>
 
 <header id="site-header">
-  <div class="header-bar">
+  <div class="header-top">
   <div class="rc-logo" role="img" aria-label="Rep City">
     <div class="rc-bulbs rc-bulbs--top">
       <span class="rc-bulb"></span><span class="rc-bulb"></span><span class="rc-bulb"></span>
@@ -1114,6 +1133,8 @@
     </div>
   </div>
 
+  <div class="header-main">
+    <div class="search-row">
     <input type="text" class="search-input" id="search" placeholder="Search titles...">
     <button class="action-btn" id="filters-toggle" aria-expanded="false" aria-controls="controls-panel">&#9776; Filters</button>
     <div class="dropdown" id="menu-wrap">
@@ -1141,6 +1162,8 @@
     <div class="venue-filters" id="venue-filters"></div>
 
     <span class="status-bar" id="status-bar">Loading...</span>
+  </div>
+  </div>
   </div>
 </header>
 
