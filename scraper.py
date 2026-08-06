@@ -877,66 +877,61 @@ def _tag_city(screenings, city):
 
 
 def scrape_all():
-    """Scrape all venues and return combined, sorted list."""
+    """Scrape all venues and return combined, sorted list.
+
+    Resilient by design: each venue is scraped in isolation. If a venue raises
+    (or transiently returns nothing) while it had data on the previous run, that
+    venue's last-known rows are retained. So one flaky venue can neither crash the
+    whole scrape nor make itself disappear from the site — which is what a single
+    transient failure used to do (it aborted the entire run, so nothing updated).
+    """
+    import os as _os
+    from collections import Counter as _Counter, defaultdict as _defaultdict
+
+    # Load the previous run so a failed/empty venue can fall back to last-known.
+    prev_rows = []
+    try:
+        with open(_os.path.join(_os.path.dirname(__file__), "screenings.json")) as f:
+            prev_rows = json.load(f)
+    except Exception:
+        prev_rows = []
+
+    def _safe(label, fn, city=None):
+        try:
+            rows = fn()
+            return _tag_city(rows, city) if city else rows
+        except Exception as e:
+            print(f"  [{label}] FAILED: {e} — falling back to last-known if available")
+            return []
+
+    all_screenings = []
+
     print("── Los Angeles ──")
-    print("Scraping New Beverly Cinema...")
-    all_screenings = _tag_city(scrape_new_bev(), "LA")
-    print(f"  → {len(all_screenings)} screenings")
-
-    print("Scraping Vista Theater...")
-    vista = _tag_city(scrape_vista(), "LA")
-    print(f"  → {len(vista)} screenings")
-    all_screenings += vista
-
-    print("Scraping Vidiots Foundation...")
-    vidiots = _tag_city(scrape_vidiots(), "LA")
-    print(f"  → {len(vidiots)} screenings")
-    all_screenings += vidiots
-
-    print("Scraping Brain Dead Studios...")
-    bd = _tag_city(scrape_braindead(), "LA")
-    print(f"  → {len(bd)} screenings")
-    all_screenings += bd
-
-    print("Scraping Academy Museum...")
-    academy = _tag_city(scrape_academy(), "LA")
-    print(f"  → {len(academy)} screenings")
-    all_screenings += academy
-
-    print("Scraping American Cinematheque (Aero/Egyptian/Los Feliz/Directors Village)...")
-    amcin = _tag_city(scrape_american_cinematheque(), "LA")
-    print(f"  → {len(amcin)} screenings (events)")
-    all_screenings += amcin
-
-    print("Scraping American Cinematheque runs (70mm engagements at Aero/Directors Village)...")
-    amcin_runs = _tag_city(scrape_american_cinematheque_runs(), "LA")
-    print(f"  → {len(amcin_runs)} screenings (runs)")
-    all_screenings += amcin_runs
+    all_screenings += _safe("New Beverly", scrape_new_bev, "LA")
+    all_screenings += _safe("Vista", scrape_vista, "LA")
+    all_screenings += _safe("Vidiots", scrape_vidiots, "LA")
+    all_screenings += _safe("Brain Dead", scrape_braindead, "LA")
+    all_screenings += _safe("Academy Museum", scrape_academy, "LA")
+    all_screenings += _safe("American Cinematheque", scrape_american_cinematheque, "LA")
+    all_screenings += _safe("American Cinematheque runs", scrape_american_cinematheque_runs, "LA")
 
     print("\n── New York City ──")
     from scraper_nyc import scrape_all_nyc
-    nyc = scrape_all_nyc()
-    print(f"  NYC subtotal: {len(nyc)} screenings")
-    all_screenings += nyc
+    all_screenings += _safe("NYC", scrape_all_nyc)
 
     print("\n── London ──")
     from scraper_london import scrape_all_london
-    london = scrape_all_london()
-    print(f"  London subtotal: {len(london)} screenings")
-    all_screenings += london
+    all_screenings += _safe("London", scrape_all_london)
 
     # Sort by date then time
     def sort_key(s):
         t = s.get("time", "")
-        # Normalize time for sorting
         try:
             parsed = datetime.strptime(t.upper().replace(".", "").replace(" ", ""), "%I:%M%p")
             t_norm = parsed.strftime("%H:%M")
         except Exception:
             t_norm = t
         return (s.get("date", ""), t_norm)
-
-    all_screenings.sort(key=sort_key)
 
     # Deduplicate: same venue + title + date + time is the same screening
     seen = set()
@@ -952,11 +947,9 @@ def scrape_all():
         print(f"  Removed {removed} duplicate screenings")
 
     # Decode any HTML entities that slipped through from source pages
-    # (e.g. "Parts 13 &amp; 14" -> "Parts 13 & 14") so the frontend renders them
-    # correctly after its own escaping.
+    # (e.g. "Parts 13 &amp; 14" -> "Parts 13 & 14"), and default missing formats.
+    # New Beverly and Vista exclusively screen film prints (never digital).
     import html as _html
-    # New Beverly and Vista exclusively screen film prints (never digital), so
-    # an unlabeled screening there defaults to 35mm; everywhere else it's DCP.
     FILM_PRINT_VENUES = {"NewBev", "Vista"}
     for s in deduped:
         for key in ("title", "description", "director"):
@@ -965,7 +958,25 @@ def scrape_all():
         if not s.get("format"):
             s["format"] = "35mm" if s.get("venue_short") in FILM_PRINT_VENUES else "DCP"
 
-    print(f"\nTotal: {len(deduped)} screenings across all venues")
+    # Resilience: retain last-known rows for any venue that produced nothing this
+    # run but had data previously. A transient venue failure must not drop a venue
+    # from the site — it freezes at its last-good data until the scraper recovers.
+    fresh_counts = _Counter(s["venue_short"] for s in deduped)
+    prev_by_venue = _defaultdict(list)
+    for s in prev_rows:
+        if s.get("venue_short"):
+            prev_by_venue[s["venue_short"]].append(s)
+    retained = 0
+    for vs, rows in prev_by_venue.items():
+        if fresh_counts.get(vs, 0) == 0 and rows:
+            deduped += rows
+            retained += len(rows)
+            print(f"  [retain] {vs}: scraper returned 0 — kept {len(rows)} last-known rows")
+
+    deduped.sort(key=sort_key)
+
+    print(f"\nTotal: {len(deduped)} screenings across all venues"
+          + (f" ({retained} retained from last run)" if retained else ""))
     return deduped
 
 
