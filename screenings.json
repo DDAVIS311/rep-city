@@ -2275,19 +2275,6 @@
     "director": "Penny Lane"
   },
   {
-    "title": "The Samurai and the Prisoner",
-    "date": "2026-08-07",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83373/83920",
-    "city": "NYC",
-    "description": "Kiyoshi Kurosawa\u2019s stately, meticulously composed period drama, set in 16th-century Japan, is a tense and metaphysical whodunit with the director\u2019s characteristic philosophical overtones.",
-    "runtime": "147 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
     "title": "The Fence",
     "date": "2026-08-07",
     "time": "12:05 PM",
@@ -2405,39 +2392,13 @@
     "director": "Stanley Kwan"
   },
   {
-    "title": "The Piano",
-    "date": "2026-08-07",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83310/83897",
-    "city": "NYC",
-    "description": "Jane Campion\u2019s ravishing, Palme d\u2019Or\u2013winning breakthrough, starring Holly Hunter and Anna Paquin in Oscar-winning roles, returns to the big screen in a new 4K restoration\u2014and still feels startlingly alive.",
-    "runtime": "121 min",
-    "director": "Jane Campion"
-  },
-  {
-    "title": "Late Fame",
-    "date": "2026-08-07",
-    "time": "1:15 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83634/83635",
-    "city": "NYC",
-    "description": "In Kent Jones\u2019s marvelously witty second feature, a once-upon-a-time New York poet (Willem Dafoe) gets an ego boost when he is welcomed into the world of an emerging literary salon, but must reckon with the authenticity of his newfound circle of twentysomething admirers.",
-    "runtime": "96 min",
-    "director": "Kent Jones"
-  },
-  {
     "title": "The Odyssey (70mm)",
     "date": "2026-08-07",
     "time": "1:30 PM",
     "format": "70mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3933?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
     "runtime": "172 min",
     "director": "",
@@ -2561,19 +2522,6 @@
     "director": "John Early"
   },
   {
-    "title": "The Samurai and the Prisoner",
-    "date": "2026-08-07",
-    "time": "3:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83373/83921",
-    "city": "NYC",
-    "description": "Kiyoshi Kurosawa\u2019s stately, meticulously composed period drama, set in 16th-century Japan, is a tense and metaphysical whodunit with the director\u2019s characteristic philosophical overtones.",
-    "runtime": "147 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
     "title": "Mary Oliver: Saved by the Beauty of the World",
     "date": "2026-08-07",
     "time": "3:05 PM",
@@ -2587,19 +2535,6 @@
     "director": "Sasha Waters"
   },
   {
-    "title": "Coup 53",
-    "date": "2026-08-07",
-    "time": "3:15 PM",
-    "format": "DCP",
-    "venue": "The Garden Cinema",
-    "venue_short": "Garden",
-    "url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5979693.TcsSection_3060731",
-    "city": "London",
-    "description": "With Iran and the world once again on the brink, Coup 53 feels less like history and more like a warning. In\u2026",
-    "runtime": "119 min",
-    "director": "Taghi Amirani"
-  },
-  {
     "title": "SHERMAN'S MARCH",
     "date": "2026-08-07",
     "time": "3:20 PM",
@@ -2611,32 +2546,6 @@
     "description": "Armed with a 16mm camera and a grant to make a documentary about the lingering aftermath of William Tecumseh Sherman\u2019s 1864 march to the sea, Ross McElwee gets sidetracked. After his girlfriend breaks up with him, Ross shifts his attention from the historical to the personal, to the battlefield of modern love, and embarks on a sociological chronicle that documents the courting rites and rituals of the New South. A generous and humanistic portrait of several remarkable women that Ross meets along the way, Sherman\u2019s March sketches its characters with novelistic sensitivity: Pat, an aspiring actress with a yen for Burt Reynolds; Claudia, a roller-skating interior designer; Jackie, the activist whose anti-nuclear advocacy dovetails with Ross\u2019s deepest fears; and above all, Charleen Swansea, Ross\u2019s mentor and a one-woman Greek chorus of unsolicited romantic counsel. A landmark of first-person filmmaking that presaged everything from Michael Moore to reality TV.",
     "runtime": "158 min",
     "director": "Ross McElwee"
-  },
-  {
-    "title": "The Piano",
-    "date": "2026-08-07",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83310/83898",
-    "city": "NYC",
-    "description": "Jane Campion\u2019s ravishing, Palme d\u2019Or\u2013winning breakthrough, starring Holly Hunter and Anna Paquin in Oscar-winning roles, returns to the big screen in a new 4K restoration\u2014and still feels startlingly alive.",
-    "runtime": "121 min",
-    "director": "Jane Campion"
-  },
-  {
-    "title": "Broadcast News",
-    "date": "2026-08-07",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "The Garden Cinema",
-    "venue_short": "Garden",
-    "url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5770789.TcsSection_638",
-    "city": "London",
-    "description": "Broadcast News was suggested by our member John Atkinson, who writes: 'Broadcast News is the sort of nuanced comedy drama that studios run\u2026",
-    "runtime": "133 min",
-    "director": "James L. Brooks"
   },
   {
     "title": "The Samurai and the Prisoner",
@@ -2663,45 +2572,6 @@
     "description": "Mann\u2019s genre-defining serial-killer thriller returns in a stunning new restoration overseen by the filmmaker himself. A retired criminal profiler (William Petersen) reluctantly returns to the FBI to help track down a murderer and is forced to consult an expert\u2014the imprisoned Dr. Hannibal Lecktor (Brian Cox in a subtly chilling performance). Adapted from the first of Thomas Harris\u2019s Lecktor novels, MANHUNTER\u2019s supporting cast includes Tom Noonan as the hunted killer, and three-time Oscar nominee Joan Allen. \u201cHere, in only his third feature, [Mann] is at his very best.\u201d \u2013 Empire Magazine",
     "runtime": "122 min",
     "director": "Michael Mann"
-  },
-  {
-    "title": "Late Fame",
-    "date": "2026-08-07",
-    "time": "3:45 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83634/83636",
-    "city": "NYC",
-    "description": "In Kent Jones\u2019s marvelously witty second feature, a once-upon-a-time New York poet (Willem Dafoe) gets an ego boost when he is welcomed into the world of an emerging literary salon, but must reckon with the authenticity of his newfound circle of twentysomething admirers.",
-    "runtime": "96 min",
-    "director": "Kent Jones"
-  },
-  {
-    "title": "Bouchra",
-    "date": "2026-08-07",
-    "time": "3:45 PM",
-    "format": "DCP",
-    "venue": "The Garden Cinema",
-    "venue_short": "Garden",
-    "url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5803330.TcsSection_971",
-    "city": "London",
-    "description": "Bouchra, a 35-year-old Moroccan coyote in New York documents her long-distance relationship with her mother in Casablanca, as they explore together\u2026",
-    "runtime": "82 min",
-    "director": "Meriem Bennani"
-  },
-  {
-    "title": "The Invite",
-    "date": "2026-08-07",
-    "time": "3:45 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17413/",
-    "city": "London",
-    "description": "The Invite is a marital dark comedy directed by Olivia Wilde (Booksmart/Don\u2019t Worry Darling), adapted from the 2020 Spanish film The People Upstairs. It follows Joe and Angela, an unhappy, bickering San Francisco couple who host their enigmatic, sexually uninhibited upstairs neighbors for a chaotic dinner party that quickly spirals into raw, hilarious emotional warfare. Warning: This film contains sequences with flashing or flickering lights that may affect individuals with photosensitivity. Viewer discretion is advised.",
-    "runtime": "107 min",
-    "director": "Olivia Wilde"
   },
   {
     "title": "Toy Story 5",
@@ -2769,19 +2639,6 @@
     "director": ""
   },
   {
-    "title": "The Odyssey",
-    "date": "2026-08-07",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/film/the-odyssey/",
-    "city": "London",
-    "description": "Christopher Nolan's new vision of Homer's epic tale. Odysseus, king of Ithaca, embarks on a perilous journey to return home after the Trojan War...",
-    "runtime": "172 min",
-    "director": "Christopher Nolan"
-  },
-  {
     "title": "CENTER STAGE",
     "date": "2026-08-07",
     "time": "4:10 PM",
@@ -2808,19 +2665,6 @@
     "director": "Cal Brunker"
   },
   {
-    "title": "The Summer Book",
-    "date": "2026-08-07",
-    "time": "4:15 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17414/",
-    "city": "London",
-    "description": "In this tender drama, a young girl spends the summer on a small Finnish island with her grandmother and father. The film features occasional moments of threat and sensitively explores themes of grief and death.",
-    "runtime": "95 min",
-    "director": "Charlie McDowell"
-  },
-  {
     "title": "The Odyssey",
     "date": "2026-08-07",
     "time": "4:20 PM",
@@ -2832,19 +2676,6 @@
     "description": "The Odyssey (2026), Christopher Nolan\u2019s epic adaptation of Homer\u2019s classic, follows Greek hero Odysseus on a perilous journey home after the Trojan War, encountering gods, monsters, and treacherous seas while his family faces turmoil in Ithaca Photo Id may required for 15 certificate films",
     "runtime": "172 min",
     "director": "Christopher Nolan"
-  },
-  {
-    "title": "TAPE Collective: Bouchra",
-    "date": "2026-08-07",
-    "time": "4:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/tape-collective-bouchra",
-    "city": "London",
-    "description": "Wrestling with writer\u2019s block for her first film, Bouchra, a queer Moroccan jackal living in NYC, starts having difficult yet overdue phone calls with her mother in Casablanca that begin influencing the project. Balancing the precarity of working as an artist in New York, the rift in her identity between her two homes and an array of friendships and romantic interests, Bouchra\u2019s emotional reckoning with her mother and herself becomes her path to expression.",
-    "runtime": "85 min",
-    "director": "Orian Barki"
   },
   {
     "title": "Chocolat",
@@ -2912,32 +2743,6 @@
     "director": "Luchino Visconti"
   },
   {
-    "title": "TFFF: NATIONAL SPORT + Q&A",
-    "date": "2026-08-07",
-    "time": "5:00 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/542",
-    "city": "London",
-    "description": "Professional queuer lan is content to spend his life waiting. As his girlfriend, Anna, prepares to move to Australia, he avoids making decisions that might change their future together, finding greater comfort in queues and conversations with strangers than in confronting the end of their relationship. Moving through chance encounters and unfinished ambitions, lan reflects on time, commitment and his dormant dream of\nbecoming a writer.\nThis World Premiere will be followed by a Q&A with the director William North.",
-    "runtime": "120 min",
-    "director": ""
-  },
-  {
-    "title": "The Odyssey (15) (AD)",
-    "date": "2026-08-07",
-    "time": "5:20 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/the-odyssey",
-    "city": "London",
-    "description": "Christopher Nolan brings one of the world's most famous ancient texts to life in this mythic action epic starring Matt Damon, Anne Hathaway, Tom Holland and more.",
-    "runtime": "172 min",
-    "director": "Christopher Nolan"
-  },
-  {
     "title": "Spider-Man: Brand New Day",
     "date": "2026-08-07",
     "time": "5:20 PM",
@@ -2977,45 +2782,6 @@
     "director": "Yashaddai Owens"
   },
   {
-    "title": "La Haine",
-    "date": "2026-08-07",
-    "time": "5:45 PM",
-    "format": "4K DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31626910",
-    "city": "London",
-    "description": "Hatred breeds hatred... 24 hours in the lives of three young men in the French suburbs the day after a violent riot.",
-    "runtime": "98 min",
-    "director": "Mathieu Kassovitz"
-  },
-  {
-    "title": "Paprika - 20th anniversary",
-    "date": "2026-08-07",
-    "time": "5:45 PM",
-    "format": "DCP",
-    "venue": "The Garden Cinema",
-    "venue_short": "Garden",
-    "url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5979685.TcsSection_971",
-    "city": "London",
-    "description": "Satoshi's Kon's visionary and mind-melting anime Paprika returns for its 20th anniversary. Prepare to enter the realm of fantasy and imagination -\u2026",
-    "runtime": "90 min",
-    "director": "Satoshi Kon"
-  },
-  {
-    "title": "David Byrne's American Utopia (12A)",
-    "date": "2026-08-07",
-    "time": "5:50 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/david-byrnes-american-utopia",
-    "city": "London",
-    "description": "Spike Lee documents the wildly popular Broadway show from legend David Byrne , blending music, dance and spoken word alongside classics from Talking Heads .",
-    "runtime": "135 min",
-    "director": "Spike Lee"
-  },
-  {
     "title": "The Piano",
     "date": "2026-08-07",
     "time": "6:00 PM",
@@ -3040,45 +2806,6 @@
     "description": "Kiyoshi Kurosawa\u2019s stately, meticulously composed period drama, set in 16th-century Japan, is a tense and metaphysical whodunit with the director\u2019s characteristic philosophical overtones.",
     "runtime": "147 min",
     "director": "Kiyoshi Kurosawa"
-  },
-  {
-    "title": "TFFF: Camping du Lac + Q&A",
-    "date": "2026-08-07",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "69 min",
-    "director": ""
-  },
-  {
-    "title": "The Summer Book",
-    "date": "2026-08-07",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "The Garden Cinema",
-    "venue_short": "Garden",
-    "url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5841518.TcsSection_3060731",
-    "city": "London",
-    "description": "Our screening on Friday 7 August will be followed by a Q&A with director Charlie McDowell. The Summer Book follows an intergenerational\u2026",
-    "runtime": "90 min",
-    "director": "Charlie McDowell"
-  },
-  {
-    "title": "It Follows",
-    "date": "2026-08-07",
-    "time": "6:05 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31626914",
-    "city": "London",
-    "description": "After carefree teenager Jay (Maika Monroe) sleeps with her new boyfriend, Hugh (Jake Weary), for the first time, she learns that she is the latest recipient of a fatal curse that is passed from victim to victim via sexual intercourse. Death, Jay learns, will creep inexorably toward her as either a friend or a stranger. Jay's friends don't believe her seemingly paranoid ravings, until they too begin to see the phantom assassins and band together to help her flee or defend herself.",
-    "runtime": "100 min",
-    "director": "David Robert Mitchell"
   },
   {
     "title": "Toy Story 5",
@@ -3107,32 +2834,6 @@
     "director": "Kent Jones"
   },
   {
-    "title": "The Summer Book (PG)",
-    "date": "2026-08-07",
-    "time": "6:15 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/the-summer-book",
-    "city": "London",
-    "description": "Based on Tove Jansson 's beloved novel, The Summer Book tells the story of Sophia, a nine-year-old girl who is growing up on an island in the Gulf of Finland, alongside her elderly grandmother.",
-    "runtime": "90 min",
-    "director": "Charlie McDowell"
-  },
-  {
-    "title": "Hunt for the Wilderpeople - 10th anniversary",
-    "date": "2026-08-07",
-    "time": "6:15 PM",
-    "format": "DCP",
-    "venue": "The Garden Cinema",
-    "venue_short": "Garden",
-    "url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5868814.TcsSection_638",
-    "city": "London",
-    "description": "In memory of the beloved New Zealand actor Sam Neill (1947-2026) Taika Waititi\u2019s iconic film is back in a new restoration\u2026",
-    "runtime": "101 min",
-    "director": "Taika Waititi"
-  },
-  {
     "title": "Ice Cream Man",
     "date": "2026-08-07",
     "time": "6:20 PM",
@@ -3144,19 +2845,6 @@
     "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
     "runtime": "86 min",
     "director": "Eli Roth"
-  },
-  {
-    "title": "THE SUMMER BOOK",
-    "date": "2026-08-07",
-    "time": "6:25 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2742916.TcsSection_1299",
-    "city": "London",
-    "description": "THE SUMMER BOOK follows an intergenerational family spending a transformative summer at their rustic vacation home on an unspoiled, remote island in the Gulf of Finland. Adapted from Tove Jansson\ufffds beloved novel, the film explores grief, nature, and the delicate bonds between a young girl, her wise ...",
-    "runtime": "90 min",
-    "director": "Charlie McDowell"
   },
   {
     "title": "The Odyssey (70mm)",
@@ -3183,19 +2871,6 @@
     "description": "(LE SANG D\u2019UN PO\u00c8TE) \u201cAdolescent angels wandering about, black boxers with perfect bodies taking flight, school-children in capes killing each other with snowballs, a mirror becomes a swimming pool, and the hallways of a furnished hotel turn into a labyrinth.\u201d \u2013Georges Sadoul",
     "runtime": "53 min",
     "director": "Jean Cocteau"
-  },
-  {
-    "title": "Off-Circuit: Memory",
-    "date": "2026-08-07",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/memory",
-    "city": "London",
-    "description": "Six-year-old Vladlena moves from Crimea to Grozny following her parents' divorce, unaware that war will soon consume her childhood. As the Soviet Union collapses, the Chechen Republic fractures. Her Russian-speaking friends flee while deported Chechens return, reclaiming their homeland. Tensions escalate, and an armed conflict erupts. Violence engulfs the city - neighbours are murdered, her family is targeted, and Grozny becomes a battlefield. After four years of war, her mother is gravely wounded, and an armed attack forces Vladlena to flee, becoming a displaced person in Russia. In this autobiographical poetic hybrid film, Vladlena revisits her traumatic childhood memories to confront a haunting question: How can the cycle of violence that shapes children and is passed through generations be broken?",
-    "runtime": "98 min",
-    "director": "Vladlena Sandu"
   },
   {
     "title": "Super Troopers 3",
@@ -3341,19 +3016,6 @@
     "director": "Jean-Marie T\u00e9no"
   },
   {
-    "title": "THE ODYSSEY",
-    "date": "2026-08-07",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2767895.TcsSection_936",
-    "city": "London",
-    "description": "Don your sandals and set sail for Ithaca. Following the Trojan War, Odysseus embarks on a long and perilous voyage home, encountering the likes of Cyclops Polyphemus, the Sirens, Circe and others along the way. Christopher Nolan's adaptation of Homer's enduring epic reimagines one of the foundationa...",
-    "runtime": "172 min",
-    "director": "Christopher Nolan"
-  },
-  {
     "title": "Wild Inside",
     "date": "2026-08-07",
     "time": "7:05 PM",
@@ -3471,30 +3133,17 @@
     "city": "LA"
   },
   {
-    "title": "TFFF: Personal Problems",
+    "title": "The Odyssey",
     "date": "2026-08-07",
     "time": "8:00 PM",
     "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/personal-problems",
+    "venue": "Electric Cinema Portobello",
+    "venue_short": "Electric",
+    "url": "https://www.electriccinema.co.uk/film/the-odyssey/",
     "city": "London",
-    "description": "A legendary meta-soap opera that has maintained a devoted underground following since 1981, it captures the improvisational heat of Harlem life on gritty U-matic video to explore what Ishmael Reed calls the \"triteness of everyday life.\"",
-    "runtime": "165 min",
-    "director": "Bill Gunn"
-  },
-  {
-    "title": "David Byrne's American Utopia",
-    "date": "2026-08-07",
-    "time": "8:00 PM",
-    "format": "DCP",
-    "venue": "The Garden Cinema",
-    "venue_short": "Garden",
-    "url": "https://bookings.thegardencinema.co.uk/TheGardenCinema.dll/TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_5979689.TcsSection_971",
-    "city": "London",
-    "description": "David Byrne and Spike Lee's joyful concert film is now restored and finally released in cinemas. \u2018Do we get stupider as\u2026",
-    "runtime": "137 min",
-    "director": "Spike Lee"
+    "description": "Christopher Nolan's new vision of Homer's epic tale. Odysseus, king of Ithaca, embarks on a perilous journey to return home after the Trojan War...",
+    "runtime": "172 min",
+    "director": "Christopher Nolan"
   },
   {
     "title": "TFFF: City Wide Fever",
@@ -3523,45 +3172,6 @@
     "director": "Christopher Nolan"
   },
   {
-    "title": "The Odyssey",
-    "date": "2026-08-07",
-    "time": "8:00 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/film/the-odyssey/",
-    "city": "London",
-    "description": "Christopher Nolan's new vision of Homer's epic tale. Odysseus, king of Ithaca, embarks on a perilous journey to return home after the Trojan War...",
-    "runtime": "172 min",
-    "director": "Christopher Nolan"
-  },
-  {
-    "title": "The Odyssey (15) 35mm",
-    "date": "2026-08-07",
-    "time": "8:05 PM",
-    "format": "35mm",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/the-odyssey-35mm",
-    "city": "London",
-    "description": "Christopher Nolan brings one of the world's most famous ancient texts to life in this mythic action epic starring Matt Damon, Anne Hathaway, Tom Holland and more, screened on glorious 35mm film.",
-    "runtime": "172 min",
-    "director": "Christopher Nolan"
-  },
-  {
-    "title": "The Good, The Bad and The Ugly",
-    "date": "2026-08-07",
-    "time": "8:10 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31626909",
-    "city": "London",
-    "description": "While the Civil War rages on between the Union and the Confederacy, three men \u2013 a quiet loner, a ruthless hitman, and a Mexican bandit \u2013 comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
-    "runtime": "180 min",
-    "director": "Sergio Leone"
-  },
-  {
     "title": "EC: BEAUTY AND THE BEAST",
     "date": "2026-08-07",
     "time": "8:15 PM",
@@ -3588,19 +3198,6 @@
     "director": "Christopher Nolan"
   },
   {
-    "title": "TFFF: HARD TIME LOVER",
-    "date": "2026-08-07",
-    "time": "8:15 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/543",
-    "city": "London",
-    "description": "Rio de Janeiro, the night time: Miguel runs into his ex-girlfriend outside his apartment, and she speaks in riddles before her new boyfriend takes her away. Still processing, Miguel meets a masked enigma in the hallway, who may put something inside his head. Driven by forces beyond his understanding, Miguel follows an occult pattern through the city streets that will take him to a dark underworld haunted by past and future violence, as well as harsh noise music.\nUK Premiere.",
-    "runtime": "87 min",
-    "director": ""
-  },
-  {
     "title": "The Piano",
     "date": "2026-08-07",
     "time": "8:30 PM",
@@ -3612,45 +3209,6 @@
     "description": "Jane Campion\u2019s ravishing, Palme d\u2019Or\u2013winning breakthrough, starring Holly Hunter and Anna Paquin in Oscar-winning roles, returns to the big screen in a new 4K restoration\u2014and still feels startlingly alive.",
     "runtime": "121 min",
     "director": "Jane Campion"
-  },
-  {
-    "title": "TFFF: A Collection of Shorts by Richard Heslop",
-    "date": "2026-08-07",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "90 min",
-    "director": ""
-  },
-  {
-    "title": "Love Me Tender (15)",
-    "date": "2026-08-07",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/love-me-tender",
-    "city": "London",
-    "description": "After coming out to her ex-husband, Cl\u00e9mence ( Vicky Krieps ) must fight a brutal custody battle to keep her son \u2013 and her right to love who she chooses.",
-    "runtime": "134 min",
-    "director": "Anna Cazenave Cambet"
-  },
-  {
-    "title": "Under the Silver Lake",
-    "date": "2026-08-07",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31626913",
-    "city": "London",
-    "description": "When aimless slacker Sam (Andrew Garfield) wakes up one morning to find his beautiful neighbour Sarah (Riley Keough) has vanished without a trace, he embarks on a quest across the city to find her. This is an epic, code-cracking, acid-spiked amateur sleuth story that tips its hat to Hitchcock, Lynch and everything in between.",
-    "runtime": "139 min",
-    "director": "David Robert Mitchell"
   },
   {
     "title": "Backrooms: Everything Must Go Edition W/ Bonus Features",
@@ -3666,19 +3224,6 @@
     "director": "Kane Parsons"
   },
   {
-    "title": "Spider-Man: Brand New Day",
-    "date": "2026-08-07",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82217?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
-    "runtime": "144 min",
-    "director": "Destin Daniel Cretton"
-  },
-  {
     "title": "The Milk of Sorrow",
     "date": "2026-08-07",
     "time": "8:30 PM",
@@ -3692,17 +3237,17 @@
     "director": "Claudia Llosa"
   },
   {
-    "title": "BOUCHRA",
+    "title": "Spider-Man: Brand New Day",
     "date": "2026-08-07",
-    "time": "8:40 PM",
+    "time": "8:30 PM",
     "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2767897.TcsSection_1299",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82217?siteToken=f3d16dvfdem7nzemve42hxwj68",
     "city": "London",
-    "description": "Bouchra, a 35-year-old queer Moroccan coyote living in NYC, is wrestling with writer\u2019s block. Whilst finishing the script for her autobiographical film Bouchra has a phone call with her mother in Casablanca. Their tender yet complex exchange leads to memories resurfacing and sparks a creative breakt...",
-    "runtime": "82 min",
-    "director": "Orian Barki & Meriem Bennani"
+    "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
+    "runtime": "144 min",
+    "director": "Destin Daniel Cretton"
   },
   {
     "title": "Ice Cream Man",
@@ -3729,19 +3274,6 @@
     "description": "In Kent Jones\u2019s marvelously witty second feature, a once-upon-a-time New York poet (Willem Dafoe) gets an ego boost when he is welcomed into the world of an emerging literary salon, but must reckon with the authenticity of his newfound circle of twentysomething admirers.",
     "runtime": "96 min",
     "director": "Kent Jones"
-  },
-  {
-    "title": "The Invite (15) (AD)",
-    "date": "2026-08-07",
-    "time": "8:45 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/the-invite",
-    "city": "London",
-    "description": "Seth Rogen and Olivia Wilde are the subjects in this tense and hilarious study of a failing marriage.",
-    "runtime": "108 min",
-    "director": "Olivia Wilde"
   },
   {
     "title": "The Invite",
@@ -3913,19 +3445,6 @@
     "city": "LA"
   },
   {
-    "title": "TFFF: Surprise Film 7.8.26",
-    "date": "2026-08-07",
-    "time": "10:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/81479?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Final Film Festival 7-9 Aug 26 7 Aug 26 The Final Film Festival presents a special repertory Surprise Screening in partnership with South London's Peckhamplex.",
-    "runtime": "90 min",
-    "director": ""
-  },
-  {
     "title": "Hannibal",
     "date": "2026-08-07",
     "time": "10:00 PM",
@@ -3937,6 +3456,19 @@
     "description": "Hopkins reprises his role from 1991\u2019s The Silence of the Lambs as psychiatrist-turned-cannibal serial killer Hannibal Lecter in Scott\u2019s follow-up, a gristly fairy tale that finds FBI special agent Clarice Starling (Julianne Moore, ably taking on the role originated by Jodie Foster) racing against time to find to catch up with her old foil before he\u2019s located by Mason R. Verger (Gary Oldman), a sadistic scion of enormous wealth who, after years earlier being grotesquely mutilated by Lecter, has dedicated the entirety of his power and influence towards a terrible and extravagant dream of vengeance. Unidentified in promotional materials and unbilled until the film\u2019s closing credits, wholly unrecognizable under a prosthetic mask, and stripped of almost every expressive tool an actor traditionally relies upon to practice their craft, Oldman offers up an indelible portrayal of utter and absolute human corruption. Part of Gary Oldman: The Protean Man",
     "runtime": "131 min",
     "director": "Ridley Scott"
+  },
+  {
+    "title": "TFFF: Surprise Film 7.8.26",
+    "date": "2026-08-07",
+    "time": "10:00 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/81479?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The Final Film Festival 7-9 Aug 26 7 Aug 26 The Final Film Festival presents a special repertory Surprise Screening in partnership with South London's Peckhamplex.",
+    "runtime": "90 min",
+    "director": ""
   },
   {
     "title": "Scene of the Crime",
@@ -4329,19 +3861,6 @@
     "director": "Yasujir\u00f4 Ozu"
   },
   {
-    "title": "Paw Patrol 3: The Dino Movie",
-    "date": "2026-08-08",
-    "time": "11:50 AM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82237?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island Sunday 2nd Aug 11am Charity Screening All proceeds from this performance will be donated to MEDICINEMA Cinema-based healthcare programmes inside hospitals",
-    "runtime": "88 min",
-    "director": "Cal Brunker"
-  },
-  {
     "title": "Le amiche",
     "date": "2026-08-08",
     "time": "11:50 AM",
@@ -4353,6 +3872,19 @@
     "description": "Perhaps the first of Antonioni\u2019s films to give a clear indication of the direction of his mature style, this adaptation of Cesare Pavese\u2019s Among Women Only finds glamorous Eleonora Rossi Drago returning to her hometown of Turin to open a branch of a fashion boutique, in the process taking up with the miserable, sniping local smart set and beginning an affair with architect\u2019s assistant Franco Fabrizi. The air of bourgeois discontentment is thick, while the disquieting train station finale is the first of Antonioni\u2019s great set pieces. Part of Among Friends",
     "runtime": "106 min",
     "director": "Michelangelo Antonioni"
+  },
+  {
+    "title": "Paw Patrol 3: The Dino Movie",
+    "date": "2026-08-08",
+    "time": "11:50 AM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82237?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island Sunday 2nd Aug 11am Charity Screening All proceeds from this performance will be donated to MEDICINEMA Cinema-based healthcare programmes inside hospitals",
+    "runtime": "88 min",
+    "director": "Cal Brunker"
   },
   {
     "title": "The Samurai and the Prisoner",
@@ -4472,19 +4004,6 @@
     "director": "Chantal Akerman"
   },
   {
-    "title": "The Samurai and the Prisoner",
-    "date": "2026-08-08",
-    "time": "12:30 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=571934~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
-    "runtime": "147 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
     "title": "The Odyssey",
     "date": "2026-08-08",
     "time": "12:30 PM",
@@ -4496,6 +4015,19 @@
     "description": "The Odyssey (2026), Christopher Nolan\u2019s epic adaptation of Homer\u2019s classic, follows Greek hero Odysseus on a perilous journey home after the Trojan War, encountering gods, monsters, and treacherous seas while his family faces turmoil in Ithaca Photo Id may required for 15 certificate films",
     "runtime": "172 min",
     "director": "Christopher Nolan"
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "date": "2026-08-08",
+    "time": "12:35 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=571934~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
+    "runtime": "147 min",
+    "director": "Kiyoshi Kurosawa"
   },
   {
     "title": "A Child of My Own",
@@ -4628,19 +4160,6 @@
     "director": "Cato Kusters"
   },
   {
-    "title": "Moana (Live Action)",
-    "date": "2026-08-08",
-    "time": "1:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82248?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Live-action adaptation of the 2016 Disney animated film",
-    "runtime": "115 min",
-    "director": "Thomas Kail"
-  },
-  {
     "title": "Notting Hill",
     "date": "2026-08-08",
     "time": "1:30 PM",
@@ -4652,6 +4171,19 @@
     "description": "The Electric's favourite rom-com returns - William Thacker (Hugh Grant) is a London bookstore owner whose humdrum existence is thrown into romantic turmoil when famous American actress Anna Scott (Julia Roberts) appears in his shop. A chance encounter over spilled orange juice leads to a kiss that blossoms into a full-blown affair. As the average bloke and glamorous movie star draw closer and closer together, they struggle to reconcile their radically different lifestyles in the name of love.",
     "runtime": "124 min",
     "director": "Roger Michell"
+  },
+  {
+    "title": "Moana (Live Action)",
+    "date": "2026-08-08",
+    "time": "1:30 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82248?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Live-action adaptation of the 2016 Disney animated film",
+    "runtime": "115 min",
+    "director": "Thomas Kail"
   },
   {
     "title": "Super Troopers 3",
@@ -4667,19 +4199,6 @@
     "director": "Jay Chandrasekhar"
   },
   {
-    "title": "Minions and Monsters",
-    "date": "2026-08-08",
-    "time": "1:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82231?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Animated comedy adventure in which the Minions try their hand at filmmaking when they arrive in Hollywood during the 1920s.",
-    "runtime": "90 min",
-    "director": "Pierre Coffin"
-  },
-  {
     "title": "The Warriors",
     "date": "2026-08-08",
     "time": "1:50 PM",
@@ -4691,6 +4210,19 @@
     "description": "\u201cWaaarriors! Come out and play-ay!\u201d Falsely accused of responsibility for the assassination of New York\u2019s most powerful ganglord during a citywide summit in the Bronx\u2019s Van Cortlandt Park, Swan (Michael Beck) and his fellow Warriors now have to fight their way back, block by block and mano a mano, to the safe shores of their Coney Island turf. The film\u2019s knuckle-busting action choreography and its vision of NYC as a coliseum-like proving grounds for epic heroism\u2014its source, at a distance, is Xenophon\u2019s 4th century BC Anabasis\u2014are delectable, but its greatness lies in its attention to character, how it lets us see a crew of provincial Brooklynites gradually discovering they\u2019re the toughest dudes in town. Part of This Night Has Opened My Eyes",
     "runtime": "93 min",
     "director": "Walter Hill"
+  },
+  {
+    "title": "Minions and Monsters",
+    "date": "2026-08-08",
+    "time": "1:50 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82231?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Animated comedy adventure in which the Minions try their hand at filmmaking when they arrive in Hollywood during the 1920s.",
+    "runtime": "90 min",
+    "director": "Pierre Coffin"
   },
   {
     "title": "School of Rock",
@@ -4771,19 +4303,6 @@
     "director": ""
   },
   {
-    "title": "Paw Patrol 3: The Dino Movie",
-    "date": "2026-08-08",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82224?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island Sunday 2nd Aug 11am Charity Screening All proceeds from this performance will be donated to MEDICINEMA Cinema-based healthcare programmes inside hospitals",
-    "runtime": "88 min",
-    "director": "Cal Brunker"
-  },
-  {
     "title": "Chocolat",
     "date": "2026-08-08",
     "time": "2:00 PM",
@@ -4795,6 +4314,19 @@
     "description": "After years of honing her craft as assistant director for the likes of Jim Jarmusch and Wim Wenders, Denis emerged as a filmmaker with a distinct and fully-formed sense of her art in this, her sensual and infinitely sensitive semi-autobiographical feature debut, drawing on memories of a childhood spent in French-occupied Africa. In Cameroon, civil servant Fran\u00e7ois Cluzet comes and goes on his appointed rounds, while his young daughter and neglected wife (Giulia Boschi) gravitate ever closer to their house servant, Prot\u00e9e (Isaach de Bankol\u00e9) in his absence, and the murmurs of anti-colonial resistance increase in vehemence away from eavesdropping whites. \u201cSome kind of miniature classic.\u201d\u2014Vincent Canby, The New York Times Part of Jean-Louis Ughetto: The Sound of Things",
     "runtime": "105 min",
     "director": "Claire Denis"
+  },
+  {
+    "title": "Paw Patrol 3: The Dino Movie",
+    "date": "2026-08-08",
+    "time": "2:00 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82224?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island Sunday 2nd Aug 11am Charity Screening All proceeds from this performance will be donated to MEDICINEMA Cinema-based healthcare programmes inside hospitals",
+    "runtime": "88 min",
+    "director": "Cal Brunker"
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -5109,19 +4641,6 @@
     "director": "Taika Waititi"
   },
   {
-    "title": "Toy Story 5",
-    "date": "2026-08-08",
-    "time": "3:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82232?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
-    "runtime": "102 min",
-    "director": ""
-  },
-  {
     "title": "The Chaser",
     "date": "2026-08-08",
     "time": "3:50 PM",
@@ -5133,6 +4652,19 @@
     "description": "Drawing inspiration from the gristly exploits of South Korean serial killer Yoo Young-chul, Na\u2019s astonishingly assured directorial debut stars Ha Jung-woo as a sadistic killer, Ji Yeong-min, and Kim Yoon-seok as Joong-ho, an ex-detective with a checkered past now running a prostitution ring. After helplessly watching his stable of employees disappear and dwindle, Joong-ho sets out to find the sicko responsible\u2014and in the course of a sleepless night of cat and mouse, finds he has to contend not only with the killer\u2019s calculating intelligence and red herring misleads, but with an incompetent police force and a thicket of bureaucratic barriers that seem to have been erected with the specific purpose of allowing the guilty to get away clean. Winner of Best Actor, Best Film, and Best Director at Korea\u2019s Grand Bell Awards, The Chaser is both a precision-tuned white-knuckle thriller and an agonized exploration of insoluble moral conundrums. Part of This Night Has Opened My Eyes",
     "runtime": "125 min",
     "director": "Na Hong-jin"
+  },
+  {
+    "title": "Toy Story 5",
+    "date": "2026-08-08",
+    "time": "3:50 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82232?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
+    "runtime": "102 min",
+    "director": ""
   },
   {
     "title": "GET SHORTY",
@@ -5369,19 +4901,6 @@
     "director": "Luchino Visconti"
   },
   {
-    "title": "TFFF: Nemesis",
-    "date": "2026-08-08",
-    "time": "5:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/81480?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Final Film Festival 7-9 Aug 26 See events page for information Nemesis (1992) In the future, chaos is rampant as 'information terrorists' threaten to destroy order in society. Alex is a part-man, part-machine LAPD cop who is the best at what he does. When one of the terrorists calls him a machine, Alex questions his humanity and decides to leave the force. His final assignment is to apprehend an old colleague who has stolen some data. However, there is more than meets the eye and Alex must question his allegiance. Pyun creates kinetic VHS-core action like no other. Seemingly born from a need to build from the wreckage of a broken world, Pyun's films are frequently explosive, tropey and threadbare. This however couldn't be less true for one of his arguable masterpieces; Nemesis, a film conceived of as a proto-The Matrix high octane thriller with emphasis on the aesthetics of being cool. Sunglasses and dusters abound but it's the inventive and thrilling camera work that gives this all guns a blazing thriller an auteurist shine that stands out amongst his straight-to video contemporaries. Always focused on outsiders on the run from sinister agents, always obsessed with cyborgs and their quest for humanity; Pyun speaks to the paranoiac video store dweller, offering comic book escapism that takes the form of end-of-the-world rollercoasters dipped in everything you may think was once cool. This screening will be preceded by an intro. - Kit Ramsay",
-    "runtime": "100 min",
-    "director": ""
-  },
-  {
     "title": "Notting Hill",
     "date": "2026-08-08",
     "time": "5:00 PM",
@@ -5393,6 +4912,19 @@
     "description": "The Electric's favourite rom-com returns - William Thacker (Hugh Grant) is a London bookstore owner whose humdrum existence is thrown into romantic turmoil when famous American actress Anna Scott (Julia Roberts) appears in his shop. A chance encounter over spilled orange juice leads to a kiss that blossoms into a full-blown affair. As the average bloke and glamorous movie star draw closer and closer together, they struggle to reconcile their radically different lifestyles in the name of love.",
     "runtime": "124 min",
     "director": "Roger Michell"
+  },
+  {
+    "title": "TFFF: Nemesis",
+    "date": "2026-08-08",
+    "time": "5:00 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/81480?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The Final Film Festival 7-9 Aug 26 See events page for information Nemesis (1992) In the future, chaos is rampant as 'information terrorists' threaten to destroy order in society. Alex is a part-man, part-machine LAPD cop who is the best at what he does. When one of the terrorists calls him a machine, Alex questions his humanity and decides to leave the force. His final assignment is to apprehend an old colleague who has stolen some data. However, there is more than meets the eye and Alex must question his allegiance. Pyun creates kinetic VHS-core action like no other. Seemingly born from a need to build from the wreckage of a broken world, Pyun's films are frequently explosive, tropey and threadbare. This however couldn't be less true for one of his arguable masterpieces; Nemesis, a film conceived of as a proto-The Matrix high octane thriller with emphasis on the aesthetics of being cool. Sunglasses and dusters abound but it's the inventive and thrilling camera work that gives this all guns a blazing thriller an auteurist shine that stands out amongst his straight-to video contemporaries. Always focused on outsiders on the run from sinister agents, always obsessed with cyborgs and their quest for humanity; Pyun speaks to the paranoiac video store dweller, offering comic book escapism that takes the form of end-of-the-world rollercoasters dipped in everything you may think was once cool. This screening will be preceded by an intro. - Kit Ramsay",
+    "runtime": "100 min",
+    "director": ""
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -5668,19 +5200,6 @@
     "director": "Meriem Bennani"
   },
   {
-    "title": "Super Troopers 3",
-    "date": "2026-08-08",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82235?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The third installment in the Super Troopers franchise.",
-    "runtime": "104 min",
-    "director": "Jay Chandrasekhar"
-  },
-  {
     "title": "The Night is Short, Walk on Girl",
     "date": "2026-08-08",
     "time": "6:30 PM",
@@ -5692,6 +5211,19 @@
     "description": "A surreal nocturnal animated odyssey from Yuasa, the mad genius behind Mind Game, rendered in a frenetic, galaxy-brained, endlessly morphing style. The Night is Short, Walk on Girl follows a mysterious high schooler known only as The Girl with Black Hair through the streets of Kyoto\u2019s famed Ponto-Cho party district, drinking middle-aged salarymen under the table when she\u2019s not mixing with barflies, obsessive collectors, and guerilla theater performers, all the while oblivious to the efforts of a fellow student who has been creating increasingly fantastic and contrived reasons to run into her in a gambit to win her love. A comic fable of fleeting youthful passions, as lived out through one mad, unforgettable night. Part of This Night Has Opened My Eyes",
     "runtime": "93 min",
     "director": "Masaaki Yuasa"
+  },
+  {
+    "title": "Super Troopers 3",
+    "date": "2026-08-08",
+    "time": "6:30 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82235?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The third installment in the Super Troopers franchise.",
+    "runtime": "104 min",
+    "director": "Jay Chandrasekhar"
   },
   {
     "title": "Julian",
@@ -6149,19 +5681,6 @@
     "director": ""
   },
   {
-    "title": "Spider-Man: Brand New Day",
-    "date": "2026-08-08",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82243?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
-    "runtime": "144 min",
-    "director": "Destin Daniel Cretton"
-  },
-  {
     "title": "Notting Hill",
     "date": "2026-08-08",
     "time": "8:30 PM",
@@ -6173,6 +5692,19 @@
     "description": "The Electric's favourite rom-com returns - William Thacker (Hugh Grant) is a London bookstore owner whose humdrum existence is thrown into romantic turmoil when famous American actress Anna Scott (Julia Roberts) appears in his shop. A chance encounter over spilled orange juice leads to a kiss that blossoms into a full-blown affair. As the average bloke and glamorous movie star draw closer and closer together, they struggle to reconcile their radically different lifestyles in the name of love.",
     "runtime": "124 min",
     "director": "Roger Michell"
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "date": "2026-08-08",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82243?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
+    "runtime": "144 min",
+    "director": "Destin Daniel Cretton"
   },
   {
     "title": "The Invite",
@@ -6476,7 +6008,7 @@
   {
     "title": "Thief",
     "date": "2026-08-08",
-    "time": "11:40 PM",
+    "time": "11:45 PM",
     "format": "4K DCP",
     "venue": "IFC Center",
     "venue_short": "IFC",
@@ -6695,19 +6227,6 @@
     "director": "Christopher Nolan"
   },
   {
-    "title": "Spider-Man: Brand New Day",
-    "date": "2026-08-09",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82249?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
-    "runtime": "144 min",
-    "director": "Destin Daniel Cretton"
-  },
-  {
     "title": "Vertigo",
     "date": "2026-08-09",
     "time": "11:00 AM",
@@ -6719,6 +6238,19 @@
     "description": "Dress up becomes a matter of fevered fixation in Hitchcock\u2019s utterly intoxicating thriller, in which ex-cop-cum-snoop-for-hire Scottie Ferguson (Jimmy Stewart) sets out on a routine job tailing the mysterious Madeline (Kim Novak), an old pal\u2019s wife\u2014and soon finds himself in the center of a whirlpool of romantic obsession and supernatural quandaries, speeding towards a tragic denouement. Perennially on the short list of the greatest films of all time, Hitchcock\u2019s film of death, desire, and doppelgangers\u2014a key inspiration haunting every frame of Chantal Akerman's La Captive\u2014has lost none of its ability to simultaneously seduce and repel. \u201cOne of the landmarks\u2014not merely of the movies, but of 20th-century art.\u201d\u2014Dave Kehr, Chicago Reader Part of In Her Shadow",
     "runtime": "128 min",
     "director": "Alfred Hitchcock"
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "date": "2026-08-09",
+    "time": "11:00 AM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82249?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
+    "runtime": "144 min",
+    "director": "Destin Daniel Cretton"
   },
   {
     "title": "Wild Inside",
@@ -6747,19 +6279,6 @@
     "director": ""
   },
   {
-    "title": "Moana (Live Action)",
-    "date": "2026-08-09",
-    "time": "11:15 AM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82274?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Live-action adaptation of the 2016 Disney animated film",
-    "runtime": "115 min",
-    "director": "Thomas Kail"
-  },
-  {
     "title": "Girlhood",
     "date": "2026-08-09",
     "time": "11:15 AM",
@@ -6771,6 +6290,19 @@
     "description": "Set in the suburbs of Paris, Sciamma\u2019s coming-of-age story stars Karidja Tour\u00e9 as Marieme, a 16-year-old who finds a sense of sorority, camaraderie, and mutual support when she joins up with an amateur \u201cgang\u201d of girls her age\u2014much to the chagrin of her overbearing, abusive brother. A harsh but cautiously hopeful depiction of the lives of young Afro-French women, and the unique adversities they face. Part of Among Friends",
     "runtime": "113 min",
     "director": "C\u00e9line Sciamma"
+  },
+  {
+    "title": "Moana (Live Action)",
+    "date": "2026-08-09",
+    "time": "11:15 AM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82274?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Live-action adaptation of the 2016 Disney animated film",
+    "runtime": "115 min",
+    "director": "Thomas Kail"
   },
   {
     "title": "Minions and Monsters",
@@ -7111,19 +6643,6 @@
     "director": "Marcela G\u00f3mez Montoya, Natalia Almada"
   },
   {
-    "title": "Moana (Live Action)",
-    "date": "2026-08-09",
-    "time": "1:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82275?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Live-action adaptation of the 2016 Disney animated film",
-    "runtime": "115 min",
-    "director": "Thomas Kail"
-  },
-  {
     "title": "The Lord of the Rings: The Fellowship of the Ring - Extended Edition",
     "date": "2026-08-09",
     "time": "1:30 PM",
@@ -7150,17 +6669,17 @@
     "director": "Michelangelo Antonioni"
   },
   {
-    "title": "Super Troopers 3",
+    "title": "Moana (Live Action)",
     "date": "2026-08-09",
-    "time": "1:40 PM",
+    "time": "1:30 PM",
     "format": "DCP",
     "venue": "Peckhamplex",
     "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82250?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "url": "https://ticketing.eu.veezi.com/purchase/82275?siteToken=f3d16dvfdem7nzemve42hxwj68",
     "city": "London",
-    "description": "The third installment in the Super Troopers franchise.",
-    "runtime": "104 min",
-    "director": "Jay Chandrasekhar"
+    "description": "Live-action adaptation of the 2016 Disney animated film",
+    "runtime": "115 min",
+    "director": "Thomas Kail"
   },
   {
     "title": "The Hole [Newly Struck 35mm Print]",
@@ -7174,6 +6693,19 @@
     "description": "It\u2019s the close of the millennium and Taipei has emptied out with the onset of a mysterious virus, but The Man Upstairs (Lee Kang-sheng) and The Woman Downstairs (Yang Kuei-mei) lag behind among the ruins, where it doesn\u2019t seem like there\u2019s really much world to end, but maybe a last chance at communication through a breach between their apartments that slowly widens through Tsai\u2019s downbeat, glum-funny dystopian masterpiece. Tsai's beloved film returns to Metrograph for a weeklong run on a newly struck 35mm print, approved by Tsai himself. A Big World Pictures Release",
     "runtime": "93 min",
     "director": "Tsai Ming-liang"
+  },
+  {
+    "title": "Super Troopers 3",
+    "date": "2026-08-09",
+    "time": "1:40 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82250?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The third installment in the Super Troopers franchise.",
+    "runtime": "104 min",
+    "director": "Jay Chandrasekhar"
   },
   {
     "title": "Minions and Monsters",
@@ -7709,19 +7241,6 @@
     "director": "Christopher Nolan"
   },
   {
-    "title": "Paw Patrol 3: The Dino Movie",
-    "date": "2026-08-09",
-    "time": "4:10 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82257?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island Sunday 2nd Aug 11am Charity Screening All proceeds from this performance will be donated to MEDICINEMA Cinema-based healthcare programmes inside hospitals",
-    "runtime": "88 min",
-    "director": "Cal Brunker"
-  },
-  {
     "title": "Rebecca",
     "date": "2026-08-09",
     "time": "4:10 PM",
@@ -7733,6 +7252,19 @@
     "description": "\u201cLast night I dreamt I went to Manderlay again\u2026\u201d Hitchcock was still a newly arrived UK import when this gothic thriller/romance, based on the novel of the same title by Daphne du Maurier, took Outstanding Production (later \u201cBest Picture\u201d) honors at the Academy Awards. Joan Fontaine stars as a terribly self-conscious young woman, never identified by name, who becomes enamored with a saturnine, aristocratic widower, Maxim de Winter (Laurence Olivier, fresh from Wuthering Heights)\u2014and, once she\u2019s been taken as his bride, obsessed with his late wife\u2019s phantom presence in their home on the Cornwall coast. A marvel of directorial assurance that turns the screws with poise and panache. Walt Disney Studios/20th Century Part of In Her Shadow",
     "runtime": "130 min",
     "director": "Alfred Hitchcock"
+  },
+  {
+    "title": "Paw Patrol 3: The Dino Movie",
+    "date": "2026-08-09",
+    "time": "4:10 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82257?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island Sunday 2nd Aug 11am Charity Screening All proceeds from this performance will be donated to MEDICINEMA Cinema-based healthcare programmes inside hospitals",
+    "runtime": "88 min",
+    "director": "Cal Brunker"
   },
   {
     "title": "Rashomon",
@@ -8320,19 +7852,6 @@
     "director": "Christopher Nolan"
   },
   {
-    "title": "TFFF: Hellbreeder",
-    "date": "2026-08-09",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/81482?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Final Film Festival 7-9 Aug 26 See events page for information Hellbreeder (2004) Five years ago Alice saw her son murdered; now every day is consumed with the need to find his killer. In the sleepy town of Ludlow, the arrival of the mysterious stranger who Alice suspects of being the killer of her son coincides with a renewed spate of horrific child murders. Now a weary detective must uncover the truth behind the killings before another child is killed; and Alice must face the unbelievable truth behind the death of her son before insanity, grief and guilt break her mind. Johannes Roberts and James Eaves' Hellbreeder is a very-under seen British indie horror feature bristling with genuine movie and horror geek enthusiasm that's perhaps unfairly maligned due to its outlandish premise and imagery. Underneath the halloween-store production design is a genuinely well crafted and unusual horror film, equal parts uncanny and creepy. Processed on Kodak reverse stock, the film exceeds in atmosphere and aesthetics, drenching the viewer into a chaotic, nightmarish reimagining of something along the lines as Stephen King's It. At TFFF, one of our curiosities in these repertory genre slots is how they seemingly come from a netherworld of pop cultural memories; the tropes are all here but bent and refracted by limitations in budget into something wholly unique, and it's our pleasure to be platforming a film such as Hellbreeder in theatres for the first time in decades. This screening will be preceded by an intro. - Kit Ramsay",
-    "runtime": "120 min",
-    "director": ""
-  },
-  {
     "title": "The Odyssey",
     "date": "2026-08-09",
     "time": "7:00 PM",
@@ -8344,6 +7863,19 @@
     "description": "Christopher Nolan's new vision of Homer's epic tale. Odysseus, king of Ithaca, embarks on a perilous journey to return home after the Trojan War...",
     "runtime": "172 min",
     "director": "Christopher Nolan"
+  },
+  {
+    "title": "TFFF: Hellbreeder",
+    "date": "2026-08-09",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/81482?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The Final Film Festival 7-9 Aug 26 See events page for information Hellbreeder (2004) Five years ago Alice saw her son murdered; now every day is consumed with the need to find his killer. In the sleepy town of Ludlow, the arrival of the mysterious stranger who Alice suspects of being the killer of her son coincides with a renewed spate of horrific child murders. Now a weary detective must uncover the truth behind the killings before another child is killed; and Alice must face the unbelievable truth behind the death of her son before insanity, grief and guilt break her mind. Johannes Roberts and James Eaves' Hellbreeder is a very-under seen British indie horror feature bristling with genuine movie and horror geek enthusiasm that's perhaps unfairly maligned due to its outlandish premise and imagery. Underneath the halloween-store production design is a genuinely well crafted and unusual horror film, equal parts uncanny and creepy. Processed on Kodak reverse stock, the film exceeds in atmosphere and aesthetics, drenching the viewer into a chaotic, nightmarish reimagining of something along the lines as Stephen King's It. At TFFF, one of our curiosities in these repertory genre slots is how they seemingly come from a netherworld of pop cultural memories; the tropes are all here but bent and refracted by limitations in budget into something wholly unique, and it's our pleasure to be platforming a film such as Hellbreeder in theatres for the first time in decades. This screening will be preceded by an intro. - Kit Ramsay",
+    "runtime": "120 min",
+    "director": ""
   },
   {
     "title": "Wild Inside",
@@ -8775,19 +8307,6 @@
     "director": "Penny Lane"
   },
   {
-    "title": "TFFF: Surprise Film 9.8.26",
-    "date": "2026-08-09",
-    "time": "9:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/81483?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Final Film Festival 7-9 Aug 26 See events page for information The Final Film Festival presents a special repertory Surprise Screening in partnership with South London's Peckhamplex. 9 Aug 26",
-    "runtime": "90 min",
-    "director": ""
-  },
-  {
     "title": "Scene of the Crime",
     "date": "2026-08-09",
     "time": "9:30 PM",
@@ -8799,6 +8318,19 @@
     "description": "One of seven collaborations between T\u00e9chin\u00e9 and Catherine Deneuve, Scene of the Crime is a study of domestic discontent wearing the trappings of a boilerplate thriller, its action set into motion when a disconsolate 13-year-old boy runs across a fugitive criminal (Wadeck Stanczak) while loitering in a village cemetery, an encounter that will have immense repercussions for his woebegone mother, Lili (Deneuve), her manipulative estranged husband (Victor Lanoux), and Lili\u2019s own overbearing mother (Danielle Darrieux, C\u00e9sar nominated for her work here.) \u201cThe crux of the film is the mother-son relationship, and it is drawn in painful accuracy\u2026 An imaginatively structured, highly cinematic experience in which we watch with detachment the workings of fate unravel with a swift yet oddly calm inevitability.\u201d \u2014Los Angeles Times Part of Jean-Louis Ughetto: The Sound of Things",
     "runtime": "90 min",
     "director": "Andr\u00e9 T\u00e9chin\u00e9"
+  },
+  {
+    "title": "TFFF: Surprise Film 9.8.26",
+    "date": "2026-08-09",
+    "time": "9:30 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/81483?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The Final Film Festival 7-9 Aug 26 See events page for information The Final Film Festival presents a special repertory Surprise Screening in partnership with South London's Peckhamplex. 9 Aug 26",
+    "runtime": "90 min",
+    "director": ""
   },
   {
     "title": "Julian",
@@ -9113,19 +8645,6 @@
     "director": "Kiyoshi Kurosawa"
   },
   {
-    "title": "The Odyssey",
-    "date": "2026-08-10",
-    "time": "12:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82279?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Odyssey (2026), Christopher Nolan\u2019s epic adaptation of Homer\u2019s classic, follows Greek hero Odysseus on a perilous journey home after the Trojan War, encountering gods, monsters, and treacherous seas while his family faces turmoil in Ithaca Photo Id may required for 15 certificate films",
-    "runtime": "172 min",
-    "director": "Christopher Nolan"
-  },
-  {
     "title": "Parent and Baby: The Invite",
     "date": "2026-08-10",
     "time": "12:30 PM",
@@ -9137,6 +8656,19 @@
     "description": "Join us for an exclusive screening to come along to with your baby (Under 2), with lower volume, subtitles and slightly raised lighting for a more relaxed feel so your little ones can be as loud as they want!\r\n\r\nJoe and Angela\u2019s marriage is on thin ice. When they invite their enigmatic upstairs neighbours for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
     "runtime": "106 min",
     "director": "Olivia Wilde"
+  },
+  {
+    "title": "The Odyssey",
+    "date": "2026-08-10",
+    "time": "12:30 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82279?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The Odyssey (2026), Christopher Nolan\u2019s epic adaptation of Homer\u2019s classic, follows Greek hero Odysseus on a perilous journey home after the Trojan War, encountering gods, monsters, and treacherous seas while his family faces turmoil in Ithaca Photo Id may required for 15 certificate films",
+    "runtime": "172 min",
+    "director": "Christopher Nolan"
   },
   {
     "title": "A Child of My Own",
@@ -10985,19 +10517,6 @@
     "city": "LA"
   },
   {
-    "title": "Paw Patrol 3: The Dino Movie",
-    "date": "2026-08-11",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82306?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island Sunday 2nd Aug 11am Charity Screening All proceeds from this performance will be donated to MEDICINEMA Cinema-based healthcare programmes inside hospitals",
-    "runtime": "88 min",
-    "director": "Cal Brunker"
-  },
-  {
     "title": "Tony",
     "date": "2026-08-11",
     "time": "2:00 PM",
@@ -11009,6 +10528,19 @@
     "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
     "runtime": "106 min",
     "director": "Matt Johnson"
+  },
+  {
+    "title": "Paw Patrol 3: The Dino Movie",
+    "date": "2026-08-11",
+    "time": "2:00 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82306?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island Sunday 2nd Aug 11am Charity Screening All proceeds from this performance will be donated to MEDICINEMA Cinema-based healthcare programmes inside hospitals",
+    "runtime": "88 min",
+    "director": "Cal Brunker"
   },
   {
     "title": "Spider-Man: Brand New Day",
@@ -11219,19 +10751,6 @@
     "director": "Meriem Bennani"
   },
   {
-    "title": "Minions and Monsters",
-    "date": "2026-08-11",
-    "time": "3:45 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82315?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Animated comedy adventure in which the Minions try their hand at filmmaking when they arrive in Hollywood during the 1920s.",
-    "runtime": "90 min",
-    "director": "Pierre Coffin"
-  },
-  {
     "title": "The Great Silence",
     "date": "2026-08-11",
     "time": "3:45 PM",
@@ -11243,6 +10762,19 @@
     "description": "The traditional slow-speaking taciturnity of the Western hero is taken to the extreme in Django director Corbucci\u2019s hard-nosed, politically-provocative snowbound Spaghetti Western, set in turn-of-the-last-century Utah but filmed in the Italian Dolomites, where Jean-Louis Trintignant\u2019s mute gunslinger has to face off against a band of outlaws led by Klaus Kinski at his most unhinged\u2014and that\u2019s saying something. According to no less a personage than Repo Man director and Spaghetti connoisseur Alex Cox, Corbucci\u2019s \u201ctightest, most relentless Western; his best and his bleakest.\u201d Part of The Worldwide West",
     "runtime": "105 min",
     "director": "Sergio Corbucci"
+  },
+  {
+    "title": "Minions and Monsters",
+    "date": "2026-08-11",
+    "time": "3:45 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82315?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Animated comedy adventure in which the Minions try their hand at filmmaking when they arrive in Hollywood during the 1920s.",
+    "runtime": "90 min",
+    "director": "Pierre Coffin"
   },
   {
     "title": "Toy Story 5",
@@ -11414,19 +10946,6 @@
     "director": "Spike Lee"
   },
   {
-    "title": "The Invite",
-    "date": "2026-08-11",
-    "time": "5:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82323?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A couple invites the neighbours over for cocktails, igniting an evening full of unexpected twists and turns, revealing deeply repressed emotions and unexplored sexuality.",
-    "runtime": "106 min",
-    "director": "Olivia Wilde"
-  },
-  {
     "title": "Before Sunrise",
     "date": "2026-08-11",
     "time": "5:50 PM",
@@ -11438,6 +10957,19 @@
     "description": "Linklater\u2019s ongoing, decades-spanning story of a love affair through its many ups and downs begins here, with a chance encounter on a train between Ethan Hawke and Julie Delpy, the American Jesse and the French C\u00e9line, who together will pass a day and night in Vienna full of spirited, sparkling conversation and a slowly dawning attraction, all depicted with an ambling, uninflected naturalism. A wistful, winning, and quietly impassioned portrait of young love as it begins to bloom. Part of This Night Has Opened My Eyes",
     "runtime": "101 min",
     "director": "Richard Linklater"
+  },
+  {
+    "title": "The Invite",
+    "date": "2026-08-11",
+    "time": "5:50 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82323?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "A couple invites the neighbours over for cocktails, igniting an evening full of unexpected twists and turns, revealing deeply repressed emotions and unexplored sexuality.",
+    "runtime": "106 min",
+    "director": "Olivia Wilde"
   },
   {
     "title": "The Piano",
@@ -11830,19 +11362,6 @@
     "director": "Taghi Amirani"
   },
   {
-    "title": "The Odyssey",
-    "date": "2026-08-11",
-    "time": "8:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82324?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Odyssey (2026), Christopher Nolan\u2019s epic adaptation of Homer\u2019s classic, follows Greek hero Odysseus on a perilous journey home after the Trojan War, encountering gods, monsters, and treacherous seas while his family faces turmoil in Ithaca Photo Id may required for 15 certificate films",
-    "runtime": "172 min",
-    "director": "Christopher Nolan"
-  },
-  {
     "title": "Love in the Afternoon",
     "date": "2026-08-11",
     "time": "8:00 PM",
@@ -11867,6 +11386,19 @@
     "description": "Described by Sganzerla\u201421 years old when he directed his wild-eyed feature debut\u2014as a \u201cWestern about the Third World,\u201d The Red Light Bandit drew inspiration from the exploits of Jo\u00e3o Ac\u00e1cio Pereira da Costa, a recently arrested career criminal who\u2019d acquired the status of folk hero, and, in its rough-edged style and vigorous montage, from the recent output of Jean-Luc Godard. A descent into the mean streets of S\u00e3o Paulo\u2019s Boca do Lixo (Mouth of Garbage) neighborhood, Sganzerla\u2019s brash, confrontational film is one of the key works of Brazil\u2019s Cinema Marginal movement, per its creator: \u201cDirty and poetic, impure and pretentious\u2026 [speaking] of politics or of banditry without aesthetic respect, to the point of adopting an obscene liberty.\u201d Restoration by Severin Films Part of The Worldwide West",
     "runtime": "92 min",
     "director": "Rog\u00e9rio Sganzerla"
+  },
+  {
+    "title": "The Odyssey",
+    "date": "2026-08-11",
+    "time": "8:00 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82324?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The Odyssey (2026), Christopher Nolan\u2019s epic adaptation of Homer\u2019s classic, follows Greek hero Odysseus on a perilous journey home after the Trojan War, encountering gods, monsters, and treacherous seas while his family faces turmoil in Ithaca Photo Id may required for 15 certificate films",
+    "runtime": "172 min",
+    "director": "Christopher Nolan"
   },
   {
     "title": "The Odyssey (15) 35mm",
@@ -12129,19 +11661,6 @@
     "director": "Carol Reed"
   },
   {
-    "title": "Super Troopers 3",
-    "date": "2026-08-11",
-    "time": "9:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82322?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The third installment in the Super Troopers franchise.",
-    "runtime": "104 min",
-    "director": "Jay Chandrasekhar"
-  },
-  {
     "title": "Tony",
     "date": "2026-08-11",
     "time": "9:00 PM",
@@ -12153,6 +11672,19 @@
     "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
     "runtime": "106 min",
     "director": "Matt Johnson"
+  },
+  {
+    "title": "Super Troopers 3",
+    "date": "2026-08-11",
+    "time": "9:00 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82322?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The third installment in the Super Troopers franchise.",
+    "runtime": "104 min",
+    "director": "Jay Chandrasekhar"
   },
   {
     "title": "Maddie's Secret",
@@ -13013,19 +12545,6 @@
     "director": "Akosua Adoma Owusu, Djibril Diop Mamb\u00e9ty"
   },
   {
-    "title": "Super Troopers 3",
-    "date": "2026-08-12",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82338?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The third installment in the Super Troopers franchise.",
-    "runtime": "104 min",
-    "director": "Jay Chandrasekhar"
-  },
-  {
     "title": "The Odyssey",
     "date": "2026-08-12",
     "time": "4:00 PM",
@@ -13037,6 +12556,19 @@
     "description": "Christopher Nolan's new vision of Homer's epic tale. Odysseus, king of Ithaca, embarks on a perilous journey to return home after the Trojan War...",
     "runtime": "172 min",
     "director": "Christopher Nolan"
+  },
+  {
+    "title": "Super Troopers 3",
+    "date": "2026-08-12",
+    "time": "4:00 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82338?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The third installment in the Super Troopers franchise.",
+    "runtime": "104 min",
+    "director": "Jay Chandrasekhar"
   },
   {
     "title": "Paw Patrol 3: The Dino Movie",
@@ -13442,19 +12974,6 @@
     "director": "Martin Scorsese"
   },
   {
-    "title": "Super Troopers 3",
-    "date": "2026-08-12",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82344?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The third installment in the Super Troopers franchise.",
-    "runtime": "104 min",
-    "director": "Jay Chandrasekhar"
-  },
-  {
     "title": "Members Only: Girl with a Suitcase with James Gray",
     "date": "2026-08-12",
     "time": "6:30 PM",
@@ -13466,6 +12985,19 @@
     "description": "",
     "runtime": "",
     "director": ""
+  },
+  {
+    "title": "Super Troopers 3",
+    "date": "2026-08-12",
+    "time": "6:30 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82344?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The third installment in the Super Troopers franchise.",
+    "runtime": "104 min",
+    "director": "Jay Chandrasekhar"
   },
   {
     "title": "The Samurai and the Prisoner",
@@ -13585,6 +13117,19 @@
     "director": "Jeong Jae-eun"
   },
   {
+    "title": "Manhunter: The Final Cut",
+    "date": "2026-08-12",
+    "time": "7:30 pm",
+    "format": "Digital",
+    "venue": "Vidiots Foundation",
+    "venue_short": "Vidiots",
+    "url": "https://vidiotsfoundation.org/purchase/4364996/",
+    "description": "Before Silence of the Lambs , Michael Mann first introduced the cinema world to infamous cannibal Hannibal Lecter in this sizzling and stylish thriller. FBI criminal profiler Will Graham (William Petersen) is called out of early retirement to assist on a serial murder case involving a killer known as the \u201cTooth Fairy\u201d. Graham enlists the help of imprisoned serial killer \u2014 and cannibal \u2014 Dr. Hannibal Lecktor (Brian Cox), who is the reason Graham took an early retirement. Soon, Graham and the FBI are entangled in a deadly cat-and-mouse game between the Tooth Fairy, Lecktor and an interfering journalist.",
+    "runtime": "122 min",
+    "director": "Michael Mann",
+    "city": "LA"
+  },
+  {
     "title": "To Be or Not To Be",
     "date": "2026-08-12",
     "time": "7:30 PM",
@@ -13641,11 +13186,11 @@
     "date": "2026-08-12",
     "time": "8:00 PM",
     "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82351?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "venue": "Electric Cinema Portobello",
+    "venue_short": "Electric",
+    "url": "https://www.electriccinema.co.uk/tickets/67795",
     "city": "London",
-    "description": "The Odyssey (2026), Christopher Nolan\u2019s epic adaptation of Homer\u2019s classic, follows Greek hero Odysseus on a perilous journey home after the Trojan War, encountering gods, monsters, and treacherous seas while his family faces turmoil in Ithaca Photo Id may required for 15 certificate films",
+    "description": "Christopher Nolan's new vision of Homer's epic tale. Odysseus, king of Ithaca, embarks on a perilous journey to return home after the Trojan War...",
     "runtime": "172 min",
     "director": "Christopher Nolan"
   },
@@ -13654,11 +13199,11 @@
     "date": "2026-08-12",
     "time": "8:00 PM",
     "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/67795",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82351?siteToken=f3d16dvfdem7nzemve42hxwj68",
     "city": "London",
-    "description": "Christopher Nolan's new vision of Homer's epic tale. Odysseus, king of Ithaca, embarks on a perilous journey to return home after the Trojan War...",
+    "description": "The Odyssey (2026), Christopher Nolan\u2019s epic adaptation of Homer\u2019s classic, follows Greek hero Odysseus on a perilous journey home after the Trojan War, encountering gods, monsters, and treacherous seas while his family faces turmoil in Ithaca Photo Id may required for 15 certificate films",
     "runtime": "172 min",
     "director": "Christopher Nolan"
   },
@@ -14287,19 +13832,6 @@
     "director": "Jane Campion"
   },
   {
-    "title": "The Odyssey",
-    "date": "2026-08-13",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17450/",
-    "city": "London",
-    "description": "An epic fantasy action film written and directed by Christopher Nolan. An adaptation of Homer's ancient Greek epic the Odyssey, starring Matt Damon as Odysseus, the Greek king of Ithaca, and chronicles his long and perilous journey home after the Trojan War, as he attempts to reunite with his wife, Penelope, portrayed by Anne Hathaway. Where he encounters mythical beings such as the Cyclops, sirens, and the nymph Calypso. Warning: This film contains sequences with flashing or flickering lights that may affect individuals with photosensitivity. Viewer discretion is advised.",
-    "runtime": "172 min",
-    "director": "Christopher Nolan"
-  },
-  {
     "title": "The Fence",
     "date": "2026-08-13",
     "time": "1:05 PM",
@@ -14378,19 +13910,6 @@
     "director": "Pierre Coffin"
   },
   {
-    "title": "Paw Patrol 3: The Dino Movie",
-    "date": "2026-08-13",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82360?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island Sunday 2nd Aug 11am Charity Screening All proceeds from this performance will be donated to MEDICINEMA Cinema-based healthcare programmes inside hospitals",
-    "runtime": "88 min",
-    "director": "Cal Brunker"
-  },
-  {
     "title": "La Haine",
     "date": "2026-08-13",
     "time": "2:00 PM",
@@ -14404,17 +13923,17 @@
     "director": "Matthieu Kassovitz"
   },
   {
-    "title": "Spider-Man: Brand New Day",
+    "title": "Paw Patrol 3: The Dino Movie",
     "date": "2026-08-13",
-    "time": "2:10 PM",
+    "time": "2:00 PM",
     "format": "DCP",
     "venue": "Peckhamplex",
     "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82364?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "url": "https://ticketing.eu.veezi.com/purchase/82360?siteToken=f3d16dvfdem7nzemve42hxwj68",
     "city": "London",
-    "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
-    "runtime": "144 min",
-    "director": "Destin Daniel Cretton"
+    "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island Sunday 2nd Aug 11am Charity Screening All proceeds from this performance will be donated to MEDICINEMA Cinema-based healthcare programmes inside hospitals",
+    "runtime": "88 min",
+    "director": "Cal Brunker"
   },
   {
     "title": "Happy Together",
@@ -14428,6 +13947,19 @@
     "description": "Hong Kong cinema superstars Tony Leung and Leslie Cheung play a pair of lovers living out the waning days of their relationship as expatriates in Buenos Aires. Lusty tango bars, the salsa music of the La Boca sidewalks, and a hypnotic visit to the nearby Iguazu Falls give further dimension to the tensions growing between the two. Winner of the Best Director prize at the 1997 Cannes Film Festival, Wong\u2019s Happy Together is a stunning display of filmmaking style and a touching story of love on the brink of dissolution. Part of Like the Wind: Lensed by Christopher Doyle",
     "runtime": "96 min",
     "director": "Wong Kar-wai"
+  },
+  {
+    "title": "Spider-Man: Brand New Day",
+    "date": "2026-08-13",
+    "time": "2:10 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82364?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
+    "runtime": "144 min",
+    "director": "Destin Daniel Cretton"
   },
   {
     "title": "The Odyssey (15) (AD)",
@@ -14677,19 +14209,6 @@
     "director": ""
   },
   {
-    "title": "Super Troopers 3",
-    "date": "2026-08-13",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82365?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The third installment in the Super Troopers franchise.",
-    "runtime": "104 min",
-    "director": "Jay Chandrasekhar"
-  },
-  {
     "title": "Linda Linda Linda",
     "date": "2026-08-13",
     "time": "4:00 PM",
@@ -14701,6 +14220,19 @@
     "description": "With their last high school concert only days away, bandmates Kei, Kyoko, and Nozomi\u2019s hopes of taking the stage appear to be dashed when their lead singer quits the group, leaving them to hastily recruit a Korean exchange student with a limited grasp of Japanese (Bae Doona) and go into lockdown practice mode. Featuring the music of The Blue Hearts and Base Ball Bear as well as original instrumentals courtesy of Smashing Pumpkins\u2019s James Iha, Yamashita\u2019s newly restored, irresistibly charming, bumptious hangout movie, subject of a healthy cult following in Japan as well as abroad, is less concerned with \u201ccoming of age\u201d than with taking shelter, with a few good friends, from the oncoming adult crash. 20th Anniversary 4k Restoration A GKIDS Release Part of Among Friends",
     "runtime": "114 min",
     "director": "Nobuhiro Yamashita"
+  },
+  {
+    "title": "Super Troopers 3",
+    "date": "2026-08-13",
+    "time": "4:00 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82365?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The third installment in the Super Troopers franchise.",
+    "runtime": "104 min",
+    "director": "Jay Chandrasekhar"
   },
   {
     "title": "Paw Patrol 3: The Dino Movie",
@@ -14963,19 +14495,6 @@
     "director": "Charlie McDowell"
   },
   {
-    "title": "Toy Story 5",
-    "date": "2026-08-13",
-    "time": "6:10 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82375?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
-    "runtime": "102 min",
-    "director": ""
-  },
-  {
     "title": "The Traveler",
     "date": "2026-08-13",
     "time": "6:10 PM",
@@ -14987,6 +14506,19 @@
     "description": "The all-consuming monomania of footy fandom is at the center of Kiarostami\u2019s first full-length feature, in which Qassem, a 12-year-old from the provincial city of Malayer, is determined to see the Iranian national team play a match some 150 miles away in Tehran, and will stop at nothing\u2014including truancy, fraud, and petty larceny\u2014in order to achieve his dream. \u201cA quest film that\u2019s also a study of youthful obsession, it\u2019s filmed in edgy black and white with a quiet energy that matches its hero\u2019s. The Traveler has an acridly ironic ending and one of the best performances by a child in Kiarostami\u2019s early work.\u201d \u2014Godfrey Cheshire Part of The Art of Soccer",
     "runtime": "74 min",
     "director": "Abbas Kiarostami"
+  },
+  {
+    "title": "Toy Story 5",
+    "date": "2026-08-13",
+    "time": "6:10 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82375?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
+    "runtime": "102 min",
+    "director": ""
   },
   {
     "title": "Late Fame",
@@ -15028,19 +14560,6 @@
     "director": "Samuel Abrahams"
   },
   {
-    "title": "Ice Cream Man",
-    "date": "2026-08-13",
-    "time": "6:20 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82374?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
-    "runtime": "86 min",
-    "director": "Eli Roth"
-  },
-  {
     "title": "Do You Love Me",
     "date": "2026-08-13",
     "time": "6:20 PM",
@@ -15052,6 +14571,19 @@
     "description": "A cinematic paean to Beirut and a journey into the collective audiovisual memory of Lebanon and its people, making use of film and television clips, home movies, and photographs drawn from private and public archives, materials spanning some 70 years of turbulent history. (Among the film\u2019s parade of faces is that of director Jocelyne Saab, subject of a concurrent Metrograph series, visiting the wreckage of her former home, reduced to rubble in a 1982 Israeli air strike.) The glorious product of reclamation and meticulous research, and an urgent dispatch from an embattled nation, Do You Love Me proffers a people\u2019s history that eschews linear chronology to offer instead a rich rhyming network of generation-crossing associations. A film of intimacy and alienation, of destruction and renewal, of grief and resilience. Introduction by ArteEast's Sylvia Feghali on Friday, July 10th Introduction by Zain Khalid, author of Brother Alive, associate editor at The Drift and contributing editor at Bidoun, on Saturday, July 11th at 1:15pm Introduction by We Never Left filmmaker Loulwa Khoury on Saturday, July 11th at the 7:15pm showtime Introduction by C\u00e9line Semaan, Slow Factory CEO and host of Everything Is Political on Sunday, July 12th",
     "runtime": "75 min",
     "director": "Lana Daher"
+  },
+  {
+    "title": "Ice Cream Man",
+    "date": "2026-08-13",
+    "time": "6:20 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82374?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
+    "runtime": "86 min",
+    "director": "Eli Roth"
   },
   {
     "title": "The Peril at Pincer Point",
@@ -15561,19 +15093,6 @@
     "director": "Christopher Nolan"
   },
   {
-    "title": "Super Troopers 3",
-    "date": "2026-08-13",
-    "time": "9:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82376?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The third installment in the Super Troopers franchise.",
-    "runtime": "104 min",
-    "director": "Jay Chandrasekhar"
-  },
-  {
     "title": "Tony",
     "date": "2026-08-13",
     "time": "9:00 PM",
@@ -15585,6 +15104,19 @@
     "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
     "runtime": "106 min",
     "director": "Matt Johnson"
+  },
+  {
+    "title": "Super Troopers 3",
+    "date": "2026-08-13",
+    "time": "9:00 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/82376?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "The third installment in the Super Troopers franchise.",
+    "runtime": "104 min",
+    "director": "Jay Chandrasekhar"
   },
   {
     "title": "The Samurai and the Prisoner",
@@ -18288,6 +17820,19 @@
     "description": "Rinko Tatsumi (Asuka Kurosawa) is a suicide hotline worker resigned to a life of unhappiness until she receives a package from a blackmailer. Through the increasingly vulgar acts of exhibitionism her blackmailer forces upon her, she learns to shed the social restrictions and repression dominating her life. Shot on black-and-white film and tinted a monochromatic blue, Shinya Tsukamoto\u2019s A Snake of June is a visual feast. Filled with shaky, hand-held camerawork, voyeuristic close-ups, and near-constant rain, Tsukamoto creates a damp and cold erotic thriller that explores sexual dynamics, transformation, and releasing one's inner desires.",
     "runtime": "77 min",
     "director": "",
+    "city": "LA"
+  },
+  {
+    "title": "THE FAST AND THE FURIOUS",
+    "date": "2026-08-17",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "Directors Village",
+    "venue_short": "DirsVillage",
+    "url": "https://www.americancinematheque.com/now-showing/the-fast-and-the-furious-08-17-2026/",
+    "description": "This event is produced by Universal Pictures. Guests will be assigned seats at check-in. Check-in for American Cinematheque Members will be located approximately one block from the theatre. You will receive detailed arrival instructions in a reminder email sent the day before the event.",
+    "runtime": "106 min",
+    "director": "Rob Cohen",
     "city": "LA"
   },
   {
@@ -28023,7 +27568,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-62008",
     "city": "NYC",
-    "description": "This program gathers rare vintage short films that open a portal to trans feminine interior life between 1967 and 1982. We meet these women in moments of quiet confidence, everyday mundanity, and enduring glamour. Through deeply intimate portraits, these films unearth buried pieces of trans history while illuminating how the world has long constricted trans women\u2019s freedom to be. Made under a police state, these portraits mirror the experiences of trans femmes today. Each woman captured becomes a living testament to ancestral resilience and the enduring necessity of trans documentation. This program is co-curated by Thee Rose and Rosalina Michele for MIX NYC, one of the oldest queer experimental film festivals in the world. Special thanks to the Institute for Studies on Latin American Art (ISLAA) and Bradford Nordeen for providing digital exhibition files. Nikolai Ursin BEHIND EVERY GOOD MAN 1967, 8 min, 16mm Marguerite Paris ALL WOMEN ARE EQUAL 1972, 15 min, 16mm. Preserved by MIX NYC and the Women\u2019s Film Preservation Fund via New York Women in Film & Television. Joseph Horning VALERIE 1975, 16 min, 16mm-to-DCP Manuel Herreros de Lemos & Mateo Manaure Arilla TRANS 1982, 22 min, 16mm-to-DCP Total running time: ca. 65 min.",
+    "description": "This program gathers rare vintage short films that open a portal to trans feminine interior life between 1967 and 1982. We meet these women in moments of quiet confidence, everyday mundanity, and enduring glamour. Through deeply intimate portraits, these films unearth buried pieces of trans history while illuminating how the world has long constricted trans women\u2019s freedom to be. Made under a police state, these portraits mirror the experiences of trans femmes today. Each woman captured becomes a living testament to ancestral resilience and the enduring necessity of trans documentation. This program is co-curated by Thee Rose and Rosalina Michele for MIX NYC, one of the oldest queer experimental film festivals in the world. Special thanks to the Institute for Studies on Latin American Art (ISLAA) and Bradford Nordeen for providing digital exhibition files. Nikolai Ursin BEHIND EVERY GOOD MAN (1967, 8 min, 16mm) Marguerite Paris ALL WOMEN ARE EQUAL (1972, 15 min, 16mm. Preserved by MIX NYC and the Women\u2019s Film Preservation Fund via New York Women in Film & Television.) Joseph Horning VALERIE (1975, 16 min, 16mm-to-DCP) Manuel Herreros de Lemos & Mateo Manaure Arilla TRANS (1982, 22 min, 16mm-to-DCP) Total running time: ca. 65 min.",
     "runtime": "65 min",
     "director": ""
   },
@@ -29549,7 +29094,7 @@
     "director": ""
   },
   {
-    "title": "CHOY: TEACH OUR CHILDREN + INSIDE WOMEN INSIDE",
+    "title": "TEACH OUR CHILDREN + INSIDE WOMEN INSIDE",
     "date": "2026-09-09",
     "time": "6:45 PM",
     "format": "DCP",
@@ -29601,7 +29146,7 @@
     "director": "Hettie Macdonald"
   },
   {
-    "title": "CHOY: FROM SPIKES TO SPINDLES + FEI TIEN, GODDESS IN FLIGHT",
+    "title": "FROM SPIKES TO SPINDLES + FEI TIEN, GODDESS IN FLIGHT",
     "date": "2026-09-09",
     "time": "8:30 PM",
     "format": "DCP",
@@ -29861,7 +29406,7 @@
     "director": "Mihalis Cacoyannis"
   },
   {
-    "title": "CHOY: NAMIBIA, INDEPENDENCE NOW + REORIENTING AFRICA",
+    "title": "NAMIBIA, INDEPENDENCE NOW + REORIENTING AFRICA",
     "date": "2026-09-10",
     "time": "8:30 PM",
     "format": "DCP",
@@ -30121,7 +29666,7 @@
     "director": "Prince"
   },
   {
-    "title": "CHOY: TEACH OUR CHILDREN + INSIDE WOMEN INSIDE",
+    "title": "TEACH OUR CHILDREN + INSIDE WOMEN INSIDE",
     "date": "2026-09-11",
     "time": "9:00 PM",
     "format": "DCP",
@@ -30238,7 +29783,7 @@
     "director": ""
   },
   {
-    "title": "CHOY: NAMIBIA, INDEPENDENCE NOW + REORIENTING AFRICA",
+    "title": "NAMIBIA, INDEPENDENCE NOW + REORIENTING AFRICA",
     "date": "2026-09-12",
     "time": "4:45 PM",
     "format": "DCP",
@@ -30550,7 +30095,7 @@
     "director": "Wim Wenders"
   },
   {
-    "title": "CHOY: FROM SPIKES TO SPINDLES + FEI TIEN, GODDESS IN FLIGHT",
+    "title": "FROM SPIKES TO SPINDLES + FEI TIEN, GODDESS IN FLIGHT",
     "date": "2026-09-13",
     "time": "6:30 PM",
     "format": "DCP",
@@ -31286,7 +30831,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61983",
     "city": "NYC",
-    "description": "This evening features a rare screening of John Smith\u2019s SLOW GLASS (1988-91) \u2013 which uses the art of glassmaking as a prism to explore themes of memory and transformation \u2013 preceded by Marie Menken\u2019s ode to New York City on speed, GO! GO! GO! (1964). Both films utilize layered imagery, in different ways, to alter our perception of time and space. The event celebrates the publication of \u201cFrozen Features\u201d, a new book of photographs by Jason Fulford. For nearly thirty years, Fulford has built a practice on the conviction that meaning lives less inside any single photograph than in the sequence and the things that happen around it \u2013 individual pictures forced to rhyme, echo, or collapse into dissonance against their neighbors, across books, exhibitions, publishing, and performance. \u201cFrozen Features\u201d pushes that instinct one step further, into a visual language of layers randomly composed from images made between 1996 and 2026. The results invite us to find the mystical lodged inside the everyday, felt before it\u2019s understood. Fulford will introduce the films, and books will be available for purchase. For more info about \u201cFrozen Features\u201d, visit: https://loosejoints.biz/products/frozen-features Marie Menken GO! GO! GO! 1962-64, 12 min, 16mm, silent. Preserved by Anthology Film Archives. John Smith SLOW GLASS 1988-91, 40 min, 16mm Total running time: ca. 55 min.",
+    "description": "This evening features a rare screening of John Smith\u2019s SLOW GLASS (1988-91) \u2013 which uses the art of glassmaking as a prism to explore themes of memory and transformation \u2013 preceded by Marie Menken\u2019s ode to New York City on speed, GO! GO! GO! (1964). Both films utilize layered imagery, in different ways, to alter our perception of time and space. The event celebrates the publication of \u201cFrozen Features\u201d, a new book of photographs by Jason Fulford. For nearly thirty years, Fulford has built a practice on the conviction that meaning lives less inside any single photograph than in the sequence and the things that happen around it \u2013 individual pictures forced to rhyme, echo, or collapse into dissonance against their neighbors, across books, exhibitions, publishing, and performance. \u201cFrozen Features\u201d pushes that instinct one step further, into a visual language of layers randomly composed from images made between 1996 and 2026. The results invite us to find the mystical lodged inside the everyday, felt before it\u2019s understood. Fulford will introduce the films, and books will be available for purchase. For more info about \u201cFrozen Features\u201d, visit: https://loosejoints.biz/products/frozen-features Marie Menken GO! GO! GO! (1962-64, 12 min, 16mm, silent. Preserved by Anthology Film Archives.) John Smith SLOW GLASS (1988-91, 40 min, 16mm) Total running time: ca. 55 min.",
     "runtime": "55 min",
     "director": ""
   },
@@ -31419,19 +30964,6 @@
     "description": "Created to commemorate the 20 years that have passed since DC-based post-hardcore band Fugazi\u2019s last live appearance (November 4, 2002, at The Forum in London), We Are Fugazi from Washington, D.C. is a 96-minute movie comprising crowd sourced, fan recorded live shows and rare archive footage of Fugazi curated by Joe Gross, Joseph Pattisall and Jeff Krulik. Explicitly billed as a nondocumentary (tHISiSNOTaFUGAZIdOCUMENTARY,) the film pays tribute to Fugazi\u2019s prowess as a live act \u2014 for old fans to remember and for a new generation to discover what they missed. This unique archival assemblage celebrates the fans and their cameras, as much as the band itself \u2014 a collision/ collusion of the ephemeral moment on stage, and the moments captured on camera.",
     "runtime": "96 min",
     "director": "Jeff Krulik, Joe Gross, Joseph Pattisall"
-  },
-  {
-    "title": "Nirvanna the Band the Show the Movie",
-    "date": "2026-09-18",
-    "time": "6:15 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627805",
-    "city": "London",
-    "description": "When their plan to book a show at the Rivoli goes horribly wrong, Matt and Jay accidentally travel back to the year 2008.",
-    "runtime": "100 min",
-    "director": "Matt Johnson"
   },
   {
     "title": "Closely Observed Trains",
@@ -31884,7 +31416,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61952",
     "city": "NYC",
-    "description": "This program is anchored by the 1996 film CHRONIC, which combines documentary and found footage with scripted scenes (featuring Reeves herself, as well as filmmakers Joe Gibbons, Jeannie Liotta, and Joel Schlemowitz) to form an experimental narrative about a young woman who began mutilating herself as a girl to cope with a traumatic mid-western girlhood. The program also includes early 16mm works like TASTE IT NINE TIMES and THE GIRL\u2019S NERVY, video pieces such as SKINNY TEETH and the previously unseen MOTHERS\u2019 DAY, and an excerpt from a work-in-progress. TRAINS ARE FOR DREAMING 2009, 7 min, 16mm CHRONIC 1996, 37.5 min, 16mm FEAR OF BLUSHING 2001, 5.5 min, 16mm TASTE IT NINE TIMES 1992, 5.5 min, 16mm THE GIRL\u2019S NERVY 1995, 5 min, 16mm SKINNY TEETH 2001, 7 min, VHS-to-digital [work-in-progress] (CELIA, DID YOU KNOW?) 2 min, video MOTHER\u2019S DAY 1988, 5 min, video Total running time: ca. 80 min.",
+    "description": "This program is anchored by the 1996 film CHRONIC, which combines documentary and found footage with scripted scenes (featuring Reeves herself, as well as filmmakers Joe Gibbons, Jeannie Liotta, and Joel Schlemowitz) to form an experimental narrative about a young woman who began mutilating herself as a girl to cope with a traumatic mid-western girlhood. The program also includes early 16mm works like TASTE IT NINE TIMES and THE GIRL\u2019S NERVY, video pieces such as SKINNY TEETH and the previously unseen MOTHERS\u2019 DAY, and an excerpt from a work-in-progress. TRAINS ARE FOR DREAMING (2009, 7 min, 16mm) CHRONIC (1996, 37.5 min, 16mm) FEAR OF BLUSHING (2001, 5.5 min, 16mm) TASTE IT NINE TIMES (1992, 5.5 min, 16mm) THE GIRL\u2019S NERVY (1995, 5 min, 16mm) SKINNY TEETH (2001, 7 min, VHS-to-digital) [work-in-progress] (CELIA, DID YOU KNOW?) (2 min, video) MOTHER\u2019S DAY (1988, 5 min, video) Total running time: ca. 80 min.",
     "runtime": "80 min",
     "director": ""
   },
@@ -32092,7 +31624,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61987",
     "city": "NYC",
-    "description": "This program celebrates the one and only Mike Kuchar! Beloved for the films he made in tandem with twin brother George, as well as for his own over-the-top underground masterpieces, Mike is a living legend, whose work from the 1960s to the present day is a crucial part of our history, our collections, and our programming at Anthology. Born and raised in the Bronx, Mike has been based in the Bay Area for many years now, where he\u2019s continued to make work both on his own and with the generations of students he\u2019s taught. This program comprises works from throughout his career, including the early 8mm work THE CONFESSIONS OF BABETTE (1963), the rarely-screened 16mm FRAGMENTS (1967), the recently restored DEATH QUEST OF THE JU-JU CULTS (1976), and the brand-new BEYOND THE EDGE OF FOREVER (2025). Special thanks to Mike Kuchar and Michelle Silva (Kuchar Brothers Trust). THE CONFESSIONS OF BABETTE 1963, 15 min, 8mm-to-16mm. Preserved by Anthology Film Archives with support from the National Film Preservation Foundation. An early masterpiece by Mike Kuchar in which Babette tells all, leaving no turgid stone unturned. FRAGMENTS 1967, 10 min, 16mm A personal 16mm favorite of the filmmaker! DEATH QUEST OF THE JU-JU CULTS 1976, 30 min, 16mm-to-digital. Restoration by the Kuchar Brothers Trust, Anthology Film Archives, and Francois Ghebaly Gallery. Digital Remastering by FotoKem. Enter a shimmering forest and encounter the Pot Boiling turbulence of pre-history tribes in conflict. See sacrificial virgins, volcanoes, knife fights, spaceships\u2026 It\u2019s all in this black and white saga of pure escapement photographed amid upper New York\u2019s muddy river region one fine summer day back when the world was young in 1976.\u201d \u2013Mike Kuchar BEYOND THE EDGE OF FOREVER 2025, 8.5 min, digital \u201cIs a person\u2019s soul \u2018real\u2019 in the \u2018material\u2019 world? \u2026 Find out!\u201d \u2013Mike Kuchar Total running time: ca. 70 min.",
+    "description": "This program celebrates the one and only Mike Kuchar! Beloved for the films he made in tandem with twin brother George, as well as for his own over-the-top underground masterpieces, Mike is a living legend, whose work from the 1960s to the present day is a crucial part of our history, our collections, and our programming at Anthology. Born and raised in the Bronx, Mike has been based in the Bay Area for many years now, where he\u2019s continued to make work both on his own and with the generations of students he\u2019s taught. This program comprises works from throughout his career, including the early 8mm work THE CONFESSIONS OF BABETTE (1963), the rarely-screened 16mm FRAGMENTS (1967), the recently restored DEATH QUEST OF THE JU-JU CULTS (1976), and the brand-new BEYOND THE EDGE OF FOREVER (2025). Special thanks to Mike Kuchar and Michelle Silva (Kuchar Brothers Trust). THE CONFESSIONS OF BABETTE (1963, 15 min, 8mm-to-16mm. Preserved by Anthology Film Archives with support from the National Film Preservation Foundation.) An early masterpiece by Mike Kuchar in which Babette tells all, leaving no turgid stone unturned. FRAGMENTS (1967, 10 min, 16mm) A personal 16mm favorite of the filmmaker! DEATH QUEST OF THE JU-JU CULTS 1976, 30 min, 16mm-to-digital. Restoration by the Kuchar Brothers Trust, Anthology Film Archives, and Francois Ghebaly Gallery. Digital Remastering by FotoKem. Enter a shimmering forest and encounter the Pot Boiling turbulence of pre-history tribes in conflict. See sacrificial virgins, volcanoes, knife fights, spaceships\u2026 It\u2019s all in this black and white saga of pure escapement photographed amid upper New York\u2019s muddy river region one fine summer day back when the world was young in 1976.\u201d \u2013Mike Kuchar BEYOND THE EDGE OF FOREVER (2025, 8.5 min, digital) \u201cIs a person\u2019s soul \u2018real\u2019 in the \u2018material\u2019 world? \u2026 Find out!\u201d \u2013Mike Kuchar Total running time: ca. 70 min.",
     "runtime": "70 min",
     "director": ""
   },
@@ -32162,19 +31694,6 @@
     "director": "Nelson Shin"
   },
   {
-    "title": "The Animatrix",
-    "date": "2026-09-22",
-    "time": "3:40 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627381",
-    "city": "London",
-    "description": "Nine original animated short films delve into the backstory, characters and reality-shifting world of the 1999 film \"The Matrix.\"",
-    "runtime": "102 min",
-    "director": "Shinichir\u00f4 Watanabe, Takeshi Koike, Yoshiaki Kawajiri, Peter Chung, Koji Morimoto, Mahiro Maeda, Andy Jones"
-  },
-  {
     "title": "Daisies",
     "date": "2026-09-22",
     "time": "4:00 PM",
@@ -32227,7 +31746,7 @@
     "director": ""
   },
   {
-    "title": "RUBBLE: SHORT FILM PGM",
+    "title": "RUBBLE ON SCREEN: SHORT FILM PGM",
     "date": "2026-09-22",
     "time": "6:30 PM",
     "format": "DCP",
@@ -32235,12 +31754,12 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61971",
     "city": "NYC",
-    "description": "The final program of the series is comprised of shorts that condense the myriad affects elucidated by the preceding works. Here, the wrecking ball and excavator become central players as humans largely exit the drama, leaving inanimate objects the task of carrying high tragedy and comedy. In Mil\u00e8na Trivier\u2019s elegiac 12 AUGUST 2002, the filmmaker frames the demolition of a brick gable from below and against the sky, a towering sentinel pummeled, its pieces sold for scrap. Conversely, in Jacob Burckhardt\u2019s playful JawwZZZ, bright orange excavators lose their menace and become bumbling figures as they devour concrete and shift twisted metal, construction crews hosing down the creatures as zookeepers would elephants. Critique remains pointed though in Dominic Angerame\u2019s IN THE COURSE OF HUMAN EVENTS, an anti-city symphony that, instead of celebrating the triumphs of urban technological progress, explores the remnants of de-industrialization in a black and white moonscape bereft of human presence. William Raban TIME STEPPING 1974, 19 min, 16mm-to-digital Dominic Angerame IN THE COURSE OF HUMAN EVENTS 1997, 23 min, 16mm Mil\u00e9na Trivier 12 AUGUST 2002 2002, 10 min, video. Voiceover by John Berger. Anna Thew LFMC DEMOLITION 2004, 9 min, 16mm-to-digital Jacob Burckhardt JawwZZZ 2024, 15 min, digital. Soundtrack by Lary 7. Louis Lumi\u00e8re & Auguste Lumi\u00e8re DEMOLITION OF A WALL / D\u00c9MOLITION D\u2019UN MUR 1895, 1.5 min, 35mm-to-DCP Total running time: ca. 85 min.",
+    "description": "The final program of the series is comprised of shorts that condense the myriad affects elucidated by the preceding works. Here, the wrecking ball and excavator become central players as humans largely exit the drama, leaving inanimate objects the task of carrying high tragedy and comedy. In Mil\u00e8na Trivier\u2019s elegiac 12 AUGUST 2002, the filmmaker frames the demolition of a brick gable from below and against the sky, a towering sentinel pummeled, its pieces sold for scrap. Conversely, in Jacob Burckhardt\u2019s playful JawwZZZ, bright orange excavators lose their menace and become bumbling figures as they devour concrete and shift twisted metal, construction crews hosing down the creatures as zookeepers would elephants. Critique remains pointed though in Dominic Angerame\u2019s IN THE COURSE OF HUMAN EVENTS, an anti-city symphony that, instead of celebrating the triumphs of urban technological progress, explores the remnants of de-industrialization in a black and white moonscape bereft of human presence. William Raban TIME STEPPING (1974, 19 min, 16mm-to-digital) Dominic Angerame IN THE COURSE OF HUMAN EVENTS (1997, 23 min, 16mm) Mil\u00e9na Trivier 12 AUGUST 2002 (2002, 10 min, video. Voiceover by John Berger.) Anna Thew LFMC DEMOLITION (2004, 9 min, 16mm-to-digital) Jacob Burckhardt JawwZZZ (2024, 15 min, digital. Soundtrack by Lary 7.) Louis Lumi\u00e8re & Auguste Lumi\u00e8re DEMOLITION OF A WALL / D\u00c9MOLITION D\u2019UN MUR (1895, 1.5 min, 35mm-to-DCP) Total running time: ca. 85 min.",
     "runtime": "85 min",
     "director": ""
   },
   {
-    "title": "NOUJA\u00cfM PGM 1: VEILED STRUGGLES",
+    "title": "VALENTIN NOUJA\u00cfM PGM 1: VEILED STRUGGLES",
     "date": "2026-09-22",
     "time": "7:00 PM",
     "format": "DCP",
@@ -32487,7 +32006,7 @@
     "director": "Michael Schultz"
   },
   {
-    "title": "NOUJA\u00cfM PGM 2: RE-TELLING",
+    "title": "VALENTIN NOUJA\u00cfM PGM 2: RE-TELLING",
     "date": "2026-09-23",
     "time": "7:00 PM",
     "format": "DCP",
@@ -32550,19 +32069,6 @@
     "description": "If Jia Zhangke\u2019s breakout film PLATFORM (2000) was about the destruction of China\u2019s social fabric as it transitioned from Mao to Deng Xiaoping, then Jia\u2019s 2006 Golden Lion winner STILL LIFE focuses on the physical destruction of the built environment as the country ventures through another epochal shift. Like Ou Ning\u2019s MEISHI STREET, STILL LIFE is firmly located during what Western observers routinely note as the era of a \u201crising China.\u201d A few years after the country\u2019s admittance to the WTO, a couple years before Beijing hosted the 2008 Olympics, and during a time of rising GDP, STILL LIFE asks, in literal terms, whether a rising tide indeed lifts all boats. Shot on location in Fengjie, a town along the Yangtze River in central China, the film centers on two people as they search for their spouses in the city, slowly being demolished to make way for the Three Gorges Dam. Slated to be flooded by the dam\u2019s reservoir, the town is replete with hand painted red lines on the sides of buildings that indicate the imminent water levels, offering a stark warning for those below the line to get out while they can. Like Pedro Costa\u2019s IN VANDA\u2019S ROOM, STILL LIFE is filmed on digital video, lending it not only a documentary aesthetic (emblematic of the Urban Generation of Chinese independent filmmakers at the time), but one of uncanny immediacy. Jia, embracing the xianchang spirit of on-the-ground filmmaking, has argued that the documentarian must allow themself to be \u201cseared\u201d by the immediate present. The traces of the people and buildings of Fengjie, though now relocated and demolished, respectively, become irrevocably imprinted on STILL LIFE and its maker.",
     "runtime": "111 min",
     "director": "Jia Zhangke"
-  },
-  {
-    "title": "Trainspotting - 30th Anniversary",
-    "date": "2026-09-24",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627404",
-    "city": "London",
-    "description": "Heroin addict Mark Renton (Ewan McGregor) stumbles through bad ideas and sobriety attempts with his unreliable friends -- Sick Boy (Jonny Lee Miller), Begbie (Robert Carlyle), Spud (Ewen Bremner) and Tommy (Kevin McKidd). He also has an underage girlfriend, Diane (Kelly Macdonald), along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind when Begbie shows up at his front door on the lam, and a scheming Sick Boy follows.",
-    "runtime": "93 min",
-    "director": "Danny Boyle"
   },
   {
     "title": "The Dirties",
@@ -32682,7 +32188,7 @@
     "director": ""
   },
   {
-    "title": "JERKER",
+    "title": "NARROW ROOMS: JERKER",
     "date": "2026-09-24",
     "time": "7:30 PM",
     "format": "DCP",
@@ -32838,7 +32344,7 @@
     "director": "Andrzej \u017bu\u0142awski"
   },
   {
-    "title": "MERRITT PGM 1: PSYCHODRAMAS: MASKED FIGURES / MULTIPLE IDENTITIES",
+    "title": "TONEY W. MERRITT PGM 1: PSYCHODRAMAS",
     "date": "2026-09-25",
     "time": "6:30 PM",
     "format": "DCP",
@@ -32846,7 +32352,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61927",
     "city": "NYC",
-    "description": "WHAT\u2019S THIS? 1973, 1.5 min, 16mm-to-digital, silent A KISS OF DEATH 1974, 9 min, 16mm 6 TO 8AM 1975, 30 min, 16mm-to-digital EMBRACABLE YOU 1979, 5 min, 16mm-to-digital ASIAM 1982, 5 min, 16mm, silent WELCOME TO THE HOUSE OF RAVEN 1997, 3 min, 16mm Total running time: ca. 60 min.",
+    "description": "PSYCHODRAMAS: MASKED FIGURES / MULTIPLE IDENTITIES WHAT\u2019S THIS? (1973, 1.5 min, 16mm-to-digital, silent) A KISS OF DEATH (1974, 9 min, 16mm) 6 TO 8AM (1975, 30 min, 16mm-to-digital) EMBRACABLE YOU (1979, 5 min, 16mm-to-digital) ASIAM (1982, 5 min, 16mm, silent) WELCOME TO THE HOUSE OF RAVEN (1997, 3 min, 16mm) Total running time: ca. 60 min.",
     "runtime": "60 min",
     "director": ""
   },
@@ -32877,7 +32383,7 @@
     "director": "Rufus Butler Seder"
   },
   {
-    "title": "MERRITT PGM 2: VIGNETTES / MINIATURES",
+    "title": "TONEY W. MERRITT PGM 2: VIGNETTES / MINIATURES",
     "date": "2026-09-25",
     "time": "8:30 PM",
     "format": "DCP",
@@ -32885,7 +32391,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61930",
     "city": "NYC",
-    "description": "FINE FRENCH PHRASES AND OTHER FABLES 1976, 4 min, 16mm-to-digital FALL WORKS 1978, 3.5 min, 16mm-to-digital, silent GREEN MOUNTAIN 1978, 1.5 min, 16mm-to-digital EF 1979, 4 min, 16mm, silent LONESOME COWBOY 1979, 30 sec, 16mm NOTES 1979, 1 min, 16mm-to-digital, silent THREE MASKED PIECES 1979, 1 min, 16mm-to-digital, silent SMALL EVENTS 1979, 2 min, 16mm-to-digital BY THE SEA 1982, 1.5 min, 16mm, silent CONQUEST PIECE 1982, 6 min, 16mm NOT A MUSIC VIDEO 1987, 7 min, 16mm Total running time: ca. 40 min.",
+    "description": "FINE FRENCH PHRASES AND OTHER FABLES (1976, 4 min, 16mm-to-digital) FALL WORKS (1978, 3.5 min, 16mm-to-digital, silent) GREEN MOUNTAIN (1978, 1.5 min, 16mm-to-digital) EF (1979, 4 min, 16mm, silent) LONESOME COWBOY (1979, 30 sec, 16mm) NOTES (1979, 1 min, 16mm-to-digital, silent) THREE MASKED PIECES (1979, 1 min, 16mm-to-digital, silent) SMALL EVENTS (1979, 2 min, 16mm-to-digital) BY THE SEA (1982, 1.5 min, 16mm, silent) CONQUEST PIECE (1982, 6 min, 16mm) NOT A MUSIC VIDEO (1987, 7 min, 16mm) Total running time: ca. 40 min.",
     "runtime": "40 min",
     "director": ""
   },
@@ -33056,7 +32562,7 @@
     "director": "Victor Erice"
   },
   {
-    "title": "MERRITT PGM 3: LATER WORK",
+    "title": "TONEY W. MERRITT PGM 3: LATER WORK",
     "date": "2026-09-26",
     "time": "4:00 PM",
     "format": "DCP",
@@ -33064,7 +32570,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61933",
     "city": "NYC",
-    "description": "VISION QUESTS 2009, 15 min, digital AT EDEN\u2019S HEART 2021, 3 min, digital BLACK OAK FALLEN 2021, 9 min, digital A FIRE\u2019S POEM 2022, 4 min, digital APART \u2013 A PART 2024, 6.5 min, digital THE BIRDS AND THE BEASTS 2025, 4 min, digital SOUL \u2013 WHAT LIES WITHIN 2026, 5 min, digital FRAGMENT #9 \u2013 ON THE ASYMMETRY OF BROKEN BRANCHES 2026, 1.5 min, digital Total running time: ca. 55 min.",
+    "description": "VISION QUESTS (2009, 15 min, digital) AT EDEN\u2019S HEART (2021, 3 min, digital) BLACK OAK FALLEN (2021, 9 min, digital) A FIRE\u2019S POEM (2022, 4 min, digital) APART \u2013 A PART (2024, 6.5 min, digital) THE BIRDS AND THE BEASTS (2025, 4 min, digital) SOUL \u2013 WHAT LIES WITHIN (2026, 5 min, digital) FRAGMENT #9 \u2013 ON THE ASYMMETRY OF BROKEN BRANCHES (2026, 1.5 min, digital) Total running time: ca. 55 min.",
     "runtime": "55 min",
     "director": ""
   },
@@ -33121,7 +32627,7 @@
     "director": "Nicolas Winding Refn"
   },
   {
-    "title": "MERRITT PGM 2: VIGNETTES / MINIATURES",
+    "title": "TONEY W. MERRITT PGM 2: VIGNETTES / MINIATURES",
     "date": "2026-09-26",
     "time": "6:00 PM",
     "format": "DCP",
@@ -33129,7 +32635,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61931",
     "city": "NYC",
-    "description": "FINE FRENCH PHRASES AND OTHER FABLES 1976, 4 min, 16mm-to-digital FALL WORKS 1978, 3.5 min, 16mm-to-digital, silent GREEN MOUNTAIN 1978, 1.5 min, 16mm-to-digital EF 1979, 4 min, 16mm, silent LONESOME COWBOY 1979, 30 sec, 16mm NOTES 1979, 1 min, 16mm-to-digital, silent THREE MASKED PIECES 1979, 1 min, 16mm-to-digital, silent SMALL EVENTS 1979, 2 min, 16mm-to-digital BY THE SEA 1982, 1.5 min, 16mm, silent CONQUEST PIECE 1982, 6 min, 16mm NOT A MUSIC VIDEO 1987, 7 min, 16mm Total running time: ca. 40 min.",
+    "description": "FINE FRENCH PHRASES AND OTHER FABLES (1976, 4 min, 16mm-to-digital) FALL WORKS (1978, 3.5 min, 16mm-to-digital, silent) GREEN MOUNTAIN (1978, 1.5 min, 16mm-to-digital) EF (1979, 4 min, 16mm, silent) LONESOME COWBOY (1979, 30 sec, 16mm) NOTES (1979, 1 min, 16mm-to-digital, silent) THREE MASKED PIECES (1979, 1 min, 16mm-to-digital, silent) SMALL EVENTS (1979, 2 min, 16mm-to-digital) BY THE SEA (1982, 1.5 min, 16mm, silent) CONQUEST PIECE (1982, 6 min, 16mm) NOT A MUSIC VIDEO (1987, 7 min, 16mm) Total running time: ca. 40 min.",
     "runtime": "40 min",
     "director": ""
   },
@@ -33372,7 +32878,7 @@
     "city": "NYC"
   },
   {
-    "title": "MERRITT PGM 1: PSYCHODRAMAS: MASKED FIGURES / MULTIPLE IDENTITIES",
+    "title": "TONEY W. MERRITT PGM 1: PSYCHODRAMAS",
     "date": "2026-09-27",
     "time": "7:00 PM",
     "format": "DCP",
@@ -33380,7 +32886,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61928",
     "city": "NYC",
-    "description": "WHAT\u2019S THIS? 1973, 1.5 min, 16mm-to-digital, silent A KISS OF DEATH 1974, 9 min, 16mm 6 TO 8AM 1975, 30 min, 16mm-to-digital EMBRACABLE YOU 1979, 5 min, 16mm-to-digital ASIAM 1982, 5 min, 16mm, silent WELCOME TO THE HOUSE OF RAVEN 1997, 3 min, 16mm Total running time: ca. 60 min.",
+    "description": "PSYCHODRAMAS: MASKED FIGURES / MULTIPLE IDENTITIES WHAT\u2019S THIS? (1973, 1.5 min, 16mm-to-digital, silent) A KISS OF DEATH (1974, 9 min, 16mm) 6 TO 8AM (1975, 30 min, 16mm-to-digital) EMBRACABLE YOU (1979, 5 min, 16mm-to-digital) ASIAM (1982, 5 min, 16mm, silent) WELCOME TO THE HOUSE OF RAVEN (1997, 3 min, 16mm) Total running time: ca. 60 min.",
     "runtime": "60 min",
     "director": ""
   },
@@ -34031,7 +33537,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62105",
     "city": "NYC",
-    "description": "Tony Cokes EVIL 35: CARLIN / OWNERS 2012, 8 min, DCP Filipa C\u00e9sar TRANSMISSION FROM THE LIBERATED ZONES 2015, 30 min, DCP Basel Abbas & Ruanne Abou-Rahme OH SHINING STAR TESTIFY 2016-19, 10 min, DCP Shiva Addanki A PERMANENT OPIUM WAR 2026, 10 min, DCP Colectivo Los Ingravidos FACES IN THE CROWD 2: MEMORIAL 2019, 14 min, 16mm-to-DCP Camila Galaz VECINO, VECINO 2022, 20 min, DCP Total running time: ca. 95 min. With post-screening conversation (participants TBA)",
+    "description": "Tony Cokes EVIL.35: CARLIN / OWNERS (2012, 8 min, DCP) Filipa C\u00e9sar TRANSMISSION FROM THE LIBERATED ZONES (2015, 30 min, DCP) Basel Abbas & Ruanne Abou-Rahme OH SHINING STAR TESTIFY (2016-19, 10 min, DCP) Shiva Addanki A PERMANENT OPIUM WAR (2026, 10 min, DCP) Colectivo Los Ingravidos FACES IN THE CROWD 2: MEMORIAL (2019, 14 min, 16mm-to-DCP) Camila Galaz VECINO, VECINO (2022, 20 min, DCP) Total running time: ca. 95 min. With post-screening conversation (participants TBA)",
     "runtime": "95 min",
     "director": ""
   },
@@ -34223,7 +33729,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62107",
     "city": "NYC",
-    "description": "Alex Johnston EVIDENCE OF THE EVIDENCE 2018, 20 min, DCP Sky Hopinka SUNFLOWER SIEGE ENGINE 2022, 12 min, DCP Larry Clark AS ABOVE, SO BELOW 1973, 52 min, 16mm-to-DCP Total running time: ca. 90 min.",
+    "description": "Alex Johnston EVIDENCE OF THE EVIDENCE (2018, 20 min, DCP) Sky Hopinka SUNFLOWER SIEGE ENGINE (2022, 12 min, DCP) Larry Clark AS ABOVE, SO BELOW (1973, 52 min, 16mm-to-DCP) Total running time: ca. 90 min.",
     "runtime": "90 min",
     "director": ""
   },
@@ -34535,7 +34041,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62094",
     "city": "NYC",
-    "description": "Taking the avatar of the dominatrix as its starting point, this short film program gathers together various films made \u2013 across a 40-year period \u2013 by or in collaboration with those who have experience in the leathersex scene. As an avatar of working sex, the figure of the dominatrix is elusive in so far as she uses the theater of the scene of \u201cviolation\u201d to both pursue and obfuscate her desires. Though cinema longs to unmask the dominatrix to witness her \u201ctrue\u201d self, this program instead finds pleasure in the artifice of the scene wherein various characters find themselves at the mercy of the seductive and controlling gaze of the dominatrix. The shorts here range from documentary exercises of sadism, like Ione Wang\u2019s WHEN I LOOK AT YOU, I SEE ME, to the electric pop-music video work of Beth B\u2019s THE DOMINATRIX SLEEPS TONIGHT, made for the band Dominatrix. Shorts by Azian Nurudin and Michelle Handelman from the late 1980s and early 1990s invite a reconsideration of race, power, and aesthetics through their respectively overlooked and censored films, while M.M. Serra and Maria Beatty\u2019s work demonstrates the aesthetic bliss that emerges from submitting to the fantasies of a powerful woman. Azian Nurudin NANCY\u2019S NIGHTMARE 1988, 5 min, digital Michelle Handelman CATSCAN 1989, 6 min, Super-8mm-to-digital. Made with with Monte Cazazza. M.M. Serra & Jennifer Reeves DARLING INTERNATIONAL 1999, 22 min, 16mm-to-digital Maria Beatty THE BLACK GLOVE 1996, 30 min, digital Beth B THE DOMINATRIX SLEEPS TONIGHT 1984, 4 min, video Ione Wang WHEN I LOOK AT YOU, I SEE ME 2024, 7 min, digital Total running time: ca. 80 min.",
+    "description": "Taking the avatar of the dominatrix as its starting point, this short film program gathers together various films made \u2013 across a 40-year period \u2013 by or in collaboration with those who have experience in the leathersex scene. As an avatar of working sex, the figure of the dominatrix is elusive in so far as she uses the theater of the scene of \u201cviolation\u201d to both pursue and obfuscate her desires. Though cinema longs to unmask the dominatrix to witness her \u201ctrue\u201d self, this program instead finds pleasure in the artifice of the scene wherein various characters find themselves at the mercy of the seductive and controlling gaze of the dominatrix. The shorts here range from documentary exercises of sadism, like Ione Wang\u2019s WHEN I LOOK AT YOU, I SEE ME, to the electric pop-music video work of Beth B\u2019s THE DOMINATRIX SLEEPS TONIGHT, made for the band Dominatrix. Shorts by Azian Nurudin and Michelle Handelman from the late 1980s and early 1990s invite a reconsideration of race, power, and aesthetics through their respectively overlooked and censored films, while M.M. Serra and Maria Beatty\u2019s work demonstrates the aesthetic bliss that emerges from submitting to the fantasies of a powerful woman. Azian Nurudin NANCY\u2019S NIGHTMARE (1988, 5 min, digital) Michelle Handelman CATSCAN (1989, 6 min, Super-8mm-to-digital. Made with with Monte Cazazza.) M.M. Serra & Jennifer Reeves DARLING INTERNATIONAL (1999, 22 min, 16mm-to-digital) Maria Beatty THE BLACK GLOVE (1996, 30 min, digital) Beth B THE DOMINATRIX SLEEPS TONIGHT (1984, 4 min, video) Ione Wang WHEN I LOOK AT YOU, I SEE ME (2024, 7 min, digital) Total running time: ca. 80 min.",
     "runtime": "80 min",
     "director": ""
   },
@@ -34561,7 +34067,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62115",
     "city": "NYC",
-    "description": "Hong Kong Documentary Filmmakers TAKING BACK THE LEGISLATURE 2020, 45 min, DCP Bahar Noorizadeh AFTER SCARCITY 2018, 30 min, DCP Total running time: ca. 80 min.",
+    "description": "Hong Kong Documentary Filmmakers TAKING BACK THE LEGISLATURE (2020, 45 min, DCP) Bahar Noorizadeh AFTER SCARCITY (2018, 30 min, DCP) Total running time: ca. 80 min.",
     "runtime": "80 min",
     "director": ""
   },
@@ -34938,7 +34444,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62119",
     "city": "NYC",
-    "description": "Sara G\u00f3mez ABOUT EXTRA HOURS AND VOLUNTEER WORK / SOBRE HORAS EXTRAS Y TRABAJO VOLUNTARIO 1973, 9 min, 16mm-to-DCP Sara G\u00f3mez YEAR ONE / A\u00d1O UNO 1972, 9 min, 16mm-to-DCP Dina Mimi THOUSAND THRASHING ARMS 2024, 13 min, DCP Maissa Maatouk EXERCISE IN WAITING, 2023, 7 min, DCP Nicolas Gourault THEIR EYES 2025, 23 min, DCP Total running time: ca. 65 min.",
+    "description": "Sara G\u00f3mez ABOUT EXTRA HOURS AND VOLUNTEER WORK / SOBRE HORAS EXTRAS Y TRABAJO VOLUNTARIO (1973, 9 min, 16mm-to-DCP) Sara G\u00f3mez YEAR ONE / A\u00d1O UNO (1972, 9 min, 16mm-to-DCP) Dina Mimi THOUSAND THRASHING ARMS (2024, 13 min, DCP) Maissa Maatouk EXERCISE IN WAITING, (2023, 7 min, DCP) Nicolas Gourault THEIR EYES (2025, 23 min, DCP) Total running time: ca. 65 min.",
     "runtime": "65 min",
     "director": ""
   },
@@ -35224,7 +34730,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62123",
     "city": "NYC",
-    "description": "Marlon Riggs ANTHEM 1991, 9 min, DCP Valentin Nouja\u00efm OCEANIA 2024, 24 min, 16mm-to-DCP Michelle Parkerson ODDS AND ENDS 1993, 28 min, DCP Total running time: ca. 65 min.",
+    "description": "Marlon Riggs ANTHEM (1991, 9 min, DCP) Valentin Nouja\u00efm OCEANIA (2024, 24 min, 16mm-to-DCP) Michelle Parkerson ODDS AND ENDS (1993, 28 min, DCP) Total running time: ca. 65 min.",
     "runtime": "65 min",
     "director": ""
   },
@@ -35237,7 +34743,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62071",
     "city": "NYC",
-    "description": "We enter this program with a salacious direct address-cum-invitation in PLEASE RELAX NOW, as Kirchenbauer seduces the viewer from a black box void, stretching the edges of imagination. In LIKE RATS LEAVING A SINKING SHIP, Kirchenbauer layers psychiatric assessments to consider the coherency of a biography, and assess the ways in which individual memory is puppeted by state apparatuses. Both SHE WHOSE BLOOD IS CLOTTING IN MY UNDERWEAR and MOOD MANAGEMENT again push the viewer\u2019s capacity to render a coherent picture of actions, generating a half-constructed image which lends itself only then to a projection. Both works are guided by Kirchenbauer\u2019s music project, COOL FOR YOU. Through essay and material vignettes, UNTITLED SEQUENCE OF GAPS explores light outside of the visible spectrum to consider violence as it attaches to different kinds of visibility and invisibility. To tickle is a form of touch, an intimate act carried out to delight, to excite, or to torment. In THE ISLAND OF PERPETUAL TICKLING (III), Kirchenbauer surrenders to this metaphoric and literal tickle. Noting that it is impossible to tickle oneself, her task requires assistance. PLEASE RELAX NOW 2014, 12 min, DCP LIKE RATS LEAVING A SINKING SHIP 2012, 24.5 min, DCP SHE WHOSE BLOOD IS CLOTTING IN MY UNDERWEAR 2016, 3.5 min, DCP MOOD MANAGEMENT 2017, 2 min, DCPUNTITLED SEQUENCE OF GAPS 2020, 12.5 min, DCP THE ISLAND OF PERPETUAL TICKLING (III) 2018, 13 min, DCP Total running time: ca. 75 min. Filmmaker Vika Kirchenbauer in person for both screenings!",
+    "description": "We enter this program with a salacious direct address-cum-invitation in PLEASE RELAX NOW, as Kirchenbauer seduces the viewer from a black box void, stretching the edges of imagination. In LIKE RATS LEAVING A SINKING SHIP, Kirchenbauer layers psychiatric assessments to consider the coherency of a biography, and assess the ways in which individual memory is puppeted by state apparatuses. Both SHE WHOSE BLOOD IS CLOTTING IN MY UNDERWEAR and MOOD MANAGEMENT again push the viewer\u2019s capacity to render a coherent picture of actions, generating a half-constructed image which lends itself only then to a projection. Both works are guided by Kirchenbauer\u2019s music project, COOL FOR YOU. Through essay and material vignettes, UNTITLED SEQUENCE OF GAPS explores light outside of the visible spectrum to consider violence as it attaches to different kinds of visibility and invisibility. To tickle is a form of touch, an intimate act carried out to delight, to excite, or to torment. In THE ISLAND OF PERPETUAL TICKLING (III), Kirchenbauer surrenders to this metaphoric and literal tickle. Noting that it is impossible to tickle oneself, her task requires assistance. PLEASE RELAX NOW (2014, 12 min, DCP) LIKE RATS LEAVING A SINKING SHIP (2012, 24.5 min, DCP) SHE WHOSE BLOOD IS CLOTTING IN MY UNDERWEAR (2016, 3.5 min, DCP) MOOD MANAGEMENT 2017, 2 min, DCPUNTITLED SEQUENCE OF GAPS (2020, 12.5 min, DCP) THE ISLAND OF PERPETUAL TICKLING (III) (2018, 13 min, DCP) Total running time: ca. 75 min. Filmmaker Vika Kirchenbauer in person for both screenings!",
     "runtime": "75 min",
     "director": ""
   },
@@ -35250,7 +34756,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62125",
     "city": "NYC",
-    "description": "Peng Zuqiang SIGHT LEAK 2022, 12 min, 16mm & Super-8mm-to-DCP Jumana Manna BLESSED BLESSED OBLIVION 2010, 21 min, DCP Naomi Rincon Gallardo PATLACHE ANT NEST 2025, 21 min, DCP Total running time: ca. 60 min.",
+    "description": "Peng Zuqiang SIGHT LEAK (2022, 12 min, 16mm & Super-8mm-to-DCP) Jumana Manna BLESSED BLESSED OBLIVION (2010, 21 min, DCP) Naomi Rincon Gallardo PATLACHE ANT NEST (2025, 21 min, DCP) Total running time: ca. 60 min.",
     "runtime": "60 min",
     "director": ""
   },
@@ -35367,7 +34873,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62075",
     "city": "NYC",
-    "description": "In the second program of our 2-part retrospective devoted to Vika Kirchenbauer, we dive deeper into the politics of labor in contemporary art, as the artist offers us a WELCOME ADDRESS, directly calling into question the art economy\u2019s coded-progressive positioning of difference and diversity as symbolic cultural currency. Considering the foul, late-stage capitalist \u201cExperience Economy,\u201d YOU ARE BORING troubles the nature of looking. THE CAPACITY FOR ADEQUATE ANGER positions still images from the artist\u2019s presumable childhood archive, gaps of nothingness, and the essay form to offer a critique of the production of contemporary art in the face of upward mobility, mapping subjectivity and political agency. To close this program with a thorough and considered look at the complicit role of artists and art institutions, COMPASSION AND INCONVENIENCE takes us back to 18th century London to trace the first public exhibitions of contemporary art, when materiality intersects with ideology via Liberalism and Enlightenment, taking to task the economic and colonial interests that define/d the \u201cpursuit of refinement.\u201d WELCOME ADDRESS 2017, 9 min, DCP YOU ARE BORING! 2015, 14 min, DCP THE CAPACITY FOR ADEQUATE ANGER 2021, 15 min, DCP COMPASSION AND INCONVENIENCE 2024, 30 min, DCP Total running time: ca. 75 min. Filmmaker Vika Kirchenbauer in person for both screenings!",
+    "description": "In the second program of our 2-part retrospective devoted to Vika Kirchenbauer, we dive deeper into the politics of labor in contemporary art, as the artist offers us a WELCOME ADDRESS, directly calling into question the art economy\u2019s coded-progressive positioning of difference and diversity as symbolic cultural currency. Considering the foul, late-stage capitalist \u201cExperience Economy,\u201d YOU ARE BORING troubles the nature of looking. THE CAPACITY FOR ADEQUATE ANGER positions still images from the artist\u2019s presumable childhood archive, gaps of nothingness, and the essay form to offer a critique of the production of contemporary art in the face of upward mobility, mapping subjectivity and political agency. To close this program with a thorough and considered look at the complicit role of artists and art institutions, COMPASSION AND INCONVENIENCE takes us back to 18th century London to trace the first public exhibitions of contemporary art, when materiality intersects with ideology via Liberalism and Enlightenment, taking to task the economic and colonial interests that define/d the \u201cpursuit of refinement.\u201d WELCOME ADDRESS (2017, 9 min, DCP) YOU ARE BORING! (2015, 14 min, DCP) THE CAPACITY FOR ADEQUATE ANGER (2021, 15 min, DCP) COMPASSION AND INCONVENIENCE (2024, 30 min, DCP) Total running time: ca. 75 min. Filmmaker Vika Kirchenbauer in person for both screenings!",
     "runtime": "75 min",
     "director": ""
   },
@@ -35572,7 +35078,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62065",
     "city": "NYC",
-    "description": "Bessie Mae Kelley FLOWER FAIRIES 1921, 5 min, 35mm-to-DCP, silent. Restored and distributed by Manitou Productions Inc. Dave Fleischer EDUCATED FISH 1937, 7.5 min, 35mm. Uncredited animator: Lillian Friedman. Preserved by the Academy Film Archive and UCLA Film & Television Archive in cooperation with Paramount Pictures. Herm\u00edna T\u00fdrlov\u00e1 & Ladislav Z\u00e1st\u011bra FERDA THE ANT / FERDA MRAVENEC 1944, 10 min, 16mm-to-DCP. Courtesy of the Czech National Film Archive. Mary Ellen Bute COLOR RHAPSODIE 1948, 6 min, 35mm. Made with Ted Nemeth. Preserved by Anthology Film Archives, with assistance from Cineric, Inc. Brian Borthwick & John Halas THE OWL AND THE PUSSYCAT 1952, 6 min, 35mm-to-DCP. Produced by Joy Batchelor & John Halas. Tex Avery CRAZY MIXED UP PUP 1954, 6 min, 35mm-to-DCP. Animator: Laverne Harding. Mort & Millie Goldsholl INTERGALACTIC ZOO 1964, 2.5 min, 16mm-to-DCP Evelyn Lambart THE HOARDER 1969, 7.5 min, 35mm-to-DCP Sara Petty FURIES 1977, 3 min, 16mm Sally Cruikshank FROM YOUR HEAD 1996, 2 min, 16mm-to-DCP Total running time: ca. 65 min. The program will be introduced by Rachael Guma and by writer, scholar, and filmmaker Mindy Johnson!",
+    "description": "Bessie Mae Kelley FLOWER FAIRIES (1921, 5 min, 35mm-to-DCP, silent. Restored and distributed by Manitou Productions Inc.) Dave Fleischer EDUCATED FISH (1937, 7.5 min, 35mm. Uncredited animator: Lillian Friedman. Preserved by the Academy Film Archive and UCLA Film & Television Archive in cooperation with Paramount Pictures.) Herm\u00edna T\u00fdrlov\u00e1 & Ladislav Z\u00e1st\u011bra FERDA THE ANT / FERDA MRAVENEC (1944, 10 min, 16mm-to-DCP. Courtesy of the Czech National Film Archive.) Mary Ellen Bute COLOR RHAPSODIE (1948, 6 min, 35mm. Made with Ted Nemeth. Preserved by Anthology Film Archives, with assistance from Cineric, Inc.) Brian Borthwick & John Halas THE OWL AND THE PUSSYCAT (1952, 6 min, 35mm-to-DCP. Produced by Joy Batchelor & John Halas.) Tex Avery CRAZY MIXED UP PUP (1954, 6 min, 35mm-to-DCP. Animator: Laverne Harding.) Mort & Millie Goldsholl INTERGALACTIC ZOO (1964, 2.5 min, 16mm-to-DCP) Evelyn Lambart THE HOARDER (1969, 7.5 min, 35mm-to-DCP) Sara Petty FURIES (1977, 3 min, 16mm) Sally Cruikshank FROM YOUR HEAD (1996, 2 min, 16mm-to-DCP) Total running time: ca. 65 min. The program will be introduced by Rachael Guma and by writer, scholar, and filmmaker Mindy Johnson!",
     "runtime": "65 min",
     "director": ""
   },
@@ -35650,7 +35156,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62073",
     "city": "NYC",
-    "description": "We enter this program with a salacious direct address-cum-invitation in PLEASE RELAX NOW, as Kirchenbauer seduces the viewer from a black box void, stretching the edges of imagination. In LIKE RATS LEAVING A SINKING SHIP, Kirchenbauer layers psychiatric assessments to consider the coherency of a biography, and assess the ways in which individual memory is puppeted by state apparatuses. Both SHE WHOSE BLOOD IS CLOTTING IN MY UNDERWEAR and MOOD MANAGEMENT again push the viewer\u2019s capacity to render a coherent picture of actions, generating a half-constructed image which lends itself only then to a projection. Both works are guided by Kirchenbauer\u2019s music project, COOL FOR YOU. Through essay and material vignettes, UNTITLED SEQUENCE OF GAPS explores light outside of the visible spectrum to consider violence as it attaches to different kinds of visibility and invisibility. To tickle is a form of touch, an intimate act carried out to delight, to excite, or to torment. In THE ISLAND OF PERPETUAL TICKLING (III), Kirchenbauer surrenders to this metaphoric and literal tickle. Noting that it is impossible to tickle oneself, her task requires assistance. PLEASE RELAX NOW 2014, 12 min, DCP LIKE RATS LEAVING A SINKING SHIP 2012, 24.5 min, DCP SHE WHOSE BLOOD IS CLOTTING IN MY UNDERWEAR 2016, 3.5 min, DCP MOOD MANAGEMENT 2017, 2 min, DCPUNTITLED SEQUENCE OF GAPS 2020, 12.5 min, DCP THE ISLAND OF PERPETUAL TICKLING (III) 2018, 13 min, DCP Total running time: ca. 75 min. Filmmaker Vika Kirchenbauer in person for both screenings!",
+    "description": "We enter this program with a salacious direct address-cum-invitation in PLEASE RELAX NOW, as Kirchenbauer seduces the viewer from a black box void, stretching the edges of imagination. In LIKE RATS LEAVING A SINKING SHIP, Kirchenbauer layers psychiatric assessments to consider the coherency of a biography, and assess the ways in which individual memory is puppeted by state apparatuses. Both SHE WHOSE BLOOD IS CLOTTING IN MY UNDERWEAR and MOOD MANAGEMENT again push the viewer\u2019s capacity to render a coherent picture of actions, generating a half-constructed image which lends itself only then to a projection. Both works are guided by Kirchenbauer\u2019s music project, COOL FOR YOU. Through essay and material vignettes, UNTITLED SEQUENCE OF GAPS explores light outside of the visible spectrum to consider violence as it attaches to different kinds of visibility and invisibility. To tickle is a form of touch, an intimate act carried out to delight, to excite, or to torment. In THE ISLAND OF PERPETUAL TICKLING (III), Kirchenbauer surrenders to this metaphoric and literal tickle. Noting that it is impossible to tickle oneself, her task requires assistance. PLEASE RELAX NOW (2014, 12 min, DCP) LIKE RATS LEAVING A SINKING SHIP (2012, 24.5 min, DCP) SHE WHOSE BLOOD IS CLOTTING IN MY UNDERWEAR (2016, 3.5 min, DCP) MOOD MANAGEMENT 2017, 2 min, DCPUNTITLED SEQUENCE OF GAPS (2020, 12.5 min, DCP) THE ISLAND OF PERPETUAL TICKLING (III) (2018, 13 min, DCP) Total running time: ca. 75 min. Filmmaker Vika Kirchenbauer in person for both screenings!",
     "runtime": "75 min",
     "director": ""
   },
@@ -35673,7 +35179,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62076",
     "city": "NYC",
-    "description": "In the second program of our 2-part retrospective devoted to Vika Kirchenbauer, we dive deeper into the politics of labor in contemporary art, as the artist offers us a WELCOME ADDRESS, directly calling into question the art economy\u2019s coded-progressive positioning of difference and diversity as symbolic cultural currency. Considering the foul, late-stage capitalist \u201cExperience Economy,\u201d YOU ARE BORING troubles the nature of looking. THE CAPACITY FOR ADEQUATE ANGER positions still images from the artist\u2019s presumable childhood archive, gaps of nothingness, and the essay form to offer a critique of the production of contemporary art in the face of upward mobility, mapping subjectivity and political agency. To close this program with a thorough and considered look at the complicit role of artists and art institutions, COMPASSION AND INCONVENIENCE takes us back to 18th century London to trace the first public exhibitions of contemporary art, when materiality intersects with ideology via Liberalism and Enlightenment, taking to task the economic and colonial interests that define/d the \u201cpursuit of refinement.\u201d WELCOME ADDRESS 2017, 9 min, DCP YOU ARE BORING! 2015, 14 min, DCP THE CAPACITY FOR ADEQUATE ANGER 2021, 15 min, DCP COMPASSION AND INCONVENIENCE 2024, 30 min, DCP Total running time: ca. 75 min. Filmmaker Vika Kirchenbauer in person for both screenings!",
+    "description": "In the second program of our 2-part retrospective devoted to Vika Kirchenbauer, we dive deeper into the politics of labor in contemporary art, as the artist offers us a WELCOME ADDRESS, directly calling into question the art economy\u2019s coded-progressive positioning of difference and diversity as symbolic cultural currency. Considering the foul, late-stage capitalist \u201cExperience Economy,\u201d YOU ARE BORING troubles the nature of looking. THE CAPACITY FOR ADEQUATE ANGER positions still images from the artist\u2019s presumable childhood archive, gaps of nothingness, and the essay form to offer a critique of the production of contemporary art in the face of upward mobility, mapping subjectivity and political agency. To close this program with a thorough and considered look at the complicit role of artists and art institutions, COMPASSION AND INCONVENIENCE takes us back to 18th century London to trace the first public exhibitions of contemporary art, when materiality intersects with ideology via Liberalism and Enlightenment, taking to task the economic and colonial interests that define/d the \u201cpursuit of refinement.\u201d WELCOME ADDRESS (2017, 9 min, DCP) YOU ARE BORING! (2015, 14 min, DCP) THE CAPACITY FOR ADEQUATE ANGER (2021, 15 min, DCP) COMPASSION AND INCONVENIENCE (2024, 30 min, DCP) Total running time: ca. 75 min. Filmmaker Vika Kirchenbauer in person for both screenings!",
     "runtime": "75 min",
     "director": ""
   },
@@ -35855,7 +35361,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62095",
     "city": "NYC",
-    "description": "Taking the avatar of the dominatrix as its starting point, this short film program gathers together various films made \u2013 across a 40-year period \u2013 by or in collaboration with those who have experience in the leathersex scene. As an avatar of working sex, the figure of the dominatrix is elusive in so far as she uses the theater of the scene of \u201cviolation\u201d to both pursue and obfuscate her desires. Though cinema longs to unmask the dominatrix to witness her \u201ctrue\u201d self, this program instead finds pleasure in the artifice of the scene wherein various characters find themselves at the mercy of the seductive and controlling gaze of the dominatrix. The shorts here range from documentary exercises of sadism, like Ione Wang\u2019s WHEN I LOOK AT YOU, I SEE ME, to the electric pop-music video work of Beth B\u2019s THE DOMINATRIX SLEEPS TONIGHT, made for the band Dominatrix. Shorts by Azian Nurudin and Michelle Handelman from the late 1980s and early 1990s invite a reconsideration of race, power, and aesthetics through their respectively overlooked and censored films, while M.M. Serra and Maria Beatty\u2019s work demonstrates the aesthetic bliss that emerges from submitting to the fantasies of a powerful woman. Azian Nurudin NANCY\u2019S NIGHTMARE 1988, 5 min, digital Michelle Handelman CATSCAN 1989, 6 min, Super-8mm-to-digital. Made with with Monte Cazazza. M.M. Serra & Jennifer Reeves DARLING INTERNATIONAL 1999, 22 min, 16mm-to-digital Maria Beatty THE BLACK GLOVE 1996, 30 min, digital Beth B THE DOMINATRIX SLEEPS TONIGHT 1984, 4 min, video Ione Wang WHEN I LOOK AT YOU, I SEE ME 2024, 7 min, digital Total running time: ca. 80 min.",
+    "description": "Taking the avatar of the dominatrix as its starting point, this short film program gathers together various films made \u2013 across a 40-year period \u2013 by or in collaboration with those who have experience in the leathersex scene. As an avatar of working sex, the figure of the dominatrix is elusive in so far as she uses the theater of the scene of \u201cviolation\u201d to both pursue and obfuscate her desires. Though cinema longs to unmask the dominatrix to witness her \u201ctrue\u201d self, this program instead finds pleasure in the artifice of the scene wherein various characters find themselves at the mercy of the seductive and controlling gaze of the dominatrix. The shorts here range from documentary exercises of sadism, like Ione Wang\u2019s WHEN I LOOK AT YOU, I SEE ME, to the electric pop-music video work of Beth B\u2019s THE DOMINATRIX SLEEPS TONIGHT, made for the band Dominatrix. Shorts by Azian Nurudin and Michelle Handelman from the late 1980s and early 1990s invite a reconsideration of race, power, and aesthetics through their respectively overlooked and censored films, while M.M. Serra and Maria Beatty\u2019s work demonstrates the aesthetic bliss that emerges from submitting to the fantasies of a powerful woman. Azian Nurudin NANCY\u2019S NIGHTMARE (1988, 5 min, digital) Michelle Handelman CATSCAN (1989, 6 min, Super-8mm-to-digital. Made with with Monte Cazazza.) M.M. Serra & Jennifer Reeves DARLING INTERNATIONAL (1999, 22 min, 16mm-to-digital) Maria Beatty THE BLACK GLOVE (1996, 30 min, digital) Beth B THE DOMINATRIX SLEEPS TONIGHT (1984, 4 min, video) Ione Wang WHEN I LOOK AT YOU, I SEE ME (2024, 7 min, digital) Total running time: ca. 80 min.",
     "runtime": "80 min",
     "director": ""
   },
@@ -35995,7 +35501,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62067",
     "city": "NYC",
-    "description": "Lotte Reiniger GALATHEA 1935, 11 min, 35mm-to-DCP Jack Kinney THE STORY OF MENSTRUATION 1946, 10 min, 16mm. Conceptual design by Sylvia Holland. Allan Crick THE FIGUREHEAD 1952, 7.5 min, 35mm-to-DCP. Co-written and co-produced by Joy Batchelor. Alexander Alexeieff, Irmgard Messant-Serelle, Claire Parker, and Georges Violet PURE BEAUT\u00c9 1954, 1 min, 35mm-to-DCP Clorinda Warny PETIT BONHEUR 1972, 8 min, 35mm-to-DCP Faith Hubley W.O.W. (WOMEN OF THE WORLD) 1975, 10 min, 35mm Eugene Fedorenko EVERY CHILD 1979, 6 min, 35mm-to-DCP. Animator: Rose Newlove. Caroline Leaf ENTRE DEUX SOEURS 1990, 10 min, 35mm-to-DCP Signe Baumane BIRTH 2009, 11 min, DCP Total running time: ca. 80 min.",
+    "description": "Lotte Reiniger GALATHEA (1935, 11 min, 35mm-to-DCP) Jack Kinney THE STORY OF MENSTRUATION (1946, 10 min, 16mm. Conceptual design by Sylvia Holland.) Allan Crick THE FIGUREHEAD (1952, 7.5 min, 35mm-to-DCP. Co-written and co-produced by Joy Batchelor.) Alexander Alexeieff, Irmgard Messant-Serelle, Claire Parker, and Georges Violet PURE BEAUT\u00c9 (1954, 1 min, 35mm-to-DCP) Clorinda Warny PETIT BONHEUR (1972, 8 min, 35mm-to-DCP) Faith Hubley W.O.W. (WOMEN OF THE WORLD) (1975, 10 min, 35mm) Eugene Fedorenko EVERY CHILD (1979, 6 min, 35mm-to-DCP. Animator: Rose Newlove.) Caroline Leaf ENTRE DEUX SOEURS (1990, 10 min, 35mm-to-DCP) Signe Baumane BIRTH (2009, 11 min, DCP) Total running time: ca. 80 min.",
     "runtime": "80 min",
     "director": ""
   },
@@ -36073,12 +35579,12 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62069",
     "city": "NYC",
-    "description": "Alice Cohen, Esther Crow, Rachael Guma, Alexis Outlaw-Clark, Amari Outlaw-Clark, and Kelly Spivey SUNFLOWER LANE: CYCLES 2026, 20 min, DCP Plus: Caroline Leaf & Veronika Soul INTERVIEW 1979, 13 min, 35mm-to-DCP Sandy Moore THE LIVES OF FIRECRACKERS 1979, 12 min, 16mm-to-DCP. Digitally restored by Anthology Film Archives. Faith Hubley MY UNIVERSE INSIDE OUT 1996, 24 min, 35mm Total running time: ca. 75 min.",
+    "description": "Alice Cohen, Esther Crow, Rachael Guma, Alexis Outlaw-Clark, Amari Outlaw-Clark, and Kelly Spivey SUNFLOWER LANE: CYCLES 2026, 20 min, DCP Plus: Caroline Leaf & Veronika Soul INTERVIEW (1979, 13 min, 35mm-to-DCP) Sandy Moore THE LIVES OF FIRECRACKERS (1979, 12 min, 16mm-to-DCP. Digitally restored by Anthology Film Archives.) Faith Hubley MY UNIVERSE INSIDE OUT (1996, 24 min, 35mm) Total running time: ca. 75 min.",
     "runtime": "75 min",
     "director": ""
   },
   {
-    "title": "LES FANT\u00d4MES DU HARD + FISTULE",
+    "title": "NARROW ROOMS: LES FANT\u00d4MES DU HARD + FISTULE",
     "date": "2026-10-15",
     "time": "7:30 PM",
     "format": "DCP",
@@ -36164,7 +35670,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62011",
     "city": "NYC",
-    "description": "The openness and non-judgement that characterized the National Sex Forum meant that the films it produced depicted not only sex acts without scripting or simulation, but also frank discussions of participants\u2019 sexual desires and experiences. Most straightforward in its treatment of these discussions is WARDELL POMEROY TAKES A SEX HISTORY, in which the titular doctor and former Alfred Kinsey collaborator interviews sexologist-in-training Janice Epp on her past relationships, sexual preferences, childhood awareness of puberty, present-day masturbation habits, and other aspects of her sexual identity. In this program, SEX HISTORY is accompanied by three more erotic portraits, each of them both candid and playful. Betty Brown & Rikki Ripp SEXUAL FANTASY PARTY 1973, 12 min, SD-video-to-DCP Honey Lee Cottrell SWEET DREAMS 1979, 14 min, 16mm-to-DCP. Featuring Patrick Califia. Laird Sutton WARDELL POMEROY TAKES A SEX HISTORY 1977, 35 min, 16mm Curt McDowell CONFESSIONS 1972, 11 min, 16mm Total running time: ca. 75 min.",
+    "description": "The openness and non-judgement that characterized the National Sex Forum meant that the films it produced depicted not only sex acts without scripting or simulation, but also frank discussions of participants\u2019 sexual desires and experiences. Most straightforward in its treatment of these discussions is WARDELL POMEROY TAKES A SEX HISTORY, in which the titular doctor and former Alfred Kinsey collaborator interviews sexologist-in-training Janice Epp on her past relationships, sexual preferences, childhood awareness of puberty, present-day masturbation habits, and other aspects of her sexual identity. In this program, SEX HISTORY is accompanied by three more erotic portraits, each of them both candid and playful. Betty Brown & Rikki Ripp SEXUAL FANTASY PARTY (1973, 12 min, SD-video-to-DCP) Honey Lee Cottrell SWEET DREAMS (1979, 14 min, 16mm-to-DCP. Featuring Patrick Califia.) Laird Sutton WARDELL POMEROY TAKES A SEX HISTORY (1977, 35 min, 16mm) Curt McDowell CONFESSIONS (1972, 11 min, 16mm) Total running time: ca. 75 min.",
     "runtime": "75 min",
     "director": ""
   },
@@ -36177,7 +35683,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62013",
     "city": "NYC",
-    "description": "ACTIVE PARTNERS: FOUR FILMS ON SEX AND DISABILITY Reflecting on the National Sex Forum (NSF) and Multi-Media Resource Center (MMRC), Ted McIlvenna often said that his proudest achievement was his work producing films on the sexuality of people with disabilities. These films dealt frankly with a subject seldom addressed either in erotic and sexually explicit cinema or in educational media about physical disability. They used a combination of candid narration and explicit visuals to explore the possibilities of sexual expression for disabled people, particularly those with able-bodied partners. The first two films in this program were directed by Laird Sutton for the NSF, while the latter two were produced by the University of Minnesota and San Francisco State University, and distributed by the MMRC. Laird Sutton JUST WHAT CAN YOU DO 1972, 23 min, 16mm Laird Sutton TOUCHING 1972, 17 min, 16mm Theodore M. Cole & Sandra S. Cole ARTIST\u2019S FANTASY 1975, 15 min, 16mm Marvin Silverman ACTIVE PARTNERS 1979, 8 min, 16mm Total running time: ca. 70 min.",
+    "description": "ACTIVE PARTNERS: FOUR FILMS ON SEX AND DISABILITY Reflecting on the National Sex Forum (NSF) and Multi-Media Resource Center (MMRC), Ted McIlvenna often said that his proudest achievement was his work producing films on the sexuality of people with disabilities. These films dealt frankly with a subject seldom addressed either in erotic and sexually explicit cinema or in educational media about physical disability. They used a combination of candid narration and explicit visuals to explore the possibilities of sexual expression for disabled people, particularly those with able-bodied partners. The first two films in this program were directed by Laird Sutton for the NSF, while the latter two were produced by the University of Minnesota and San Francisco State University, and distributed by the MMRC. Laird Sutton JUST WHAT CAN YOU DO (1972, 23 min, 16mm) Laird Sutton TOUCHING (1972, 17 min, 16mm) Theodore M. Cole & Sandra S. Cole ARTIST\u2019S FANTASY (1975, 15 min, 16mm) Marvin Silverman ACTIVE PARTNERS (1979, 8 min, 16mm) Total running time: ca. 70 min.",
     "runtime": "70 min",
     "director": ""
   },
@@ -36307,7 +35813,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62015",
     "city": "NYC",
-    "description": "From the late 1960s through the early 1980s, politically active gay and lesbian filmmakers like Arthur J. Bressan, Jr. and the Mariposa Film Group made didactic agitprop documentaries and narrative films on the liberation movement taking place in the streets around them. But alongside these works were smaller \u2013 in scope, length, and film gauge \u2013 and often more experimental works that shed light on the ideology of gay liberation in a less didactic mode. The two films in this program directed by Laird Sutton for the National Sex Forum take the form of casual, unstructured conversations between trios of gay men and lesbians. The others \u2013 which were, apart from FREEDOM DAY PARADE, distributed by the Multi-Media Resource Center \u2013 use documentary and satire to explore the concerns and culture of the gay liberation movement. Wakefield Poole FREEDOM DAY PARADE 1974, 11 min, 16mm-to-DCP Laird Sutton GAY WOMEN SPEAK 1979, 15 min, 16mm. Featuring Phyllis Lyon. Laird Sutton A GAY VIEW: MALE 1975, 17 min, 16mm Sharrie Farrell SANDY & MADELINE\u2019S FAMILY 1973, 30 min, 16mm Jan Oxenberg A COMEDY IN SIX UNNATURAL ACTS 1975, 27 min, 16mm-to-DCP Total running time: ca. 105 min.",
+    "description": "From the late 1960s through the early 1980s, politically active gay and lesbian filmmakers like Arthur J. Bressan, Jr. and the Mariposa Film Group made didactic agitprop documentaries and narrative films on the liberation movement taking place in the streets around them. But alongside these works were smaller \u2013 in scope, length, and film gauge \u2013 and often more experimental works that shed light on the ideology of gay liberation in a less didactic mode. The two films in this program directed by Laird Sutton for the National Sex Forum take the form of casual, unstructured conversations between trios of gay men and lesbians. The others \u2013 which were, apart from FREEDOM DAY PARADE, distributed by the Multi-Media Resource Center \u2013 use documentary and satire to explore the concerns and culture of the gay liberation movement. Wakefield Poole FREEDOM DAY PARADE (1974, 11 min, 16mm-to-DCP) Laird Sutton GAY WOMEN SPEAK (1979, 15 min, 16mm. Featuring Phyllis Lyon.) Laird Sutton A GAY VIEW: MALE (1975, 17 min, 16mm) Sharrie Farrell SANDY & MADELINE\u2019S FAMILY (1973, 30 min, 16mm) Jan Oxenberg A COMEDY IN SIX UNNATURAL ACTS (1975, 27 min, 16mm-to-DCP) Total running time: ca. 105 min.",
     "runtime": "105 min",
     "director": ""
   },
@@ -36359,7 +35865,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62017",
     "city": "NYC",
-    "description": "THE PERSONAL AND THE POLITICAL: SEXUALITY, ROMANCE AND WOMEN\u2019S LIB This program uses the clich\u00e9 adage of second-wave feminism as a conceptual framework, bringing together films focused on individual and paired bodies with those concerned with the social and the political. Two playful Multi-Media Resource Center (MMRC) shorts that use visual and narrative tools to invert expectations of heterosexual gender performance are followed by films from the MMRC catalog (SELF-HEALTH, HOOKERS) and the Los Angeles underground (HIDDEN MEMORIES, I DON\u2019T KNOW), departing in key ways from doctrinaire women\u2019s liberation ideology. In these films, sexuality, romance, physical health, and communal solidarity are woven into a patchwork that renders women\u2019s political and social identities more multifaceted than either dominant patriarchy or the mainstream feminist movement envisaged. Sam Joseph & Mariko Tse FIRST DATE 1977, 5 min, 8mm-to-DCP Anne Severson I CHANGE I AM THE SAME 1969, 1 min, 16mm Catherine Allen, Judy Irola, Allie Light, and Joan Musante SELF-HEALTH 1974, 23 min, 16mm-to-DCP Jacqueline Frazier HIDDEN MEMORIES 1977, 10 min, 16mm-to-DCP Penelope Spheeris I DON\u2019T KNOW 1970, 20 min, 16mm-to-DCP George Csicsery HOOKERS 1975, 25 min, 16mm Total running time: ca. 90 min.",
+    "description": "THE PERSONAL AND THE POLITICAL: SEXUALITY, ROMANCE AND WOMEN\u2019S LIB This program uses the clich\u00e9 adage of second-wave feminism as a conceptual framework, bringing together films focused on individual and paired bodies with those concerned with the social and the political. Two playful Multi-Media Resource Center (MMRC) shorts that use visual and narrative tools to invert expectations of heterosexual gender performance are followed by films from the MMRC catalog (SELF-HEALTH, HOOKERS) and the Los Angeles underground (HIDDEN MEMORIES, I DON\u2019T KNOW), departing in key ways from doctrinaire women\u2019s liberation ideology. In these films, sexuality, romance, physical health, and communal solidarity are woven into a patchwork that renders women\u2019s political and social identities more multifaceted than either dominant patriarchy or the mainstream feminist movement envisaged. Sam Joseph & Mariko Tse FIRST DATE (1977, 5 min, 8mm-to-DCP) Anne Severson I CHANGE I AM THE SAME (1969, 1 min, 16mm) Catherine Allen, Judy Irola, Allie Light, and Joan Musante SELF-HEALTH (1974, 23 min, 16mm-to-DCP) Jacqueline Frazier HIDDEN MEMORIES (1977, 10 min, 16mm-to-DCP) Penelope Spheeris I DON\u2019T KNOW (1970, 20 min, 16mm-to-DCP) George Csicsery HOOKERS (1975, 25 min, 16mm) Total running time: ca. 90 min.",
     "runtime": "90 min",
     "director": ""
   },
@@ -36437,7 +35943,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62019",
     "city": "NYC",
-    "description": "James Broughton, prolific poet-filmmaker and member of Anthology\u2019s own Essential Cinema Selection Committee, was one of many Bay Area experimental filmmakers whose work was distributed by the Multi-Media Resource Center. Generally advertised in the \u201cErotic Fantasy\u201d section of the distributor\u2019s catalogs, Broughton\u2019s films were recontextualized by their inclusion, their sensuality and spirituality understood as components of a holistic understanding of sexuality for the sex educator or therapist. In this special edition of Anthology\u2019s Broughton Essential Cinema program, three characteristic works of the filmmaker\u2019s late 60s-early 70s output are preceded by a very special entry in the National Sex Forum filmography, in which Broughton himself is bathed and massaged by erotic masseur Kenneth Ray Stubbs. Laird Sutton JAMES 1979, 10 min, 16mm James Broughton THE BED 1968, 19 min, 16mm James Broughton NUPTIAE 1969, 14 min, 16mm James Broughton THE GOLDEN POSITIONS 1970, 32 min, 16mm Total running time: ca. 80 min.",
+    "description": "James Broughton, prolific poet-filmmaker and member of Anthology\u2019s own Essential Cinema Selection Committee, was one of many Bay Area experimental filmmakers whose work was distributed by the Multi-Media Resource Center. Generally advertised in the \u201cErotic Fantasy\u201d section of the distributor\u2019s catalogs, Broughton\u2019s films were recontextualized by their inclusion, their sensuality and spirituality understood as components of a holistic understanding of sexuality for the sex educator or therapist. In this special edition of Anthology\u2019s Broughton Essential Cinema program, three characteristic works of the filmmaker\u2019s late 60s-early 70s output are preceded by a very special entry in the National Sex Forum filmography, in which Broughton himself is bathed and massaged by erotic masseur Kenneth Ray Stubbs. Laird Sutton JAMES (1979, 10 min, 16mm) James Broughton THE BED (1968, 19 min, 16mm) James Broughton NUPTIAE (1969, 14 min, 16mm) James Broughton THE GOLDEN POSITIONS (1970, 32 min, 16mm) Total running time: ca. 80 min.",
     "runtime": "80 min",
     "director": ""
   },
@@ -36463,7 +35969,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62021",
     "city": "NYC",
-    "description": "EROTIC FANTASY: BEESON AND BEYOND While the bulk of the National Sex Forum\u2019s (NSF) in-house productions were directed by Laird Sutton, a Methodist minister like co-founder Ted McIlvenna, the organization\u2019s more experimental output was mostly helmed by Constance (or Coni) Beeson. A photojournalist-turned-filmmaker, Beeson\u2019s films on women\u2019s sexuality were cited as inspirations by her contemporary Barbara Hammer. In this program, presented in chronological order, three Beeson films produced for the NSF, each depicting sexual encounters layered in double-exposure and pastoral imagery, are bookended by classic works of expressive erotic cinema that, though not distributed by the Multi-Media Resource Center, would be at home in its catalogs. Jos\u00e9 Rodriguez-Soltero JEROVI 1965, 11 min, 16mm. Preserved by Anthology Film Archives with support from the Andy Warhol Foundation for the Visual Arts. Coni Beeson THE NOW 1970, 14 min, 16mm Coni Beeson HOLDING 1971, 15 min, 16mm Coni Beeson STAMEN 1972, 15 min, 16mm Chick Strand FEVER DREAM 1979, 7 min, 16mm Total running time: ca. 65 min.",
+    "description": "EROTIC FANTASY: BEESON AND BEYOND While the bulk of the National Sex Forum\u2019s (NSF) in-house productions were directed by Laird Sutton, a Methodist minister like co-founder Ted McIlvenna, the organization\u2019s more experimental output was mostly helmed by Constance (or Coni) Beeson. A photojournalist-turned-filmmaker, Beeson\u2019s films on women\u2019s sexuality were cited as inspirations by her contemporary Barbara Hammer. In this program, presented in chronological order, three Beeson films produced for the NSF, each depicting sexual encounters layered in double-exposure and pastoral imagery, are bookended by classic works of expressive erotic cinema that, though not distributed by the Multi-Media Resource Center, would be at home in its catalogs. Jos\u00e9 Rodriguez-Soltero JEROVI (1965, 11 min, 16mm. Preserved by Anthology Film Archives with support from the Andy Warhol Foundation for the Visual Arts.) Coni Beeson THE NOW (1970, 14 min, 16mm) Coni Beeson HOLDING (1971, 15 min, 16mm) Coni Beeson STAMEN (1972, 15 min, 16mm) Chick Strand FEVER DREAM (1979, 7 min, 16mm) Total running time: ca. 65 min.",
     "runtime": "65 min",
     "director": ""
   },
@@ -36593,7 +36099,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62023",
     "city": "NYC",
-    "description": "The majority of Laird Sutton\u2019s work for the National Sex Forum (NSF) consisted of \u201cpattern films,\u201d so termed for their portrayal of a real couple\u2019s (or individual\u2019s, or group\u2019s) sexual pattern. According to a 1979 NSF brochure, \u201cactors are not used in these films; the participants are ordinary people behaving and responding sexually as they usually do\u2026. The persons to be filmed are interviewed about their sexual patterns. Once sexual activity commences, no directions are given. Every effort is made to allow the individuals to feel at ease.\u201d Reflecting their use in structured therapeutic sessions, this selection of pattern films is preceded by a short from the Multi-Media Resource Center\u2019s \u201cHumor and Mood Alteration\u201d collection, meant to dispel unease ahead of these candid portraits. Greg Von Buchau LOVE TOAD 1971, 2 min, 16mm-to-DCP Laird Sutton POSSIBILITIES 1973, 12 min, 16mm Laird Sutton QUIET AFTERNOON 1975, 20 min, 16mm Edd Dundas NICK AND JON 1976, 20 min, 16mm Laird Sutton BOTH/AND 1975, 25 min, 16mm Total running time: ca. 85 min.",
+    "description": "The majority of Laird Sutton\u2019s work for the National Sex Forum (NSF) consisted of \u201cpattern films,\u201d so termed for their portrayal of a real couple\u2019s (or individual\u2019s, or group\u2019s) sexual pattern. According to a 1979 NSF brochure, \u201cactors are not used in these films; the participants are ordinary people behaving and responding sexually as they usually do\u2026. The persons to be filmed are interviewed about their sexual patterns. Once sexual activity commences, no directions are given. Every effort is made to allow the individuals to feel at ease.\u201d Reflecting their use in structured therapeutic sessions, this selection of pattern films is preceded by a short from the Multi-Media Resource Center\u2019s \u201cHumor and Mood Alteration\u201d collection, meant to dispel unease ahead of these candid portraits. Greg Von Buchau LOVE TOAD (1971, 2 min, 16mm-to-DCP) Laird Sutton POSSIBILITIES (1973, 12 min, 16mm) Laird Sutton QUIET AFTERNOON (1975, 20 min, 16mm) Edd Dundas NICK AND JON (1976, 20 min, 16mm) Laird Sutton BOTH/AND (1975, 25 min, 16mm) Total running time: ca. 85 min.",
     "runtime": "85 min",
     "director": ""
   },
@@ -36749,7 +36255,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=10&year=2026#showing-62025",
     "city": "NYC",
-    "description": "The majority of Laird Sutton\u2019s work for the National Sex Forum (NSF) consisted of \u201cpattern films,\u201d so termed for their portrayal of a real couple\u2019s (or individual\u2019s, or group\u2019s) sexual pattern. According to a 1979 NSF brochure, \u201cactors are not used in these films; the participants are ordinary people behaving and responding sexually as they usually do\u2026The persons to be filmed are interviewed about their sexual patterns. Once sexual activity commences, no directions are given. Every effort is made to allow the individuals to feel at ease.\u201d Reflecting their use in structured therapeutic sessions, this selection of pattern films is preceded by a short from the Multi-Media Resource Center\u2019s \u201cHumor and Mood Alteration\u201d collection, meant to dispel unease ahead of these candid portraits. Laird Sutton & Bill Chamberlain TITLES AVAILABLE 1972, 7 min, 16mm-to-DCP Laird Sutton FULLNESS 1975, 13 min, 16mm Ann Hershey WE ARE OURSELVES 1975, 15 min, 16mm Laird Sutton JIM & VERN 1979, 15 min, 16mm Laird Sutton A RIPPLE IN TIME 1975, 20 min, 16mm Total running time: ca. 75 min.",
+    "description": "The majority of Laird Sutton\u2019s work for the National Sex Forum (NSF) consisted of \u201cpattern films,\u201d so termed for their portrayal of a real couple\u2019s (or individual\u2019s, or group\u2019s) sexual pattern. According to a 1979 NSF brochure, \u201cactors are not used in these films; the participants are ordinary people behaving and responding sexually as they usually do\u2026The persons to be filmed are interviewed about their sexual patterns. Once sexual activity commences, no directions are given. Every effort is made to allow the individuals to feel at ease.\u201d Reflecting their use in structured therapeutic sessions, this selection of pattern films is preceded by a short from the Multi-Media Resource Center\u2019s \u201cHumor and Mood Alteration\u201d collection, meant to dispel unease ahead of these candid portraits. Laird Sutton & Bill Chamberlain TITLES AVAILABLE (1972, 7 min, 16mm-to-DCP) Laird Sutton FULLNESS (1975, 13 min, 16mm) Ann Hershey WE ARE OURSELVES (1975, 15 min, 16mm) Laird Sutton JIM & VERN (1979, 15 min, 16mm) Laird Sutton A RIPPLE IN TIME (1975, 20 min, 16mm) Total running time: ca. 75 min.",
     "runtime": "75 min",
     "director": ""
   },
@@ -37014,7 +36520,7 @@
     "director": "Vincenzo Natali"
   },
   {
-    "title": "WHO DOES SHE THINK SHE IS?",
+    "title": "ROSALYN DREXLER: WHO DOES SHE THINK SHE IS?",
     "date": "2026-10-22",
     "time": "7:00 PM",
     "format": "16mm",
@@ -38754,19 +38260,6 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "Carrie with Sissy Spacek",
-    "date": "2026-11-19",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/carrie-with-sissy-spacek-019efac4-788f-5c34-1b3d-6cf7811d1697",
-    "description": "Celebrate the 50th anniversary of Brian De Palma\u2019s horror classic Carrie (1976) with a screening of the film and a conversation with its star, Sissy Spacek. Tickets go on sale mid-August, with early access for Academy Museum members. This event has early access for Academy Museum members. Please check back for ticket on-sale information. Not a member? Join now for early access to this program, plus year-round discounts and free general admission.",
-    "runtime": "98 min",
-    "director": "Brian De Palma",
-    "city": "LA"
   },
   {
     "title": "Ten Years of Monkey Tennis (with Peter Serafinowicz)",
