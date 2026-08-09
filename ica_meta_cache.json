@@ -178,5 +178,11 @@
   "description": "",
   "runtime": "",
   "format": ""
+ },
+ "https://www.ica.art/films/tfff-a-rimbaud": {
+  "director": "Patrick Wang",
+  "description": "The improbable life of French poet Arthur Rimbaud unfolds with all the shock and playfulness of his poetry.",
+  "runtime": "175 min",
+  "format": ""
  }
 }
