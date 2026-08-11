@@ -310,5 +310,17 @@
   "description": "One wild night on the streets of Kyoto as a student plans the perfect meet-cute from the irrepressible anime auteur, Masaaki Yuasa .",
   "runtime": "93 min",
   "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/tony": {
+  "director": "Matt Johnson",
+  "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, carving out a slice of a summer that will shape the course of his life.",
+  "runtime": "106 min",
+  "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/lady": {
+  "director": "Samuel Abrahams",
+  "description": "Samuel Abrahams serves up this delightfully odd mockumentary: an eccentric aristocrat ( Fleabag 's Sian Clifford) ropes a struggling filmmaker into documenting her gloriously mundane life.",
+  "runtime": "95 min",
+  "format": ""
  }
 }
