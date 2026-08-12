@@ -156,30 +156,43 @@
     "director": "Kent Jones"
   },
   {
-    "title": "WHITE NIGHTS",
+    "title": "Riverdogs",
     "date": "2026-08-10",
     "time": "7:00 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/white-nights",
+    "url": "https://filmforum.org/film/riverdogs",
     "city": "NYC",
-    "description": "\u201cVisconti\u2019s version of the Dostoevsky story\u2014about the chance encounter of a couple as she is waiting in vain for her lover, and the obsessive, panic-stricken relationship which then develops between them\u2014later filmed by Bresson as FOUR NIGHTS OF A DREAMER. Visconti traps his characters (three excellent performances) within a claustrophobic canal-side set, and the film is a series of brief walks, chases, attempted escapes, always frustrated. Shot as neo-realist high tragedy, the film offers its characters only one strange moment of escape from their night-time obsessions\u2014a raucous, sexual, subversive scene in a dance-hall. Then the snow comes down, and with it a chilly desperation about the extent of human self-delusion.\u201d \u2013 Time Out",
-    "runtime": "103 min",
-    "director": "Luchino Visconti"
+    "description": "In 1978, Robb Moss was 28 years old, a former river guide in the Mountain West and dreaming of a career as a filmmaker. One fall, on a month-long Grand Canyon rafting adventure with a group of friends, he collected the footage that would form the basis for his first film, the now-celebrated Riverdogs, a glorious sun-drenched ode to youth and nature, to life lived, often without clothing, at the brink of the possible. Shot on 16mm, scenes of communal play and risky outdoor adventuring are stacked one upon another creating a portrait of joy, vigor, and freedom. At the end of the trip, the group convened a vote: should they all stay together or head home? While they didn\u2019t know it, they were on the verge of no longer being young.",
+    "runtime": "32 min",
+    "director": "Robb Moss"
   },
   {
-    "title": "THE FRENCH CONNECTION",
+    "title": "CENTER STAGE",
     "date": "2026-08-10",
     "time": "7:20 PM",
-    "format": "35mm",
+    "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-french-connection-nyc-in-transit",
+    "url": "https://filmforum.org/film/center-stage",
     "city": "NYC",
-    "description": "Traffic problems in Brooklyn, as Gene Hackman\u2019s Popeye Doyle car-chases a killer-bearing B train, after being snookered by Fernando Rey in a cross-midtown shadowing topped by a classic subway door jamming. Multi-Oscar\u00ae-ed re-creation of a legendary drug bust.",
-    "runtime": "104 min",
-    "director": "William Friedkin"
+    "description": "International superstar Maggie Cheung (IN THE MOOD FOR LOVE) embodies tragic screen siren Ruan Lingyu, known as the \u201cGreta Garbo of China,\u201d in this unconventional biopic by Hong Kong New Wave master Stanley Kwan (ROUGE). Praised for her moving and emotive onscreen presence, Ruan\u2019s private life, which was frequent fodder for the vicious Shanghai tabloids, began to mirror the melodramas which brought her fame, culminating in her suicide at age 24. Kwan and Cheung paint a kaleidoscopic yet intimate portrait of the ill-fated actress, deftly blending lush period drama, archival footage, and metatextual documentary sequences of Cheung reflecting on Ruan\u2019s legacy. The result is, much like the films of Ruan Lingyu themselves, \u201ctender, vivid, and almost overwhelmingly moving\u201d (Time Out).",
+    "runtime": "155 min",
+    "director": "Stanley Kwan"
+  },
+  {
+    "title": "Riverdogs",
+    "date": "2026-08-10",
+    "time": "8:15 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/riverdogs",
+    "city": "NYC",
+    "description": "In 1978, Robb Moss was 28 years old, a former river guide in the Mountain West and dreaming of a career as a filmmaker. One fall, on a month-long Grand Canyon rafting adventure with a group of friends, he collected the footage that would form the basis for his first film, the now-celebrated Riverdogs, a glorious sun-drenched ode to youth and nature, to life lived, often without clothing, at the brink of the possible. Shot on 16mm, scenes of communal play and risky outdoor adventuring are stacked one upon another creating a portrait of joy, vigor, and freedom. At the end of the trip, the group convened a vote: should they all stay together or head home? While they didn\u2019t know it, they were on the verge of no longer being young.",
+    "runtime": "32 min",
+    "director": "Robb Moss"
   },
   {
     "title": "LATE FAME",
@@ -197,7 +210,7 @@
   {
     "title": "DREAD BEAT AN BLOOD",
     "date": "2026-08-10",
-    "time": "9:10 PM",
+    "time": "9:30 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -312,19 +325,6 @@
     "director": "Stanley Kwan"
   },
   {
-    "title": "Clando",
-    "date": "2026-08-11",
-    "time": "4:30 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11526",
-    "city": "NYC",
-    "description": "Clando. 1996. Ivory Coast/France. Written and directed by Jean-Marie T\u00e9no. With Paulin Fodouop, Henriette Fenda, Caroline Redl. DCP. In French, German; English subtitles. 96 min. Known for his significant documentary work in Cameroon, Jean-Marie T\u00e9no turns his sharp observational skills to exposing his country\u2019s postcolonial struggles and repression in his only fiction film, Clando. After losing his job as a computer engineer and being tortured by the regime for anti-government activities, Anatole becomes an illegal cab driver (\u201cclando\u201d) before moving to Cologne, Germany, where he tries to join the resistance overseas alongside other African immigrants. Torn between impotence in his home country and alienation in exile, a love affair with a German activist pushes him to a political and personal resolution.",
-    "runtime": "96 min",
-    "director": "Jean-Marie T\u00e9no"
-  },
-  {
     "title": "LATE FAME",
     "date": "2026-08-11",
     "time": "4:40 PM",
@@ -351,30 +351,17 @@
     "director": "Luchino Visconti"
   },
   {
-    "title": "THE SUMMER BOOK",
+    "title": "THE SAME RIVER TWICE",
     "date": "2026-08-11",
-    "time": "6:25 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2767957.TcsSection_1299",
-    "city": "London",
-    "description": "THE SUMMER BOOK follows an intergenerational family spending a transformative summer at their rustic vacation home on an unspoiled, remote island in the Gulf of Finland. Adapted from Tove Jansson?s beloved novel, the film explores grief, nature, and the delicate bonds between a young girl, her wise ...",
-    "runtime": "90 min",
-    "director": "Charlie McDowell"
-  },
-  {
-    "title": "SHERMAN'S MARCH",
-    "date": "2026-08-11",
-    "time": "6:40 PM",
+    "time": "6:30 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/shermans-march",
+    "url": "https://filmforum.org/film/the-same-river-twice",
     "city": "NYC",
-    "description": "Armed with a 16mm camera and a grant to make a documentary about the lingering aftermath of William Tecumseh Sherman\u2019s 1864 march to the sea, Ross McElwee gets sidetracked. After his girlfriend breaks up with him, Ross shifts his attention from the historical to the personal, to the battlefield of modern love, and embarks on a sociological chronicle that documents the courting rites and rituals of the New South. A generous and humanistic portrait of several remarkable women that Ross meets along the way, Sherman\u2019s March sketches its characters with novelistic sensitivity: Pat, an aspiring actress with a yen for Burt Reynolds; Claudia, a roller-skating interior designer; Jackie, the activist whose anti-nuclear advocacy dovetails with Ross\u2019s deepest fears; and above all, Charleen Swansea, Ross\u2019s mentor and a one-woman Greek chorus of unsolicited romantic counsel. A landmark of first-person filmmaking that presaged everything from Michael Moore to reality TV.",
-    "runtime": "158 min",
-    "director": "Ross McElwee"
+    "description": "In the 1970s, Robb Moss worked as a guide along the Colorado River, living a communal, idyllic (often naked) existence with friends. The breathtaking Grand Canyon is the setting for Moss\u2019 utopian record of what it\u2019s like to be in one\u2019s 20s, in robust health, with a gorgeous body, surrounded by friends and lovers whose biggest problem is deciding whether to break camp or spend one more glorious day right where they are. Cut to several decades later: Moss is now a filmmaker on the Harvard faculty; his friends are married (and divorced), raising children, caring for elderly parents, earning a living as writers, small-town mayors, and in one case as an aerobics instructor. They\u2019ve transformed into fully-dressed, middle-class, middle-aged people. It is the brilliance of this film to telescope those intervening years: Barry, Jeff, Cathy, Jim, and Danny aren\u2019t just older; they\u2019re also more reflective and smarter, funnier and more accomplished. Moss looks deeply at the particular and finds the universal. All five characters are revisited over 20 years later in Robb Moss\u2019 new film,",
+    "runtime": "78 min",
+    "director": "Robb Moss"
   },
   {
     "title": "LATE FAME",
@@ -390,43 +377,17 @@
     "director": "Kent Jones"
   },
   {
-    "title": "Riverdogs",
+    "title": "WHITE NIGHTS",
     "date": "2026-08-11",
     "time": "7:00 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/riverdogs",
+    "url": "https://filmforum.org/film/white-nights",
     "city": "NYC",
-    "description": "In 1978, Robb Moss was 28 years old, a former river guide in the Mountain West and dreaming of a career as a filmmaker. One fall, on a month-long Grand Canyon rafting adventure with a group of friends, he collected the footage that would form the basis for his first film, the now-celebrated Riverdogs, a glorious sun-drenched ode to youth and nature, to life lived, often without clothing, at the brink of the possible. Shot on 16mm, scenes of communal play and risky outdoor adventuring are stacked one upon another creating a portrait of joy, vigor, and freedom. At the end of the trip, the group convened a vote: should they all stay together or head home? While they didn\u2019t know it, they were on the verge of no longer being young.",
-    "runtime": "32 min",
-    "director": "Robb Moss"
-  },
-  {
-    "title": "Atlantiques",
-    "date": "2026-08-11",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11530",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": "Mati Diop"
-  },
-  {
-    "title": "THE ODYSSEY",
-    "date": "2026-08-11",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2767955.TcsSection_936",
-    "city": "London",
-    "description": "Don your sandals and set sail for Ithaca. Following the Trojan War, Odysseus embarks on a long and perilous voyage home, encountering the likes of Cyclops Polyphemus, the Sirens, Circe and others along the way. Christopher Nolan's adaptation of Homer's enduring epic reimagines one of the foundationa...",
-    "runtime": "172 min",
-    "director": "Christopher Nolan"
+    "description": "\u201cVisconti\u2019s version of the Dostoevsky story\u2014about the chance encounter of a couple as she is waiting in vain for her lover, and the obsessive, panic-stricken relationship which then develops between them\u2014later filmed by Bresson as FOUR NIGHTS OF A DREAMER. Visconti traps his characters (three excellent performances) within a claustrophobic canal-side set, and the film is a series of brief walks, chases, attempted escapes, always frustrated. Shot as neo-realist high tragedy, the film offers its characters only one strange moment of escape from their night-time obsessions\u2014a raucous, sexual, subversive scene in a dance-hall. Then the snow comes down, and with it a chilly desperation about the extent of human self-delusion.\u201d \u2013 Time Out",
+    "runtime": "103 min",
+    "director": "Luchino Visconti"
   },
   {
     "title": "CENTER STAGE",
@@ -440,32 +401,6 @@
     "description": "International superstar Maggie Cheung (IN THE MOOD FOR LOVE) embodies tragic screen siren Ruan Lingyu, known as the \u201cGreta Garbo of China,\u201d in this unconventional biopic by Hong Kong New Wave master Stanley Kwan (ROUGE). Praised for her moving and emotive onscreen presence, Ruan\u2019s private life, which was frequent fodder for the vicious Shanghai tabloids, began to mirror the melodramas which brought her fame, culminating in her suicide at age 24. Kwan and Cheung paint a kaleidoscopic yet intimate portrait of the ill-fated actress, deftly blending lush period drama, archival footage, and metatextual documentary sequences of Cheung reflecting on Ruan\u2019s legacy. The result is, much like the films of Ruan Lingyu themselves, \u201ctender, vivid, and almost overwhelmingly moving\u201d (Time Out).",
     "runtime": "155 min",
     "director": "Stanley Kwan"
-  },
-  {
-    "title": "Riverdogs",
-    "date": "2026-08-11",
-    "time": "8:15 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/riverdogs",
-    "city": "NYC",
-    "description": "In 1978, Robb Moss was 28 years old, a former river guide in the Mountain West and dreaming of a career as a filmmaker. One fall, on a month-long Grand Canyon rafting adventure with a group of friends, he collected the footage that would form the basis for his first film, the now-celebrated Riverdogs, a glorious sun-drenched ode to youth and nature, to life lived, often without clothing, at the brink of the possible. Shot on 16mm, scenes of communal play and risky outdoor adventuring are stacked one upon another creating a portrait of joy, vigor, and freedom. At the end of the trip, the group convened a vote: should they all stay together or head home? While they didn\u2019t know it, they were on the verge of no longer being young.",
-    "runtime": "32 min",
-    "director": "Robb Moss"
-  },
-  {
-    "title": "THE INVITE",
-    "date": "2026-08-11",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2767961.TcsSection_1299",
-    "city": "London",
-    "description": "Joe and Angela\u2019s marriage is on thin ice. When they invite their enigmatic upstairs neighbours for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down? Olivia Wilde, Seth Rogen, Penelope Cruz and Edward Norton are on unmissa...",
-    "runtime": "106 min",
-    "director": "Olivia Wilde"
   },
   {
     "title": "LATE FAME",
@@ -483,7 +418,7 @@
   {
     "title": "DREAD BEAT AN BLOOD",
     "date": "2026-08-11",
-    "time": "9:30 PM",
+    "time": "9:10 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -715,17 +650,17 @@
     "director": "Kent Jones"
   },
   {
-    "title": "WHITE NIGHTS",
+    "title": "THE BEND IN THE RIVER",
     "date": "2026-08-12",
     "time": "12:20 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/white-nights",
+    "url": "https://filmforum.org/film/the-bend-in-the-river",
     "city": "NYC",
-    "description": "\u201cVisconti\u2019s version of the Dostoevsky story\u2014about the chance encounter of a couple as she is waiting in vain for her lover, and the obsessive, panic-stricken relationship which then develops between them\u2014later filmed by Bresson as FOUR NIGHTS OF A DREAMER. Visconti traps his characters (three excellent performances) within a claustrophobic canal-side set, and the film is a series of brief walks, chases, attempted escapes, always frustrated. Shot as neo-realist high tragedy, the film offers its characters only one strange moment of escape from their night-time obsessions\u2014a raucous, sexual, subversive scene in a dance-hall. Then the snow comes down, and with it a chilly desperation about the extent of human self-delusion.\u201d \u2013 Time Out",
-    "runtime": "103 min",
-    "director": "Luchino Visconti"
+    "description": "Filming five friends intimately for nearly 50 years, director Robb Moss invites us to reflect on what it means to inhabit a life fully, in its contradictions and continuities. He began filming Barry, Danny, Cathy, Jeff, and Jim in 1978, when they worked as guides on the Colorado River and lived together in a nude commune\u2014resulting in his short documentary, Riverdogs (1982). He resumed shooting as they came to terms with adulthood for his 2003 follow-up, THE SAME RIVER TWICE. The final installment of a trilogy about Moss\u2019 free-spirited friends navigating their way through life, THE BEND IN THE RIVER weaves new footage of the group\u2014now in their 60s and 70s\u2014with images of their younger selves. As past and present fold into one another, these five sense the fragility of their lives, how memory reshapes experience, and how meaning is made and remade.",
+    "runtime": "82 min",
+    "director": ""
   },
   {
     "title": "The Wizard of Oz",
@@ -752,6 +687,19 @@
     "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
     "runtime": "147 min",
     "director": "Kiyoshi Kurosawa"
+  },
+  {
+    "title": "BILLY LIAR",
+    "date": "2026-08-12",
+    "time": "12:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/billy-liar",
+    "city": "NYC",
+    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
+    "runtime": "98 min",
+    "director": "John Schlesinger"
   },
   {
     "title": "Rosebush Pruning",
@@ -817,19 +765,6 @@
     "description": "A scrappy team of eccentric American cheesemongers defies tradition to take on the world\u2019s top cheese masters at the Mondial du Fromage, battling cultural clashes, personal struggles, and melting cheese in pursuit of respect, redemption, and a historic victory. Official Selection: DOC NYC",
     "runtime": "87 min",
     "director": "Sara Joe Wolansky"
-  },
-  {
-    "title": "REMAKE",
-    "date": "2026-08-12",
-    "time": "12:50 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/remake",
-    "city": "NYC",
-    "description": "A lifetime of beautifully captured images of his family allows filmmaker Ross McElwee to craft a heartfelt love letter to his late son Adrian, who struggled with mental illness and addiction. With the premise of chronicling the process of turning his acclaimed 1986 documentary SHERMAN\u2019S MARCH into a fictional movie, McElwee picks up the threads of all his previous films\u2014family, love, death, legacy, time\u2014to expertly weave a portrait that moves between reflection and revelation, exploring the tensions between commercial cinema and artistic integrity, and simultaneously creating and recording the bond between father and son. McElwee\u2019s first film in 14 years, REMAKE \u201ccontinues in the vein of the filmmaker\u2019s best work, albeit with more emotional weight than ever before.\u201d \u2013 Jordan Mintzer, The Hollywood Reporter",
-    "runtime": "114 min",
-    "director": ""
   },
   {
     "title": "CENTER STAGE",
@@ -1014,6 +949,19 @@
     "director": "Destin Daniel Cretton"
   },
   {
+    "title": "THE BEND IN THE RIVER",
+    "date": "2026-08-12",
+    "time": "2:15 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-bend-in-the-river",
+    "city": "NYC",
+    "description": "Filming five friends intimately for nearly 50 years, director Robb Moss invites us to reflect on what it means to inhabit a life fully, in its contradictions and continuities. He began filming Barry, Danny, Cathy, Jeff, and Jim in 1978, when they worked as guides on the Colorado River and lived together in a nude commune\u2014resulting in his short documentary, Riverdogs (1982). He resumed shooting as they came to terms with adulthood for his 2003 follow-up, THE SAME RIVER TWICE. The final installment of a trilogy about Moss\u2019 free-spirited friends navigating their way through life, THE BEND IN THE RIVER weaves new footage of the group\u2014now in their 60s and 70s\u2014with images of their younger selves. As past and present fold into one another, these five sense the fragility of their lives, how memory reshapes experience, and how meaning is made and remade.",
+    "runtime": "82 min",
+    "director": ""
+  },
+  {
     "title": "The Summer Book",
     "date": "2026-08-12",
     "time": "2:15 PM",
@@ -1092,17 +1040,17 @@
     "director": "Penny Lane"
   },
   {
-    "title": "WHITE NIGHTS",
+    "title": "BILLY LIAR",
     "date": "2026-08-12",
-    "time": "2:35 PM",
+    "time": "2:40 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/white-nights",
+    "url": "https://filmforum.org/film/billy-liar",
     "city": "NYC",
-    "description": "\u201cVisconti\u2019s version of the Dostoevsky story\u2014about the chance encounter of a couple as she is waiting in vain for her lover, and the obsessive, panic-stricken relationship which then develops between them\u2014later filmed by Bresson as FOUR NIGHTS OF A DREAMER. Visconti traps his characters (three excellent performances) within a claustrophobic canal-side set, and the film is a series of brief walks, chases, attempted escapes, always frustrated. Shot as neo-realist high tragedy, the film offers its characters only one strange moment of escape from their night-time obsessions\u2014a raucous, sexual, subversive scene in a dance-hall. Then the snow comes down, and with it a chilly desperation about the extent of human self-delusion.\u201d \u2013 Time Out",
-    "runtime": "103 min",
-    "director": "Luchino Visconti"
+    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
+    "runtime": "98 min",
+    "director": "John Schlesinger"
   },
   {
     "title": "Call Me By Your Name",
@@ -1207,19 +1155,6 @@
     "description": "For years, Grandma Shurou from Chaoshan has lived on the letters and remittances from her husband who left for Nanyang to\u2026",
     "runtime": "118 min",
     "director": "Lan Hongchun"
-  },
-  {
-    "title": "SHERMAN'S MARCH",
-    "date": "2026-08-12",
-    "time": "3:20 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/shermans-march",
-    "city": "NYC",
-    "description": "Armed with a 16mm camera and a grant to make a documentary about the lingering aftermath of William Tecumseh Sherman\u2019s 1864 march to the sea, Ross McElwee gets sidetracked. After his girlfriend breaks up with him, Ross shifts his attention from the historical to the personal, to the battlefield of modern love, and embarks on a sociological chronicle that documents the courting rites and rituals of the New South. A generous and humanistic portrait of several remarkable women that Ross meets along the way, Sherman\u2019s March sketches its characters with novelistic sensitivity: Pat, an aspiring actress with a yen for Burt Reynolds; Claudia, a roller-skating interior designer; Jackie, the activist whose anti-nuclear advocacy dovetails with Ross\u2019s deepest fears; and above all, Charleen Swansea, Ross\u2019s mentor and a one-woman Greek chorus of unsolicited romantic counsel. A landmark of first-person filmmaking that presaged everything from Michael Moore to reality TV.",
-    "runtime": "158 min",
-    "director": "Ross McElwee"
   },
   {
     "title": "The Piano",
@@ -1365,6 +1300,19 @@
     "director": "Christopher Nolan"
   },
   {
+    "title": "THE BEND IN THE RIVER",
+    "date": "2026-08-12",
+    "time": "4:10 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-bend-in-the-river",
+    "city": "NYC",
+    "description": "Filming five friends intimately for nearly 50 years, director Robb Moss invites us to reflect on what it means to inhabit a life fully, in its contradictions and continuities. He began filming Barry, Danny, Cathy, Jeff, and Jim in 1978, when they worked as guides on the Colorado River and lived together in a nude commune\u2014resulting in his short documentary, Riverdogs (1982). He resumed shooting as they came to terms with adulthood for his 2003 follow-up, THE SAME RIVER TWICE. The final installment of a trilogy about Moss\u2019 free-spirited friends navigating their way through life, THE BEND IN THE RIVER weaves new footage of the group\u2014now in their 60s and 70s\u2014with images of their younger selves. As past and present fold into one another, these five sense the fragility of their lives, how memory reshapes experience, and how meaning is made and remade.",
+    "runtime": "82 min",
+    "director": ""
+  },
+  {
     "title": "CENTER STAGE",
     "date": "2026-08-12",
     "time": "4:10 PM",
@@ -1482,17 +1430,17 @@
     "director": "Penny Lane"
   },
   {
-    "title": "WHITE NIGHTS",
+    "title": "BILLY LIAR",
     "date": "2026-08-12",
     "time": "4:50 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/white-nights",
+    "url": "https://filmforum.org/film/billy-liar",
     "city": "NYC",
-    "description": "\u201cVisconti\u2019s version of the Dostoevsky story\u2014about the chance encounter of a couple as she is waiting in vain for her lover, and the obsessive, panic-stricken relationship which then develops between them\u2014later filmed by Bresson as FOUR NIGHTS OF A DREAMER. Visconti traps his characters (three excellent performances) within a claustrophobic canal-side set, and the film is a series of brief walks, chases, attempted escapes, always frustrated. Shot as neo-realist high tragedy, the film offers its characters only one strange moment of escape from their night-time obsessions\u2014a raucous, sexual, subversive scene in a dance-hall. Then the snow comes down, and with it a chilly desperation about the extent of human self-delusion.\u201d \u2013 Time Out",
-    "runtime": "103 min",
-    "director": "Luchino Visconti"
+    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
+    "runtime": "98 min",
+    "director": "John Schlesinger"
   },
   {
     "title": "The Odyssey (15) (AD)",
@@ -1638,6 +1586,19 @@
     "director": "Lan Hongchun"
   },
   {
+    "title": "THE BEND IN THE RIVER",
+    "date": "2026-08-12",
+    "time": "6:10 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-bend-in-the-river",
+    "city": "NYC",
+    "description": "Filming five friends intimately for nearly 50 years, director Robb Moss invites us to reflect on what it means to inhabit a life fully, in its contradictions and continuities. He began filming Barry, Danny, Cathy, Jeff, and Jim in 1978, when they worked as guides on the Colorado River and lived together in a nude commune\u2014resulting in his short documentary, Riverdogs (1982). He resumed shooting as they came to terms with adulthood for his 2003 follow-up, THE SAME RIVER TWICE. The final installment of a trilogy about Moss\u2019 free-spirited friends navigating their way through life, THE BEND IN THE RIVER weaves new footage of the group\u2014now in their 60s and 70s\u2014with images of their younger selves. As past and present fold into one another, these five sense the fragility of their lives, how memory reshapes experience, and how meaning is made and remade.",
+    "runtime": "82 min",
+    "director": ""
+  },
+  {
     "title": "Toy Story 5",
     "date": "2026-08-12",
     "time": "6:10 PM",
@@ -1714,19 +1675,6 @@
     "description": "THE SUMMER BOOK follows an intergenerational family spending a transformative summer at their rustic vacation home on an unspoiled, remote island in the Gulf of Finland. Adapted from Tove Jansson?s beloved novel, the film explores grief, nature, and the delicate bonds between a young girl, her wise ...",
     "runtime": "90 min",
     "director": "Charlie McDowell"
-  },
-  {
-    "title": "THE SAME RIVER TWICE",
-    "date": "2026-08-12",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-same-river-twice",
-    "city": "NYC",
-    "description": "In the 1970s, Robb Moss worked as a guide along the Colorado River, living a communal, idyllic (often naked) existence with friends. The breathtaking Grand Canyon is the setting for Moss\u2019 utopian record of what it\u2019s like to be in one\u2019s 20s, in robust health, with a gorgeous body, surrounded by friends and lovers whose biggest problem is deciding whether to break camp or spend one more glorious day right where they are. Cut to several decades later: Moss is now a filmmaker on the Harvard faculty; his friends are married (and divorced), raising children, caring for elderly parents, earning a living as writers, small-town mayors, and in one case as an aerobics instructor. They\u2019ve transformed into fully-dressed, middle-class, middle-aged people. It is the brilliance of this film to telescope those intervening years: Barry, Jeff, Cathy, Jim, and Danny aren\u2019t just older; they\u2019re also more reflective and smarter, funnier and more accomplished. Moss looks deeply at the particular and finds the universal. All five characters are revisited over 20 years later in Robb Moss\u2019 new film,",
-    "runtime": "78 min",
-    "director": "Robb Moss"
   },
   {
     "title": "NOBODY WANTED TO DIE / NIEKAS NENOREJO MIRTI",
@@ -1885,17 +1833,17 @@
     "city": "LA"
   },
   {
-    "title": "WHITE NIGHTS",
+    "title": "BILLY LIAR",
     "date": "2026-08-12",
     "time": "7:00 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/white-nights",
+    "url": "https://filmforum.org/film/billy-liar",
     "city": "NYC",
-    "description": "\u201cVisconti\u2019s version of the Dostoevsky story\u2014about the chance encounter of a couple as she is waiting in vain for her lover, and the obsessive, panic-stricken relationship which then develops between them\u2014later filmed by Bresson as FOUR NIGHTS OF A DREAMER. Visconti traps his characters (three excellent performances) within a claustrophobic canal-side set, and the film is a series of brief walks, chases, attempted escapes, always frustrated. Shot as neo-realist high tragedy, the film offers its characters only one strange moment of escape from their night-time obsessions\u2014a raucous, sexual, subversive scene in a dance-hall. Then the snow comes down, and with it a chilly desperation about the extent of human self-delusion.\u201d \u2013 Time Out",
-    "runtime": "103 min",
-    "director": "Luchino Visconti"
+    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
+    "runtime": "98 min",
+    "director": "John Schlesinger"
   },
   {
     "title": "Buddy",
@@ -2041,19 +1989,6 @@
     "director": "Sara Joe Wolansky"
   },
   {
-    "title": "The Dreamers",
-    "date": "2026-08-12",
-    "time": "8:00 pm",
-    "format": "DCP",
-    "venue": "Brain Dead Studios",
-    "venue_short": "BrainDead",
-    "url": "https://studios.wearebraindead.com/purchase/1370941/",
-    "description": "When Isabelle and Theo invite Matthew to stay with them, what begins as a casual friendship ripens into a sensual voyage of discovery and desire in which nothing is off limits and everything is possible.",
-    "runtime": "115 min",
-    "director": "Bernardo Bertolucci",
-    "city": "LA"
-  },
-  {
     "title": "The Odyssey",
     "date": "2026-08-12",
     "time": "8:00 PM",
@@ -2091,6 +2026,19 @@
     "description": "Christopher Nolan brings one of the world's most famous ancient texts to life in this mythic action epic starring Matt Damon, Anne Hathaway, Tom Holland and more, screened on glorious 35mm film.",
     "runtime": "172 min",
     "director": "Christopher Nolan"
+  },
+  {
+    "title": "THE BEND IN THE RIVER",
+    "date": "2026-08-12",
+    "time": "8:10 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-bend-in-the-river",
+    "city": "NYC",
+    "description": "Filming five friends intimately for nearly 50 years, director Robb Moss invites us to reflect on what it means to inhabit a life fully, in its contradictions and continuities. He began filming Barry, Danny, Cathy, Jeff, and Jim in 1978, when they worked as guides on the Colorado River and lived together in a nude commune\u2014resulting in his short documentary, Riverdogs (1982). He resumed shooting as they came to terms with adulthood for his 2003 follow-up, THE SAME RIVER TWICE. The final installment of a trilogy about Moss\u2019 free-spirited friends navigating their way through life, THE BEND IN THE RIVER weaves new footage of the group\u2014now in their 60s and 70s\u2014with images of their younger selves. As past and present fold into one another, these five sense the fragility of their lives, how memory reshapes experience, and how meaning is made and remade.",
+    "runtime": "82 min",
+    "director": ""
   },
   {
     "title": "Bringing Up Baby",
@@ -2379,17 +2327,17 @@
     "director": "Jay Chandrasekhar"
   },
   {
-    "title": "DREAD BEAT AN BLOOD",
+    "title": "BILLY LIAR",
     "date": "2026-08-12",
     "time": "9:10 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/dread-beat-an-blood",
+    "url": "https://filmforum.org/film/billy-liar",
     "city": "NYC",
-    "description": "\u201cBrothers an sisters rocking / A dread beat pulsing fire...\u201d opens Dread Beat an Blood, the 1975 poem\u2014and album\u2014by the Jamaican-born, British-based dub reggae artist and activist, Linton Kwesi Johnson. He created the genre of dub poetry\u2014militant, passionate verse detailing the struggle for Black liberation in Britain, set to heavy rhythms. The 1979 documentary portrait, DREAD BEAT AN BLOOD, directed by Franco Rosso (BABYLON), captures Johnson in the recording studio, performing live poetry, and protesting the wrongful imprisonment of Black Briton George Lindo. Beautifully restored by the British Film Institute, this is its U.S. theatrical premiere. The rarely-shown 1985 performance featuring Johnson with the Dennis Bovell Dub Band (the backing group on his seminal 1984 album, Making History), filmed for Channel 4 in the UK.",
-    "runtime": "46 min",
-    "director": "Franco Rosso"
+    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
+    "runtime": "98 min",
+    "director": "John Schlesinger"
   },
   {
     "title": "Maddie's Secret",
@@ -3978,19 +3926,6 @@
     "director": "Christopher Nolan"
   },
   {
-    "title": "THE BEND IN THE RIVER",
-    "date": "2026-08-13",
-    "time": "8:10 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-bend-in-the-river",
-    "city": "NYC",
-    "description": "Filming five friends intimately for nearly 50 years, director Robb Moss invites us to reflect on what it means to inhabit a life fully, in its contradictions and continuities. He began filming Barry, Danny, Cathy, Jeff, and Jim in 1978, when they worked as guides on the Colorado River and lived together in a nude commune\u2014resulting in his short documentary, Riverdogs (1982). He resumed shooting as they came to terms with adulthood for his 2003 follow-up, THE SAME RIVER TWICE. The final installment of a trilogy about Moss\u2019 free-spirited friends navigating their way through life, THE BEND IN THE RIVER weaves new footage of the group\u2014now in their 60s and 70s\u2014with images of their younger selves. As past and present fold into one another, these five sense the fragility of their lives, how memory reshapes experience, and how meaning is made and remade.",
-    "runtime": "82 min",
-    "director": ""
-  },
-  {
     "title": "BOUCHRA",
     "date": "2026-08-13",
     "time": "8:10 PM",
@@ -4106,6 +4041,19 @@
     "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results.",
     "runtime": "86 min",
     "director": "Eli Roth"
+  },
+  {
+    "title": "THE BEND IN THE RIVER",
+    "date": "2026-08-13",
+    "time": "8:45 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-bend-in-the-river",
+    "city": "NYC",
+    "description": "Filming five friends intimately for nearly 50 years, director Robb Moss invites us to reflect on what it means to inhabit a life fully, in its contradictions and continuities. He began filming Barry, Danny, Cathy, Jeff, and Jim in 1978, when they worked as guides on the Colorado River and lived together in a nude commune\u2014resulting in his short documentary, Riverdogs (1982). He resumed shooting as they came to terms with adulthood for his 2003 follow-up, THE SAME RIVER TWICE. The final installment of a trilogy about Moss\u2019 free-spirited friends navigating their way through life, THE BEND IN THE RIVER weaves new footage of the group\u2014now in their 60s and 70s\u2014with images of their younger selves. As past and present fold into one another, these five sense the fragility of their lives, how memory reshapes experience, and how meaning is made and remade.",
+    "runtime": "82 min",
+    "director": ""
   },
   {
     "title": "Late Fame",
@@ -5928,6 +5876,19 @@
     "director": "Christopher Nolan"
   },
   {
+    "title": "THE BEND IN THE RIVER",
+    "date": "2026-08-14",
+    "time": "8:10 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-bend-in-the-river",
+    "city": "NYC",
+    "description": "Filming five friends intimately for nearly 50 years, director Robb Moss invites us to reflect on what it means to inhabit a life fully, in its contradictions and continuities. He began filming Barry, Danny, Cathy, Jeff, and Jim in 1978, when they worked as guides on the Colorado River and lived together in a nude commune\u2014resulting in his short documentary, Riverdogs (1982). He resumed shooting as they came to terms with adulthood for his 2003 follow-up, THE SAME RIVER TWICE. The final installment of a trilogy about Moss\u2019 free-spirited friends navigating their way through life, THE BEND IN THE RIVER weaves new footage of the group\u2014now in their 60s and 70s\u2014with images of their younger selves. As past and present fold into one another, these five sense the fragility of their lives, how memory reshapes experience, and how meaning is made and remade.",
+    "runtime": "82 min",
+    "director": ""
+  },
+  {
     "title": "Almost Famous",
     "date": "2026-08-14",
     "time": "8:15 PM",
@@ -6019,26 +5980,13 @@
     "director": "Nathalie Boltt"
   },
   {
-    "title": "THE BEND IN THE RIVER",
-    "date": "2026-08-14",
-    "time": "8:45 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-bend-in-the-river",
-    "city": "NYC",
-    "description": "Filming five friends intimately for nearly 50 years, director Robb Moss invites us to reflect on what it means to inhabit a life fully, in its contradictions and continuities. He began filming Barry, Danny, Cathy, Jeff, and Jim in 1978, when they worked as guides on the Colorado River and lived together in a nude commune\u2014resulting in his short documentary, Riverdogs (1982). He resumed shooting as they came to terms with adulthood for his 2003 follow-up, THE SAME RIVER TWICE. The final installment of a trilogy about Moss\u2019 free-spirited friends navigating their way through life, THE BEND IN THE RIVER weaves new footage of the group\u2014now in their 60s and 70s\u2014with images of their younger selves. As past and present fold into one another, these five sense the fragility of their lives, how memory reshapes experience, and how meaning is made and remade.",
-    "runtime": "82 min",
-    "director": ""
-  },
-  {
     "title": "The Hunger",
     "date": "2026-08-14",
     "time": "8:45 PM",
     "format": "35mm",
     "venue": "Metrograph",
     "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30551",
+    "url": "https://metrograph.com/film/?vista_film_id=9999001195",
     "city": "NYC",
     "description": "A lush vampire romance with sex and style to spare, much of it provided by stars Catherine Deneuve and David Bowie as a couple of posh, centuries-old nightclubbing New York bloodsuckers who, when one begins to show the first signs of aging, recruit assistance from Susan Sarandon\u2019s geriatrics researcher, then find themselves in a very, very attractive throuple. Yes, that\u2019s \u201cBela Lugosi\u2019s Dead\u201d artists Bauhaus in a brief cameo. \u201cTwenty years after Belle de Jour, Saint Laurent once again dressed Catherine Deneuve, for Tony Scott\u2019s cult 1980s tale of elegant vampires. Her shoulder pads, lipstick, and veils defined an era.\u201d \u2014David Campany, Creative Director, International Center of Photography Part of Dressed by Yves Saint Laurent",
     "runtime": "97 min",
@@ -6913,19 +6861,6 @@
     "description": "After the Trojan War, Odysseus faces a dangerous voyage back to Ithaca, meeting creatures like the Cyclops Polyphemus, Sirens, and Calypso along the way.",
     "runtime": "172 min",
     "director": "",
-    "city": "LA"
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "date": "2026-08-15",
-    "time": "1:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4393063/",
-    "description": "Featuring a conversation with filmmaker Sasha Waters after the August 12th screening!",
-    "runtime": "91 min",
-    "director": "Sasha Waters",
     "city": "LA"
   },
   {
@@ -9191,19 +9126,6 @@
     "city": "LA"
   },
   {
-    "title": "BILLY LIAR",
-    "date": "2026-08-16",
-    "time": "12:30 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/billy-liar",
-    "city": "NYC",
-    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
-    "runtime": "98 min",
-    "director": "John Schlesinger"
-  },
-  {
     "title": "The Big Cheese",
     "date": "2026-08-16",
     "time": "12:40 PM",
@@ -9267,6 +9189,19 @@
     "runtime": "93 min",
     "director": "Charles Laughton",
     "city": "LA"
+  },
+  {
+    "title": "BILLY LIAR",
+    "date": "2026-08-16",
+    "time": "1:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/billy-liar",
+    "city": "NYC",
+    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
+    "runtime": "98 min",
+    "director": "John Schlesinger"
   },
   {
     "title": "CENTER STAGE",
@@ -9633,19 +9568,6 @@
     "director": "Masaki Kobayashi"
   },
   {
-    "title": "BILLY LIAR",
-    "date": "2026-08-16",
-    "time": "2:40 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/billy-liar",
-    "city": "NYC",
-    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
-    "runtime": "98 min",
-    "director": "John Schlesinger"
-  },
-  {
     "title": "Falling Leaves",
     "date": "2026-08-16",
     "time": "3:00 PM",
@@ -9722,6 +9644,19 @@
     "runtime": "131 min",
     "director": "John Glen",
     "city": "LA"
+  },
+  {
+    "title": "BILLY LIAR",
+    "date": "2026-08-16",
+    "time": "3:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/billy-liar",
+    "city": "NYC",
+    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
+    "runtime": "98 min",
+    "director": "John Schlesinger"
   },
   {
     "title": "THE WIND BLOWS UNDER YOUR FEET / TALPUK ALATT F\u00dcTY\u00dcL A SZ\u00c9L",
@@ -9958,19 +9893,6 @@
     "director": "Christopher Nolan"
   },
   {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "date": "2026-08-16",
-    "time": "4:30 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4393075/",
-    "description": "Featuring a conversation with filmmaker Sasha Waters after the August 12th screening!",
-    "runtime": "91 min",
-    "director": "Sasha Waters",
-    "city": "LA"
-  },
-  {
     "title": "The Samurai and the Prisoner",
     "date": "2026-08-16",
     "time": "4:30 PM",
@@ -10034,19 +9956,6 @@
     "description": "Willem Dafoe is Ed Saxberger, a postal worker whose former life as a downtown poet in late-70s New York is rediscovered by a young admirer (Donovan) and his \u201cEnthusiasm Society,\u201d a group of 20-somethings with a comically romanticized sense of the past. In the company of his new friends, including the mysterious and mercurial Gloria (Lee of PAST LIVES), Ed has the uncanny feeling of merging with his younger self. Directed by Kent Jones (DIANE) from a witty, razor-sharp script by Samy Burch (MAY DECEMBER), LATE FAME\u202fis a funny, lively, poignant, and occasionally haunting New York story.",
     "runtime": "96 min",
     "director": "Kent Jones"
-  },
-  {
-    "title": "BILLY LIAR",
-    "date": "2026-08-16",
-    "time": "4:50 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/billy-liar",
-    "city": "NYC",
-    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
-    "runtime": "98 min",
-    "director": "John Schlesinger"
   },
   {
     "title": "Mysterious Skin",
@@ -10216,6 +10125,19 @@
     "runtime": "",
     "director": "",
     "city": "LA"
+  },
+  {
+    "title": "BILLY LIAR",
+    "date": "2026-08-16",
+    "time": "6:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/billy-liar",
+    "city": "NYC",
+    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
+    "runtime": "98 min",
+    "director": "John Schlesinger"
   },
   {
     "title": "The Samurai and the Prisoner",
@@ -10452,19 +10374,6 @@
     "director": "Adam Meeks"
   },
   {
-    "title": "BILLY LIAR",
-    "date": "2026-08-16",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/billy-liar",
-    "city": "NYC",
-    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
-    "runtime": "98 min",
-    "director": "John Schlesinger"
-  },
-  {
     "title": "COMANDANTE FRITZ",
     "date": "2026-08-16",
     "time": "7:00 PM",
@@ -10699,6 +10608,19 @@
     "director": ""
   },
   {
+    "title": "THE TAKING OF PELHAM 123",
+    "date": "2026-08-16",
+    "time": "8:10 PM",
+    "format": "35mm",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-taking-of-pelham-123-nyc-in-transit",
+    "city": "NYC",
+    "description": "\u201cScrew the goddamn passengers! What do they want for their thirty-five cents? To live forever?\u201d Just a typical day on the East Side IRT, as a No. 6 train starts its downtown run from Pelham Station in The Bronx at the scheduled departure time of 1:23 PM (there\u2019s your title)\u2014then gets hijacked by heavily-disguised men: Mr. Brown (Earl Hindman), shnurfling Mr. Green (Martin Balsam), trigger-loving Mr. Grey (H\u00e9ctor Elizondo), and their icy-cold leader Mr. Blue (Robert Shaw)\u2014color-coded aliases: are you listening, Mr. Tarantino? \u201cThis city hasn\u2019t got a million dollars!\u201d kvetches the schmucky, flu-plagued Koch-lookalike mayor (this was the era, after all, when Jerry Ford told NYC to \u201cdrop dead\u201d) to hovering spin doctors when he gets that ransom ultimatum: cough up the dough in an hour or the 17 passengers (your typical fellow riders: a hooker, a philosophical old Jewish man, a mother with two bratty kids, Matthew Broderick\u2019s dad James as the conductor, et al.) get wasted, or one corpse for each minute late. Wisecracks and bullets fly as Walter Matthau\u2019s quick-witted TA cop Lt. Zachary Garber gives a guided tour to embarrassingly polyglot Tokyo subway execs; dispatcher Jerry \u201cI\u2019ll believe anything\u201d Stiller doesn\u2019t believe it; the ransom-carrying cop car jackknives in Astor Place; and Matthau negotiates with the all-business Mr. Blue via subway squawkbox. A crackling adaptation by the late Peter Stone of the John Godey bestseller, featuring terrific (and accurate) Gotham locations, knife-edge hilarity, a thrilling jazz score by David Shire, and third-rail brand jolts\u2014evoking a New York that, while not exactly the golden age, was a time when you could still buy a token\u2026 for thirty-five cents!",
+    "runtime": "104 min",
+    "director": "Joseph Sargent"
+  },
+  {
     "title": "Almost Famous",
     "date": "2026-08-16",
     "time": "8:15 PM",
@@ -10866,19 +10788,6 @@
     "description": "When Ravi meets Sukhi, he wants to settle down and have a 'normal' life. But his best mate Jay has other plans and soon he's dragged back to the reality of the streets.",
     "runtime": "102 min",
     "director": "Jazz Bhalla"
-  },
-  {
-    "title": "BILLY LIAR",
-    "date": "2026-08-16",
-    "time": "9:10 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/billy-liar",
-    "city": "NYC",
-    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
-    "runtime": "98 min",
-    "director": "John Schlesinger"
   },
   {
     "title": "Ice Cream Man",
@@ -12688,6 +12597,45 @@
     "city": "LA"
   },
   {
+    "title": "Freefall: A Reckoning for Boeing",
+    "date": "2026-08-18",
+    "time": "10:35 AM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573288~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "",
+    "runtime": "93 min",
+    "director": "Rory Kennedy"
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "date": "2026-08-18",
+    "time": "10:35 AM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573287~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
+    "runtime": "147 min",
+    "director": "Kiyoshi Kurosawa"
+  },
+  {
+    "title": "Wild Inside",
+    "date": "2026-08-18",
+    "time": "10:40 AM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573291~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Join educator and wildlife rehabilitator Suzanne Highland for a post screening Birdwatching Tour of the West Village after the 4pm screenings on 8/1 and 8/2! the path runs from the IFC to Hudson River Park with a pit stop in Washington Square Park. Bring binoculars if you have them! About WILD INSIDE: A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
+    "runtime": "96 min",
+    "director": "Penny Lane"
+  },
+  {
     "title": "Tony",
     "date": "2026-08-18",
     "time": "11:00 AM",
@@ -12738,6 +12686,19 @@
     "description": "Animated comedy adventure in which the Minions try their hand at filmmaking when they arrive in Hollywood during the 1920s.",
     "runtime": "90 min",
     "director": "Pierre Coffin"
+  },
+  {
+    "title": "Union County",
+    "date": "2026-08-18",
+    "time": "11:30 AM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573286~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Sneak preview + Q&A with dir. Adam Meeks & stars Will Poulter, Noah Centineo & Annette Deao Thu Aug 13 at 7:00 Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao, moderated by Danny Strong, Fri Aug 14 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sat Aug 15 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sun Aug 16 at 2:00 show Will Poulter and Noah Centineo deliver pitch-perfect performances as brothers Cody and Jack Parsons, each navigating a court-mandated drug rehabilitation program in a pocket of rural Ohio hit hard by the opioid epidemic. Provided with hope for the first time since their struggles began and with the support of a tireless counselor (Annette Deao), the brothers work toward a brighter, sober future. Additional showtimes for Aug 14-20 to be announced.",
+    "runtime": "97 min",
+    "director": "Adam Meeks"
   },
   {
     "title": "Chickenhare and the Secret of the Groundhog",
@@ -12818,6 +12779,32 @@
     "director": "Makoto Shinkai"
   },
   {
+    "title": "Freefall: A Reckoning for Boeing (Open Captioning)",
+    "date": "2026-08-18",
+    "time": "12:25 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573292~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Following the highly publicized death of Boeing whistleblower John Barnett, in Freefall: A Reckoning for Boeing , Academy Award-nominated filmmaker Rory Kennedy and her Emmy-nominated producing partner Mark Bailey continue their urgent investigation into the once-iconic aviation giant, uncovering startling new revelations and capturing voices from the inside. This is Kennedy\u2019s timely follow up to Moxie Films and Imagine Documentaries\u2019 Downfall: The Case Against Boeing , released in 2022.",
+    "runtime": "93 min",
+    "director": "Rory Kennedy"
+  },
+  {
+    "title": "The Big Cheese",
+    "date": "2026-08-18",
+    "time": "12:40 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573290~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "A scrappy team of eccentric American cheesemongers defies tradition to take on the world\u2019s top cheese masters at the Mondial du Fromage, battling cultural clashes, personal struggles, and melting cheese in pursuit of respect, redemption, and a historic victory. Official Selection: DOC NYC",
+    "runtime": "87 min",
+    "director": "Sara Joe Wolansky"
+  },
+  {
     "title": "The Odyssey",
     "date": "2026-08-18",
     "time": "12:40 PM",
@@ -12829,6 +12816,32 @@
     "description": "The Odyssey (2026), Christopher Nolan\u2019s epic adaptation of Homer\u2019s classic, follows Greek hero Odysseus on a perilous journey home after the Trojan War, encountering gods, monsters, and treacherous seas while his family faces turmoil in Ithaca Photo Id may required for 15 certificate films",
     "runtime": "172 min",
     "director": "Christopher Nolan"
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "date": "2026-08-18",
+    "time": "12:45 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573295~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
+    "runtime": "147 min",
+    "director": "Kiyoshi Kurosawa"
+  },
+  {
+    "title": "Train to Busan",
+    "date": "2026-08-18",
+    "time": "1:15 PM",
+    "format": "4K DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=569182~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Yeon Sang-ho\u2019s global phenomenon TRAIN TO BUSAN arrives back in theaters to celebrate its 10th Anniversary. What begins as a simple birthday trip for a father and daughter turns into a high-octane fight for survival when a zombie outbreak ravages South Korea. Trapped on a speeding train, they must navigate a landscape of terror to reach safety. Experience the relentless action and heart-wrenching drama on the big screen like never before.",
+    "runtime": "118 min",
+    "director": "Yeon Sang-Ho"
   },
   {
     "title": "Late Fame",
@@ -12935,6 +12948,19 @@
     "director": "Cal Brunker"
   },
   {
+    "title": "Mysterious Skin",
+    "date": "2026-08-18",
+    "time": "2:05 PM",
+    "format": "4K DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573289~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years later, the two boys couldn\u2019t be more different. Neil is a charismatic but emotionally aloof male hustler, while Brian is a nervous introvert obsessed with the idea that he has been abducted by a UFO. When the boys\u2019 parallel lives inevitably intersect, the pair unearth dark, repressed secrets on a harrowing and unforgettable journey of self-discovery. Director\u2019s Statement: \u201cI\u2019m SO excited about the glorious 4K restoration of MYSTERIOUS SKIN! When we made this little indie 20 years ago, we barely had enough money to finish it, let alone pay for a Digital Intermediate and the bells and whistles of a larger studio film. I would never drastically alter the film which has such an amazing and passionate following around the world. However, the incredible tools made possible by modern digital technology helped us polish and enhance the picture in a way that wasn\u2019t possible in the early 00\u2019s. MYSTERIOUS SKIN holds a special place in my heart and I can\u2019t wait for audiences, present and future, to experience this new definitive version of it.\u201d Official Selection: Sundance, TIFF, Venice Film Festival Previous screenings:",
+    "runtime": "99 min",
+    "director": "Gregg Araki"
+  },
+  {
     "title": "Spider-Man: Brand New Day",
     "date": "2026-08-18",
     "time": "2:10 PM",
@@ -12948,6 +12974,19 @@
     "director": "Destin Daniel Cretton"
   },
   {
+    "title": "Wild Inside",
+    "date": "2026-08-18",
+    "time": "2:20 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573297~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Join educator and wildlife rehabilitator Suzanne Highland for a post screening Birdwatching Tour of the West Village after the 4pm screenings on 8/1 and 8/2! the path runs from the IFC to Hudson River Park with a pit stop in Washington Square Park. Bring binoculars if you have them! About WILD INSIDE: A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
+    "runtime": "96 min",
+    "director": "Penny Lane"
+  },
+  {
     "title": "The Odyssey (70mm)",
     "date": "2026-08-18",
     "time": "2:30 PM",
@@ -12959,6 +12998,19 @@
     "runtime": "172 min",
     "director": "",
     "city": "LA"
+  },
+  {
+    "title": "Union County",
+    "date": "2026-08-18",
+    "time": "2:30 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573294~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Sneak preview + Q&A with dir. Adam Meeks & stars Will Poulter, Noah Centineo & Annette Deao Thu Aug 13 at 7:00 Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao, moderated by Danny Strong, Fri Aug 14 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sat Aug 15 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sun Aug 16 at 2:00 show Will Poulter and Noah Centineo deliver pitch-perfect performances as brothers Cody and Jack Parsons, each navigating a court-mandated drug rehabilitation program in a pocket of rural Ohio hit hard by the opioid epidemic. Provided with hope for the first time since their struggles began and with the support of a tireless counselor (Annette Deao), the brothers work toward a brighter, sober future. Additional showtimes for Aug 14-20 to be announced.",
+    "runtime": "97 min",
+    "director": "Adam Meeks"
   },
   {
     "title": "Stalker",
@@ -13091,6 +13143,19 @@
     "director": "Jay Chandrasekhar"
   },
   {
+    "title": "Michael Mann's Manhunter: The Final Cut",
+    "date": "2026-08-18",
+    "time": "3:45 PM",
+    "format": "4K DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573300~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Mann\u2019s genre-defining serial-killer thriller returns in a stunning new restoration overseen by the filmmaker himself. A retired criminal profiler (William Petersen) reluctantly returns to the FBI to help track down a murderer and is forced to consult an expert\u2014the imprisoned Dr. Hannibal Lecktor (Brian Cox in a subtly chilling performance). Adapted from the first of Thomas Harris\u2019s Lecktor novels, MANHUNTER\u2019s supporting cast includes Tom Noonan as the hunted killer, and three-time Oscar nominee Joan Allen. \u201cHere, in only his third feature, [Mann] is at his very best.\u201d \u2013 Empire Magazine",
+    "runtime": "122 min",
+    "director": "Michael Mann"
+  },
+  {
     "title": "Late Fame",
     "date": "2026-08-18",
     "time": "3:45 PM",
@@ -13169,6 +13234,19 @@
     "director": "David Robert Mitchell"
   },
   {
+    "title": "Maddie's Secret",
+    "date": "2026-08-18",
+    "time": "4:05 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573296~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "In his directorial debut, comedian, writer, and actor John Early stars as a plucky dishwasher who leaps to viral superstardom at a trendy food content-creation company. Maddie seems to have everything\u2014adoring husband (Eric Rahill), ride-or-die bestie (Kate Berlant) and a cupboard full of ethically-sourced chili crisp\u2014but mounting pressures threaten to reawaken a hidden secret from her troubled past. A pitch-perfect blend of satire, melodrama, daring tonal shifts and intimate performances, MADDIE\u2019S SECRET announces a bold new cinematic voice. Official selection: TIFF, New Directors New Films \u201cSoars on the fuel of its open-hearted sincerity\u2026it\u2019s hard not to be beguiled.\u201d \u2013 RogerEbert.com Previous in-person events:",
+    "runtime": "100 min",
+    "director": "John Early"
+  },
+  {
     "title": "Paw Patrol 3: The Dino Movie",
     "date": "2026-08-18",
     "time": "4:10 PM",
@@ -13195,6 +13273,19 @@
     "director": "Christopher Nolan"
   },
   {
+    "title": "The Samurai and the Prisoner",
+    "date": "2026-08-18",
+    "time": "4:30 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573301~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
+    "runtime": "147 min",
+    "director": "Kiyoshi Kurosawa"
+  },
+  {
     "title": "The Odyssey",
     "date": "2026-08-18",
     "time": "4:30 PM",
@@ -13206,6 +13297,32 @@
     "description": "Christopher Nolan's new vision of Homer's epic tale. Odysseus, king of Ithaca, embarks on a perilous journey to return home after the Trojan War...",
     "runtime": "172 min",
     "director": "Christopher Nolan"
+  },
+  {
+    "title": "Mysterious Skin",
+    "date": "2026-08-18",
+    "time": "4:40 PM",
+    "format": "4K DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573293~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years later, the two boys couldn\u2019t be more different. Neil is a charismatic but emotionally aloof male hustler, while Brian is a nervous introvert obsessed with the idea that he has been abducted by a UFO. When the boys\u2019 parallel lives inevitably intersect, the pair unearth dark, repressed secrets on a harrowing and unforgettable journey of self-discovery. Director\u2019s Statement: \u201cI\u2019m SO excited about the glorious 4K restoration of MYSTERIOUS SKIN! When we made this little indie 20 years ago, we barely had enough money to finish it, let alone pay for a Digital Intermediate and the bells and whistles of a larger studio film. I would never drastically alter the film which has such an amazing and passionate following around the world. However, the incredible tools made possible by modern digital technology helped us polish and enhance the picture in a way that wasn\u2019t possible in the early 00\u2019s. MYSTERIOUS SKIN holds a special place in my heart and I can\u2019t wait for audiences, present and future, to experience this new definitive version of it.\u201d Official Selection: Sundance, TIFF, Venice Film Festival Previous screenings:",
+    "runtime": "99 min",
+    "director": "Gregg Araki"
+  },
+  {
+    "title": "Union County",
+    "date": "2026-08-18",
+    "time": "4:45 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573299~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Sneak preview + Q&A with dir. Adam Meeks & stars Will Poulter, Noah Centineo & Annette Deao Thu Aug 13 at 7:00 Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao, moderated by Danny Strong, Fri Aug 14 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sat Aug 15 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sun Aug 16 at 2:00 show Will Poulter and Noah Centineo deliver pitch-perfect performances as brothers Cody and Jack Parsons, each navigating a court-mandated drug rehabilitation program in a pocket of rural Ohio hit hard by the opioid epidemic. Provided with hope for the first time since their struggles began and with the support of a tireless counselor (Annette Deao), the brothers work toward a brighter, sober future. Additional showtimes for Aug 14-20 to be announced.",
+    "runtime": "97 min",
+    "director": "Adam Meeks"
   },
   {
     "title": "The Night is Short, Walk on Girl",
@@ -13429,6 +13546,19 @@
     "director": "Olivia Wilde"
   },
   {
+    "title": "Freefall: A Reckoning for Boeing",
+    "date": "2026-08-18",
+    "time": "6:30 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573304~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "",
+    "runtime": "93 min",
+    "director": "Rory Kennedy"
+  },
+  {
     "title": "FAST",
     "date": "2026-08-18",
     "time": "6:30 PM",
@@ -13494,6 +13624,19 @@
     "director": "Vladimir Motyl"
   },
   {
+    "title": "Train to Busan",
+    "date": "2026-08-18",
+    "time": "6:50 PM",
+    "format": "4K DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=569199~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Yeon Sang-ho\u2019s global phenomenon TRAIN TO BUSAN arrives back in theaters to celebrate its 10th Anniversary. What begins as a simple birthday trip for a father and daughter turns into a high-octane fight for survival when a zombie outbreak ravages South Korea. Trapped on a speeding train, they must navigate a landscape of terror to reach safety. Experience the relentless action and heart-wrenching drama on the big screen like never before.",
+    "runtime": "118 min",
+    "director": "Yeon Sang-Ho"
+  },
+  {
     "title": "A TIME TO LOVE AND A TIME TO DIE",
     "date": "2026-08-18",
     "time": "7:00 PM",
@@ -13518,6 +13661,19 @@
     "description": "Afrique sur Seine. 1955. Senegal/France. Directed by Mamadou Sarr, Paulin Soumanou Vieyra. DCP. In French; English subtitles. 22 min. Nationalit\u00e9 immigr\u00e9 (Nationality: Immigrant). 1976. France/Mauritania. Written and directed by Sidney Sokhona. With Sidney Sokhona, Jacques Ruisseau, Constant Hames. DCP. In French, Arabic; English subtitles. 72 min. One of the first films directed by Black Africans, Mamadou Sarr and Paulin Soumanou Vieyra\u2019s Afrique sur Seine shows the early stirrings of a postcolonial identity. Vibrant with hopes of independence and freedom, yet still marked by the conventional attitudes of its time, this short film offers an affectionate, rousing portrait of the communities that migrated to Paris from the Sahel. Twenty years later, Sidney Sokhona shot Nationalit\u00e9 immigr\u00e9, a historical depiction of a rent strike at a hostel that harbors immigrants in harrowing conditions. A blend of Brechtian fiction and documentary footage, the film stands as one of the most significant manifestos in defense of immigrant rights and human dignity against systematic labor exploitation and racism in a Western economy.",
     "runtime": "22 min",
     "director": "Mamadou Sarr, Paulin Soumanou Vieyra, Sidney Sokhona"
+  },
+  {
+    "title": "Union County",
+    "date": "2026-08-18",
+    "time": "7:10 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573303~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Sneak preview + Q&A with dir. Adam Meeks & stars Will Poulter, Noah Centineo & Annette Deao Thu Aug 13 at 7:00 Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao, moderated by Danny Strong, Fri Aug 14 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sat Aug 15 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sun Aug 16 at 2:00 show Will Poulter and Noah Centineo deliver pitch-perfect performances as brothers Cody and Jack Parsons, each navigating a court-mandated drug rehabilitation program in a pocket of rural Ohio hit hard by the opioid epidemic. Provided with hope for the first time since their struggles began and with the support of a tireless counselor (Annette Deao), the brothers work toward a brighter, sober future. Additional showtimes for Aug 14-20 to be announced.",
+    "runtime": "97 min",
+    "director": "Adam Meeks"
   },
   {
     "title": "Vertigo",
@@ -13546,6 +13702,19 @@
     "city": "LA"
   },
   {
+    "title": "Mysterious Skin",
+    "date": "2026-08-18",
+    "time": "7:15 PM",
+    "format": "4K DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573298~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years later, the two boys couldn\u2019t be more different. Neil is a charismatic but emotionally aloof male hustler, while Brian is a nervous introvert obsessed with the idea that he has been abducted by a UFO. When the boys\u2019 parallel lives inevitably intersect, the pair unearth dark, repressed secrets on a harrowing and unforgettable journey of self-discovery. Director\u2019s Statement: \u201cI\u2019m SO excited about the glorious 4K restoration of MYSTERIOUS SKIN! When we made this little indie 20 years ago, we barely had enough money to finish it, let alone pay for a Digital Intermediate and the bells and whistles of a larger studio film. I would never drastically alter the film which has such an amazing and passionate following around the world. However, the incredible tools made possible by modern digital technology helped us polish and enhance the picture in a way that wasn\u2019t possible in the early 00\u2019s. MYSTERIOUS SKIN holds a special place in my heart and I can\u2019t wait for audiences, present and future, to experience this new definitive version of it.\u201d Official Selection: Sundance, TIFF, Venice Film Festival Previous screenings:",
+    "runtime": "99 min",
+    "director": "Gregg Araki"
+  },
+  {
     "title": "Stavisky",
     "date": "2026-08-18",
     "time": "7:25 PM",
@@ -13570,6 +13739,19 @@
     "runtime": "112 min",
     "director": "David Kittredge",
     "city": "LA"
+  },
+  {
+    "title": "Wild Inside",
+    "date": "2026-08-18",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573305~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Join educator and wildlife rehabilitator Suzanne Highland for a post screening Birdwatching Tour of the West Village after the 4pm screenings on 8/1 and 8/2! the path runs from the IFC to Hudson River Park with a pit stop in Washington Square Park. Bring binoculars if you have them! About WILD INSIDE: A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
+    "runtime": "96 min",
+    "director": "Penny Lane"
   },
   {
     "title": "David Byrne's American Utopia",
@@ -13635,6 +13817,19 @@
     "description": "Picnic at Hanging Rock was suggested by our member Molly Thomas, who writes: 'This is one of my favourite films of all\u2026",
     "runtime": "110 min",
     "director": "Peter Weir"
+  },
+  {
+    "title": "Wild Inside",
+    "date": "2026-08-18",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Low Cinema",
+    "venue_short": "LowCinema",
+    "url": "https://lowcinema.com/checkout/d6e0f55c-18ae-4abc-8ab2-e2977c3b63f1/",
+    "city": "NYC",
+    "description": "A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
+    "runtime": "96 min",
+    "director": "Penny Lane"
   },
   {
     "title": "Mastercard Outdoor Cinema: Bitter Christmas (15)",
@@ -13832,6 +14027,19 @@
     "director": "Jazz Bhalla"
   },
   {
+    "title": "The Samurai and the Prisoner",
+    "date": "2026-08-18",
+    "time": "9:05 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573307~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
+    "runtime": "147 min",
+    "director": "Kiyoshi Kurosawa"
+  },
+  {
     "title": "Ice Cream Man",
     "date": "2026-08-18",
     "time": "9:10 PM",
@@ -13856,6 +14064,58 @@
     "description": "Cronenbergian body horror is deployed to darkly satirical ends in Carlos Concei\u00e7\u00e3o\u2019s English-language debut, the noir-inflected story of an anti-corporate activist who becomes involved in a cult-like underworld of black-market plastic surgery.",
     "runtime": "83 min",
     "director": "Carlos Concei\u00e7\u00e3o"
+  },
+  {
+    "title": "The Big Cheese",
+    "date": "2026-08-18",
+    "time": "9:30 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573308~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "A scrappy team of eccentric American cheesemongers defies tradition to take on the world\u2019s top cheese masters at the Mondial du Fromage, battling cultural clashes, personal struggles, and melting cheese in pursuit of respect, redemption, and a historic victory. Official Selection: DOC NYC",
+    "runtime": "87 min",
+    "director": "Sara Joe Wolansky"
+  },
+  {
+    "title": "Union County",
+    "date": "2026-08-18",
+    "time": "9:35 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573306~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Sneak preview + Q&A with dir. Adam Meeks & stars Will Poulter, Noah Centineo & Annette Deao Thu Aug 13 at 7:00 Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao, moderated by Danny Strong, Fri Aug 14 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sat Aug 15 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sun Aug 16 at 2:00 show Will Poulter and Noah Centineo deliver pitch-perfect performances as brothers Cody and Jack Parsons, each navigating a court-mandated drug rehabilitation program in a pocket of rural Ohio hit hard by the opioid epidemic. Provided with hope for the first time since their struggles began and with the support of a tireless counselor (Annette Deao), the brothers work toward a brighter, sober future. Additional showtimes for Aug 14-20 to be announced.",
+    "runtime": "97 min",
+    "director": "Adam Meeks"
+  },
+  {
+    "title": "Train to Busan",
+    "date": "2026-08-18",
+    "time": "9:40 PM",
+    "format": "4K DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=569206~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Yeon Sang-ho\u2019s global phenomenon TRAIN TO BUSAN arrives back in theaters to celebrate its 10th Anniversary. What begins as a simple birthday trip for a father and daughter turns into a high-octane fight for survival when a zombie outbreak ravages South Korea. Trapped on a speeding train, they must navigate a landscape of terror to reach safety. Experience the relentless action and heart-wrenching drama on the big screen like never before.",
+    "runtime": "118 min",
+    "director": "Yeon Sang-Ho"
+  },
+  {
+    "title": "Mysterious Skin",
+    "date": "2026-08-18",
+    "time": "9:45 PM",
+    "format": "4K DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573302~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years later, the two boys couldn\u2019t be more different. Neil is a charismatic but emotionally aloof male hustler, while Brian is a nervous introvert obsessed with the idea that he has been abducted by a UFO. When the boys\u2019 parallel lives inevitably intersect, the pair unearth dark, repressed secrets on a harrowing and unforgettable journey of self-discovery. Director\u2019s Statement: \u201cI\u2019m SO excited about the glorious 4K restoration of MYSTERIOUS SKIN! When we made this little indie 20 years ago, we barely had enough money to finish it, let alone pay for a Digital Intermediate and the bells and whistles of a larger studio film. I would never drastically alter the film which has such an amazing and passionate following around the world. However, the incredible tools made possible by modern digital technology helped us polish and enhance the picture in a way that wasn\u2019t possible in the early 00\u2019s. MYSTERIOUS SKIN holds a special place in my heart and I can\u2019t wait for audiences, present and future, to experience this new definitive version of it.\u201d Official Selection: Sundance, TIFF, Venice Film Festival Previous screenings:",
+    "runtime": "99 min",
+    "director": "Gregg Araki"
   },
   {
     "title": "Fallen Angels",
@@ -13908,6 +14168,19 @@
     "description": "Join us in the Sculpture Garden to celebrate the 30th anniversary of The Birdcage with this special screening. Bring a guest, enjoy the warm weather, and treat yourself to drinks from the Garden Bar. One of cinema\u2019s greatest off-screen pairs reunites in director Mike Nichols and writer Elaine May\u2019s uproarious 1996 smash success featuring the inimitable comedic duo of Nathan Lane and Robin Williams. In sun-drenched South Beach, Miami, drag club impresario Armand (Williams) with his partner and star queen Albert (Lane) must try to impress their son\u2019s fianc\u00e9e\u2019s conservative right-wing parents. Heartfelt hilarity ensues. Doors open at 7:30 p.m. and the screening will begin at roughly 8:00 p.m, or dusk. Please enter through the Ronald S. and Jo Carole Lauder Building entrance at 11 West 53rd Street. Questions? Please contact members_programs@moma.org. Accessibility American Sign Language (ASL) interpretation and CART captioning is available for public programs upon request with two weeks\u2019 advance notice. MoMA will make every effort to provide accommodation for requests made with less than two weeks\u2019 notice. Please contact members_programs@moma.org to make a request for these accommodations.",
     "runtime": "",
     "director": ""
+  },
+  {
+    "title": "Wild Inside",
+    "date": "2026-08-18",
+    "time": "6 PM",
+    "format": "DCP",
+    "venue": "Low Cinema",
+    "venue_short": "LowCinema",
+    "url": "https://lowcinema.com/checkout/ed296dcc-1283-4857-baa9-01305614d12d/",
+    "city": "NYC",
+    "description": "A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
+    "runtime": "96 min",
+    "director": "Penny Lane"
   },
   {
     "title": "Ball of Fire             / The Lady Eve",
@@ -17355,19 +17628,6 @@
     "city": "LA"
   },
   {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "date": "2026-08-22",
-    "time": "1:30 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4437288/",
-    "description": "Featuring a conversation with filmmaker Sasha Waters after the August 12th screening!",
-    "runtime": "91 min",
-    "director": "Sasha Waters",
-    "city": "LA"
-  },
-  {
     "title": "Off-Circuit: The Visitor",
     "date": "2026-08-22",
     "time": "1:30 PM",
@@ -19968,6 +20228,19 @@
     "director": "Matt Johnson"
   },
   {
+    "title": "My Life Is Wind (A Letter)",
+    "date": "2026-08-25",
+    "time": "4:30 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11539",
+    "city": "NYC",
+    "description": "My Life Is Wind (A Letter). 2024. USA/Sweden. Written and directed by Anahita Ghazvinizadeh. With Sara Hosseini Kolkou, Zahia Salloum, Orion Orrico, Melinda Jean Myers. DCP. In Arabic, English; English subtitles. 33 min. La noire de\u2026 (Black Girl). 1963. France/Senegal. Written and directed by Ousmane Semb\u00e8ne. With Mbissine Th\u00e9r\u00e8se Diop, Anne-Marie Jelinek, Robert Fontaine. DCP. In French; English subtitles. 59 min. Ousmane Semb\u00e8ne\u2019s Black Girl is one of the most powerful directorial debuts in film history. The plot is simple, yet politically charged: A young Senegalese woman is picked by a wealthy French woman to travel to France and work as a maid in her bourgeois apartment, where the young woman finds herself trapped in servitude\u2014the segregation and enslavement of the postcolonial world in miniature. In My Life Is Wind (A Letter), Iranian American director Anahita Ghazvinizadeh exposes the alienation of a Middle Eastern refugee in the US Midwest through a letter written to a grandmother she left behind.",
+    "runtime": "33 min",
+    "director": "Anahita Ghazvinizadeh, Ousmane Semb\u00e8ne"
+  },
+  {
     "title": "Ish",
     "date": "2026-08-25",
     "time": "4:30 PM",
@@ -20148,6 +20421,19 @@
     "runtime": "95 min",
     "director": "Alfred Hitchcock",
     "city": "LA"
+  },
+  {
+    "title": "Stroszek",
+    "date": "2026-08-25",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11545",
+    "city": "NYC",
+    "description": "Stroszek. 1977. West Germany. Written and directed by Werner Herzog. With Bruno S., Eva Mattes, Clemens Scheitz. DCP. In English, German, Turkish; English subtitles. 115 min. From West Berlin to North Carolina via New York City and Wisconsin, Werner Herzog follows the wandering steps of Stroszek, a street performer who, after finishing a prison sentence, leaves Germany for the US with an eccentric neighbor and his prostitute girlfriend, Eva, to escape her pimp\u2019s continuous harassment. Stroszek, played by Herzog\u2019s real-life friend Bruno Stroszek, finds work as a mechanic while Eva works in a Wisconsin diner, both trying to make ends meet and fulfill their American dream. Estrangement and financial stress turn their offbeat, hopeful tale into a journey of unexpectedly absurd consequences, one that faithfully reflects the alienating feeling of drifting through a land filled with both violence and grace.",
+    "runtime": "115 min",
+    "director": "Werner Herzog"
   },
   {
     "title": "Members' Mingle",
@@ -26032,7 +26318,7 @@
     "format": "DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31626262",
+    "url": "https://princecharlescinema.com/film/11449221/the-room-with-tommy-wiseau-live-on-stage",
     "city": "London",
     "description": "PLEASE NOTE - TOMMY WISEAU WILL BE TAKING TO THE STAGE AT THE FILMS ADVERTISED TIME! Please arrive 30 mins early to collect your ticket, take your seat, grab merch and meet Tommy before the film starts! Yes we know the shows are allocated seating, but if you all arrive at the advertised time we end up with a very busy foyer / bar & you won't get to your seat when the q&a starts! ----------------------------- Tommy Wiseau returns to The Prince Charles Cinema, live and in person, in Septmeber 2026 to once again answer your questions, pose for photos*, sign autographs** and introduce a host of screenings of the 2003 \"masterpiece\", THE ROOM! So what are you waiting for? Get your handful of PLASTIC spoons***, your tuxedos at the ready and prepare to take part in the most \"unique\" cinematic experience on the planet... Tommy Wiseau's, THE ROOM! * - Tommy requests that you purchase some of his merchandise before posing for photographs [he'll have the usual DVDs, BluRays, Posters, Pants, Belts, Dogs... you name it, he's selling it!] ** - Same applies for photo opps as it does for signatures, pick up some merch to put a smile on Tommy's face for your photo together. *** - No Metal Spoons, No Inflatables, No American Footballs!!! If found throwing any of these, they will be confiscated and you will be asked to leave with no refund. Please consider the environment and don't go overboard with plastic spoons. A handful is all you need to get you through the screening. If any customers are found bringing in an overabundance of plastic spoons, we will confiscate them and give you what we deem to be an appropriate amount for the evening. ----------------------------- About THE ROOM Johnny is a successful banker who lives happily in a San Francisco townhouse with his fianc\u00e9e, Lisa. One day, inexplicably, she gets bored of him and decides to seduce Johnny's best friend, Mark. From there, nothing will be the same again. www.TheRoomMovie.com \"If a lot of people love each other the world will be a better place to live.\" - Tommy Wiseau",
     "runtime": "99 min",
@@ -31327,6 +31613,19 @@
     "city": "NYC"
   },
   {
+    "title": "Category H: SEYTAN + THE FLY",
+    "date": "2026-09-25",
+    "time": "11:30 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2798068.TcsSection_936",
+    "city": "London",
+    "description": "SEYTAN + THE FLY  For this edition of Category H horror film clubs ongoing season Rio Forever/Rio Never, we investigate the nebulous world of horror Remakes with a late night double bill of SEYTAN X THE FLY. This 25th of September, 23:30-late, only at the Rio Cinema.  So often, horror remakes cast a...",
+    "runtime": "230 min",
+    "director": ""
+  },
+  {
     "title": "FFC: The Wrong Trousers + A Close Shave (U)",
     "date": "2026-09-26",
     "time": "11:00 AM",
@@ -35343,9 +35642,9 @@
     "format": "DCP",
     "venue": "Barbican",
     "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/i-am-furious-black-the-voice-of-la-raza-nationtime",
     "city": "London",
-    "description": "",
+    "description": "Two films that open a window to early 1970s America, Black politics, migrant experiences and the political temperature of a changing time.",
     "runtime": "",
     "director": ""
   },
@@ -37046,11 +37345,11 @@
     "format": "DCP",
     "venue": "Barbican",
     "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/i-am-furious-black-lost-boundaries",
     "city": "London",
-    "description": "",
-    "runtime": "",
-    "director": ""
+    "description": "This 1949\u00a0American drama looks at\u00a0how 'liberal ideals'\u00a0presented on screen back\u00a0then; in which the groundbreaking\u00a0filmmaker\u00a0William Greaves stars as a young college graduate.",
+    "runtime": "99 min",
+    "director": "Alfred L. Werker"
   },
   {
     "title": "Fantastic Planet",
@@ -37098,9 +37397,9 @@
     "format": "DCP",
     "venue": "Barbican",
     "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/i-am-furious-black-black-journal",
     "city": "London",
-    "description": "",
+    "description": "A free screening of an episode from the long-running TV series launched in 1968,\u00a0one of the first to offer alternative media representations of Black politics and concerns.",
     "runtime": "",
     "director": ""
   },
@@ -37779,369 +38078,5 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "Jimmy",
-    "date": "2027-08-11",
-    "time": "10:35 AM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=571999~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Sat, Aug 1 at 6:45: Q&A with director Yashaddai Owens moderated by film producer and journalist Scott Macaulay after the screening Sun, Aug 2 at 6:30: Q&A with director Yashaddai Owens moderated by filmmaker Barry Jenkins after the screening Shot in dreamy 16mm black and white, Yasshadai Owens\u2019 debut feature Jimmy offers an intimate, speculative portrait of what a young James Baldwin may have experienced during his first trip to Paris in 1948. (credit: Toronto International Film Festival) Official selection: TIFF, New York Film Festival, Frameline Additional showtimes for August 3-6 to be announced.",
-    "runtime": "67 min",
-    "director": "Yashaddai Owens"
-  },
-  {
-    "title": "The Big Cheese",
-    "date": "2027-08-11",
-    "time": "10:40 AM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=571509~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "A scrappy team of eccentric American cheesemongers defies tradition to take on the world\u2019s top cheese masters at the Mondial du Fromage, battling cultural clashes, personal struggles, and melting cheese in pursuit of respect, redemption, and a historic victory. Official Selection: DOC NYC",
-    "runtime": "87 min",
-    "director": "Sara Joe Wolansky"
-  },
-  {
-    "title": "A Child of My Own",
-    "date": "2027-08-11",
-    "time": "10:45 AM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572001~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "This new hybrid documentary from the Oscar-nominated director of The Mole Agent and The Eternal Memory follows the shocking tale of a woman desperate for a baby. Burdened by family and societal expectations, she fakes a pregnancy and gets tangled up in a crime. Official selection: Berlin Film Festival",
-    "runtime": "96 min",
-    "director": "Maite Alberdi"
-  },
-  {
-    "title": "Wild Inside",
-    "date": "2027-08-11",
-    "time": "11:10 AM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572000~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Join educator and wildlife rehabilitator Suzanne Highland for a post screening Birdwatching Tour of the West Village after the 4pm screenings on 8/1 and 8/2! the path runs from the IFC to Hudson River Park with a pit stop in Washington Square Park. Bring binoculars if you have them! About WILD INSIDE: A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
-    "runtime": "96 min",
-    "director": "Penny Lane"
-  },
-  {
-    "title": "The Fence",
-    "date": "2027-08-11",
-    "time": "12:05 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572002~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "A vast public works project in West Africa. Horn (Matt Dillon), the construction site manager, and Cal (Tom Blyth), a young engineer, share lodging behind the double gates of their compound. Leone (Mia McKenna-Bruce), Horn\u2019s recent bride, comes to join them the same night that a man (Isaach De Bankole) appears at the fence . His name is Alboury. Like a specter in the darkness, he demands the body of his brother who died earlier that day on the site. He will hound the two men all night long until they return it, as Leone watches the disaster play out before her.",
-    "runtime": "109 min",
-    "director": "Claire Denis"
-  },
-  {
-    "title": "The Samurai and the Prisoner",
-    "date": "2027-08-11",
-    "time": "12:30 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572003~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
-    "runtime": "147 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
-    "title": "A Child of My Own",
-    "date": "2027-08-11",
-    "time": "12:45 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572004~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "This new hybrid documentary from the Oscar-nominated director of The Mole Agent and The Eternal Memory follows the shocking tale of a woman desperate for a baby. Burdened by family and societal expectations, she fakes a pregnancy and gets tangled up in a crime. Official selection: Berlin Film Festival",
-    "runtime": "96 min",
-    "director": "Maite Alberdi"
-  },
-  {
-    "title": "The Big Cheese",
-    "date": "2027-08-11",
-    "time": "12:50 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=571516~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "A scrappy team of eccentric American cheesemongers defies tradition to take on the world\u2019s top cheese masters at the Mondial du Fromage, battling cultural clashes, personal struggles, and melting cheese in pursuit of respect, redemption, and a historic victory. Official Selection: DOC NYC",
-    "runtime": "87 min",
-    "director": "Sara Joe Wolansky"
-  },
-  {
-    "title": "Julian",
-    "date": "2027-08-11",
-    "time": "1:30 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=571745~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Friday, August 7 and Saturday, August 8: Q&A with director Cato Kusters after the 6:35 show Fleur and Julian fall madly in love and decide to get married in all countries where they, as two women, are allowed to do so. But after only four marriages, their journey comes to a painful and unexpected halt.",
-    "runtime": "91 min",
-    "director": "Cato Kusters"
-  },
-  {
-    "title": "Wild Inside",
-    "date": "2027-08-11",
-    "time": "2:35 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572006~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Join educator and wildlife rehabilitator Suzanne Highland for a post screening Birdwatching Tour of the West Village after the 4pm screenings on 8/1 and 8/2! the path runs from the IFC to Hudson River Park with a pit stop in Washington Square Park. Bring binoculars if you have them! About WILD INSIDE: A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
-    "runtime": "96 min",
-    "director": "Penny Lane"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2027-08-11",
-    "time": "3:00 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572009~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "In his directorial debut, comedian, writer, and actor John Early stars as a plucky dishwasher who leaps to viral superstardom at a trendy food content-creation company. Maddie seems to have everything\u2014adoring husband (Eric Rahill), ride-or-die bestie (Kate Berlant) and a cupboard full of ethically-sourced chili crisp\u2014but mounting pressures threaten to reawaken a hidden secret from her troubled past. A pitch-perfect blend of satire, melodrama, daring tonal shifts and intimate performances, MADDIE\u2019S SECRET announces a bold new cinematic voice. Official selection: TIFF, New Directors New Films \u201cSoars on the fuel of its open-hearted sincerity\u2026it\u2019s hard not to be beguiled.\u201d \u2013 RogerEbert.com Previous in-person events:",
-    "runtime": "100 min",
-    "director": "John Early"
-  },
-  {
-    "title": "Mary Oliver: Saved by the Beauty of the World",
-    "date": "2027-08-11",
-    "time": "3:05 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572005~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "If poetry had a pop icon, Mary Oliver would be it. Celebrated bestseller, Pulitzer Prize winner, lover of dogs and long walks in the woods, openly queer but intensely private, Oliver was America\u2019s unlikely contemporary mystic, stalking the ponds and forests of Cape Cod for nearly 50 years in order to open herself \u2013 and her readers \u2013 to the known and unknowable world. From a lonely childhood to literary fame, Oliver\u2019s life was shaped by devotion to nature, paying attention, and the long journey toward learning to love and to be loved. Her poems inspire liberals and conservatives, atheists and believers, naturalists and urbanites, speaking directly to contemporary anxieties about attention, presence, and the human relationship with the natural world \u2013 issues that feel especially pressing in an era of climate crisis, digital distraction, and social fragmentation. Featuring interviews with her close friends, including John Waters, never-before-seen personal photos, notebooks, and correspondence from her archive, and recitations of her work by Stephen Colbert, Lucy Dacus, Steve Buscemi, and Oprah Winfrey, MARY OLIVER: SAVED BY THE BEAUTY OF THE WORLD considers the poet\u2019s long lifetime of work in context, capturing the uniqueness of her world and the natural beauty that inspired her.",
-    "runtime": "91 min",
-    "director": "Sasha Waters"
-  },
-  {
-    "title": "The Samurai and the Prisoner",
-    "date": "2027-08-11",
-    "time": "3:35 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572008~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
-    "runtime": "147 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
-    "title": "Michael Mann's Manhunter: The Final Cut",
-    "date": "2027-08-11",
-    "time": "3:45 PM",
-    "format": "4K DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572007~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Mann\u2019s genre-defining serial-killer thriller returns in a stunning new restoration overseen by the filmmaker himself. A retired criminal profiler (William Petersen) reluctantly returns to the FBI to help track down a murderer and is forced to consult an expert\u2014the imprisoned Dr. Hannibal Lecktor (Brian Cox in a subtly chilling performance). Adapted from the first of Thomas Harris\u2019s Lecktor novels, MANHUNTER\u2019s supporting cast includes Tom Noonan as the hunted killer, and three-time Oscar nominee Joan Allen. \u201cHere, in only his third feature, [Mann] is at his very best.\u201d \u2013 Empire Magazine",
-    "runtime": "122 min",
-    "director": "Michael Mann"
-  },
-  {
-    "title": "Wild Inside",
-    "date": "2027-08-11",
-    "time": "4:50 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572010~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Join educator and wildlife rehabilitator Suzanne Highland for a post screening Birdwatching Tour of the West Village after the 4pm screenings on 8/1 and 8/2! the path runs from the IFC to Hudson River Park with a pit stop in Washington Square Park. Bring binoculars if you have them! About WILD INSIDE: A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
-    "runtime": "96 min",
-    "director": "Penny Lane"
-  },
-  {
-    "title": "The Big Cheese",
-    "date": "2027-08-11",
-    "time": "5:25 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=571521~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "A scrappy team of eccentric American cheesemongers defies tradition to take on the world\u2019s top cheese masters at the Mondial du Fromage, battling cultural clashes, personal struggles, and melting cheese in pursuit of respect, redemption, and a historic victory. Official Selection: DOC NYC",
-    "runtime": "87 min",
-    "director": "Sara Joe Wolansky"
-  },
-  {
-    "title": "Jimmy",
-    "date": "2027-08-11",
-    "time": "5:30 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572013~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Sat, Aug 1 at 6:45: Q&A with director Yashaddai Owens moderated by film producer and journalist Scott Macaulay after the screening Sun, Aug 2 at 6:30: Q&A with director Yashaddai Owens moderated by filmmaker Barry Jenkins after the screening Shot in dreamy 16mm black and white, Yasshadai Owens\u2019 debut feature Jimmy offers an intimate, speculative portrait of what a young James Baldwin may have experienced during his first trip to Paris in 1948. (credit: Toronto International Film Festival) Official selection: TIFF, New York Film Festival, Frameline Additional showtimes for August 3-6 to be announced.",
-    "runtime": "67 min",
-    "director": "Yashaddai Owens"
-  },
-  {
-    "title": "The Fence",
-    "date": "2027-08-11",
-    "time": "6:35 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572011~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "A vast public works project in West Africa. Horn (Matt Dillon), the construction site manager, and Cal (Tom Blyth), a young engineer, share lodging behind the double gates of their compound. Leone (Mia McKenna-Bruce), Horn\u2019s recent bride, comes to join them the same night that a man (Isaach De Bankole) appears at the fence . His name is Alboury. Like a specter in the darkness, he demands the body of his brother who died earlier that day on the site. He will hound the two men all night long until they return it, as Leone watches the disaster play out before her.",
-    "runtime": "109 min",
-    "director": "Claire Denis"
-  },
-  {
-    "title": "The Samurai and the Prisoner",
-    "date": "2027-08-11",
-    "time": "6:40 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572012~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
-    "runtime": "147 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
-    "title": "Wild Inside",
-    "date": "2027-08-11",
-    "time": "7:05 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572014~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Join educator and wildlife rehabilitator Suzanne Highland for a post screening Birdwatching Tour of the West Village after the 4pm screenings on 8/1 and 8/2! the path runs from the IFC to Hudson River Park with a pit stop in Washington Square Park. Bring binoculars if you have them! About WILD INSIDE: A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
-    "runtime": "96 min",
-    "director": "Penny Lane"
-  },
-  {
-    "title": "A Child of My Own",
-    "date": "2027-08-11",
-    "time": "7:15 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572016~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "This new hybrid documentary from the Oscar-nominated director of The Mole Agent and The Eternal Memory follows the shocking tale of a woman desperate for a baby. Burdened by family and societal expectations, she fakes a pregnancy and gets tangled up in a crime. Official selection: Berlin Film Festival",
-    "runtime": "96 min",
-    "director": "Maite Alberdi"
-  },
-  {
-    "title": "Ice Cream Man (Eli Roth In Person)",
-    "date": "2027-08-11",
-    "time": "7:30 pm",
-    "format": "35mm",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.com/program/august-11-ice-cream-man/",
-    "description": "An idyllic summer town descends into madness when an ice cream man serves kids sweet delights with horrifying results. (The Horror Section)",
-    "runtime": "86 min",
-    "director": "Eli Roth",
-    "city": "LA"
-  },
-  {
-    "title": "The Big Cheese",
-    "date": "2027-08-11",
-    "time": "7:35 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=571527~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "A scrappy team of eccentric American cheesemongers defies tradition to take on the world\u2019s top cheese masters at the Mondial du Fromage, battling cultural clashes, personal struggles, and melting cheese in pursuit of respect, redemption, and a historic victory. Official Selection: DOC NYC",
-    "runtime": "87 min",
-    "director": "Sara Joe Wolansky"
-  },
-  {
-    "title": "The Samurai and the Prisoner",
-    "date": "2027-08-11",
-    "time": "9:00 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572015~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
-    "runtime": "147 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2027-08-11",
-    "time": "9:20 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572018~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "In his directorial debut, comedian, writer, and actor John Early stars as a plucky dishwasher who leaps to viral superstardom at a trendy food content-creation company. Maddie seems to have everything\u2014adoring husband (Eric Rahill), ride-or-die bestie (Kate Berlant) and a cupboard full of ethically-sourced chili crisp\u2014but mounting pressures threaten to reawaken a hidden secret from her troubled past. A pitch-perfect blend of satire, melodrama, daring tonal shifts and intimate performances, MADDIE\u2019S SECRET announces a bold new cinematic voice. Official selection: TIFF, New Directors New Films \u201cSoars on the fuel of its open-hearted sincerity\u2026it\u2019s hard not to be beguiled.\u201d \u2013 RogerEbert.com Previous in-person events:",
-    "runtime": "100 min",
-    "director": "John Early"
-  },
-  {
-    "title": "Wild Inside",
-    "date": "2027-08-11",
-    "time": "9:30 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572019~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Join educator and wildlife rehabilitator Suzanne Highland for a post screening Birdwatching Tour of the West Village after the 4pm screenings on 8/1 and 8/2! the path runs from the IFC to Hudson River Park with a pit stop in Washington Square Park. Bring binoculars if you have them! About WILD INSIDE: A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
-    "runtime": "96 min",
-    "director": "Penny Lane"
-  },
-  {
-    "title": "Julian",
-    "date": "2027-08-11",
-    "time": "9:35 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=571752~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Friday, August 7 and Saturday, August 8: Q&A with director Cato Kusters after the 6:35 show Fleur and Julian fall madly in love and decide to get married in all countries where they, as two women, are allowed to do so. But after only four marriages, their journey comes to a painful and unexpected halt.",
-    "runtime": "91 min",
-    "director": "Cato Kusters"
-  },
-  {
-    "title": "Michael Mann's Manhunter: The Final Cut",
-    "date": "2027-08-11",
-    "time": "9:40 PM",
-    "format": "4K DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=572017~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Mann\u2019s genre-defining serial-killer thriller returns in a stunning new restoration overseen by the filmmaker himself. A retired criminal profiler (William Petersen) reluctantly returns to the FBI to help track down a murderer and is forced to consult an expert\u2014the imprisoned Dr. Hannibal Lecktor (Brian Cox in a subtly chilling performance). Adapted from the first of Thomas Harris\u2019s Lecktor novels, MANHUNTER\u2019s supporting cast includes Tom Noonan as the hunted killer, and three-time Oscar nominee Joan Allen. \u201cHere, in only his third feature, [Mann] is at his very best.\u201d \u2013 Empire Magazine",
-    "runtime": "122 min",
-    "director": "Michael Mann"
   }
 ]
