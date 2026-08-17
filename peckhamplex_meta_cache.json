@@ -166,5 +166,35 @@
   "description": "When Ravi meets Sukhi, he wants to settle down and have a 'normal' life. But his best mate Jay has other plans and soon he's dragged back to the reality of the streets.",
   "runtime": "102 min",
   "format": ""
+ },
+ "https://www.peckhamplex.london/film/coyote-vs-acme": {
+  "director": "Dave Green",
+  "description": "A story set in the ACME warehouse, the manufacturer of anything and everything used by the Looney Tunes characters.",
+  "runtime": "103 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/spa-weekend": {
+  "director": "Jon Lucas, Scott Moore",
+  "description": "Three friends go on a spa weekend that descends into chaos when their trainwreck friend joins, leading to hilarious consequences.",
+  "runtime": "97 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/tony": {
+  "director": "Matt Johnson",
+  "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+  "runtime": "106 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/the-dog-stars": {
+  "director": "Ridley Scott",
+  "description": "Set in a post-apocalyptic world in which a virus has wiped out most of humanity, with survivors being terrorized by roaming scavengers called \"Reapers.\" The protagonist is Hig, a pilot who survived the flu that killed everyone he knew, his wife included. He lives in the hangar of a small abandoned airport with his dog, his only neighbor a gun-toting ex-Marine. Hig sometimes heads off in his 1956 Cessna, where he can fish and pretend things are how they used to be. When a random transmission somehow beams through his radio, the voice ignites a hope deep inside him that a better life might exist if he flies a bit further. He risks it all. to chase a possible haven in Grand Junction.",
+  "runtime": "118 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/the-pout-pout-fish": {
+  "director": "Ricard Cussó",
+  "description": "Mr Fish, a prickly recluse, and Pip, a hyperactive sea dragon, must embark on a daunting undersea quest in search of a mythical, wish-granting fish to save their homes. Based on the bestselling children's book series.",
+  "runtime": "92 min",
+  "format": ""
  }
 }
