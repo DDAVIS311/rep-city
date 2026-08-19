@@ -77,21 +77,21 @@
   }
 
   /* Always-visible top bar: logo + search + (mobile) Filters + Schedule */
-  /* Logo on the left; search bar + filters stack in a column to its right, so the
-     filters align under the search and wrap onto multiple lines as needed. */
+  /* Grid: logo spans the left; search sits top-right and the filters align in a
+     row directly beneath it. (Grid so the same markup can rearrange on mobile,
+     where the filters drawer drops to a full-width row.) */
   .header-top {
-    display: flex;
-    align-items: flex-start;
-    gap: 16px;
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    grid-template-areas:
+      "logo search"
+      "logo controls";
+    column-gap: 16px;
+    row-gap: 10px;
+    align-items: start;
   }
-  .rc-logo { flex-shrink: 0; }
-  .header-main {
-    flex: 1;
-    min-width: 0;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-  }
+  .rc-logo { grid-area: logo; }
+  .header-main { grid-area: search; min-width: 0; }
   .search-row {
     display: flex;
     align-items: center;
@@ -99,8 +99,9 @@
   }
   .search-row .search-input { flex: 1; min-width: 0; margin: 0; }
 
-  /* Filter controls (city / status / theatre / reset) — wrap under the search bar */
+  /* Filter controls (city / status / theatre / reset) — under the search bar */
   .controls-panel {
+    grid-area: controls;
     display: flex;
     align-items: center;
     gap: 8px;
@@ -1055,18 +1056,23 @@
   @media (max-width: 700px) {
     header { padding: 8px 12px; gap: 8px; }
 
-    /* Compact logo: single-line wordmark, drop bulbs/kicker/tagline */
-    .rc-logo { padding: 4px 11px 3px; box-shadow: 0 0 0 2px var(--rc-bg), 0 0 12px rgba(240,181,74,.25); }
-    .rc-bulbs, .rc-kicker, .rc-tagline { display: none; }
-    .rc-wordmark { font-size: 21px; text-shadow: 0 0 8px rgba(240,181,74,.4); }
+    /* Keep the full (tall) marquee logo, just a touch smaller to leave room. */
+    .rc-logo { padding: 5px 12px 4px; }
+    .rc-wordmark { font-size: 22px; }
 
-    /* Stack: compact logo on its own row, then a full-width search row; filters
-       go in the drawer (full width, not cramped beside the logo). */
-    .header-top { flex-direction: column; align-items: stretch; gap: 8px; }
-    .rc-logo { align-self: flex-start; }
-    .search-row { gap: 8px; }
-    /* 16px avoids iOS Safari auto-zoom on focus */
-    .search-row .search-input { min-width: 0; font-size: 16px; }
+    /* Tall logo on the left; search fills the space to its right with the Filters
+       button + menu stacked beneath it; the filters drawer opens full-width below. */
+    .header-top {
+      grid-template-areas:
+        "logo search"
+        "controls controls";
+      column-gap: 10px;
+      row-gap: 8px;
+    }
+    .search-row { flex-wrap: wrap; gap: 8px; }
+    /* Search fills its column (row 1); Filters + menu wrap to row 2 beneath it.
+       16px avoids iOS Safari auto-zoom on focus. */
+    .search-row .search-input { flex: 1 1 100%; min-width: 0; font-size: 16px; }
     #filters-toggle { display: inline-flex; align-items: center; }
 
     /* Filters drawer: collapsed by default, opens on tap */
@@ -1146,6 +1152,7 @@
       </div>
     </div>
   </div>
+  </div>
 
   <div class="controls-panel" id="controls-panel">
     <div class="dropdown" id="city-dropdown">
@@ -1162,7 +1169,6 @@
     <div class="venue-filters" id="venue-filters"></div>
 
     <span class="status-bar" id="status-bar">Loading...</span>
-  </div>
   </div>
   </div>
 </header>
