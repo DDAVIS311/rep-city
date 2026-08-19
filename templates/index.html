@@ -1315,12 +1315,16 @@ function track(name, data) {
 }
 
 // Aggregate engagement ping to our own store (works without Vercel Pro; powers /demand).
+// sendBeacon survives the tab-opening navigation on ticket-link clicks.
 function serverEv(kind, value) {
   try {
-    fetch('/api/ev', {
-      method: 'POST', headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ kind, value }), keepalive: true
-    });
+    const body = JSON.stringify({ kind, value });
+    if (navigator.sendBeacon) {
+      navigator.sendBeacon('/api/ev', new Blob([body], { type: 'application/json' }));
+    } else {
+      fetch('/api/ev', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body, keepalive: true });
+    }
   } catch (_) {}
 }
 
