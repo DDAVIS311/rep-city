@@ -216,6 +216,20 @@ def _normalize_title(raw):
     return t.lower()
 
 
+def _display_title(raw):
+    """A readable title for the demand board: strip strand prefix, certificate and
+    format noise but KEEP original case, punctuation and '/' (unlike the dedup key,
+    so 'Midnight Run / 48 Hrs.' and 'There's Always Tomorrow' render properly)."""
+    t = unicodedata.normalize("NFKC", raw or "").strip()
+    if ": " in t:
+        t = t.split(": ", 1)[-1]
+    t = re.sub(r"[\(\[][^\)\]]*[\)\]]", " ", t)
+    t = _DEMAND_FMT_RE.sub(" ", t)
+    t = re.sub(r"\b(?:UK|US|EUROPEAN|WORLD|LONDON|INTERNATIONAL)\s+PREMIERE\b", " ", t, flags=re.I)
+    t = re.sub(r"\s{2,}", " ", t).strip(" -–—·/")
+    return t
+
+
 def _bump_demand(status, sid):
     """Increment the aggregate demand tally. Never raises — a demand-store hiccup
     must not break the user's want/skip action."""
@@ -223,10 +237,32 @@ def _bump_demand(status, sid):
         kv = _get_kv()
         if not kv:
             return
-        title = _normalize_title(_title_from_id(sid))
-        if not title:
+        raw = _title_from_id(sid)
+        key = _normalize_title(raw)
+        if not key:
             return
-        kv.zincrby("demand:want" if status == "want" else "demand:skip", 1, title)
+        kv.zincrby("demand:want" if status == "want" else "demand:skip", 1, key)
+        disp = _display_title(raw)          # normalized key -> readable label
+        if disp:
+            kv.hset("demand:label", key, disp)
+    except Exception:
+        pass
+
+
+# Aggregate engagement counters fed by POST /api/ev (privacy-preserving, no
+# per-user linkage): ticket-click intent by venue, and market interest by city.
+_EV_SETS = {"ticket": "clicks:venue", "city": "clicks:city"}
+
+
+def _bump_click(kind, value):
+    try:
+        kv = _get_kv()
+        if not kv:
+            return
+        dest = _EV_SETS.get(kind)
+        value = (value or "").strip()[:64]
+        if dest and value:
+            kv.zincrby(dest, 1, value)
     except Exception:
         pass
 
@@ -322,6 +358,15 @@ def update_state():
     resp = make_response(jsonify({"ok": True}))
     attach_user_cookie(resp, user_id)
     return resp
+
+
+@app.route("/api/ev", methods=["POST"])
+def track_ev():
+    """Lightweight aggregate engagement pings (ticket clicks / city selections).
+    Fire-and-forget: always returns ok, never blocks the UI."""
+    data = request.get_json(silent=True) or {}
+    _bump_click(data.get("kind"), data.get("value"))
+    return make_response(("", 204))
 
 
 @app.route("/api/state/bulk", methods=["POST"])
@@ -454,26 +499,34 @@ def demand_view():
         return ("State store not configured.", 503)
     want = _demand_top(kv, "demand:want")
     skip = _demand_top(kv, "demand:skip")
+    tix = _demand_top(kv, "clicks:venue")
+    cities = _demand_top(kv, "clicks:city")
+    try:
+        labels = kv.hgetall("demand:label") or {}
+    except Exception:
+        labels = {}
+    CITY_LABEL = {"LA": "Los Angeles", "NYC": "New York", "London": "London"}
+    film_disp = lambda k: labels.get(k) or k.title()
+    city_disp = lambda k: CITY_LABEL.get(k, k)
 
-    def table(title, rows):
+    def table(title, col, rows, disp):
         body = "".join(
-            f"<tr><td class='n'>{i+1}</td><td>{escape(t.title())}</td>"
+            f"<tr><td class='n'>{i+1}</td><td>{escape(disp(t))}</td>"
             f"<td class='c'>{c}</td></tr>"
             for i, (t, c) in enumerate(rows)
-        ) or "<tr><td colspan='3' class='empty'>No data yet.</td></tr>"
+        ) or f"<tr><td colspan='3' class='empty'>No data yet.</td></tr>"
         return (f"<section><h2>{title}</h2><table>"
-                f"<tr><th>#</th><th>Film</th><th>Count</th></tr>{body}</table></section>")
+                f"<tr><th>#</th><th>{col}</th><th>Count</th></tr>{body}</table></section>")
 
     html = f"""<!doctype html><html><head><meta charset=utf-8>
 <meta name=viewport content="width=device-width, initial-scale=1">
-<title>Rep City — Demand</title><style>
+<title>Rep City — Insights</title><style>
   body {{ font-family: -apple-system, system-ui, sans-serif; background:#0e0e10; color:#e8e8e8;
          margin:0; padding:24px; }}
   h1 {{ font-size:20px; margin:0 0 4px; }}
   .sub {{ color:#8a8a90; font-size:13px; margin-bottom:24px; }}
-  .cols {{ display:flex; gap:32px; flex-wrap:wrap; align-items:flex-start; }}
-  section {{ flex:1; min-width:280px; }}
-  h2 {{ font-size:14px; text-transform:uppercase; letter-spacing:.05em; color:#c8a04a; }}
+  .cols {{ display:grid; grid-template-columns:repeat(auto-fit,minmax(300px,1fr)); gap:28px 40px; align-items:start; }}
+  h2 {{ font-size:14px; text-transform:uppercase; letter-spacing:.05em; color:#c8a04a; margin-bottom:8px; }}
   table {{ border-collapse:collapse; width:100%; font-size:14px; }}
   th, td {{ text-align:left; padding:6px 10px; border-bottom:1px solid #232327; }}
   th {{ color:#8a8a90; font-weight:600; font-size:12px; }}
@@ -481,9 +534,14 @@ def demand_view():
   td.c {{ text-align:right; font-variant-numeric:tabular-nums; color:#c8a04a; font-weight:600; }}
   .empty {{ color:#6a6a70; }}
 </style></head><body>
-<h1>Rep City — Demand signal</h1>
-<div class=sub>Aggregate want / skip actions by film (normalized across venues &amp; formats).</div>
-<div class=cols>{table('Most wanted', want)}{table('Most skipped', skip)}</div>
+<h1>Rep City — Insights</h1>
+<div class=sub>Aggregate engagement (no per-user data). Films normalized across venues &amp; formats.</div>
+<div class=cols>
+  {table('Most wanted', 'Film', want, film_disp)}
+  {table('Most skipped', 'Film', skip, film_disp)}
+  {table('Ticket clicks', 'Venue', tix, lambda k: k)}
+  {table('City interest', 'City', cities, city_disp)}
+</div>
 </body></html>"""
     return html
 

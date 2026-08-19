@@ -1314,6 +1314,16 @@ function track(name, data) {
   try { if (window.va) window.va('event', data ? { name, data } : { name }); } catch (_) {}
 }
 
+// Aggregate engagement ping to our own store (works without Vercel Pro; powers /demand).
+function serverEv(kind, value) {
+  try {
+    fetch('/api/ev', {
+      method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ kind, value }), keepalive: true
+    });
+  } catch (_) {}
+}
+
 async function fetchScreenings() {
   const res = await fetch('/api/screenings');
   return res.json();
@@ -1411,6 +1421,7 @@ function buildCityFilters() {
       } else {
         activeCities.add(city);
         track('city_selected', { city });
+        serverEv('city', city);
       }
       savePrefs();
       buildCityFilters();
@@ -1943,7 +1954,10 @@ document.getElementById('sync-code-input').addEventListener('keydown', (e) => {
 // Ticket-link clicks (intent signal) — delegated so it covers cards + schedule rows
 document.addEventListener('click', (e) => {
   const a = e.target.closest && e.target.closest('a.btn-ticket');
-  if (a) track('tickets_click', { venue: a.dataset.venue || '', city: a.dataset.city || '' });
+  if (a) {
+    track('tickets_click', { venue: a.dataset.venue || '', city: a.dataset.city || '' });
+    serverEv('ticket', a.dataset.venue || '');
+  }
 });
 
 // Schedule list modal
