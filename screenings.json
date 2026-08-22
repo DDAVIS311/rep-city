@@ -1040,32 +1040,6 @@
     "director": "Kent Jones"
   },
   {
-    "title": "The Crime of the Century",
-    "date": "2026-08-22",
-    "time": "10:00 AM",
-    "format": "35mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3904?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "description": "A doctor who is also a \"mentalist\" confesses to a murder. The only problem is that the murder he's confessed to hasn't happened yet--although dead bodies are now starting to turn up all over the place. A reporter sets out to solve the \"mystery\".",
-    "runtime": "73 min",
-    "director": "",
-    "city": "LA"
-  },
-  {
-    "title": "Saturday Morning Picture Club: MUPPET TREASURE ISLAND (+ Craft Activities)",
-    "date": "2026-08-22",
-    "time": "10:15 AM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2672438.TcsSection_936",
-    "city": "London",
-    "description": "Join us from 10.15am for craft activities, before the film screening at 11am!    The Rio\u2019s beloved and historic Saturday Morning Picture Club continues with MUPPET TREASURE ISLAND, a swashbuckling musical adventure packed with pirates, treasure maps and Muppet mayhem.    Before the screening, we wil...",
-    "runtime": "99 min",
-    "director": "Brian Henson"
-  },
-  {
     "title": "The Samurai and the Prisoner",
     "date": "2026-08-22",
     "time": "10:50 AM",
@@ -1090,19 +1064,6 @@
     "description": "",
     "runtime": "108 min",
     "director": "Andrius Bla\u017eevicius"
-  },
-  {
-    "title": "Nancy Drew",
-    "date": "2026-08-22",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/nancy-drew-019db103-fddd-6a12-cf78-c41fe1e4486c",
-    "description": "Emma Roberts steps into the role of Nancy Drew in this contemporary adaptation of the iconic teen detective. When Nancy\u2019s father (Tate Donovan) gets a job that moves them to Los Angeles, he encourages her to behave like an average teenager and refrain from sleuthing. Unable to refrain from her passion, Nancy dives into a famous cold case involving the death of a movie star. The subject of hundreds of novels, and numerous film, television and video game adaptations, the character of Nancy Drew has been inspiring young women since the 1930s.",
-    "runtime": "97 min",
-    "director": "Andrew Fleming",
-    "city": "LA"
   },
   {
     "title": "CatVideoFest 2026",
@@ -1183,19 +1144,6 @@
     "director": ""
   },
   {
-    "title": "The Samurai and the Prisoner",
-    "date": "2026-08-22",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83373/84026",
-    "city": "NYC",
-    "description": "Kiyoshi Kurosawa\u2019s stately, meticulously composed period drama, set in 16th-century Japan, is a tense and metaphysical whodunit with the director\u2019s characteristic philosophical overtones.",
-    "runtime": "147 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
     "title": "THE SAME RIVER TWICE and Riverdogs",
     "date": "2026-08-22",
     "time": "12:15 PM",
@@ -1274,19 +1222,6 @@
     "director": ""
   },
   {
-    "title": "Franz",
-    "date": "2026-08-22",
-    "time": "12:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83703/83708",
-    "city": "NYC",
-    "description": "Her most ambitious work to date, acclaimed writer-director Agnieszka Holland\u2019s fevered and funny biopic gets thrillingly close to understanding Franz Kafka by refusing to pin him down to any one interpretation.",
-    "runtime": "127 min",
-    "director": "Agnieszka Holland"
-  },
-  {
     "title": "It Ends (Open Captioning)",
     "date": "2026-08-22",
     "time": "12:35 PM",
@@ -1332,24 +1267,11 @@
     "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3796?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "description": "Los Angeles street racer Dominic Toretto falls under the suspicion of the LAPD as a string of high-speed electronics truck robberies rocks the area. Brian O'Connor, an officer of the LAPD, joins the ranks of Toretto's highly skilled racing crew undercover to convict Toretto. However, O'Connor finds himself both enamored with this new world and in love with Toretto's sister, Mia. As a rival racing crew gains strength, O'Connor must decide where his loyalty really lies.",
     "runtime": "106 min",
     "director": "",
     "city": "LA"
-  },
-  {
-    "title": "Late Fame",
-    "date": "2026-08-22",
-    "time": "1:15 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83634/84054",
-    "city": "NYC",
-    "description": "In Kent Jones\u2019s marvelously witty second feature, a once-upon-a-time New York poet (Willem Dafoe) gets an ego boost when he is welcomed into the world of an emerging literary salon, but must reckon with the authenticity of his newfound circle of twentysomething admirers.",
-    "runtime": "96 min",
-    "director": "Kent Jones"
   },
   {
     "title": "How to Divorce During the War",
@@ -1391,32 +1313,6 @@
     "director": "Matt Johnson"
   },
   {
-    "title": "Tony",
-    "date": "2026-08-22",
-    "time": "1:30 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/film/tony/",
-    "city": "London",
-    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-    "runtime": "106 min",
-    "director": "Matt Johnson"
-  },
-  {
-    "title": "The Invite",
-    "date": "2026-08-22",
-    "time": "1:45 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17546/",
-    "city": "London",
-    "description": "The Invite is a marital dark comedy directed by Olivia Wilde (Booksmart/Don\u2019t Worry Darling), adapted from the 2020 Spanish film The People Upstairs. It follows Joe and Angela, an unhappy, bickering San Francisco couple who host their enigmatic, sexually uninhibited upstairs neighbors for a chaotic dinner party that quickly spirals into raw, hilarious emotional warfare. Warning: This film contains sequences with flashing or flickering lights that may affect individuals with photosensitivity. Viewer discretion is advised.",
-    "runtime": "107 min",
-    "director": "Olivia Wilde"
-  },
-  {
     "title": "Wild Inside",
     "date": "2026-08-22",
     "time": "1:50 PM",
@@ -1430,19 +1326,6 @@
     "director": "Penny Lane"
   },
   {
-    "title": "LADY",
-    "date": "2026-08-22",
-    "time": "1:50 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2793706.TcsSection_1299",
-    "city": "London",
-    "description": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession with the spotlight takes a surreal turn when she starts becoming\u2026 invisible. Blending mockumentary and magical realism, Lady satirises our ...",
-    "runtime": "97 min",
-    "director": "Samuel Abrahams"
-  },
-  {
     "title": "The Mummy (1999)",
     "date": "2026-08-22",
     "time": "2:00 pm",
@@ -1454,19 +1337,6 @@
     "runtime": "125 min",
     "director": "Stephen Sommers",
     "city": "LA"
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "date": "2026-08-22",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2793752.TcsSection_936",
-    "city": "London",
-    "description": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, ...",
-    "runtime": "111 min",
-    "director": "Jane Shoenbrun"
   },
   {
     "title": "Happy Hour",
@@ -1599,19 +1469,6 @@
     "city": "LA"
   },
   {
-    "title": "The Samurai and the Prisoner",
-    "date": "2026-08-22",
-    "time": "3:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83373/84028",
-    "city": "NYC",
-    "description": "Kiyoshi Kurosawa\u2019s stately, meticulously composed period drama, set in 16th-century Japan, is a tense and metaphysical whodunit with the director\u2019s characteristic philosophical overtones.",
-    "runtime": "147 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "date": "2026-08-22",
     "time": "3:00 PM",
@@ -1623,110 +1480,6 @@
     "description": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director\u2026",
     "runtime": "112 min",
     "director": "Jane Schoenbrun"
-  },
-  {
-    "title": "Franz",
-    "date": "2026-08-22",
-    "time": "3:15 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83703/83709",
-    "city": "NYC",
-    "description": "Her most ambitious work to date, acclaimed writer-director Agnieszka Holland\u2019s fevered and funny biopic gets thrillingly close to understanding Franz Kafka by refusing to pin him down to any one interpretation.",
-    "runtime": "127 min",
-    "director": "Agnieszka Holland"
-  },
-  {
-    "title": "Tony",
-    "date": "2026-08-22",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82616?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-    "runtime": "106 min",
-    "director": "Matt Johnson"
-  },
-  {
-    "title": "Delicatessen",
-    "date": "2026-08-22",
-    "time": "3:35 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627199",
-    "city": "London",
-    "description": "In a post-apocalyptic world where there is a paucity of food, Clapet, a butcher and landlord of a building, lures people and butchers them to sell to the apartment's residents at low prices.",
-    "runtime": "99 min",
-    "director": "Jean-Pierre Jeunet, Marc Caro"
-  },
-  {
-    "title": "Late Fame",
-    "date": "2026-08-22",
-    "time": "3:45 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83634/84053",
-    "city": "NYC",
-    "description": "In Kent Jones\u2019s marvelously witty second feature, a once-upon-a-time New York poet (Willem Dafoe) gets an ego boost when he is welcomed into the world of an emerging literary salon, but must reckon with the authenticity of his newfound circle of twentysomething admirers.",
-    "runtime": "96 min",
-    "director": "Kent Jones"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "date": "2026-08-22",
-    "time": "3:45 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17547/",
-    "city": "London",
-    "description": "The infamous Camp Miasma slasher franchise is getting rebooted yet again. But when the latest movie\u2019s director becomes obsessed with the mysterious, reclusive actress who played the \u201cfinal girl\u201d in the original film, a whole new kind of slasher emerges from the bottom of the lake. Warning: This film contains sequences with flashing or flickering lights that may affect individuals with photosensitivity. Viewer discretion is advised.",
-    "runtime": "112 min",
-    "director": "Jane Schoenbrun"
-  },
-  {
-    "title": "Lady (15)",
-    "date": "2026-08-22",
-    "time": "3:50 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/lady",
-    "city": "London",
-    "description": "Samuel Abrahams serves up this delightfully odd mockumentary: an eccentric aristocrat ( Fleabag 's Sian Clifford) ropes a struggling filmmaker into documenting her gloriously mundane life.",
-    "runtime": "95 min",
-    "director": "Samuel Abrahams"
-  },
-  {
-    "title": "Tony (15) (AD)",
-    "date": "2026-08-22",
-    "time": "3:50 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/parent-baby-screening-tony",
-    "city": "London",
-    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, carving out a slice of a summer that will shape the course of his life.",
-    "runtime": "106 min",
-    "director": "Matt Johnson"
-  },
-  {
-    "title": "Spa Weekend",
-    "date": "2026-08-22",
-    "time": "3:55 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82619?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Three friends go on a spa weekend that descends into chaos when their trainwreck friend joins, leading to hilarious consequences.",
-    "runtime": "97 min",
-    "director": "Jon Lucas, Scott Moore"
   },
   {
     "title": "Pure Cinema Presents BREAKING IN",
@@ -1768,19 +1521,6 @@
     "director": "Laurent Cantet"
   },
   {
-    "title": "Oshima: Boy",
-    "date": "2026-08-22",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/oshima-boy",
-    "city": "London",
-    "description": "When a man crippled during the war remarries, he and his new bride each bring a child from their previous relationship. Unable to hold a normal job, the father forces his family to participate in fake hit-and-run incidents, to extort money from the unwitting drivers. Based on a shocking true story and making brilliant use of its widescreen cinematography, Boy is one of \u014cshima's most beautiful and restrained films.",
-    "runtime": "105 min",
-    "director": "Nagisa \u014cshima"
-  },
-  {
     "title": "Dear You",
     "date": "2026-08-22",
     "time": "4:00 PM",
@@ -1792,45 +1532,6 @@
     "description": "For years, Grandma Shurou from Chaoshan has lived on the letters and remittances from her husband who left for Nanyang to\u2026",
     "runtime": "118 min",
     "director": "Lan Hongchun"
-  },
-  {
-    "title": "STOP! THAT! TRAIN!",
-    "date": "2026-08-22",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2793691.TcsSection_1299",
-    "city": "London",
-    "description": "From the producers of RuPaul\u2019s Drag Race and the director of Hairspray comes the silliest, stupidest, and most chaotically funny comedy of the year. Inspired by classic spoofs like Airplane! and The Naked Gun , STOP! THAT! TRAIN! follows a catastrophic \u201cStormaganza\u201d as it threatens to derail a runaw...",
-    "runtime": "92 min",
-    "director": "Adam Shankman"
-  },
-  {
-    "title": "CASSANDRA CAT",
-    "date": "2026-08-22",
-    "time": "4:00 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/586",
-    "city": "London",
-    "description": "A magician living in a small Czech town discovers that his cat possesses a strange power: whenever people look at it while wearing special glasses, their true personalities and hidden desires are revealed in bursts of vivid colour. The cat\u2019s arrival throws the town into chaos, exposing hypocrisy, jealousy, and repression among its respectable citizens.\nBlending fantasy, satire, and children\u2019s fable, the film uses playful visual experimentation to critique conformity and social performance. Its shifting colours and whimsical tone mask a sharp commentary on authority, desire, and the fear of emotional honesty.",
-    "runtime": "104 min",
-    "director": "Vojt\u011bch Jasn\u00fd"
-  },
-  {
-    "title": "The Invite",
-    "date": "2026-08-22",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82617?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A couple invites the neighbours over for cocktails, igniting an evening full of unexpected twists and turns, revealing deeply repressed emotions and unexplored sexuality.",
-    "runtime": "106 min",
-    "director": "Olivia Wilde"
   },
   {
     "title": "The Samurai and the Prisoner",
@@ -1859,19 +1560,6 @@
     "director": "Adam Meeks"
   },
   {
-    "title": "The End of Oak Street",
-    "date": "2026-08-22",
-    "time": "4:10 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82618?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighbourhood to someplace unknown.f",
-    "runtime": "99 min",
-    "director": "David Robert Mitchell"
-  },
-  {
     "title": "The Fast and the Furious (25th Anniversary)",
     "date": "2026-08-22",
     "time": "4:15 PM",
@@ -1896,32 +1584,6 @@
     "description": "\u201cA deliberately miscast Jean-Pierre L\u00e9aud \u2013 in all of his Parisian, fidgety angst \u2013 stars as the legendary Billy the Kid in this shaggy acid western\u2026. Having single-handedly held up the Wells Fargo stagecoach, the improbable hero struggles to transport his loot when he (quite literally) stumbles across Ann and forcibly enlists her help. Cruelty soon gives way to romance and complicity amid a backdrop of farcical vengeance and a haze of trippy surrealism. Edited by Jean Eustache and scored by the filmmaker\u2019s brother, Patrice Moullet, A GIRL IS A GUN is a low-budget riff on the great American westerns, a nod to Howard Hawks, that veers closer to a comedic version of Philippe Garrel\u2019s psychedelic desert Zanzibar films. Shot in just six days with a tiny crew, the film is a strange mix of homage, imagination, spoof, and sonic and visual dissonance enhanced by the extreme otherworldliness of Luc Moullet\u2019s favorite jagged landscape.\u201d \u2013Andr\u00e9a Picard, TIFF",
     "runtime": "100 min",
     "director": "Luc Moullet"
-  },
-  {
-    "title": "Lady",
-    "date": "2026-08-22",
-    "time": "4:15 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17548/",
-    "city": "London",
-    "description": "Lady Isabella, aspires to be in the spotlight, and local talent show 'Stately Stars' provides her a break. However, high pressures and a loss of self lead to a surreal situation on her grand estate.",
-    "runtime": "100 min",
-    "director": "Samuel Abrahams"
-  },
-  {
-    "title": "The Odyssey",
-    "date": "2026-08-22",
-    "time": "4:20 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82620?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Odyssey (2026), Christopher Nolan\u2019s epic adaptation of Homer\u2019s classic, follows Greek hero Odysseus on a perilous journey home after the Trojan War, encountering gods, monsters, and treacherous seas while his family faces turmoil in Ithaca Photo Id may required for 15 certificate films",
-    "runtime": "172 min",
-    "director": "Christopher Nolan"
   },
   {
     "title": "Welcome Space Brothers",
@@ -1963,19 +1625,6 @@
     "director": "Kent Jones"
   },
   {
-    "title": "The Odyssey",
-    "date": "2026-08-22",
-    "time": "4:45 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/film/the-odyssey/",
-    "city": "London",
-    "description": "Christopher Nolan's new vision of Homer's epic tale. Odysseus, king of Ithaca, embarks on a perilous journey to return home after the Trojan War...",
-    "runtime": "172 min",
-    "director": "Christopher Nolan"
-  },
-  {
     "title": "NO MORE EXCUSES",
     "date": "2026-08-22",
     "time": "5:00 PM",
@@ -2002,32 +1651,6 @@
     "director": ""
   },
   {
-    "title": "The Invite (15) (AD)",
-    "date": "2026-08-22",
-    "time": "5:00 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/the-invite",
-    "city": "London",
-    "description": "Seth Rogen and Olivia Wilde are the subjects in this tense and hilarious study of a failing marriage.",
-    "runtime": "108 min",
-    "director": "Olivia Wilde"
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "date": "2026-08-22",
-    "time": "5:00 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2793753.TcsSection_936",
-    "city": "London",
-    "description": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, ...",
-    "runtime": "111 min",
-    "director": "Jane Shoenbrun"
-  },
-  {
     "title": "It Ends",
     "date": "2026-08-22",
     "time": "5:10 PM",
@@ -2052,19 +1675,6 @@
     "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer\u2026",
     "runtime": "106 min",
     "director": "Matt Johnson"
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "date": "2026-08-22",
-    "time": "5:20 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82621?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
-    "runtime": "144 min",
-    "director": "Destin Daniel Cretton"
   },
   {
     "title": "FINIAN'S RAINBOW",
@@ -2106,19 +1716,6 @@
     "director": "Robb Moss"
   },
   {
-    "title": "Trainspotting - 30th Anniversary",
-    "date": "2026-08-22",
-    "time": "5:45 PM",
-    "format": "4K DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627195",
-    "city": "London",
-    "description": "Heroin addict Mark Renton (Ewan McGregor) stumbles through bad ideas and sobriety attempts with his unreliable friends -- Sick Boy (Jonny Lee Miller), Begbie (Robert Carlyle), Spud (Ewen Bremner) and Tommy (Kevin McKidd). He also has an underage girlfriend, Diane (Kelly Macdonald), along for the ride. After cleaning up and moving from Edinburgh to London, Mark finds he can't escape the life he left behind when Begbie shows up at his front door on the lam, and a scheming Sick Boy follows.",
-    "runtime": "93 min",
-    "director": "Danny Boyle"
-  },
-  {
     "title": "FILIPI\u00d1ANA",
     "date": "2026-08-22",
     "time": "6:00 PM",
@@ -2158,58 +1755,6 @@
     "director": "Kiyoshi Kurosawa"
   },
   {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "date": "2026-08-22",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/teenage-sex-and-death-at-camp-miasma",
-    "city": "London",
-    "description": "",
-    "runtime": "112 min",
-    "director": ""
-  },
-  {
-    "title": "Almost Famous",
-    "date": "2026-08-22",
-    "time": "6:00 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/film/1258842/almost-famous",
-    "city": "London",
-    "description": "Set in 1973, it chronicles the funny and often poignant coming of age of 15-year-old William, an unabashed music fan who is inspired by the seminal bands of the time. When his love of music lands him an assignment from Rolling Stone magazine to interview the up-and-coming band Stillwater -- fronted by lead guitar Russell Hammond and lead singer Jeff Bebe William embarks on an eye-opening journey with the band's tour, despite the objections of his protective mother.",
-    "runtime": "123 min",
-    "director": "Cameron Crowe"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma (15) (AD)",
-    "date": "2026-08-22",
-    "time": "6:05 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/teenage-sex-and-death-at-camp-miasma",
-    "city": "London",
-    "description": "Bloody and bewildering, Jane Schoenbrun brings a film-within-a-film that unpacks a meta world of queer desire, pop-cultural gaze and identity. Starring Hannah Einbinder and Gillian Anderson.",
-    "runtime": "112 min",
-    "director": "Jane Schoenbrun"
-  },
-  {
-    "title": "Tony",
-    "date": "2026-08-22",
-    "time": "6:10 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82622?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-    "runtime": "106 min",
-    "director": "Matt Johnson"
-  },
-  {
     "title": "Late Fame",
     "date": "2026-08-22",
     "time": "6:15 PM",
@@ -2221,58 +1766,6 @@
     "description": "In Kent Jones\u2019s marvelously witty second feature, a once-upon-a-time New York poet (Willem Dafoe) gets an ego boost when he is welcomed into the world of an emerging literary salon, but must reckon with the authenticity of his newfound circle of twentysomething admirers.",
     "runtime": "96 min",
     "director": "Kent Jones"
-  },
-  {
-    "title": "Tony (15) (AD)",
-    "date": "2026-08-22",
-    "time": "6:15 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/parent-baby-screening-tony",
-    "city": "London",
-    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, carving out a slice of a summer that will shape the course of his life.",
-    "runtime": "106 min",
-    "director": "Matt Johnson"
-  },
-  {
-    "title": "Tony",
-    "date": "2026-08-22",
-    "time": "6:15 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17549/",
-    "city": "London",
-    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-    "runtime": "106 min",
-    "director": "Matt Johnson"
-  },
-  {
-    "title": "LADY",
-    "date": "2026-08-22",
-    "time": "6:15 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2793712.TcsSection_1299",
-    "city": "London",
-    "description": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession with the spotlight takes a surreal turn when she starts becoming\u2026 invisible. Blending mockumentary and magical realism, Lady satirises our ...",
-    "runtime": "97 min",
-    "director": "Samuel Abrahams"
-  },
-  {
-    "title": "Coyote vs. Acme",
-    "date": "2026-08-22",
-    "time": "6:20 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82623?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A story set in the ACME warehouse, the manufacturer of anything and everything used by the Looney Tunes characters.",
-    "runtime": "103 min",
-    "director": "Dave Green"
   },
   {
     "title": "Union County",
@@ -2301,45 +1794,6 @@
     "director": "Olivia Wilde"
   },
   {
-    "title": "Stop! That! Train!",
-    "date": "2026-08-22",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17550/",
-    "city": "London",
-    "description": "A bonkers, star-studded, disaster comedy that follows best friends Tess and DeeDee, train stewardesses who must join forces with the snobby first-class attendants and US President Judy Gagwell to save the day when a catastrophic \u201cStormaganza\u201d threatens to derail the high-speed train. Warning: This film contains sequences with flashing or flickering lights that may affect individuals with photosensitivity. Viewer discretion is advised.",
-    "runtime": "90 min",
-    "director": "Adam Shankman"
-  },
-  {
-    "title": "EXISTENZ",
-    "date": "2026-08-22",
-    "time": "6:30 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/587",
-    "city": "London",
-    "description": "Game design as body horror; virtual reality as wetware infection. David Cronenberg\u2019s late-century provocation drops us into a near-future where entertainment isn\u2019t streamed or projected but surgically plugged into the spine. Organic consoles pulse like exposed organs, bio-ports gape in the lower back, and reality itself flickers under interrogation.\nThis is conspiracy thriller reduced to viscera: guns grown from bone, fast-food mutations, corporate espionage played out in abattoirs and back rooms. Jennifer Jason Leigh\u2019s celebrity game designer navigates shifting layers of simulation with manic conviction, while Jude Law plays the neophyte dragged \u2014 willingly or not \u2014 into recursive worlds where authorship, agency, and even identity are up for grabs.\nCronenberg treats technology not as sleek futurism but as penetrative biology. Every interface is sexual, every system unstable. eXistenZ doesn\u2019t ask whether we\u2019re inside a game; it suggests the question is already obsolete.",
-    "runtime": "97 min",
-    "director": "David Cronenberg"
-  },
-  {
-    "title": "The End of Oak Street",
-    "date": "2026-08-22",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82624?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighbourhood to someplace unknown.f",
-    "runtime": "99 min",
-    "director": "David Robert Mitchell"
-  },
-  {
     "title": "How to Divorce During the War",
     "date": "2026-08-22",
     "time": "6:40 PM",
@@ -2351,32 +1805,6 @@
     "description": "",
     "runtime": "108 min",
     "director": "Andrius Bla\u017eevicius"
-  },
-  {
-    "title": "Songs of Forgotten Trees",
-    "date": "2026-08-22",
-    "time": "6:40 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/songs-of-forgotten-trees",
-    "city": "London",
-    "description": "Thooya, a migrant and aspiring actress, secretly works as a part time sex worker in Mumbai. When she sublets her sugar daddy\u2019s flat to Swetha, a call-centre employee and a migrant, an unexpected connection begins to form. Their lives, seemingly worlds apart, slowly entangle. Amid the city\u2019s chaos, they share silences, stories, and small acts of care. But as buried desires and past wounds emerge, the fragile bond is tested. What unfolds is not drama, but a quiet blooming of selfhood, survival, and strange and platonic kinship between women navigating a world that rarely sees them.",
-    "runtime": "77 min",
-    "director": "Anuparna Roy"
-  },
-  {
-    "title": "The Invite",
-    "date": "2026-08-22",
-    "time": "6:40 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82625?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A couple invites the neighbours over for cocktails, igniting an evening full of unexpected twists and turns, revealing deeply repressed emotions and unexplored sexuality.",
-    "runtime": "106 min",
-    "director": "Olivia Wilde"
   },
   {
     "title": "DEADLOCK",
@@ -2483,19 +1911,6 @@
     "director": "Gregg Araki"
   },
   {
-    "title": "The Odyssey (15) 35mm",
-    "date": "2026-08-22",
-    "time": "7:25 PM",
-    "format": "35mm",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/the-odyssey-35mm",
-    "city": "London",
-    "description": "Christopher Nolan brings one of the world's most famous ancient texts to life in this mythic action epic starring Matt Damon, Anne Hathaway, Tom Holland and more, screened on glorious 35mm film.",
-    "runtime": "172 min",
-    "director": "Christopher Nolan"
-  },
-  {
     "title": "The Fast and the Furious (25th Anniversary)",
     "date": "2026-08-22",
     "time": "7:30 PM",
@@ -2587,32 +2002,6 @@
     "director": "Stanley Kwan"
   },
   {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "date": "2026-08-22",
-    "time": "8:00 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2793754.TcsSection_936",
-    "city": "London",
-    "description": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, ...",
-    "runtime": "111 min",
-    "director": "Jane Shoenbrun"
-  },
-  {
-    "title": "The Odyssey",
-    "date": "2026-08-22",
-    "time": "8:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82626?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Odyssey (2026), Christopher Nolan\u2019s epic adaptation of Homer\u2019s classic, follows Greek hero Odysseus on a perilous journey home after the Trojan War, encountering gods, monsters, and treacherous seas while his family faces turmoil in Ithaca Photo Id may required for 15 certificate films",
-    "runtime": "172 min",
-    "director": "Christopher Nolan"
-  },
-  {
     "title": "SHERMAN'S MARCH",
     "date": "2026-08-22",
     "time": "8:10 PM",
@@ -2639,32 +2028,6 @@
     "director": ""
   },
   {
-    "title": "Ish",
-    "date": "2026-08-22",
-    "time": "8:15 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/ish",
-    "city": "London",
-    "description": "Set and filmed in the South Asian and Middle Eastern community in Luton, Ish follows 12-year-old best friends, Ish (Farhan Hasnat) and Maram (Yahya Kitana) who are navigating childhood against a backdrop of political tension and personal loss. After a police stop and search, where Maram is searched and Ish manages to run away, they wrestle to hold onto their friendship. Written and directed by acclaimed artist Imran Perretta and co-written by Enda Walsh ( Hunger ), Ish was shot in black and white by cinematographer Jermaine Canute Edwards ( My Father\u2019s Shadow ). The film is less contemporary urban drama and more a classical coming-of-age story in the tradition of The Apu Trilogy , Kes and Ratcatcher .",
-    "runtime": "90 min",
-    "director": "Imran Perretta"
-  },
-  {
-    "title": "Solaris (1972)",
-    "date": "2026-08-22",
-    "time": "8:15 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627196",
-    "city": "London",
-    "description": "A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.",
-    "runtime": "167 min",
-    "director": "Andrei Tarkovsky"
-  },
-  {
     "title": "Lady",
     "date": "2026-08-22",
     "time": "8:15 PM",
@@ -2676,19 +2039,6 @@
     "description": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But\u2026",
     "runtime": "97 min",
     "director": "Samuel Abrahams"
-  },
-  {
-    "title": "STOP! THAT! TRAIN!",
-    "date": "2026-08-22",
-    "time": "8:15 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2793692.TcsSection_1299",
-    "city": "London",
-    "description": "From the producers of RuPaul\u2019s Drag Race and the director of Hairspray comes the silliest, stupidest, and most chaotically funny comedy of the year. Inspired by classic spoofs like Airplane! and The Naked Gun , STOP! THAT! TRAIN! follows a catastrophic \u201cStormaganza\u201d as it threatens to derail a runaw...",
-    "runtime": "92 min",
-    "director": "Adam Shankman"
   },
   {
     "title": "ONE FROM THE HEART: REPRISE",
@@ -2704,32 +2054,6 @@
     "director": "Francis Ford Coppola"
   },
   {
-    "title": "Mastercard Outdoor Cinema: Weathering With You (12A)",
-    "date": "2026-08-22",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/outdoor-cinema-weathering-with-you",
-    "city": "London",
-    "description": "In this year\u2019s Outdoor Cinema, we\u2019re embracing the rain; with Makoto Shinkai\u2019s follow-up to Your Name, a resplendent anime fantasy about a girl who has the power to stop the rain.",
-    "runtime": "112 min",
-    "director": "Makoto Shinkai"
-  },
-  {
-    "title": "Outdoor Cinema: Weathering With You (12A) (AD & Captioned)",
-    "date": "2026-08-22",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/outdoor-cinema-weathering-with-you",
-    "city": "London",
-    "description": "In this year\u2019s Outdoor Cinema, we\u2019re embracing the rain; with Makoto Shinkai\u2019s follow-up to Your Name, a resplendent anime fantasy about a girl who has the power to stop the rain.",
-    "runtime": "112 min",
-    "director": "Makoto Shinkai"
-  },
-  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "date": "2026-08-22",
     "time": "8:30 PM",
@@ -2743,32 +2067,6 @@
     "director": "Jane Schoenbrun"
   },
   {
-    "title": "Spider-Man: Brand New Day",
-    "date": "2026-08-22",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82627?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
-    "runtime": "144 min",
-    "director": "Destin Daniel Cretton"
-  },
-  {
-    "title": "Tony (15) (AD)",
-    "date": "2026-08-22",
-    "time": "8:35 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/parent-baby-screening-tony",
-    "city": "London",
-    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, carving out a slice of a summer that will shape the course of his life.",
-    "runtime": "106 min",
-    "director": "Matt Johnson"
-  },
-  {
     "title": "BILLY LIAR",
     "date": "2026-08-22",
     "time": "8:40 PM",
@@ -2780,45 +2078,6 @@
     "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
     "runtime": "98 min",
     "director": "John Schlesinger"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "date": "2026-08-22",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/teenage-sex-and-death-at-camp-miasma",
-    "city": "London",
-    "description": "",
-    "runtime": "112 min",
-    "director": ""
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma (15) (AD)",
-    "date": "2026-08-22",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/teenage-sex-and-death-at-camp-miasma",
-    "city": "London",
-    "description": "Bloody and bewildering, Jane Schoenbrun brings a film-within-a-film that unpacks a meta world of queer desire, pop-cultural gaze and identity. Starring Hannah Einbinder and Gillian Anderson.",
-    "runtime": "112 min",
-    "director": "Jane Schoenbrun"
-  },
-  {
-    "title": "Tony",
-    "date": "2026-08-22",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82630?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-    "runtime": "106 min",
-    "director": "Matt Johnson"
   },
   {
     "title": "Franz",
@@ -2847,19 +2106,6 @@
     "director": "Kent Jones"
   },
   {
-    "title": "Salo, Or The 120 Days of Sodom",
-    "date": "2026-08-22",
-    "time": "8:45 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627201",
-    "city": "London",
-    "description": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
-    "runtime": "117 min",
-    "director": "Pier Paolo Pasolini"
-  },
-  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "date": "2026-08-22",
     "time": "8:45 PM",
@@ -2886,32 +2132,6 @@
     "director": "Matt Johnson"
   },
   {
-    "title": "TENEBRAE",
-    "date": "2026-08-22",
-    "time": "8:45 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/588",
-    "city": "London",
-    "description": "A series of brutal murders terrorizes a small Italian town, leaving the police baffled and the community in fear. A young woman becomes the focal point of the investigation as strange occurrences and mysterious figures point toward a supernatural presence, suggesting that the killings may be linked to dark, hidden forces rather than ordinary criminals.\nDario Argento delivers a masterful giallo that combines intricate murder mysteries with visually stunning set pieces and suspenseful camerawork. The film\u2019s stylish violence, eerie soundtrack, and tense pacing create a hypnotic, unsettling atmosphere that has cemented it as a cornerstone of Italian horror cinema.",
-    "runtime": "96 min",
-    "director": "Dario Argento"
-  },
-  {
-    "title": "Spa Weekend",
-    "date": "2026-08-22",
-    "time": "8:45 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82628?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Three friends go on a spa weekend that descends into chaos when their trainwreck friend joins, leading to hilarious consequences.",
-    "runtime": "97 min",
-    "director": "Jon Lucas, Scott Moore"
-  },
-  {
     "title": "Tony",
     "date": "2026-08-22",
     "time": "8:45 PM",
@@ -2936,19 +2156,6 @@
     "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
     "runtime": "147 min",
     "director": "Kiyoshi Kurosawa"
-  },
-  {
-    "title": "The End of Oak Street",
-    "date": "2026-08-22",
-    "time": "8:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82629?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighbourhood to someplace unknown.f",
-    "runtime": "99 min",
-    "director": "David Robert Mitchell"
   },
   {
     "title": "LATE FAME",
@@ -2988,19 +2195,6 @@
     "description": "Kiyoshi Kurosawa\u2019s stately, meticulously composed period drama, set in 16th-century Japan, is a tense and metaphysical whodunit with the director\u2019s characteristic philosophical overtones.",
     "runtime": "147 min",
     "director": "Kiyoshi Kurosawa"
-  },
-  {
-    "title": "The Invite",
-    "date": "2026-08-22",
-    "time": "9:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82631?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A couple invites the neighbours over for cocktails, igniting an evening full of unexpected twists and turns, revealing deeply repressed emotions and unexplored sexuality.",
-    "runtime": "106 min",
-    "director": "Olivia Wilde"
   },
   {
     "title": "Train to Busan",
@@ -3469,19 +2663,6 @@
     "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island Sunday 2nd Aug 11am Charity Screening All proceeds from this performance will be donated to MEDICINEMA Cinema-based healthcare programmes inside hospitals",
     "runtime": "88 min",
     "director": "Cal Brunker"
-  },
-  {
-    "title": "The Great Muppet Caper",
-    "date": "2026-08-23",
-    "time": "12:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4368697/",
-    "description": "Jewel heists, intrigue, an all-star cast, and the eternal love story of a frog and a pig \u2013 this Muppetty installment has got it all! This time around, Kermit and Fozzie are newspaper reporters sent to London to interview Lady Holiday (The legendary Diana Rigg), a wealthy fashion designer whose priceless diamond necklace is stolen. Kermit meets and falls in love with her secretary, none other than that luminous porcine Miss Piggy. The jewel thieves strike again, and this time frame Miss Piggy. It\u2019s up to Kermit and Muppets to bring the real culprits to justice.",
-    "runtime": "95 min",
-    "director": "Jim Henson",
-    "city": "LA"
   },
   {
     "title": "The Samurai and the Prisoner",
@@ -13221,19 +12402,6 @@
     "director": "Alex Cox"
   },
   {
-    "title": "Possession",
-    "date": "2026-08-28",
-    "time": "9:45 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4444822/",
-    "description": "Vidiots remembers the life and legacy of the incredible Sam Neill with a special screening of Andrzej \u017bu\u0142awski\u2019s twisted body horror Possession .",
-    "runtime": "124 min",
-    "director": "Andrzej \u017bu\u0142awski",
-    "city": "LA"
-  },
-  {
     "title": "One Missed Call",
     "date": "2026-08-28",
     "time": "9:45 pm",
@@ -19103,7 +18271,7 @@
     "format": "DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31626265",
+    "url": "https://princecharlescinema.com/film/11449221/the-room-with-tommy-wiseau-live-on-stage",
     "city": "London",
     "description": "PLEASE NOTE - TOMMY WISEAU WILL BE TAKING TO THE STAGE AT THE FILMS ADVERTISED TIME! Please arrive 30 mins early to collect your ticket, take your seat, grab merch and meet Tommy before the film starts! Yes we know the shows are allocated seating, but if you all arrive at the advertised time we end up with a very busy foyer / bar & you won't get to your seat when the q&a starts! ----------------------------- Tommy Wiseau returns to The Prince Charles Cinema, live and in person, in Septmeber 2026 to once again answer your questions, pose for photos*, sign autographs** and introduce a host of screenings of the 2003 \"masterpiece\", THE ROOM! So what are you waiting for? Get your handful of PLASTIC spoons***, your tuxedos at the ready and prepare to take part in the most \"unique\" cinematic experience on the planet... Tommy Wiseau's, THE ROOM! * - Tommy requests that you purchase some of his merchandise before posing for photographs [he'll have the usual DVDs, BluRays, Posters, Pants, Belts, Dogs... you name it, he's selling it!] ** - Same applies for photo opps as it does for signatures, pick up some merch to put a smile on Tommy's face for your photo together. *** - No Metal Spoons, No Inflatables, No American Footballs!!! If found throwing any of these, they will be confiscated and you will be asked to leave with no refund. Please consider the environment and don't go overboard with plastic spoons. A handful is all you need to get you through the screening. If any customers are found bringing in an overabundance of plastic spoons, we will confiscate them and give you what we deem to be an appropriate amount for the evening. ----------------------------- About THE ROOM Johnny is a successful banker who lives happily in a San Francisco townhouse with his fianc\u00e9e, Lisa. One day, inexplicably, she gets bored of him and decides to seduce Johnny's best friend, Mark. From there, nothing will be the same again. www.TheRoomMovie.com \"If a lot of people love each other the world will be a better place to live.\" - Tommy Wiseau",
     "runtime": "99 min",
