@@ -1079,19 +1079,6 @@
     "city": "LA"
   },
   {
-    "title": "Lady",
-    "date": "2026-08-23",
-    "time": "10:45 AM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17553/",
-    "city": "London",
-    "description": "Lady Isabella, aspires to be in the spotlight, and local talent show 'Stately Stars' provides her a break. However, high pressures and a loss of self lead to a surreal situation on her grand estate.",
-    "runtime": "100 min",
-    "director": "Samuel Abrahams"
-  },
-  {
     "title": "The Samurai and the Prisoner",
     "date": "2026-08-23",
     "time": "10:50 AM",
@@ -1170,19 +1157,6 @@
     "director": "Wolfgang Reitherman"
   },
   {
-    "title": "Members' Screening: Tony (15) (AD)",
-    "date": "2026-08-23",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/members-screening-tony",
-    "city": "London",
-    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, carving out a slice of a summer that will shape the course of his life.",
-    "runtime": "106 min",
-    "director": "Matt Johnson"
-  },
-  {
     "title": "Monsieur Hulot's Holiday",
     "date": "2026-08-23",
     "time": "11:00 AM",
@@ -1194,19 +1168,6 @@
     "description": "Summer holidays at The Garden Cinema would not be complete without Monsieur Hulot. Jacques Tati\u2019s endearing clown, takes a holiday at\u2026",
     "runtime": "83 min",
     "director": "Jacques Tati"
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "date": "2026-08-23",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82633?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
-    "runtime": "144 min",
-    "director": "Destin Daniel Cretton"
   },
   {
     "title": "Union County",
@@ -1222,45 +1183,6 @@
     "director": "Adam Meeks"
   },
   {
-    "title": "Minions and Monsters",
-    "date": "2026-08-23",
-    "time": "11:10 AM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82634?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Animated comedy adventure in which the Minions try their hand at filmmaking when they arrive in Hollywood during the 1920s.",
-    "runtime": "90 min",
-    "director": "Pierre Coffin"
-  },
-  {
-    "title": "Coyote vs. Acme",
-    "date": "2026-08-23",
-    "time": "11:15 AM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82660?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A story set in the ACME warehouse, the manufacturer of anything and everything used by the Looney Tunes characters.",
-    "runtime": "103 min",
-    "director": "Dave Green"
-  },
-  {
-    "title": "Chickenhare and the Secret of the Groundhog",
-    "date": "2026-08-23",
-    "time": "11:20 AM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82635?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Chickenhare and his friends go on an epic adventure to find the mysterious groundhog with the power to reverse time to save the entire harechicken clan! Having embraced his difference as what makes him special, nothing can stop Chickenhare from flying and exploring the world. But an unexpected encounter with a mysterious stranger, who reveals herself to be his sister, radically changes his plans. Chickenhare is not the only of his kind! Torn between his loyalty to his adoptive father and his desire to help his harechickens fellows who are said to be threatened by a great danger. Now Chickenhare, Abe, and Meg must embark on an exhilarating new adventure where secrets of the past and future, superstitions, and dilemmas intertwine in a thrilling quest.",
-    "runtime": "88 min",
-    "director": "Benjamin Mousquet"
-  },
-  {
     "title": "Mysterious Skin",
     "date": "2026-08-23",
     "time": "11:30 AM",
@@ -1274,58 +1196,6 @@
     "director": "Gregg Araki"
   },
   {
-    "title": "Toy Story 5",
-    "date": "2026-08-23",
-    "time": "11:30 AM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82636?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
-    "runtime": "102 min",
-    "director": ""
-  },
-  {
-    "title": "Crouching Tiger, Hidden Dragon (Wo hu cang long)",
-    "date": "2026-08-23",
-    "time": "11:45 AM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627085",
-    "city": "London",
-    "description": "In 19th century Qing Dynasty China, a warrior (Chow Yun-Fat) gives his sword, Green Destiny, to his lover (Michelle Yeoh) to deliver to safe keeping, but it is stolen, and the chase is on to find it. The search leads to the House of Yu where the story takes on a whole different level.",
-    "runtime": "120 min",
-    "director": "Ang Lee"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "date": "2026-08-23",
-    "time": "11:45 AM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17554/",
-    "city": "London",
-    "description": "The infamous Camp Miasma slasher franchise is getting rebooted yet again. But when the latest movie\u2019s director becomes obsessed with the mysterious, reclusive actress who played the \u201cfinal girl\u201d in the original film, a whole new kind of slasher emerges from the bottom of the lake. Warning: This film contains sequences with flashing or flickering lights that may affect individuals with photosensitivity. Viewer discretion is advised.",
-    "runtime": "112 min",
-    "director": "Jane Schoenbrun"
-  },
-  {
-    "title": "Paw Patrol 3: The Dino Movie",
-    "date": "2026-08-23",
-    "time": "11:50 AM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82637?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island Sunday 2nd Aug 11am Charity Screening All proceeds from this performance will be donated to MEDICINEMA Cinema-based healthcare programmes inside hospitals",
-    "runtime": "88 min",
-    "director": "Cal Brunker"
-  },
-  {
     "title": "The Samurai and the Prisoner",
     "date": "2026-08-23",
     "time": "12:00 PM",
@@ -1337,19 +1207,6 @@
     "description": "Kiyoshi Kurosawa\u2019s stately, meticulously composed period drama, set in 16th-century Japan, is a tense and metaphysical whodunit with the director\u2019s characteristic philosophical overtones.",
     "runtime": "147 min",
     "director": "Kiyoshi Kurosawa"
-  },
-  {
-    "title": "12 Angry Men",
-    "date": "2026-08-23",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627089",
-    "city": "London",
-    "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
-    "runtime": "97 min",
-    "director": "Sidney Lumet"
   },
   {
     "title": "Dear You",
@@ -1443,19 +1300,6 @@
     "city": "LA"
   },
   {
-    "title": "The Lord of the Rings: The Return of the King - Extended Edition",
-    "date": "2026-08-23",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/film/the-lord-of-the-rings-the-return-of-the-king-ex/",
-    "city": "London",
-    "description": "Feature is presented without an interval.\r\n\r\nGandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-    "runtime": "263 min",
-    "director": "Peter Jackson"
-  },
-  {
     "title": "Late Fame",
     "date": "2026-08-23",
     "time": "1:15 PM",
@@ -1469,19 +1313,6 @@
     "director": "Kent Jones"
   },
   {
-    "title": "Minions and Monsters",
-    "date": "2026-08-23",
-    "time": "1:15 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82639?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Animated comedy adventure in which the Minions try their hand at filmmaking when they arrive in Hollywood during the 1920s.",
-    "runtime": "90 min",
-    "director": "Pierre Coffin"
-  },
-  {
     "title": "How to Divorce During the War",
     "date": "2026-08-23",
     "time": "1:25 PM",
@@ -1493,19 +1324,6 @@
     "description": "",
     "runtime": "108 min",
     "director": "Andrius Bla\u017eevicius"
-  },
-  {
-    "title": "Moana (Live Action)",
-    "date": "2026-08-23",
-    "time": "1:25 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82640?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Live-action adaptation of the 2016 Disney animated film",
-    "runtime": "115 min",
-    "director": "Thomas Kail"
   },
   {
     "title": "Union County",
@@ -1547,19 +1365,6 @@
     "director": "Djouhra Abouda, Alain Bonnamy, Mohammed Soudani"
   },
   {
-    "title": "Off-Circuit: The Visitor",
-    "date": "2026-08-23",
-    "time": "1:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/off-circuit-the-visitor",
-    "city": "London",
-    "description": "30-year-old Danielius returns to his hometown to sell his parents\u2019 flat, but the visit lasts longer than expected. With nowhere to rush, he tries to reconnect with the people and the town that no longer feels like his. Vytautas Katkus' debut feature is a delicate study of homecoming, fatherhood, and belated farewells.",
-    "runtime": "115 min",
-    "director": "Vytautas Katkus"
-  },
-  {
     "title": "The Sacrifice",
     "date": "2026-08-23",
     "time": "1:30 PM",
@@ -1573,32 +1378,6 @@
     "director": "Andrei Tarkovsky"
   },
   {
-    "title": "Coyote vs. Acme",
-    "date": "2026-08-23",
-    "time": "1:35 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82642?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A story set in the ACME warehouse, the manufacturer of anything and everything used by the Looney Tunes characters.",
-    "runtime": "103 min",
-    "director": "Dave Green"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "date": "2026-08-23",
-    "time": "1:40 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/teenage-sex-and-death-at-camp-miasma",
-    "city": "London",
-    "description": "",
-    "runtime": "112 min",
-    "director": ""
-  },
-  {
     "title": "Wild Inside",
     "date": "2026-08-23",
     "time": "1:50 PM",
@@ -1610,19 +1389,6 @@
     "description": "Join educator and wildlife rehabilitator Suzanne Highland for a post screening Birdwatching Tour of the West Village after the 4pm screenings on 8/1 and 8/2! the path runs from the IFC to Hudson River Park with a pit stop in Washington Square Park. Bring binoculars if you have them! About WILD INSIDE: A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
     "runtime": "96 min",
     "director": "Penny Lane"
-  },
-  {
-    "title": "Toy Story 5",
-    "date": "2026-08-23",
-    "time": "1:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82641?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
-    "runtime": "102 min",
-    "director": ""
   },
   {
     "title": "Mysterious Skin",
@@ -1677,19 +1443,6 @@
     "city": "LA"
   },
   {
-    "title": "In the Sky\u2019s Wild Noise + Grenada (15)",
-    "date": "2026-08-23",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/project-a-black-planet-in-the-skys-wild-noise-grenada",
-    "city": "London",
-    "description": "Built around central figures of revolutionary movements in Guyana and Grenada, these films explore the ongoing struggle for liberation in the Caribbean within the context of neo-colonial oppression.",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
     "date": "2026-08-23",
     "time": "2:00 PM",
@@ -1703,32 +1456,6 @@
     "director": "Jane Shoenbrun"
   },
   {
-    "title": "Paw Patrol 3: The Dino Movie",
-    "date": "2026-08-23",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82638?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island Sunday 2nd Aug 11am Charity Screening All proceeds from this performance will be donated to MEDICINEMA Cinema-based healthcare programmes inside hospitals",
-    "runtime": "88 min",
-    "director": "Cal Brunker"
-  },
-  {
-    "title": "Spider-Man: Brand New Day",
-    "date": "2026-08-23",
-    "time": "2:10 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82643?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
-    "runtime": "144 min",
-    "director": "Destin Daniel Cretton"
-  },
-  {
     "title": "The Invite",
     "date": "2026-08-23",
     "time": "2:15 PM",
@@ -1740,19 +1467,6 @@
     "description": "The Invite is a marital dark comedy directed by Olivia Wilde (Booksmart/Don\u2019t Worry Darling), adapted from the 2020 Spanish film The People Upstairs. It follows Joe and Angela, an unhappy, bickering San Francisco couple who host their enigmatic, sexually uninhibited upstairs neighbors for a chaotic dinner party that quickly spirals into raw, hilarious emotional warfare. Warning: This film contains sequences with flashing or flickering lights that may affect individuals with photosensitivity. Viewer discretion is advised.",
     "runtime": "107 min",
     "director": "Olivia Wilde"
-  },
-  {
-    "title": "Arrival",
-    "date": "2026-08-23",
-    "time": "2:30 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627084",
-    "city": "London",
-    "description": "Linguistics professor Louise Banks (Amy Adams) leads an elite team of investigators when gigantic spaceships touch down in 12 locations around the world. As nations teeter on the verge of global war, Banks and her crew must race against time to find a way to communicate with the extraterrestrial visitors. Hoping to unravel the mystery, she takes a chance that could threaten her life and quite possibly all of mankind.",
-    "runtime": "116 min",
-    "director": "Denis Villeneuve"
   },
   {
     "title": "Niagara + Q&A",
@@ -1794,19 +1508,6 @@
     "director": ""
   },
   {
-    "title": "Call Me By Your Name",
-    "date": "2026-08-23",
-    "time": "2:45 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/film/4402911/call-me-by-your-name",
-    "city": "London",
-    "description": "It's the summer of 1983, and precocious 17-year-old Elio Perlman is spending the days with his family at their 17th-century villa in Lombardy, Italy. He soon meets Oliver, a handsome doctoral student who's working as an intern for Elio's father. Amid the sun-drenched splendor of their surroundings, Elio and Oliver discover the heady beauty of awakening desire over the course of a summer that will alter their lives forever.",
-    "runtime": "132 min",
-    "director": "Luca Guadagnino"
-  },
-  {
     "title": "Tony",
     "date": "2026-08-23",
     "time": "2:45 PM",
@@ -1844,19 +1545,6 @@
     "description": "Kiyoshi Kurosawa\u2019s stately, meticulously composed period drama, set in 16th-century Japan, is a tense and metaphysical whodunit with the director\u2019s characteristic philosophical overtones.",
     "runtime": "147 min",
     "director": "Kiyoshi Kurosawa"
-  },
-  {
-    "title": "Tony (15) (AD)",
-    "date": "2026-08-23",
-    "time": "3:10 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/members-screening-tony",
-    "city": "London",
-    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, carving out a slice of a summer that will shape the course of his life.",
-    "runtime": "106 min",
-    "director": "Matt Johnson"
   },
   {
     "title": "Franz",
@@ -6955,19 +6643,6 @@
     "city": "LA"
   },
   {
-    "title": "Girlhood",
-    "date": "2026-08-26",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30744",
-    "city": "NYC",
-    "description": "Set in the suburbs of Paris, Sciamma\u2019s coming-of-age story stars Karidja Tour\u00e9 as Marieme, a 16-year-old who finds a sense of sorority, camaraderie, and mutual support when she joins up with an amateur \u201cgang\u201d of girls her age\u2014much to the chagrin of her overbearing, abusive brother. A harsh but cautiously hopeful depiction of the lives of young Afro-French women, and the unique adversities they face. Part of Among Friends",
-    "runtime": "113 min",
-    "director": "C\u00e9line Sciamma"
-  },
-  {
     "title": "La Notte",
     "date": "2026-08-26",
     "time": "2:00 PM",
@@ -6979,6 +6654,19 @@
     "description": "Novelist Giovanni Pontano (Marcello Mastroianni) is the toast of the Italian literary scene, but smothered by the trappings of success. His misery weighs heavily on his wife, Lidia (Jeanne Moreau), already carrying her own cargo of existential anguish. In the course of a day and a night\u2014spent at a hospital sickroom, a book launch, a nightclub, and a party at an industrialist\u2019s villa, where Giovanni flirts extensively with the host\u2019s daughter, Valentina (Monica Vitti)\u2014the couple must come to terms with the extinction of the love that once existed between them\u2026 or not? A film steeped in despair but thrilling in its adventurous, architectonic use of the cinematic medium, from its opening credits\u2014an avant-jazz/musique concr\u00e8te overture accompanying the industrialized Milanese cityscape\u2014to its beguiling final scene. Part of This Night Has Opened My Eyes",
     "runtime": "122 min",
     "director": "Michelangelo Antonioni"
+  },
+  {
+    "title": "Girlhood",
+    "date": "2026-08-26",
+    "time": "2:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30744",
+    "city": "NYC",
+    "description": "Set in the suburbs of Paris, Sciamma\u2019s coming-of-age story stars Karidja Tour\u00e9 as Marieme, a 16-year-old who finds a sense of sorority, camaraderie, and mutual support when she joins up with an amateur \u201cgang\u201d of girls her age\u2014much to the chagrin of her overbearing, abusive brother. A harsh but cautiously hopeful depiction of the lives of young Afro-French women, and the unique adversities they face. Part of Among Friends",
+    "runtime": "113 min",
+    "director": "C\u00e9line Sciamma"
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -20475,32 +20163,6 @@
     "director": "Peter Greenaway"
   },
   {
-    "title": "Troy",
-    "date": "2026-09-11",
-    "time": "3:20 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30797",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "Brazil",
-    "date": "2026-09-11",
-    "time": "3:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30798",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Teenage Sex and Death at Camp Miasma",
     "date": "2026-09-11",
     "time": "4:15 pm",
@@ -20551,32 +20213,6 @@
     "description": "A young musician, tormented by an abusive situation at home, must contend with a rival singer, a burgeoning romance, and his own dissatisfied band, as his star begins to rise.",
     "runtime": "111 min",
     "director": "Albert Magnoli"
-  },
-  {
-    "title": "Wives (Hustruer)",
-    "date": "2026-09-11",
-    "time": "6:25 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30799",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "Peking Opera Blues",
-    "date": "2026-09-11",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30800",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
   },
   {
     "title": "Brookner: Nova '78 + Q&A",
@@ -20813,19 +20449,6 @@
     "director": "Prince"
   },
   {
-    "title": "Don't Play with Fire",
-    "date": "2026-09-11",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30801",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Everybody Digs Bill Evans",
     "date": "2026-09-11",
     "time": "8:40 PM",
@@ -20836,19 +20459,6 @@
     "city": "London",
     "description": "",
     "runtime": "102 min",
-    "director": ""
-  },
-  {
-    "title": "Office Space",
-    "date": "2026-09-11",
-    "time": "8:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30802",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
     "director": ""
   },
   {
@@ -20930,32 +20540,6 @@
     "city": "LA"
   },
   {
-    "title": "Uncut Gems",
-    "date": "2026-09-11",
-    "time": "10:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30803",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "2046",
-    "date": "2026-09-11",
-    "time": "10:50 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30804",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Kill Bill: Volume 1",
     "date": "2026-09-11",
     "time": "11:59 pm",
@@ -21021,19 +20605,6 @@
     "director": "Hayao Miyazaki"
   },
   {
-    "title": "The Sandwich Man",
-    "date": "2026-09-12",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30805",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Network - 50th Anniversary",
     "date": "2026-09-12",
     "time": "12:10 PM",
@@ -21045,19 +20616,6 @@
     "description": "When veteran anchorman Howard Beale is forced to retire his 25-year post because of his age, he announces to viewers that he will kill himself during his farewell broadcast. Network executives rethink their decision when his fanatical tirade results in a spike in ratings.",
     "runtime": "122 min",
     "director": "Sidney Lumet"
-  },
-  {
-    "title": "Stealing Beauty",
-    "date": "2026-09-12",
-    "time": "12:30 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30806",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
   },
   {
     "title": "Happy Feet",
@@ -21138,19 +20696,6 @@
     "director": ""
   },
   {
-    "title": "Don't Play with Fire",
-    "date": "2026-09-12",
-    "time": "2:15 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30807",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Stalker",
     "date": "2026-09-12",
     "time": "2:30 PM",
@@ -21175,19 +20720,6 @@
     "description": "While the Civil War rages on between the Union and the Confederacy, three men \u2013 a quiet loner, a ruthless hitman, and a Mexican bandit \u2013 comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
     "runtime": "180 min",
     "director": "Sergio Leone"
-  },
-  {
-    "title": "Games of Love and Loneliness",
-    "date": "2026-09-12",
-    "time": "3:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30816",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
   },
   {
     "title": "\"Love in an Apartment Hotel\" / THE QUARTERBACK",
@@ -21242,19 +20774,6 @@
     "city": "LA"
   },
   {
-    "title": "Orpheus",
-    "date": "2026-09-12",
-    "time": "4:20 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30808",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Onslaught",
     "date": "2026-09-12",
     "time": "4:30 PM",
@@ -21291,19 +20810,6 @@
     "city": "NYC",
     "description": "Pearl Bowser & Christine Choy NAMIBIA, INDEPENDENCE NOW 1985, 55 min, 16mm-to-DCP This moving film was shot inside refugee settlements in Zambia and Angola in the mid-1980s. It examines how exiled Namibians worked to free their country from illegal South African exploitation and prepare for their country's independence. It shows many aspects of their daily life in exile, especially the women, who were at the forefront of the independence struggle. It focuses on the activities of exiled Namibian independence leader General Toivo ya Toivo, filmed just weeks after his negotiated release from a South African prison. Christine Choy REORIENTING AFRICA 2016, 37 min, DCP This later work by Christine Choy focuses on Chinese workers and Chinese economic development in Ghana, Africa. Total running time: ca. 95 min.",
     "runtime": "95 min",
-    "director": ""
-  },
-  {
-    "title": "Wives: Ten Years After",
-    "date": "2026-09-12",
-    "time": "5:10 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30815",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
     "director": ""
   },
   {
@@ -21372,19 +20878,6 @@
     "director": "Mos Hannan & Azeem Rajulawalla"
   },
   {
-    "title": "Black Orpheus",
-    "date": "2026-09-12",
-    "time": "6:25 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30809",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Everybody Digs Bill Evans",
     "date": "2026-09-12",
     "time": "6:30 PM",
@@ -21448,19 +20941,6 @@
     "description": "\u201cHA HA SHANGHAI is an outlier in [Choy\u2019s] oeuvre. Far more personal than most of her other films, this documentary is a family affair that features her mother and son as characters, and her daughter Ku-Ling Siegel behind the lens. Christine herself describes the film as a \u2018documentary journal,\u2019 and while HA HA SHANGHAI begins as a personal history, it soon develops into a Kafkaesque farce. In the film, [Choy] returns to Shanghai after 30 years to search for the title of a house built by her mother. She reconnects with friends of her family and a local choir teacher. She storms into government buildings with frenetic energy, demanding to see paperwork. When things seem dire, Christine visits a fortune teller and a palm reader, grasping at straws lost to time. Through anecdotes and recollections, she interrogates the modernization of China as well as the Cultural Revolution, the events of which caused the family home to be lost in the first place. [\u2026] Although HA HA SHANGHAI is rooted in Christine\u2019s personal experience, it tells a larger tale of how much China has changed since she left.\u201d \u2013Violet Columbus & Ben Klein",
     "runtime": "82 min",
     "director": "Christine Choy"
-  },
-  {
-    "title": "Wives III",
-    "date": "2026-09-12",
-    "time": "7:15 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30814",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
   },
   {
     "title": "Onslaught",
@@ -21528,19 +21008,6 @@
     "director": "Christopher Nolan"
   },
   {
-    "title": "Dust in the Wind",
-    "date": "2026-09-12",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30810",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Sinners",
     "date": "2026-09-12",
     "time": "8:40 PM",
@@ -21552,19 +21019,6 @@
     "description": "From Ryan Coogler\u2014director of \u201cBlack Panther\u201d and \u201cCreed\u201d\u2014and starring Michael B. Jordan comes a new vision of fear: \u201cSinners.\u201d Trying to leave their troubled lives behind, twin brothers (Jordan) return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back. \u201cYou keep dancing with the devil, one day he\u2019s gonna follow you home.\u201d Written and directed by Academy Award-nominated filmmaker Coogler, \u201cSinners\u201d stars Jordan (the \u201cBlack Panther\u201d and \u201cCreed\u201d franchises) in a dual role, joined by Oscar nominee Hailee Steinfeld (\u201cBumblebee,\u201d \u201cTrue Grit\u201d), Jack O\u2019Connell (\u201cFerrari\u201d), Wunmi Mosaku (\u201cPassenger\u201d), Jayme Lawson (\u201cThe Woman King\u201d), Omar Miller (\u201cTrue Lies\u201d), and Delroy Lindo (\u201cDa 5 Bloods\u201d). The film is produced by Zinzi Coogler, Sev Ohanian and Ryan Coogler. The executive producers are Ludwig G\u00f6ransson, Will Greenfield and Rebecca Cho.",
     "runtime": "138 min",
     "director": "Ryan Coogler"
-  },
-  {
-    "title": "I Hired a Contract Killer",
-    "date": "2026-09-12",
-    "time": "9:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30813",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
   },
   {
     "title": "Death Wish",
@@ -21604,32 +21058,6 @@
     "runtime": "",
     "director": "",
     "city": "LA"
-  },
-  {
-    "title": "Office Space",
-    "date": "2026-09-12",
-    "time": "11:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30812",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "Rebels of the Neon God",
-    "date": "2026-09-12",
-    "time": "11:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30811",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
   },
   {
     "title": "Christine",
@@ -21697,19 +21125,6 @@
     "city": "LA"
   },
   {
-    "title": "Evita",
-    "date": "2026-09-13",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30817",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "The Red Shoes",
     "date": "2026-09-13",
     "time": "12:00 PM",
@@ -21721,19 +21136,6 @@
     "description": "In this classic drama, Vicky Page (Moira Shearer) is an aspiring ballerina torn between her dedication to dance and her desire to love. While her imperious instructor, Boris Lermontov (Anton Walbrook), urges to her to forget anything but ballet, Vicky begins to fall for the charming young composer Julian Craster (Marius Goring). Eventually Vicky, under great emotional stress, must choose to pursue either her art or her romance, a decision that carries serious consequences.",
     "runtime": "135 min",
     "director": "Michael Powell, Emeric Pressburger"
-  },
-  {
-    "title": "Dust in the Wind",
-    "date": "2026-09-13",
-    "time": "12:30 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30818",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
   },
   {
     "title": "Wild Inside",
@@ -21866,32 +21268,6 @@
     "director": "Wong Kar Wai"
   },
   {
-    "title": "The Rice Dumpling Vendors",
-    "date": "2026-09-13",
-    "time": "2:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30820",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "Hercules in the Haunted World",
-    "date": "2026-09-13",
-    "time": "2:50 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30819",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Amarcord",
     "date": "2026-09-13",
     "time": "3:00 PM",
@@ -21996,32 +21372,6 @@
     "director": "Michael Mann"
   },
   {
-    "title": "Zu: Warriors from the Magic Mountain",
-    "date": "2026-09-13",
-    "time": "4:40 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30821",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "Next of Kin",
-    "date": "2026-09-13",
-    "time": "4:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30826",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "EC: ORDET",
     "date": "2026-09-13",
     "time": "5:00 PM",
@@ -22113,19 +21463,6 @@
     "director": ""
   },
   {
-    "title": "Don't Play with Fire",
-    "date": "2026-09-13",
-    "time": "6:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30822",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "The Virgin Suicides",
     "date": "2026-09-13",
     "time": "7:00 pm",
@@ -22163,19 +21500,6 @@
     "runtime": "",
     "director": "",
     "city": "LA"
-  },
-  {
-    "title": "The Witch Hunt",
-    "date": "2026-09-13",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30825",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
   },
   {
     "title": "Onslaught",
@@ -22254,32 +21578,6 @@
     "description": "During a school trip to Washington, D.C., teenager Lillian becomes separated from her classmates and drifts through a series of encounters across the American East Coast. Moving between political extremists, online radicals, aspiring artists, wealthy intellectuals, and lost idealists, she navigates a fragmented landscape of competing fantasies and ideologies. What begins as an accidental detour gradually becomes an episodic journey through contemporary American life, observed through the perspective of a protagonist who remains both participant and detached witness.\nThe feature debut of cinematographer Sean Price Williams, The Sweet East combines road movie, picaresque comedy, and social satire to construct a deliberately unstable portrait of the United States in the digital age. Shot on 16mm and written by critic and filmmaker Nick Pinkerton, the film draws on traditions of American independent cinema while reflecting the disorienting overlap of internet culture, political performance, and regional identity. Its succession of encounters functions less as a conventional coming-of-age narrative than as a survey of the myths, anxieties, and self-inventions that shape contemporary America. Starring Talia Ryder, Simon Rex and Jacob Elordi.",
     "runtime": "104 min",
     "director": "Sean Price Williams"
-  },
-  {
-    "title": "Uncut Gems",
-    "date": "2026-09-13",
-    "time": "9:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30823",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "Peking Opera Blues",
-    "date": "2026-09-13",
-    "time": "9:15 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30824",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
   },
   {
     "title": "FAUST",
