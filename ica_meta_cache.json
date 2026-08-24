@@ -226,5 +226,23 @@
   "description": "The improbable life of French poet Arthur Rimbaud unfolds with all the shock and playfulness of his poetry.",
   "runtime": "175 min",
   "format": ""
+ },
+ "https://www.ica.art/films/kiki-s-delivery-service": {
+  "director": "Hayao Miyazaki",
+  "description": "Celebrate this beloved coming-of-age story from the legendary Studio Ghibli, creators of Spirited Away , and Academy Award®-winning director Hayao Miyazaki, about a resourceful young witch who uses her broom to create a delivery service, only to lose her gift of flight in a moment of self-doubt. It is a tradition for all young witches to leave their families on the night of a full moon and fly off into the wide world to learn their craft. When that night comes for Kiki, she embarks on her new journey with her sarcastic black cat, Jiji, landing the next morning in a seaside town, where her unique skills make her an instant sensation.",
+  "runtime": "103 min",
+  "format": ""
+ },
+ "https://www.ica.art/films/matador": {
+  "director": "Pedro Almodóvar",
+  "description": "Pedro Almodóvar's 1986 erotic thriller explores the intimate relationship between pleasure and death through the convergence of bullfighting and murder. Diego is an ex-champion matador who now runs a bullfighting school. Still looking for a kick, he watches sadistic videos for sexual pleasure. Maria is a lawyer and Diego’s number one fan – she also likes to kill men with a hairpin at the point of orgasm. The pair are destined to meet.",
+  "runtime": "105 min",
+  "format": ""
+ },
+ "https://www.ica.art/films/sherman-s-march": {
+  "director": "Ross McElwee",
+  "description": "Sherman’s March , winner of the Grand Jury Prize for Best Documentary at Sundance in 1987, is Ross McElwee’s monumental documentary which has been officially listed by the International Documentary Association as one of the top 20 documentary films of all time. Intending to make a film about General Sherman’s 1864 March to the Sea, Ross McElwee gets sidetracked. Affected by a recent breakup, he slows his progress through the American South to spend time with a succession of women and explore the possibility of romantic fulfilment in the nuclear age.",
+  "runtime": "158 min",
+  "format": ""
  }
 }
