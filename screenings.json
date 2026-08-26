@@ -13,35 +13,9 @@
     "director": "Robb Moss"
   },
   {
-    "title": "BILLY LIAR",
-    "date": "2026-08-24",
-    "time": "12:20 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/billy-liar",
-    "city": "NYC",
-    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
-    "runtime": "98 min",
-    "director": "John Schlesinger"
-  },
-  {
-    "title": "YOU'RE A BIG BOY NOW",
-    "date": "2026-08-24",
-    "time": "12:20 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/youre-a-big-boy-now-coppola",
-    "city": "NYC",
-    "description": "Na\u00efve library clerk Bernard Chanticleer (Peter Kastner) moves out of his parents\u2019 home and into a chaotic city full of eccentric landlords, meddling parents, and romantic missteps. Infatuated with a glamorous but manipulative go-go dancer (Elizabeth Hartman), he learns through heartbreak\u2014and the kindness of a steadfast admirer\u2014what growing up really means.",
-    "runtime": "97 min",
-    "director": "Francis Ford Coppola"
-  },
-  {
     "title": "LATE FAME",
     "date": "2026-08-24",
-    "time": "12:45 PM",
+    "time": "12:15 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -52,22 +26,74 @@
     "director": "Kent Jones"
   },
   {
-    "title": "APOCALYPSE NOW: FINAL CUT",
+    "title": "THE OUTSIDERS: THE COMPLETE NOVEL",
     "date": "2026-08-24",
-    "time": "2:30 PM",
+    "time": "12:20 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/apocalypse-now-final-cut-coppola",
+    "url": "https://filmforum.org/film/the-outsiders-coppola",
     "city": "NYC",
-    "description": "\u201cStarts with what proves to be a nightmare: a stand of pale green palm trees, ominous air-beating chops, the fleeting blurs of attack helicopters, a sudden rush of flame engulfing the trees as, in magically perfect rhythm, Jim Morrison\u2019s high, thin voice croons, \u2018This is the end...\u2019 Then the dreamer of this recurring vision appears mingled with his own demonic images, in a Saigon hotel room during the Vietnam war, drunk, stunned, virtually deranged\u2014an American captain named Benjamin Willard (Martin Sheen). Soon afterwards, his superiors send him upriver to Cambodia on a secret mission to find and kill a Green Beret colonel, Walter Kurtz (Marlon Brando), who is rumoured to be running amok there with a private army of Montagnard tribesmen and renegade Americans.\u201d \u2013 Sight and Sound",
-    "runtime": "182 min",
+    "description": "\u201cLike the Corleones, like Kurtz in APOCALYPSE NOW, and like Hank and Frannie in ONE FROM THE HEART, the kids in THE OUTSIDERS (adapted from S.E. Hinton\u2019s novel) are looking for a better world. The street life of teenage Tulsa is divided into the \u2018socs\u2019 (pronounced soches) who go to college and wear Brut, and the greasers from the other side of the tracks, who don\u2019t. When a soc is knifed, three greasers go on the run to a rural idyll, turn tragic heroes, and finally return to try to cement a tenuous truce: like so much teenage Americana, it\u2019s about the rites of passage from adolescence to adulthood.\u201d \u2013 Time Out",
+    "runtime": "114 min",
     "director": "Francis Ford Coppola"
+  },
+  {
+    "title": "BILLY LIAR",
+    "date": "2026-08-24",
+    "time": "1:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/billy-liar",
+    "city": "NYC",
+    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
+    "runtime": "98 min",
+    "director": "John Schlesinger"
+  },
+  {
+    "title": "LATE FAME",
+    "date": "2026-08-24",
+    "time": "2:25 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/late-fame",
+    "city": "NYC",
+    "description": "Willem Dafoe is Ed Saxberger, a postal worker whose former life as a downtown poet in late-70s New York is rediscovered by a young admirer (Donovan) and his \u201cEnthusiasm Society,\u201d a group of 20-somethings with a comically romanticized sense of the past. In the company of his new friends, including the mysterious and mercurial Gloria (Lee of PAST LIVES), Ed has the uncanny feeling of merging with his younger self. Directed by Kent Jones (DIANE) from a witty, razor-sharp script by Samy Burch (MAY DECEMBER), LATE FAME\u202fis a funny, lively, poignant, and occasionally haunting New York story.",
+    "runtime": "96 min",
+    "director": "Kent Jones"
+  },
+  {
+    "title": "SHERMAN'S MARCH",
+    "date": "2026-08-24",
+    "time": "2:35 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/shermans-march",
+    "city": "NYC",
+    "description": "Armed with a 16mm camera and a grant to make a documentary about the lingering aftermath of William Tecumseh Sherman\u2019s 1864 march to the sea, Ross McElwee gets sidetracked. After his girlfriend breaks up with him, Ross shifts his attention from the historical to the personal, to the battlefield of modern love, and embarks on a sociological chronicle that documents the courting rites and rituals of the New South. A generous and humanistic portrait of several remarkable women that Ross meets along the way, Sherman\u2019s March sketches its characters with novelistic sensitivity: Pat, an aspiring actress with a yen for Burt Reynolds; Claudia, a roller-skating interior designer; Jackie, the activist whose anti-nuclear advocacy dovetails with Ross\u2019s deepest fears; and above all, Charleen Swansea, Ross\u2019s mentor and a one-woman Greek chorus of unsolicited romantic counsel. A landmark of first-person filmmaking that presaged everything from Michael Moore to reality TV.",
+    "runtime": "158 min",
+    "director": "Ross McElwee"
+  },
+  {
+    "title": "THE GODFATHER PART II",
+    "date": "2026-08-24",
+    "time": "2:45 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "CENTER STAGE",
     "date": "2026-08-24",
-    "time": "2:40 PM",
+    "time": "3:00 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -80,7 +106,7 @@
   {
     "title": "LATE FAME",
     "date": "2026-08-24",
-    "time": "3:30 PM",
+    "time": "4:40 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -117,9 +143,22 @@
     "director": "John Schlesinger"
   },
   {
+    "title": "YOU'RE A BIG BOY NOW",
+    "date": "2026-08-24",
+    "time": "6:45 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/youre-a-big-boy-now-coppola-coppola",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
     "title": "LATE FAME",
     "date": "2026-08-24",
-    "time": "6:00 PM",
+    "time": "6:50 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -128,19 +167,6 @@
     "description": "Willem Dafoe is Ed Saxberger, a postal worker whose former life as a downtown poet in late-70s New York is rediscovered by a young admirer (Donovan) and his \u201cEnthusiasm Society,\u201d a group of 20-somethings with a comically romanticized sense of the past. In the company of his new friends, including the mysterious and mercurial Gloria (Lee of PAST LIVES), Ed has the uncanny feeling of merging with his younger self. Directed by Kent Jones (DIANE) from a witty, razor-sharp script by Samy Burch (MAY DECEMBER), LATE FAME\u202fis a funny, lively, poignant, and occasionally haunting New York story.",
     "runtime": "96 min",
     "director": "Kent Jones"
-  },
-  {
-    "title": "TRACKING SHOTS: FILMS FROM THE NEW YORK TRANSIT MUSEUM ARCHIVES",
-    "date": "2026-08-24",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/transit-museum-archival-shorts-nyc-in-transit",
-    "city": "NYC",
-    "description": "(1905, approx. 4 min., 35mm print courtesy of Library of Congress)",
-    "runtime": "4 min",
-    "director": ""
   },
   {
     "title": "SHERMAN'S MARCH",
@@ -156,19 +182,6 @@
     "director": "Ross McElwee"
   },
   {
-    "title": "THE COTTON CLUB: ENCORE",
-    "date": "2026-08-24",
-    "time": "8:10 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-cotton-club-coppola",
-    "city": "NYC",
-    "description": "\u201cThe movie takes place in New York in the 1920s and 1930s, where Irish and Jewish gangsters battled the Italians for the rackets. Most of their intrigues were played out in public, in flashy settings like the Cotton Club, a Harlem nightclub that featured the nation\u2019s most talented black entertainers on stage\u2014playing before an all-white audience.\u201d \u2013 Roger Ebert",
-    "runtime": "139 min",
-    "director": "Francis Ford Coppola"
-  },
-  {
     "title": "CENTER STAGE",
     "date": "2026-08-24",
     "time": "8:15 PM",
@@ -182,9 +195,22 @@
     "director": "Stanley Kwan"
   },
   {
+    "title": "PEGGY SUE GOT MARRIED",
+    "date": "2026-08-24",
+    "time": "8:50 PM",
+    "format": "35mm",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/peggy-sue-got-married-coppola",
+    "city": "NYC",
+    "description": "\u201cPeggy Sue Bodell (Kathleen Turner) isn\u2019t even sure she wants to go to her 25th high school reunion. Recently separated from Charlie (Nicolas Cage), the husband she had to marry at 18, even the idea of turning up where everyone will ask, \u2018Where\u2019s Crazy Charlie?,\u2019 the wackiest businessman in TV ads, makes her cringe... As they\u2019re crowning the Reunion King and Queen, Peggy Sue faints, coming to in 1960, a 43-year-old in an 18-year-old\u2019s body. She knows the future all too well, from panty hose to the Pill. She\u2019s seen Charlie give up his dreams of being a singer and slip into the family business\u2014with a bit of philandering on the side. Apparently stuck reliving her last weeks of high school, should she should muck with her destiny or not?\u201d \u2013 Sheila Benson, Los Angeles Times",
+    "runtime": "103 min",
+    "director": "Francis Ford Coppola"
+  },
+  {
     "title": "LATE FAME",
     "date": "2026-08-24",
-    "time": "8:30 PM",
+    "time": "9:00 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -221,22 +247,9 @@
     "director": "Kent Jones"
   },
   {
-    "title": "THE OUTSIDERS: THE COMPLETE NOVEL",
-    "date": "2026-08-25",
-    "time": "12:20 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-outsiders-coppola",
-    "city": "NYC",
-    "description": "\u201cLike the Corleones, like Kurtz in APOCALYPSE NOW, and like Hank and Frannie in ONE FROM THE HEART, the kids in THE OUTSIDERS (adapted from S.E. Hinton\u2019s novel) are looking for a better world. The street life of teenage Tulsa is divided into the \u2018socs\u2019 (pronounced soches) who go to college and wear Brut, and the greasers from the other side of the tracks, who don\u2019t. When a soc is knifed, three greasers go on the run to a rural idyll, turn tragic heroes, and finally return to try to cement a tenuous truce: like so much teenage Americana, it\u2019s about the rites of passage from adolescence to adulthood.\u201d \u2013 Time Out",
-    "runtime": "114 min",
-    "director": "Francis Ford Coppola"
-  },
-  {
     "title": "BILLY LIAR",
     "date": "2026-08-25",
-    "time": "1:00 PM",
+    "time": "12:20 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -245,6 +258,19 @@
     "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
     "runtime": "98 min",
     "director": "John Schlesinger"
+  },
+  {
+    "title": "TUCKER: THE MAN AND HIS DREAM",
+    "date": "2026-08-25",
+    "time": "12:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/tucker-the-man-and-his-dream-coppola-coppola",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Monsieur Hulot's Holiday",
@@ -286,22 +312,9 @@
     "director": "Ross McElwee"
   },
   {
-    "title": "THE GODFATHER PART II",
-    "date": "2026-08-25",
-    "time": "2:45 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "CENTER STAGE",
     "date": "2026-08-25",
-    "time": "3:00 PM",
+    "time": "2:40 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -310,6 +323,19 @@
     "description": "International superstar Maggie Cheung (IN THE MOOD FOR LOVE) embodies tragic screen siren Ruan Lingyu, known as the \u201cGreta Garbo of China,\u201d in this unconventional biopic by Hong Kong New Wave master Stanley Kwan (ROUGE). Praised for her moving and emotive onscreen presence, Ruan\u2019s private life, which was frequent fodder for the vicious Shanghai tabloids, began to mirror the melodramas which brought her fame, culminating in her suicide at age 24. Kwan and Cheung paint a kaleidoscopic yet intimate portrait of the ill-fated actress, deftly blending lush period drama, archival footage, and metatextual documentary sequences of Cheung reflecting on Ruan\u2019s legacy. The result is, much like the films of Ruan Lingyu themselves, \u201ctender, vivid, and almost overwhelmingly moving\u201d (Time Out).",
     "runtime": "155 min",
     "director": "Stanley Kwan"
+  },
+  {
+    "title": "PEGGY SUE GOT MARRIED",
+    "date": "2026-08-25",
+    "time": "2:50 PM",
+    "format": "35mm",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/peggy-sue-got-married-coppola",
+    "city": "NYC",
+    "description": "\u201cPeggy Sue Bodell (Kathleen Turner) isn\u2019t even sure she wants to go to her 25th high school reunion. Recently separated from Charlie (Nicolas Cage), the husband she had to marry at 18, even the idea of turning up where everyone will ask, \u2018Where\u2019s Crazy Charlie?,\u2019 the wackiest businessman in TV ads, makes her cringe... As they\u2019re crowning the Reunion King and Queen, Peggy Sue faints, coming to in 1960, a 43-year-old in an 18-year-old\u2019s body. She knows the future all too well, from panty hose to the Pill. She\u2019s seen Charlie give up his dreams of being a singer and slip into the family business\u2014with a bit of philandering on the side. Apparently stuck reliving her last weeks of high school, should she should muck with her destiny or not?\u201d \u2013 Sheila Benson, Los Angeles Times",
+    "runtime": "103 min",
+    "director": "Francis Ford Coppola"
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -351,19 +377,6 @@
     "director": "Matt Johnson"
   },
   {
-    "title": "My Life Is Wind (A Letter)",
-    "date": "2026-08-25",
-    "time": "4:30 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11539",
-    "city": "NYC",
-    "description": "My Life Is Wind (A Letter). 2024. USA/Sweden. Written and directed by Anahita Ghazvinizadeh. With Sara Hosseini Kolkou, Zahia Salloum, Orion Orrico, Melinda Jean Myers. DCP. In Arabic, English; English subtitles. 33 min. La noire de\u2026 (Black Girl). 1963. France/Senegal. Written and directed by Ousmane Semb\u00e8ne. With Mbissine Th\u00e9r\u00e8se Diop, Anne-Marie Jelinek, Robert Fontaine. DCP. In French; English subtitles. 59 min. Ousmane Semb\u00e8ne\u2019s Black Girl is one of the most powerful directorial debuts in film history. The plot is simple, yet politically charged: A young Senegalese woman is picked by a wealthy French woman to travel to France and work as a maid in her bourgeois apartment, where the young woman finds herself trapped in servitude\u2014the segregation and enslavement of the postcolonial world in miniature. In My Life Is Wind (A Letter), Iranian American director Anahita Ghazvinizadeh exposes the alienation of a Middle Eastern refugee in the US Midwest through a letter written to a grandmother she left behind.",
-    "runtime": "33 min",
-    "director": "Anahita Ghazvinizadeh, Ousmane Semb\u00e8ne"
-  },
-  {
     "title": "LATE FAME",
     "date": "2026-08-25",
     "time": "4:40 PM",
@@ -375,6 +388,19 @@
     "description": "Willem Dafoe is Ed Saxberger, a postal worker whose former life as a downtown poet in late-70s New York is rediscovered by a young admirer (Donovan) and his \u201cEnthusiasm Society,\u201d a group of 20-somethings with a comically romanticized sense of the past. In the company of his new friends, including the mysterious and mercurial Gloria (Lee of PAST LIVES), Ed has the uncanny feeling of merging with his younger self. Directed by Kent Jones (DIANE) from a witty, razor-sharp script by Samy Burch (MAY DECEMBER), LATE FAME\u202fis a funny, lively, poignant, and occasionally haunting New York story.",
     "runtime": "96 min",
     "director": "Kent Jones"
+  },
+  {
+    "title": "FINIAN'S RAINBOW",
+    "date": "2026-08-25",
+    "time": "5:30 PM",
+    "format": "4K DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/finians-rainbow-coppola",
+    "city": "NYC",
+    "description": "\u201cAn underrated musical... Burton Lane\u2019s score is still first rate, and Coppola steers his motley cast through it with an instinct for rhythm and movement which shows that the choreographic preoccupation which surfaced in his work starting with ONE FROM THE HEART was nothing new. Certainly the best of the latter-day musicals in the tradition of Minnelli and MGM.\u201d \u2013 Time Out",
+    "runtime": "145 min",
+    "director": "Francis Ford Coppola"
   },
   {
     "title": "Full Moon in New York",
@@ -403,17 +429,17 @@
     "director": "Robb Moss"
   },
   {
-    "title": "BILLY LIAR",
+    "title": "FILIPI\u00d1ANA",
     "date": "2026-08-25",
     "time": "6:00 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/billy-liar",
+    "url": "https://filmforum.org/film/filipinana",
     "city": "NYC",
-    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
-    "runtime": "98 min",
-    "director": "John Schlesinger"
+    "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
+    "runtime": "100 min",
+    "director": ""
   },
   {
     "title": "The Summer Book",
@@ -429,19 +455,6 @@
     "director": "Charlie McDowell"
   },
   {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
-    "date": "2026-08-25",
-    "time": "6:10 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2793749.TcsSection_936",
-    "city": "London",
-    "description": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, ...",
-    "runtime": "111 min",
-    "director": "Jane Shoenbrun"
-  },
-  {
     "title": "Tony",
     "date": "2026-08-25",
     "time": "6:15 PM",
@@ -455,32 +468,6 @@
     "director": "Matt Johnson"
   },
   {
-    "title": "STOP! THAT! TRAIN!",
-    "date": "2026-08-25",
-    "time": "6:35 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2793694.TcsSection_1299",
-    "city": "London",
-    "description": "From the producers of RuPaul\u2019s Drag Race and the director of Hairspray comes the silliest, stupidest, and most chaotically funny comedy of the year. Inspired by classic spoofs like Airplane! and The Naked Gun , STOP! THAT! TRAIN! follows a catastrophic \u201cStormaganza\u201d as it threatens to derail a runaw...",
-    "runtime": "92 min",
-    "director": "Adam Shankman"
-  },
-  {
-    "title": "YOU'RE A BIG BOY NOW",
-    "date": "2026-08-25",
-    "time": "6:45 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/youre-a-big-boy-now-coppola-coppola",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "LATE FAME",
     "date": "2026-08-25",
     "time": "6:50 PM",
@@ -492,19 +479,6 @@
     "description": "Willem Dafoe is Ed Saxberger, a postal worker whose former life as a downtown poet in late-70s New York is rediscovered by a young admirer (Donovan) and his \u201cEnthusiasm Society,\u201d a group of 20-somethings with a comically romanticized sense of the past. In the company of his new friends, including the mysterious and mercurial Gloria (Lee of PAST LIVES), Ed has the uncanny feeling of merging with his younger self. Directed by Kent Jones (DIANE) from a witty, razor-sharp script by Samy Burch (MAY DECEMBER), LATE FAME\u202fis a funny, lively, poignant, and occasionally haunting New York story.",
     "runtime": "96 min",
     "director": "Kent Jones"
-  },
-  {
-    "title": "Stroszek",
-    "date": "2026-08-25",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11545",
-    "city": "NYC",
-    "description": "Stroszek. 1977. West Germany. Written and directed by Werner Herzog. With Bruno S., Eva Mattes, Clemens Scheitz. DCP. In English, German, Turkish; English subtitles. 115 min. From West Berlin to North Carolina via New York City and Wisconsin, Werner Herzog follows the wandering steps of Stroszek, a street performer who, after finishing a prison sentence, leaves Germany for the US with an eccentric neighbor and his prostitute girlfriend, Eva, to escape her pimp\u2019s continuous harassment. Stroszek, played by Herzog\u2019s real-life friend Bruno Stroszek, finds work as a mechanic while Eva works in a Wisconsin diner, both trying to make ends meet and fulfill their American dream. Estrangement and financial stress turn their offbeat, hopeful tale into a journey of unexpectedly absurd consequences, one that faithfully reflects the alienating feeling of drifting through a land filled with both violence and grace.",
-    "runtime": "115 min",
-    "director": "Werner Herzog"
   },
   {
     "title": "Members' Mingle",
@@ -546,30 +520,17 @@
     "director": "Ross McElwee"
   },
   {
-    "title": "CENTER STAGE",
+    "title": "ONE FROM THE HEART: REPRISE",
     "date": "2026-08-25",
-    "time": "8:15 PM",
-    "format": "DCP",
+    "time": "8:20 PM",
+    "format": "4K DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/center-stage",
+    "url": "https://filmforum.org/film/one-from-the-heart-reprise-coppola",
     "city": "NYC",
-    "description": "International superstar Maggie Cheung (IN THE MOOD FOR LOVE) embodies tragic screen siren Ruan Lingyu, known as the \u201cGreta Garbo of China,\u201d in this unconventional biopic by Hong Kong New Wave master Stanley Kwan (ROUGE). Praised for her moving and emotive onscreen presence, Ruan\u2019s private life, which was frequent fodder for the vicious Shanghai tabloids, began to mirror the melodramas which brought her fame, culminating in her suicide at age 24. Kwan and Cheung paint a kaleidoscopic yet intimate portrait of the ill-fated actress, deftly blending lush period drama, archival footage, and metatextual documentary sequences of Cheung reflecting on Ruan\u2019s legacy. The result is, much like the films of Ruan Lingyu themselves, \u201ctender, vivid, and almost overwhelmingly moving\u201d (Time Out).",
-    "runtime": "155 min",
-    "director": "Stanley Kwan"
-  },
-  {
-    "title": "Rio Staff Selects: ALMOST FAMOUS",
-    "date": "2026-08-25",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2739677.TcsSection_936",
-    "city": "London",
-    "description": "Rio Staff Selects presents ALMOST FAMOUS dir. Cameron Crowe | US | 2000  Rolling Stone Magazine unwittingly hires a 15 year old aspiring journalist after reading an article he wrote for Cream Magazine. ALMOST FAMOUS is the hilarious and touching story of this intelligent young man's journey into the...",
-    "runtime": "123 min",
-    "director": "Cameron Crowe"
+    "description": "The REPRISE cut, supervised by Francis Ford Coppola, boasts never-before-seen footage, brand-new titles taken directly from the original camera negative, and over 19 minutes of footage replaced with new source scans. Hank (Frederic Forrest) and Frannie (Teri Garr) argue while celebrating their fifth anniversary. Yearning for a life of excitement and romance, Frannie fears that she is wasting her life on a man who shows no interest in her dreams of traveling to far-off places. The argument escalates and they break up. Heading in separate ways and taking to the streets, they both meet and spend the night with strangers\u2014Hank with the seductive Leila (Nastassja Kinski) a runaway circus performer, and Frannie with Ray (Ra\u00fal Juli\u00e1), a handsome waiter who moonlights as a cocktail pianist and singer. After another showdown, Frannie says that she is leaving Hank for Ray and that they plan to escape to Bora Bora. Hank follows her to the airport in a last-ditch attempt to win her back.",
+    "runtime": "93 min",
+    "director": "Francis Ford Coppola"
   },
   {
     "title": "Swimming Pool",
@@ -585,17 +546,17 @@
     "director": "Fran\u00e7ois Ozon"
   },
   {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
+    "title": "BILLY LIAR",
     "date": "2026-08-25",
-    "time": "8:45 PM",
+    "time": "8:40 PM",
     "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2793759.TcsSection_1299",
-    "city": "London",
-    "description": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, ...",
-    "runtime": "111 min",
-    "director": "Jane Shoenbrun"
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/billy-liar",
+    "city": "NYC",
+    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
+    "runtime": "98 min",
+    "director": "John Schlesinger"
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -609,19 +570,6 @@
     "description": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director\u2026",
     "runtime": "112 min",
     "director": "Jane Schoenbrun"
-  },
-  {
-    "title": "PEGGY SUE GOT MARRIED",
-    "date": "2026-08-25",
-    "time": "8:50 PM",
-    "format": "35mm",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/peggy-sue-got-married-coppola",
-    "city": "NYC",
-    "description": "\u201cPeggy Sue Bodell (Kathleen Turner) isn\u2019t even sure she wants to go to her 25th high school reunion. Recently separated from Charlie (Nicolas Cage), the husband she had to marry at 18, even the idea of turning up where everyone will ask, \u2018Where\u2019s Crazy Charlie?,\u2019 the wackiest businessman in TV ads, makes her cringe... As they\u2019re crowning the Reunion King and Queen, Peggy Sue faints, coming to in 1960, a 43-year-old in an 18-year-old\u2019s body. She knows the future all too well, from panty hose to the Pill. She\u2019s seen Charlie give up his dreams of being a singer and slip into the family business\u2014with a bit of philandering on the side. Apparently stuck reliving her last weeks of high school, should she should muck with her destiny or not?\u201d \u2013 Sheila Benson, Los Angeles Times",
-    "runtime": "103 min",
-    "director": "Francis Ford Coppola"
   },
   {
     "title": "LATE FAME",
@@ -832,19 +780,6 @@
     "director": "Gregg Araki"
   },
   {
-    "title": "THE SAME RIVER TWICE and Riverdogs",
-    "date": "2026-08-26",
-    "time": "12:15 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-same-river-twice",
-    "city": "NYC",
-    "description": "In the 1970s, Robb Moss worked as a guide along the Colorado River, living a communal, idyllic (often naked) existence with friends. The breathtaking Grand Canyon is the setting for Moss\u2019 utopian record of what it\u2019s like to be in one\u2019s 20s, in robust health, with a gorgeous body, surrounded by friends and lovers whose biggest problem is deciding whether to break camp or spend one more glorious day right where they are. Cut to several decades later: Moss is now a filmmaker on the Harvard faculty; his friends are married (and divorced), raising children, caring for elderly parents, earning a living as writers, small-town mayors, and in one case as an aerobics instructor. They\u2019ve transformed into fully-dressed, middle-class, middle-aged people. It is the brilliance of this film to telescope those intervening years: Barry, Jeff, Cathy, Jim, and Danny aren\u2019t just older; they\u2019re also more reflective and smarter, funnier and more accomplished. Moss looks deeply at the particular and finds the universal. All five characters are revisited over 20 years later in Robb Moss\u2019 new film,",
-    "runtime": "78 min",
-    "director": "Robb Moss"
-  },
-  {
     "title": "LATE FAME",
     "date": "2026-08-26",
     "time": "12:15 PM",
@@ -871,6 +806,19 @@
     "director": "Savage Steve Holland"
   },
   {
+    "title": "FILIPI\u00d1ANA",
+    "date": "2026-08-26",
+    "time": "12:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/filipinana",
+    "city": "NYC",
+    "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
+    "runtime": "100 min",
+    "director": ""
+  },
+  {
     "title": "BILLY LIAR",
     "date": "2026-08-26",
     "time": "12:20 PM",
@@ -882,19 +830,6 @@
     "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
     "runtime": "98 min",
     "director": "John Schlesinger"
-  },
-  {
-    "title": "TUCKER: THE MAN AND HIS DREAM",
-    "date": "2026-08-26",
-    "time": "12:30 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/tucker-the-man-and-his-dream-coppola-coppola",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
   },
   {
     "title": "Franz",
@@ -921,6 +856,19 @@
     "description": "Fri Aug 21 and Sat, Aug 22: Q&A with director Alex Ullom at 7:00 show Sun, Aug 23: Q&A with director Alex Ullom at 4:55 show A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding.",
     "runtime": "87 min",
     "director": "Alex Ullom"
+  },
+  {
+    "title": "THE RAINMAKER",
+    "date": "2026-08-26",
+    "time": "1:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-rainmaker-coppola",
+    "city": "NYC",
+    "description": "\u201cWe\u2019re back in ing\u00e9nue Southern lawyer territory, following law school grad Rudy Baylor (Damon) through his inaugural case to a mercurial triumph against the odds. So far, so insipid; thankfully, the story is less the usual addled potboiler than a diary of civil litigation\u2014centring on Rudy\u2019s pursuit of a giant insurance company accused of stalling on health claims arising from policies marketed to the poor and unrepresented, such as his client Donny Ray Black (Whitworth). Rudy describes the dilemma of his calling in voice-over, musing over ideals and corruptions, compromises and lawyer jokes. His pilgrim\u2019s progress leads us through an entertaining gallery of lawyerly archetypes. There\u2019s the cynic, Rudy\u2019s long sold-out adversary Leo F. Drummond (Voight); the corrupt, his low-life employer Bruiser Stone (Rourke); and the merely ignoble, his \u2018paralawyer\u2019 assistant Deck Schifflet (DeVito). There\u2019s a wider perspective on the legal action, too, counterpointing Rudy\u2019s \u2018rainmaking\u2019 lawsuit with both a damp squib of another case, and a subplot involving Danes\u2019 abused wife which suggests the limitations of the law.\u201d \u2013 Time Out",
+    "runtime": "135 min",
+    "director": "Francis Ford Coppola"
   },
   {
     "title": "The Odyssey",
@@ -1170,6 +1118,19 @@
     "city": "LA"
   },
   {
+    "title": "FILIPI\u00d1ANA",
+    "date": "2026-08-26",
+    "time": "2:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/filipinana",
+    "city": "NYC",
+    "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
+    "runtime": "100 min",
+    "director": ""
+  },
+  {
     "title": "Ish",
     "date": "2026-08-26",
     "time": "2:30 PM",
@@ -1196,17 +1157,17 @@
     "director": "Robert Zemeckis"
   },
   {
-    "title": "SHERMAN'S MARCH",
+    "title": "CENTER STAGE",
     "date": "2026-08-26",
     "time": "2:35 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/shermans-march",
+    "url": "https://filmforum.org/film/center-stage",
     "city": "NYC",
-    "description": "Armed with a 16mm camera and a grant to make a documentary about the lingering aftermath of William Tecumseh Sherman\u2019s 1864 march to the sea, Ross McElwee gets sidetracked. After his girlfriend breaks up with him, Ross shifts his attention from the historical to the personal, to the battlefield of modern love, and embarks on a sociological chronicle that documents the courting rites and rituals of the New South. A generous and humanistic portrait of several remarkable women that Ross meets along the way, Sherman\u2019s March sketches its characters with novelistic sensitivity: Pat, an aspiring actress with a yen for Burt Reynolds; Claudia, a roller-skating interior designer; Jackie, the activist whose anti-nuclear advocacy dovetails with Ross\u2019s deepest fears; and above all, Charleen Swansea, Ross\u2019s mentor and a one-woman Greek chorus of unsolicited romantic counsel. A landmark of first-person filmmaking that presaged everything from Michael Moore to reality TV.",
-    "runtime": "158 min",
-    "director": "Ross McElwee"
+    "description": "International superstar Maggie Cheung (IN THE MOOD FOR LOVE) embodies tragic screen siren Ruan Lingyu, known as the \u201cGreta Garbo of China,\u201d in this unconventional biopic by Hong Kong New Wave master Stanley Kwan (ROUGE). Praised for her moving and emotive onscreen presence, Ruan\u2019s private life, which was frequent fodder for the vicious Shanghai tabloids, began to mirror the melodramas which brought her fame, culminating in her suicide at age 24. Kwan and Cheung paint a kaleidoscopic yet intimate portrait of the ill-fated actress, deftly blending lush period drama, archival footage, and metatextual documentary sequences of Cheung reflecting on Ruan\u2019s legacy. The result is, much like the films of Ruan Lingyu themselves, \u201ctender, vivid, and almost overwhelmingly moving\u201d (Time Out).",
+    "runtime": "155 min",
+    "director": "Stanley Kwan"
   },
   {
     "title": "It Ends",
@@ -1220,32 +1181,6 @@
     "description": "Fri Aug 21 and Sat, Aug 22: Q&A with director Alex Ullom at 7:00 show Sun, Aug 23: Q&A with director Alex Ullom at 4:55 show A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding.",
     "runtime": "87 min",
     "director": "Alex Ullom"
-  },
-  {
-    "title": "CENTER STAGE",
-    "date": "2026-08-26",
-    "time": "2:40 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/center-stage",
-    "city": "NYC",
-    "description": "International superstar Maggie Cheung (IN THE MOOD FOR LOVE) embodies tragic screen siren Ruan Lingyu, known as the \u201cGreta Garbo of China,\u201d in this unconventional biopic by Hong Kong New Wave master Stanley Kwan (ROUGE). Praised for her moving and emotive onscreen presence, Ruan\u2019s private life, which was frequent fodder for the vicious Shanghai tabloids, began to mirror the melodramas which brought her fame, culminating in her suicide at age 24. Kwan and Cheung paint a kaleidoscopic yet intimate portrait of the ill-fated actress, deftly blending lush period drama, archival footage, and metatextual documentary sequences of Cheung reflecting on Ruan\u2019s legacy. The result is, much like the films of Ruan Lingyu themselves, \u201ctender, vivid, and almost overwhelmingly moving\u201d (Time Out).",
-    "runtime": "155 min",
-    "director": "Stanley Kwan"
-  },
-  {
-    "title": "PEGGY SUE GOT MARRIED",
-    "date": "2026-08-26",
-    "time": "2:50 PM",
-    "format": "35mm",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/peggy-sue-got-married-coppola",
-    "city": "NYC",
-    "description": "\u201cPeggy Sue Bodell (Kathleen Turner) isn\u2019t even sure she wants to go to her 25th high school reunion. Recently separated from Charlie (Nicolas Cage), the husband she had to marry at 18, even the idea of turning up where everyone will ask, \u2018Where\u2019s Crazy Charlie?,\u2019 the wackiest businessman in TV ads, makes her cringe... As they\u2019re crowning the Reunion King and Queen, Peggy Sue faints, coming to in 1960, a 43-year-old in an 18-year-old\u2019s body. She knows the future all too well, from panty hose to the Pill. She\u2019s seen Charlie give up his dreams of being a singer and slip into the family business\u2014with a bit of philandering on the side. Apparently stuck reliving her last weeks of high school, should she should muck with her destiny or not?\u201d \u2013 Sheila Benson, Los Angeles Times",
-    "runtime": "103 min",
-    "director": "Francis Ford Coppola"
   },
   {
     "title": "The Samurai and the Prisoner",
@@ -1389,6 +1324,19 @@
     "description": "",
     "runtime": "108 min",
     "director": "Andrius Bla\u017eevicius"
+  },
+  {
+    "title": "ONE FROM THE HEART: REPRISE",
+    "date": "2026-08-26",
+    "time": "4:00 PM",
+    "format": "4K DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/one-from-the-heart-reprise-coppola",
+    "city": "NYC",
+    "description": "The REPRISE cut, supervised by Francis Ford Coppola, boasts never-before-seen footage, brand-new titles taken directly from the original camera negative, and over 19 minutes of footage replaced with new source scans. Hank (Frederic Forrest) and Frannie (Teri Garr) argue while celebrating their fifth anniversary. Yearning for a life of excitement and romance, Frannie fears that she is wasting her life on a man who shows no interest in her dreams of traveling to far-off places. The argument escalates and they break up. Heading in separate ways and taking to the streets, they both meet and spend the night with strangers\u2014Hank with the seductive Leila (Nastassja Kinski) a runaway circus performer, and Frannie with Ray (Ra\u00fal Juli\u00e1), a handsome waiter who moonlights as a cocktail pianist and singer. After another showdown, Frannie says that she is leaving Hank for Ray and that they plan to escape to Bora Bora. Hank follows her to the airport in a last-ditch attempt to win her back.",
+    "runtime": "93 min",
+    "director": "Francis Ford Coppola"
   },
   {
     "title": "Lady",
@@ -1586,6 +1534,19 @@
     "director": "Kent Jones"
   },
   {
+    "title": "FILIPI\u00d1ANA",
+    "date": "2026-08-26",
+    "time": "4:45 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/filipinana",
+    "city": "NYC",
+    "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
+    "runtime": "100 min",
+    "director": ""
+  },
+  {
     "title": "The Odyssey",
     "date": "2026-08-26",
     "time": "5:00 PM",
@@ -1612,30 +1573,17 @@
     "director": "Destin Daniel Cretton"
   },
   {
-    "title": "FINIAN'S RAINBOW",
-    "date": "2026-08-26",
-    "time": "5:30 PM",
-    "format": "4K DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/finians-rainbow-coppola",
-    "city": "NYC",
-    "description": "\u201cAn underrated musical... Burton Lane\u2019s score is still first rate, and Coppola steers his motley cast through it with an instinct for rhythm and movement which shows that the choreographic preoccupation which surfaced in his work starting with ONE FROM THE HEART was nothing new. Certainly the best of the latter-day musicals in the tradition of Minnelli and MGM.\u201d \u2013 Time Out",
-    "runtime": "145 min",
-    "director": "Francis Ford Coppola"
-  },
-  {
-    "title": "THE SAME RIVER TWICE and Riverdogs",
+    "title": "BILLY LIAR",
     "date": "2026-08-26",
     "time": "5:45 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-same-river-twice",
+    "url": "https://filmforum.org/film/billy-liar",
     "city": "NYC",
-    "description": "In the 1970s, Robb Moss worked as a guide along the Colorado River, living a communal, idyllic (often naked) existence with friends. The breathtaking Grand Canyon is the setting for Moss\u2019 utopian record of what it\u2019s like to be in one\u2019s 20s, in robust health, with a gorgeous body, surrounded by friends and lovers whose biggest problem is deciding whether to break camp or spend one more glorious day right where they are. Cut to several decades later: Moss is now a filmmaker on the Harvard faculty; his friends are married (and divorced), raising children, caring for elderly parents, earning a living as writers, small-town mayors, and in one case as an aerobics instructor. They\u2019ve transformed into fully-dressed, middle-class, middle-aged people. It is the brilliance of this film to telescope those intervening years: Barry, Jeff, Cathy, Jim, and Danny aren\u2019t just older; they\u2019re also more reflective and smarter, funnier and more accomplished. Moss looks deeply at the particular and finds the universal. All five characters are revisited over 20 years later in Robb Moss\u2019 new film,",
-    "runtime": "78 min",
-    "director": "Robb Moss"
+    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
+    "runtime": "98 min",
+    "director": "John Schlesinger"
   },
   {
     "title": "Angel's Egg",
@@ -1662,19 +1610,6 @@
     "description": "Samuel Abrahams serves up this delightfully odd mockumentary: an eccentric aristocrat ( Fleabag 's Sian Clifford) ropes a struggling filmmaker into documenting her gloriously mundane life.",
     "runtime": "95 min",
     "director": "Samuel Abrahams"
-  },
-  {
-    "title": "FILIPI\u00d1ANA",
-    "date": "2026-08-26",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/filipinana",
-    "city": "NYC",
-    "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
-    "runtime": "100 min",
-    "director": ""
   },
   {
     "title": "Franz",
@@ -1740,6 +1675,19 @@
     "description": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession with the spotlight takes a surreal turn when she starts becoming\u2026 invisible. Blending mockumentary and magical realism, Lady satirises our ...",
     "runtime": "97 min",
     "director": "Samuel Abrahams"
+  },
+  {
+    "title": "THE CONVERSATION",
+    "date": "2026-08-26",
+    "time": "6:10 PM",
+    "format": "35mm",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-conversation-coppola",
+    "city": "NYC",
+    "description": "\u201cHe\u2019d kill us if he had the chance.\u201d Francis Ford Coppola\u2019s masterpiece of sustained suspense and paranoia, starring Gene Hackman as a loner surveillance expert. Hackman\u2019s Harry Caul bugs a couple in San Francisco\u2019s teeming Union Square\u2014but why? A recluse living alone in an empty apartment, Caul plays saxophone to jazz records and broods over the deaths he may have been responsible for. And as he keeps tinkering with the recordings, he gets bugged himself, his tapes are stolen, his landlord effortlessly penetrates his security to leave a note\u2014and then, to his horror, he figures it out.",
+    "runtime": "113 min",
+    "director": "Francis Ford Coppola"
   },
   {
     "title": "The Invite (15) (AD)",
@@ -1989,19 +1937,6 @@
     "director": "Kent Jones"
   },
   {
-    "title": "Patrick Shiroishi Trio Live",
-    "date": "2026-08-26",
-    "time": "7:00 pm",
-    "format": "DCP",
-    "venue": "Brain Dead Studios",
-    "venue_short": "BrainDead",
-    "url": "https://dice.fm/partner/tickets/event/l87ypb-patrick-shiroishi-trio-live-26th-aug-brain-dead-studios-los-angeles-tickets?dice_id=10009432&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_branch_match_id=1256662425127165609&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1Q%2ByTDMzMzAyTjIws7CvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQDEmfLDOwAAAA%3D%3D",
-    "description": "Patrick Shiroishi Trio Live",
-    "runtime": "120 min",
-    "director": "",
-    "city": "LA"
-  },
-  {
     "title": "Song Exploder Presents YOU CAN COUNT ON ME",
     "date": "2026-08-26",
     "time": "7:00 PM",
@@ -2026,6 +1961,19 @@
     "runtime": "103 min",
     "director": "Dave Green",
     "city": "LA"
+  },
+  {
+    "title": "FILIPI\u00d1ANA",
+    "date": "2026-08-26",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/filipinana",
+    "city": "NYC",
+    "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
+    "runtime": "100 min",
+    "director": ""
   },
   {
     "title": "Measures of a Distance",
@@ -2132,6 +2080,19 @@
     "director": "Christopher Nolan"
   },
   {
+    "title": "FILIPI\u00d1ANA",
+    "date": "2026-08-26",
+    "time": "8:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/filipinana",
+    "city": "NYC",
+    "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
+    "runtime": "100 min",
+    "director": ""
+  },
+  {
     "title": "The Odyssey",
     "date": "2026-08-26",
     "time": "8:00 PM",
@@ -2143,19 +2104,6 @@
     "description": "The Odyssey (2026), Christopher Nolan\u2019s epic adaptation of Homer\u2019s classic, follows Greek hero Odysseus on a perilous journey home after the Trojan War, encountering gods, monsters, and treacherous seas while his family faces turmoil in Ithaca Photo Id may required for 15 certificate films",
     "runtime": "172 min",
     "director": "Christopher Nolan"
-  },
-  {
-    "title": "SHERMAN'S MARCH",
-    "date": "2026-08-26",
-    "time": "8:10 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/shermans-march",
-    "city": "NYC",
-    "description": "Armed with a 16mm camera and a grant to make a documentary about the lingering aftermath of William Tecumseh Sherman\u2019s 1864 march to the sea, Ross McElwee gets sidetracked. After his girlfriend breaks up with him, Ross shifts his attention from the historical to the personal, to the battlefield of modern love, and embarks on a sociological chronicle that documents the courting rites and rituals of the New South. A generous and humanistic portrait of several remarkable women that Ross meets along the way, Sherman\u2019s March sketches its characters with novelistic sensitivity: Pat, an aspiring actress with a yen for Burt Reynolds; Claudia, a roller-skating interior designer; Jackie, the activist whose anti-nuclear advocacy dovetails with Ross\u2019s deepest fears; and above all, Charleen Swansea, Ross\u2019s mentor and a one-woman Greek chorus of unsolicited romantic counsel. A landmark of first-person filmmaking that presaged everything from Michael Moore to reality TV.",
-    "runtime": "158 min",
-    "director": "Ross McElwee"
   },
   {
     "title": "California Split",
@@ -2171,26 +2119,13 @@
     "director": "Robert Altman"
   },
   {
-    "title": "ONE FROM THE HEART: REPRISE",
-    "date": "2026-08-26",
-    "time": "8:20 PM",
-    "format": "4K DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/one-from-the-heart-reprise-coppola",
-    "city": "NYC",
-    "description": "The REPRISE cut, supervised by Francis Ford Coppola, boasts never-before-seen footage, brand-new titles taken directly from the original camera negative, and over 19 minutes of footage replaced with new source scans. Hank (Frederic Forrest) and Frannie (Teri Garr) argue while celebrating their fifth anniversary. Yearning for a life of excitement and romance, Frannie fears that she is wasting her life on a man who shows no interest in her dreams of traveling to far-off places. The argument escalates and they break up. Heading in separate ways and taking to the streets, they both meet and spend the night with strangers\u2014Hank with the seductive Leila (Nastassja Kinski) a runaway circus performer, and Frannie with Ray (Ra\u00fal Juli\u00e1), a handsome waiter who moonlights as a cocktail pianist and singer. After another showdown, Frannie says that she is leaving Hank for Ray and that they plan to escape to Bora Bora. Hank follows her to the airport in a last-ditch attempt to win her back.",
-    "runtime": "93 min",
-    "director": "Francis Ford Coppola"
-  },
-  {
     "title": "Je Tu Il Elle",
     "date": "2026-08-26",
     "time": "8:30 PM",
     "format": "DCP",
     "venue": "Metrograph",
     "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30749",
+    "url": "https://metrograph.com/film/?vista_film_id=9999002615",
     "city": "NYC",
     "description": "",
     "runtime": "",
@@ -2288,17 +2223,17 @@
     "director": "Matt Johnson"
   },
   {
-    "title": "BILLY LIAR",
+    "title": "BRAM STOKER'S DRACULA",
     "date": "2026-08-26",
     "time": "8:40 PM",
-    "format": "DCP",
+    "format": "35mm",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/billy-liar",
+    "url": "https://filmforum.org/film/bram-stokers-dracula-coppola",
     "city": "NYC",
-    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
-    "runtime": "98 min",
-    "director": "John Schlesinger"
+    "description": "\u201cThe film begins, as it should, with the tragic story of Vlad the Impaler, who went off to fight the Crusades and returned to find that his beloved wife, hearing he was dead, had killed herself. Coppola\u2019s plot, from a screenplay by James V. Hart, exists precisely between London, where this modern age is just dawning, and Transylvania, which still sleeps unhealthily in the past. We meet a young attorney (Keanu Reeves) who has been asked to journey out to Dracula\u2019s castle to arrange certain real estate transactions. Reeves\u2019 carriage, driven by a man whose hands are claws, hurtles at the edges of precipices until he is finally discharged in the darkness to be met and taken to Dracula\u2019s castle. There, everything is more or less as we expect it, only much more so. Count Dracula (Gary Oldman) waits here as he has for centuries for the return of his dead bride, and when he sees a photograph of Reeves\u2019 fiancee, Mina Murray (Winona Ryder), he knows his wait has been rewarded at last. She lives again.\u201d \u2013 Roger Ebert",
+    "runtime": "128 min",
+    "director": "Francis Ford Coppola"
   },
   {
     "title": "Off-Circuit: The Visitor",
@@ -2938,6 +2873,19 @@
     "director": "John Schlesinger"
   },
   {
+    "title": "FINIAN'S RAINBOW",
+    "date": "2026-08-27",
+    "time": "12:30 PM",
+    "format": "4K DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/finians-rainbow-coppola",
+    "city": "NYC",
+    "description": "\u201cAn underrated musical... Burton Lane\u2019s score is still first rate, and Coppola steers his motley cast through it with an instinct for rhythm and movement which shows that the choreographic preoccupation which surfaced in his work starting with ONE FROM THE HEART was nothing new. Certainly the best of the latter-day musicals in the tradition of Minnelli and MGM.\u201d \u2013 Time Out",
+    "runtime": "145 min",
+    "director": "Francis Ford Coppola"
+  },
+  {
     "title": "Franz",
     "date": "2026-08-27",
     "time": "12:30 PM",
@@ -2975,19 +2923,6 @@
     "description": "At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years later, the two boys couldn\u2019t be more different. Neil is a charismatic but emotionally aloof male hustler, while Brian is a nervous introvert obsessed with the idea that he has been abducted by a UFO. When the boys\u2019 parallel lives inevitably intersect, the pair unearth dark, repressed secrets on a harrowing and unforgettable journey of self-discovery. Director\u2019s Statement: \u201cI\u2019m SO excited about the glorious 4K restoration of MYSTERIOUS SKIN! When we made this little indie 20 years ago, we barely had enough money to finish it, let alone pay for a Digital Intermediate and the bells and whistles of a larger studio film. I would never drastically alter the film which has such an amazing and passionate following around the world. However, the incredible tools made possible by modern digital technology helped us polish and enhance the picture in a way that wasn\u2019t possible in the early 00\u2019s. MYSTERIOUS SKIN holds a special place in my heart and I can\u2019t wait for audiences, present and future, to experience this new definitive version of it.\u201d Official Selection: Sundance, TIFF, Venice Film Festival Previous screenings:",
     "runtime": "99 min",
     "director": "Gregg Araki"
-  },
-  {
-    "title": "THE RAINMAKER",
-    "date": "2026-08-27",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-rainmaker-coppola",
-    "city": "NYC",
-    "description": "\u201cWe\u2019re back in ing\u00e9nue Southern lawyer territory, following law school grad Rudy Baylor (Damon) through his inaugural case to a mercurial triumph against the odds. So far, so insipid; thankfully, the story is less the usual addled potboiler than a diary of civil litigation\u2014centring on Rudy\u2019s pursuit of a giant insurance company accused of stalling on health claims arising from policies marketed to the poor and unrepresented, such as his client Donny Ray Black (Whitworth). Rudy describes the dilemma of his calling in voice-over, musing over ideals and corruptions, compromises and lawyer jokes. His pilgrim\u2019s progress leads us through an entertaining gallery of lawyerly archetypes. There\u2019s the cynic, Rudy\u2019s long sold-out adversary Leo F. Drummond (Voight); the corrupt, his low-life employer Bruiser Stone (Rourke); and the merely ignoble, his \u2018paralawyer\u2019 assistant Deck Schifflet (DeVito). There\u2019s a wider perspective on the legal action, too, counterpointing Rudy\u2019s \u2018rainmaking\u2019 lawsuit with both a damp squib of another case, and a subplot involving Danes\u2019 abused wife which suggests the limitations of the law.\u201d \u2013 Time Out",
-    "runtime": "135 min",
-    "director": "Francis Ford Coppola"
   },
   {
     "title": "The Invite",
@@ -3328,6 +3263,19 @@
     "director": "Agnieszka Holland"
   },
   {
+    "title": "THE GODFATHER",
+    "date": "2026-08-27",
+    "time": "3:20 PM",
+    "format": "4K DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-godfather-coppola",
+    "city": "NYC",
+    "description": "\u201cI\u2019ll make him an offer he can\u2019t refuse.\u201d Al Pacino\u2019s Michael Corleone is back from WWII and opting out of The Family, until an attempted hit on dad Marlon Brando pulls him back in. Oscars\u00ae for Best Picture, Screenplay, and Actor\u2014to Brando, though Supporting Actor-nominated Pacino\u2019s part is bigger.",
+    "runtime": "175 min",
+    "director": "Francis Ford Coppola"
+  },
+  {
     "title": "Teenage Sex and Death at Camp Miasma (15) (AD)",
     "date": "2026-08-27",
     "time": "3:20 PM",
@@ -3443,19 +3391,6 @@
     "description": "",
     "runtime": "108 min",
     "director": "Andrius Bla\u017eevicius"
-  },
-  {
-    "title": "ONE FROM THE HEART: REPRISE",
-    "date": "2026-08-27",
-    "time": "4:00 PM",
-    "format": "4K DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/one-from-the-heart-reprise-coppola",
-    "city": "NYC",
-    "description": "The REPRISE cut, supervised by Francis Ford Coppola, boasts never-before-seen footage, brand-new titles taken directly from the original camera negative, and over 19 minutes of footage replaced with new source scans. Hank (Frederic Forrest) and Frannie (Teri Garr) argue while celebrating their fifth anniversary. Yearning for a life of excitement and romance, Frannie fears that she is wasting her life on a man who shows no interest in her dreams of traveling to far-off places. The argument escalates and they break up. Heading in separate ways and taking to the streets, they both meet and spend the night with strangers\u2014Hank with the seductive Leila (Nastassja Kinski) a runaway circus performer, and Frannie with Ray (Ra\u00fal Juli\u00e1), a handsome waiter who moonlights as a cocktail pianist and singer. After another showdown, Frannie says that she is leaving Hank for Ray and that they plan to escape to Bora Bora. Hank follows her to the airport in a last-ditch attempt to win her back.",
-    "runtime": "93 min",
-    "director": "Francis Ford Coppola"
   },
   {
     "title": "The Pout-Pout Fish",
@@ -3783,19 +3718,6 @@
     "director": "Danny Boyle"
   },
   {
-    "title": "THE CONVERSATION",
-    "date": "2026-08-27",
-    "time": "6:10 PM",
-    "format": "35mm",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-conversation-coppola",
-    "city": "NYC",
-    "description": "\u201cHe\u2019d kill us if he had the chance.\u201d Francis Ford Coppola\u2019s masterpiece of sustained suspense and paranoia, starring Gene Hackman as a loner surveillance expert. Hackman\u2019s Harry Caul bugs a couple in San Francisco\u2019s teeming Union Square\u2014but why? A recluse living alone in an empty apartment, Caul plays saxophone to jazz records and broods over the deaths he may have been responsible for. And as he keeps tinkering with the recordings, he gets bugged himself, his tapes are stolen, his landlord effortlessly penetrates his security to leave a note\u2014and then, to his horror, he figures it out.",
-    "runtime": "113 min",
-    "director": "Francis Ford Coppola"
-  },
-  {
     "title": "The Invite (15) (AD)",
     "date": "2026-08-27",
     "time": "6:10 PM",
@@ -4017,6 +3939,19 @@
     "director": "Olivia Wilde"
   },
   {
+    "title": "THE CONVERSATION",
+    "date": "2026-08-27",
+    "time": "6:45 PM",
+    "format": "35mm",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-conversation-coppola",
+    "city": "NYC",
+    "description": "\u201cHe\u2019d kill us if he had the chance.\u201d Francis Ford Coppola\u2019s masterpiece of sustained suspense and paranoia, starring Gene Hackman as a loner surveillance expert. Hackman\u2019s Harry Caul bugs a couple in San Francisco\u2019s teeming Union Square\u2014but why? A recluse living alone in an empty apartment, Caul plays saxophone to jazz records and broods over the deaths he may have been responsible for. And as he keeps tinkering with the recordings, he gets bugged himself, his tapes are stolen, his landlord effortlessly penetrates his security to leave a note\u2014and then, to his horror, he figures it out.",
+    "runtime": "113 min",
+    "director": "Francis Ford Coppola"
+  },
+  {
     "title": "STOP! THAT! TRAIN!",
     "date": "2026-08-27",
     "time": "6:45 PM",
@@ -4153,7 +4088,7 @@
     "format": "DCP",
     "venue": "Metrograph",
     "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30757",
+    "url": "https://metrograph.com/film/?vista_film_id=9999003055",
     "city": "NYC",
     "description": "",
     "runtime": "",
@@ -4394,19 +4329,6 @@
     "director": "Matt Johnson"
   },
   {
-    "title": "BRAM STOKER'S DRACULA",
-    "date": "2026-08-27",
-    "time": "8:40 PM",
-    "format": "35mm",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/bram-stokers-dracula-coppola",
-    "city": "NYC",
-    "description": "\u201cThe film begins, as it should, with the tragic story of Vlad the Impaler, who went off to fight the Crusades and returned to find that his beloved wife, hearing he was dead, had killed herself. Coppola\u2019s plot, from a screenplay by James V. Hart, exists precisely between London, where this modern age is just dawning, and Transylvania, which still sleeps unhealthily in the past. We meet a young attorney (Keanu Reeves) who has been asked to journey out to Dracula\u2019s castle to arrange certain real estate transactions. Reeves\u2019 carriage, driven by a man whose hands are claws, hurtles at the edges of precipices until he is finally discharged in the darkness to be met and taken to Dracula\u2019s castle. There, everything is more or less as we expect it, only much more so. Count Dracula (Gary Oldman) waits here as he has for centuries for the return of his dead bride, and when he sees a photograph of Reeves\u2019 fiancee, Mina Murray (Winona Ryder), he knows his wait has been rewarded at last. She lives again.\u201d \u2013 Roger Ebert",
-    "runtime": "128 min",
-    "director": "Francis Ford Coppola"
-  },
-  {
     "title": "Teenage Sex and Death at Camp Miasma (15) (AD)",
     "date": "2026-08-27",
     "time": "8:40 PM",
@@ -4626,6 +4548,19 @@
     "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
     "runtime": "106 min",
     "director": "Matt Johnson"
+  },
+  {
+    "title": "DEMENTIA 13: DIRECTOR\u2019S CUT",
+    "date": "2026-08-27",
+    "time": "9:10 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/dementia-13-coppola",
+    "city": "NYC",
+    "description": "\u201cProduced by Roger Corman, and evidently made under his presiding spirit, Coppola\u2019s debut runs briskly through one of those family reunion plots in which the challenge is to guess which seemingly benign member of the family is the mad axe-murderer who\u2019s steadily picking off the rest. The location (an Irish castle) is used imaginatively, the Gothic atmosphere is suitably potent, and there\u2019s a wonderfully sharp cameo from Patrick Magee as the family doctor.\u201d \u2013 Time Out",
+    "runtime": "69 min",
+    "director": "Francis Ford Coppola"
   },
   {
     "title": "Train to Busan",
@@ -4992,17 +4927,17 @@
     "director": ""
   },
   {
-    "title": "BILLY LIAR",
+    "title": "THE CONVERSATION",
     "date": "2026-08-28",
     "time": "12:20 PM",
-    "format": "DCP",
+    "format": "35mm",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/billy-liar",
+    "url": "https://filmforum.org/film/the-conversation-coppola",
     "city": "NYC",
-    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
-    "runtime": "98 min",
-    "director": "John Schlesinger"
+    "description": "\u201cHe\u2019d kill us if he had the chance.\u201d Francis Ford Coppola\u2019s masterpiece of sustained suspense and paranoia, starring Gene Hackman as a loner surveillance expert. Hackman\u2019s Harry Caul bugs a couple in San Francisco\u2019s teeming Union Square\u2014but why? A recluse living alone in an empty apartment, Caul plays saxophone to jazz records and broods over the deaths he may have been responsible for. And as he keeps tinkering with the recordings, he gets bugged himself, his tapes are stolen, his landlord effortlessly penetrates his security to leave a note\u2014and then, to his horror, he figures it out.",
+    "runtime": "113 min",
+    "director": "Francis Ford Coppola"
   },
   {
     "title": "Coyote vs. Acme",
@@ -5031,16 +4966,16 @@
     "director": "Alex Ullom"
   },
   {
-    "title": "FINIAN'S RAINBOW",
+    "title": "THE GODFATHER",
     "date": "2026-08-28",
     "time": "12:30 PM",
     "format": "4K DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/finians-rainbow-coppola",
+    "url": "https://filmforum.org/film/the-godfather-coppola",
     "city": "NYC",
-    "description": "\u201cAn underrated musical... Burton Lane\u2019s score is still first rate, and Coppola steers his motley cast through it with an instinct for rhythm and movement which shows that the choreographic preoccupation which surfaced in his work starting with ONE FROM THE HEART was nothing new. Certainly the best of the latter-day musicals in the tradition of Minnelli and MGM.\u201d \u2013 Time Out",
-    "runtime": "145 min",
+    "description": "\u201cI\u2019ll make him an offer he can\u2019t refuse.\u201d Al Pacino\u2019s Michael Corleone is back from WWII and opting out of The Family, until an attempted hit on dad Marlon Brando pulls him back in. Oscars\u00ae for Best Picture, Screenplay, and Actor\u2014to Brando, though Supporting Actor-nominated Pacino\u2019s part is bigger.",
+    "runtime": "175 min",
     "director": "Francis Ford Coppola"
   },
   {
@@ -5343,19 +5278,6 @@
     "director": "Anuparna Roy"
   },
   {
-    "title": "CENTER STAGE",
-    "date": "2026-08-28",
-    "time": "2:35 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/center-stage",
-    "city": "NYC",
-    "description": "International superstar Maggie Cheung (IN THE MOOD FOR LOVE) embodies tragic screen siren Ruan Lingyu, known as the \u201cGreta Garbo of China,\u201d in this unconventional biopic by Hong Kong New Wave master Stanley Kwan (ROUGE). Praised for her moving and emotive onscreen presence, Ruan\u2019s private life, which was frequent fodder for the vicious Shanghai tabloids, began to mirror the melodramas which brought her fame, culminating in her suicide at age 24. Kwan and Cheung paint a kaleidoscopic yet intimate portrait of the ill-fated actress, deftly blending lush period drama, archival footage, and metatextual documentary sequences of Cheung reflecting on Ruan\u2019s legacy. The result is, much like the films of Ruan Lingyu themselves, \u201ctender, vivid, and almost overwhelmingly moving\u201d (Time Out).",
-    "runtime": "155 min",
-    "director": "Stanley Kwan"
-  },
-  {
     "title": "Gandahar",
     "date": "2026-08-28",
     "time": "2:45 PM",
@@ -5380,6 +5302,19 @@
     "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
     "runtime": "144 min",
     "director": "Destin Daniel Cretton"
+  },
+  {
+    "title": "CENTER STAGE",
+    "date": "2026-08-28",
+    "time": "2:50 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/center-stage",
+    "city": "NYC",
+    "description": "International superstar Maggie Cheung (IN THE MOOD FOR LOVE) embodies tragic screen siren Ruan Lingyu, known as the \u201cGreta Garbo of China,\u201d in this unconventional biopic by Hong Kong New Wave master Stanley Kwan (ROUGE). Praised for her moving and emotive onscreen presence, Ruan\u2019s private life, which was frequent fodder for the vicious Shanghai tabloids, began to mirror the melodramas which brought her fame, culminating in her suicide at age 24. Kwan and Cheung paint a kaleidoscopic yet intimate portrait of the ill-fated actress, deftly blending lush period drama, archival footage, and metatextual documentary sequences of Cheung reflecting on Ruan\u2019s legacy. The result is, much like the films of Ruan Lingyu themselves, \u201ctender, vivid, and almost overwhelmingly moving\u201d (Time Out).",
+    "runtime": "155 min",
+    "director": "Stanley Kwan"
   },
   {
     "title": "Union County",
@@ -5458,19 +5393,6 @@
     "description": "Mr Fish, a prickly recluse, and Pip, a hyperactive sea dragon, must embark on a daunting undersea quest in search of a mythical, wish-granting fish to save their homes. Based on the bestselling children's book series.",
     "runtime": "92 min",
     "director": "Ricard Cuss\u00f3"
-  },
-  {
-    "title": "THE GODFATHER",
-    "date": "2026-08-28",
-    "time": "3:20 PM",
-    "format": "4K DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-godfather-coppola",
-    "city": "NYC",
-    "description": "\u201cI\u2019ll make him an offer he can\u2019t refuse.\u201d Al Pacino\u2019s Michael Corleone is back from WWII and opting out of The Family, until an attempted hit on dad Marlon Brando pulls him back in. Oscars\u00ae for Best Picture, Screenplay, and Actor\u2014to Brando, though Supporting Actor-nominated Pacino\u2019s part is bigger.",
-    "runtime": "175 min",
-    "director": "Francis Ford Coppola"
   },
   {
     "title": "The Dark Knight",
@@ -5681,6 +5603,19 @@
     "director": "Gregg Araki"
   },
   {
+    "title": "THE GODFATHER PART II",
+    "date": "2026-08-28",
+    "time": "4:10 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
     "title": "Kiki's Delivery Service",
     "date": "2026-08-28",
     "time": "4:15 PM",
@@ -5863,19 +5798,6 @@
     "director": "Christopher Nolan"
   },
   {
-    "title": "BILLY LIAR",
-    "date": "2026-08-28",
-    "time": "5:45 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/billy-liar",
-    "city": "NYC",
-    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
-    "runtime": "98 min",
-    "director": "John Schlesinger"
-  },
-  {
     "title": "Bitter Christmas",
     "date": "2026-08-28",
     "time": "5:45 PM",
@@ -5900,6 +5822,19 @@
     "description": "Set in a post-apocalyptic world in which a virus has wiped out most of humanity, with survivors being terrorized by roaming scavengers called \"Reapers.\" The protagonist is Hig, a pilot who survived the flu that killed everyone he knew, his wife included. He lives in the hangar of a small abandoned airport with his dog, his only neighbor a gun-toting ex-Marine. Hig sometimes heads off in his 1956 Cessna, where he can fish and pretend things are how they used to be. When a random transmission somehow beams through his radio, the voice ignites a hope deep inside him that a better life might exist if he flies a bit further. He risks it all. to chase a possible haven in Grand Junction.",
     "runtime": "118 min",
     "director": "Ridley Scott"
+  },
+  {
+    "title": "BILLY LIAR",
+    "date": "2026-08-28",
+    "time": "6:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/billy-liar",
+    "city": "NYC",
+    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
+    "runtime": "98 min",
+    "director": "John Schlesinger"
   },
   {
     "title": "Late Fame",
@@ -6025,7 +5960,7 @@
     "format": "DCP",
     "venue": "Metrograph",
     "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30643",
+    "url": "https://metrograph.com/film/?vista_film_id=9999004974",
     "city": "NYC",
     "description": "",
     "runtime": "",
@@ -6214,19 +6149,6 @@
     "director": "Andrius Bla\u017eevicius"
   },
   {
-    "title": "THE CONVERSATION",
-    "date": "2026-08-28",
-    "time": "6:45 PM",
-    "format": "35mm",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-conversation-coppola",
-    "city": "NYC",
-    "description": "\u201cHe\u2019d kill us if he had the chance.\u201d Francis Ford Coppola\u2019s masterpiece of sustained suspense and paranoia, starring Gene Hackman as a loner surveillance expert. Hackman\u2019s Harry Caul bugs a couple in San Francisco\u2019s teeming Union Square\u2014but why? A recluse living alone in an empty apartment, Caul plays saxophone to jazz records and broods over the deaths he may have been responsible for. And as he keeps tinkering with the recordings, he gets bugged himself, his tapes are stolen, his landlord effortlessly penetrates his security to leave a note\u2014and then, to his horror, he figures it out.",
-    "runtime": "113 min",
-    "director": "Francis Ford Coppola"
-  },
-  {
     "title": "LATE FAME",
     "date": "2026-08-28",
     "time": "6:50 PM",
@@ -6251,19 +6173,6 @@
     "description": "Horror master Yeon Sang-ho\u2019s ( Train to Busan ) new zombie thriller stars Gianna Jun as biology professor Se-jeong, who\u2019s thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations. Also starring Koo Kyo-hawn.",
     "runtime": "122 min",
     "director": "Yeon Sang-ho"
-  },
-  {
-    "title": "Dirty Dancing",
-    "date": "2026-08-28",
-    "time": "7:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4444820/",
-    "description": "Nobody puts Baby in a corner! Spend your summer vacation in the Catskills with one of the most beloved coming-of-age love stories of all time. Put on your dancing shoes and fall in love with Patrick Swayze all over again (as if you ever fell out of love with him)! It\u2019s the Summer of \u201963 and well-to-do, do-gooder Baby is vacationing with her family at a swank summer resort when she\u2019s swept away by an other-side-of-the-tracks dance instructor who opens her eyes and her heart. Don your dancing shoes and come prepared for a movie-going experience you\u2019ll only find at Vidiots (surprises will abound), you know you can\u2019t resist these hungry eyes!",
-    "runtime": "100 min",
-    "director": "Emile Ardolino",
-    "city": "LA"
   },
   {
     "title": "Psycho",
@@ -6409,19 +6318,6 @@
     "city": "LA"
   },
   {
-    "title": "FILIPI\u00d1ANA",
-    "date": "2026-08-28",
-    "time": "8:00 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/filipinana",
-    "city": "NYC",
-    "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
-    "runtime": "100 min",
-    "director": ""
-  },
-  {
     "title": "De Gaulle: Resistance",
     "date": "2026-08-28",
     "time": "8:00 PM",
@@ -6441,11 +6337,24 @@
     "format": "DCP",
     "venue": "Electric Cinema Portobello",
     "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/71342",
+    "url": "https://www.electriccinema.co.uk/film/the-odyssey/",
     "city": "London",
     "description": "Christopher Nolan's new vision of Homer's epic tale. Odysseus, king of Ithaca, embarks on a perilous journey to return home after the Trojan War...",
     "runtime": "172 min",
     "director": "Christopher Nolan"
+  },
+  {
+    "title": "MARIO PUZO\u2019S THE GODFATHER, CODA: THE DEATH OF MICHAEL CORLEONE",
+    "date": "2026-08-28",
+    "time": "8:10 PM",
+    "format": "4K DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-godfather-coda-coppola",
+    "city": "NYC",
+    "description": "Michael Corleone (Al Pacino), now in his 60s, seeks to free his family from crime and find a suitable successor to his empire. That successor could be fiery Vincent (Andy Garcia)... but he may also be the spark that turns Michael\u2019s hope of business legitimacy into an inferno of mob violence.",
+    "runtime": "158 min",
+    "director": "Francis Ford Coppola"
   },
   {
     "title": "Heat",
@@ -6459,6 +6368,19 @@
     "description": "A group of high-end professional thieves start to feel the heat from the LAPD when they unknowingly leave a verbal clue at their latest heist. Original Cut from a 35mm print.",
     "runtime": "171 min",
     "director": "Michael Mann"
+  },
+  {
+    "title": "FILIPI\u00d1ANA",
+    "date": "2026-08-28",
+    "time": "8:15 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/filipinana",
+    "city": "NYC",
+    "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
+    "runtime": "100 min",
+    "director": ""
   },
   {
     "title": "Franz",
@@ -6825,17 +6747,17 @@
     "director": ""
   },
   {
-    "title": "DEMENTIA 13: DIRECTOR\u2019S CUT",
+    "title": "FILIPI\u00d1ANA",
     "date": "2026-08-28",
     "time": "9:10 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/dementia-13-coppola",
+    "url": "https://filmforum.org/film/filipinana",
     "city": "NYC",
-    "description": "\u201cProduced by Roger Corman, and evidently made under his presiding spirit, Coppola\u2019s debut runs briskly through one of those family reunion plots in which the challenge is to guess which seemingly benign member of the family is the mad axe-murderer who\u2019s steadily picking off the rest. The location (an Irish castle) is used imaginatively, the Gothic atmosphere is suitably potent, and there\u2019s a wonderfully sharp cameo from Patrick Magee as the family doctor.\u201d \u2013 Time Out",
-    "runtime": "69 min",
-    "director": "Francis Ford Coppola"
+    "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
+    "runtime": "100 min",
+    "director": ""
   },
   {
     "title": "Spa Weekend",
@@ -7410,16 +7332,29 @@
     "director": ""
   },
   {
-    "title": "THE CONVERSATION",
+    "title": "BILLY LIAR",
     "date": "2026-08-29",
     "time": "12:20 PM",
-    "format": "35mm",
+    "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-conversation-coppola",
+    "url": "https://filmforum.org/film/billy-liar",
     "city": "NYC",
-    "description": "\u201cHe\u2019d kill us if he had the chance.\u201d Francis Ford Coppola\u2019s masterpiece of sustained suspense and paranoia, starring Gene Hackman as a loner surveillance expert. Hackman\u2019s Harry Caul bugs a couple in San Francisco\u2019s teeming Union Square\u2014but why? A recluse living alone in an empty apartment, Caul plays saxophone to jazz records and broods over the deaths he may have been responsible for. And as he keeps tinkering with the recordings, he gets bugged himself, his tapes are stolen, his landlord effortlessly penetrates his security to leave a note\u2014and then, to his horror, he figures it out.",
-    "runtime": "113 min",
+    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
+    "runtime": "98 min",
+    "director": "John Schlesinger"
+  },
+  {
+    "title": "THE COTTON CLUB: ENCORE",
+    "date": "2026-08-29",
+    "time": "12:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-cotton-club-coppola",
+    "city": "NYC",
+    "description": "\u201cThe movie takes place in New York in the 1920s and 1930s, where Irish and Jewish gangsters battled the Italians for the rackets. Most of their intrigues were played out in public, in flashy settings like the Cotton Club, a Harlem nightclub that featured the nation\u2019s most talented black entertainers on stage\u2014playing before an all-white audience.\u201d \u2013 Roger Ebert",
+    "runtime": "139 min",
     "director": "Francis Ford Coppola"
   },
   {
@@ -7434,19 +7369,6 @@
     "description": "A story set in the ACME warehouse, the manufacturer of anything and everything used by the Looney Tunes characters.",
     "runtime": "103 min",
     "director": "Dave Green"
-  },
-  {
-    "title": "THE GODFATHER",
-    "date": "2026-08-29",
-    "time": "12:30 PM",
-    "format": "4K DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-godfather-coppola",
-    "city": "NYC",
-    "description": "\u201cI\u2019ll make him an offer he can\u2019t refuse.\u201d Al Pacino\u2019s Michael Corleone is back from WWII and opting out of The Family, until an attempted hit on dad Marlon Brando pulls him back in. Oscars\u00ae for Best Picture, Screenplay, and Actor\u2014to Brando, though Supporting Actor-nominated Pacino\u2019s part is bigger.",
-    "runtime": "175 min",
-    "director": "Francis Ford Coppola"
   },
   {
     "title": "Samba Traore",
@@ -7904,6 +7826,19 @@
     "director": "Greg Araki"
   },
   {
+    "title": "CENTER STAGE",
+    "date": "2026-08-29",
+    "time": "2:35 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/center-stage",
+    "city": "NYC",
+    "description": "International superstar Maggie Cheung (IN THE MOOD FOR LOVE) embodies tragic screen siren Ruan Lingyu, known as the \u201cGreta Garbo of China,\u201d in this unconventional biopic by Hong Kong New Wave master Stanley Kwan (ROUGE). Praised for her moving and emotive onscreen presence, Ruan\u2019s private life, which was frequent fodder for the vicious Shanghai tabloids, began to mirror the melodramas which brought her fame, culminating in her suicide at age 24. Kwan and Cheung paint a kaleidoscopic yet intimate portrait of the ill-fated actress, deftly blending lush period drama, archival footage, and metatextual documentary sequences of Cheung reflecting on Ruan\u2019s legacy. The result is, much like the films of Ruan Lingyu themselves, \u201ctender, vivid, and almost overwhelmingly moving\u201d (Time Out).",
+    "runtime": "155 min",
+    "director": "Stanley Kwan"
+  },
+  {
     "title": "Gandahar",
     "date": "2026-08-29",
     "time": "2:45 PM",
@@ -7928,19 +7863,6 @@
     "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
     "runtime": "144 min",
     "director": "Destin Daniel Cretton"
-  },
-  {
-    "title": "CENTER STAGE",
-    "date": "2026-08-29",
-    "time": "2:50 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/center-stage",
-    "city": "NYC",
-    "description": "International superstar Maggie Cheung (IN THE MOOD FOR LOVE) embodies tragic screen siren Ruan Lingyu, known as the \u201cGreta Garbo of China,\u201d in this unconventional biopic by Hong Kong New Wave master Stanley Kwan (ROUGE). Praised for her moving and emotive onscreen presence, Ruan\u2019s private life, which was frequent fodder for the vicious Shanghai tabloids, began to mirror the melodramas which brought her fame, culminating in her suicide at age 24. Kwan and Cheung paint a kaleidoscopic yet intimate portrait of the ill-fated actress, deftly blending lush period drama, archival footage, and metatextual documentary sequences of Cheung reflecting on Ruan\u2019s legacy. The result is, much like the films of Ruan Lingyu themselves, \u201ctender, vivid, and almost overwhelmingly moving\u201d (Time Out).",
-    "runtime": "155 min",
-    "director": "Stanley Kwan"
   },
   {
     "title": "In The Mood For Love",
@@ -8006,6 +7928,19 @@
     "description": "Bitter Christmas tells two alternating stories, one starring Elsa, an advertising director, in 2004, during a long weekend in December. The second\u2026",
     "runtime": "114 min",
     "director": "Pedro Almod\u00f3var"
+  },
+  {
+    "title": "BRAM STOKER'S DRACULA",
+    "date": "2026-08-29",
+    "time": "3:15 PM",
+    "format": "35mm",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/bram-stokers-dracula-coppola",
+    "city": "NYC",
+    "description": "\u201cThe film begins, as it should, with the tragic story of Vlad the Impaler, who went off to fight the Crusades and returned to find that his beloved wife, hearing he was dead, had killed herself. Coppola\u2019s plot, from a screenplay by James V. Hart, exists precisely between London, where this modern age is just dawning, and Transylvania, which still sleeps unhealthily in the past. We meet a young attorney (Keanu Reeves) who has been asked to journey out to Dracula\u2019s castle to arrange certain real estate transactions. Reeves\u2019 carriage, driven by a man whose hands are claws, hurtles at the edges of precipices until he is finally discharged in the darkness to be met and taken to Dracula\u2019s castle. There, everything is more or less as we expect it, only much more so. Count Dracula (Gary Oldman) waits here as he has for centuries for the return of his dead bride, and when he sees a photograph of Reeves\u2019 fiancee, Mina Murray (Winona Ryder), he knows his wait has been rewarded at last. She lives again.\u201d \u2013 Roger Ebert",
+    "runtime": "128 min",
+    "director": "Francis Ford Coppola"
   },
   {
     "title": "I Want Your Sex",
@@ -8281,19 +8216,6 @@
     "director": "Gregg Araki"
   },
   {
-    "title": "THE GODFATHER PART II",
-    "date": "2026-08-29",
-    "time": "4:10 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "LADY",
     "date": "2026-08-29",
     "time": "4:20 PM",
@@ -8502,6 +8424,19 @@
     "director": "Christopher Nolan"
   },
   {
+    "title": "BILLY LIAR",
+    "date": "2026-08-29",
+    "time": "5:45 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/billy-liar",
+    "city": "NYC",
+    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
+    "runtime": "98 min",
+    "director": "John Schlesinger"
+  },
+  {
     "title": "Japanese Film Club: THE NIGHT IS SHORT, WALK ON GIRL",
     "date": "2026-08-29",
     "time": "5:45 PM",
@@ -8528,17 +8463,17 @@
     "director": "Ridley Scott"
   },
   {
-    "title": "BILLY LIAR",
+    "title": "TUCKER: THE MAN AND HIS DREAM",
     "date": "2026-08-29",
     "time": "6:00 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/billy-liar",
+    "url": "https://filmforum.org/film/tucker-the-man-and-his-dream-coppola",
     "city": "NYC",
-    "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
-    "runtime": "98 min",
-    "director": "John Schlesinger"
+    "description": "\u201cThe action starts in 1945, when Tucker, who is building an advanced tank turret for the war effort in a barn next to his family home in Ypsilanti, Michigan, sets in motion a bold plan to design, build, and market an entirely new kind of car\u2014one that will be better than, and will successfully compete with, the ones made by Detroit\u2019s Big Three automakers... Tucker makes himself a celebrity to advance the project, while an outside C.E.O. waters down his audacities, and he throws temper tantrums when his ideas aren\u2019t being realized as planned... Coppola tells this story with grand exuberance without masking the personal and historical tragedies that it involves, including a mysterious sidebar involving Howard Hughes as a savior and a kindred spirit. Tucker\u2019s story comes off no less than the story of other, more heralded films by Coppola\u2014or than Coppola\u2019s own story\u2014as an exemplary American legend.\u201d \u2013 Richard Brody, The New Yorker",
+    "runtime": "111 min",
+    "director": "Francis Ford Coppola"
   },
   {
     "title": "GANZ + STREETER, PGM 2: ENCORE SCREENINGS",
@@ -8996,6 +8931,19 @@
     "city": "LA"
   },
   {
+    "title": "FILIPI\u00d1ANA",
+    "date": "2026-08-29",
+    "time": "8:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/filipinana",
+    "city": "NYC",
+    "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
+    "runtime": "100 min",
+    "director": ""
+  },
+  {
     "title": "GANZ + STREETER, PGM 1: NEW DISCOVERIES (filmmakers in person on Aug 28 & 29!)",
     "date": "2026-08-29",
     "time": "8:00 PM",
@@ -9035,19 +8983,6 @@
     "director": "Jonathan Demme"
   },
   {
-    "title": "MARIO PUZO\u2019S THE GODFATHER, CODA: THE DEATH OF MICHAEL CORLEONE",
-    "date": "2026-08-29",
-    "time": "8:10 PM",
-    "format": "4K DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-godfather-coda-coppola",
-    "city": "NYC",
-    "description": "Michael Corleone (Al Pacino), now in his 60s, seeks to free his family from crime and find a suitable successor to his empire. That successor could be fiery Vincent (Andy Garcia)... but he may also be the spark that turns Michael\u2019s hope of business legitimacy into an inferno of mob violence.",
-    "runtime": "158 min",
-    "director": "Francis Ford Coppola"
-  },
-  {
     "title": "Bitter Christmas",
     "date": "2026-08-29",
     "time": "8:10 PM",
@@ -9059,19 +8994,6 @@
     "description": "Bitter Christmas tells two alternating stories, one starring Elsa, an advertising director, in 2004, during a long weekend in December. The second\u2026",
     "runtime": "114 min",
     "director": "Pedro Almod\u00f3var"
-  },
-  {
-    "title": "FILIPI\u00d1ANA",
-    "date": "2026-08-29",
-    "time": "8:15 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/filipinana",
-    "city": "NYC",
-    "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
-    "runtime": "100 min",
-    "director": ""
   },
   {
     "title": "Society",
@@ -9111,6 +9033,19 @@
     "description": "Her most ambitious work to date, acclaimed writer-director Agnieszka Holland\u2019s fevered and funny biopic gets thrillingly close to understanding Franz Kafka by refusing to pin him down to any one interpretation.",
     "runtime": "127 min",
     "director": "Agnieszka Holland"
+  },
+  {
+    "title": "TETRO",
+    "date": "2026-08-29",
+    "time": "8:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/tetro-coppola",
+    "city": "NYC",
+    "description": "\u201cVincent Gallo lends his suitably spikey presence to the title character, Tetro, a hobbling, boho literary genius in exile. Holed up in Buenos Aires with doting partner Miranda (Maribel Verd\u00fa), he works as the lighting operator for a saucy tinpot burlesque show while trying to escape the Freudian nightmare of his upbringing. A visitation from his baleful younger brother Benny (newcomer Alden Ehrenreich\u2014solid, if hardly a revelation) forces Tetro to attend to his severely knotted family ties as well as make a decision about what to do with the unfinished book that\u2019s lurking on top of the wardrobe.\u201d \u2013 Time Out",
+    "runtime": "127 min",
+    "director": "Francis Ford Coppola"
   },
   {
     "title": "The Invite",
@@ -10023,6 +9958,19 @@
     "director": "Kent Jones"
   },
   {
+    "title": "DEMENTIA 13: DIRECTOR\u2019S CUT",
+    "date": "2026-08-30",
+    "time": "12:15 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/dementia-13-coppola",
+    "city": "NYC",
+    "description": "\u201cProduced by Roger Corman, and evidently made under his presiding spirit, Coppola\u2019s debut runs briskly through one of those family reunion plots in which the challenge is to guess which seemingly benign member of the family is the mad axe-murderer who\u2019s steadily picking off the rest. The location (an Irish castle) is used imaginatively, the Gothic atmosphere is suitably potent, and there\u2019s a wonderfully sharp cameo from Patrick Magee as the family doctor.\u201d \u2013 Time Out",
+    "runtime": "69 min",
+    "director": "Francis Ford Coppola"
+  },
+  {
     "title": "Bitter Christmas",
     "date": "2026-08-30",
     "time": "12:15 PM",
@@ -10060,19 +10008,6 @@
     "description": "Courtenay\u2019s Billy Fisher is a feckless aspiring comedy writer with a rich fantasy life that takes him away from his dreary Yorkshire town, endlessly nagging family, a pompous boss (played by Kubrick fave Leonard Rossiter), and two fianc\u00e9es. Then Mod, Mod Julie Christie beckons him to London\u2026",
     "runtime": "98 min",
     "director": "John Schlesinger"
-  },
-  {
-    "title": "THE COTTON CLUB: ENCORE",
-    "date": "2026-08-30",
-    "time": "12:20 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-cotton-club-coppola",
-    "city": "NYC",
-    "description": "\u201cThe movie takes place in New York in the 1920s and 1930s, where Irish and Jewish gangsters battled the Italians for the rackets. Most of their intrigues were played out in public, in flashy settings like the Cotton Club, a Harlem nightclub that featured the nation\u2019s most talented black entertainers on stage\u2014playing before an all-white audience.\u201d \u2013 Roger Ebert",
-    "runtime": "139 min",
-    "director": "Francis Ford Coppola"
   },
   {
     "title": "Coyote vs. Acme",
@@ -10320,6 +10255,19 @@
     "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island Sunday 2nd Aug 11am Charity Screening All proceeds from this performance will be donated to MEDICINEMA Cinema-based healthcare programmes inside hospitals",
     "runtime": "88 min",
     "director": "Cal Brunker"
+  },
+  {
+    "title": "B\u2019TWIXT NOW AND SUNRISE",
+    "date": "2026-08-30",
+    "time": "1:50 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/btwixt-now-and-sunrise-coppola",
+    "city": "NYC",
+    "description": "When struggling supernatural fiction writer Hall Baltimore (Val Kilmer) arrives in an isolated small town as part of his book tour, he hears about the local lore of vampires and an infamous mass murder. Eager for inspiration, Baltimore is swept into a surreal fever dream of eccentric characters\u2014from the oddball sheriff to the ghost of a young girl to visions of Edgar Allan Poe\u2014that force him to confront his own troubled past.",
+    "runtime": "80 min",
+    "director": "Francis Ford Coppola"
   },
   {
     "title": "The Man with the Golden Gun",
@@ -10660,19 +10608,6 @@
     "city": "LA"
   },
   {
-    "title": "BRAM STOKER'S DRACULA",
-    "date": "2026-08-30",
-    "time": "3:15 PM",
-    "format": "35mm",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/bram-stokers-dracula-coppola",
-    "city": "NYC",
-    "description": "\u201cThe film begins, as it should, with the tragic story of Vlad the Impaler, who went off to fight the Crusades and returned to find that his beloved wife, hearing he was dead, had killed herself. Coppola\u2019s plot, from a screenplay by James V. Hart, exists precisely between London, where this modern age is just dawning, and Transylvania, which still sleeps unhealthily in the past. We meet a young attorney (Keanu Reeves) who has been asked to journey out to Dracula\u2019s castle to arrange certain real estate transactions. Reeves\u2019 carriage, driven by a man whose hands are claws, hurtles at the edges of precipices until he is finally discharged in the darkness to be met and taken to Dracula\u2019s castle. There, everything is more or less as we expect it, only much more so. Count Dracula (Gary Oldman) waits here as he has for centuries for the return of his dead bride, and when he sees a photograph of Reeves\u2019 fiancee, Mina Murray (Winona Ryder), he knows his wait has been rewarded at last. She lives again.\u201d \u2013 Roger Ebert",
-    "runtime": "128 min",
-    "director": "Francis Ford Coppola"
-  },
-  {
     "title": "Der Fan",
     "date": "2026-08-30",
     "time": "3:15 PM",
@@ -10801,6 +10736,19 @@
     "description": "",
     "runtime": "108 min",
     "director": "Andrius Bla\u017eevicius"
+  },
+  {
+    "title": "HEARTS OF DARKNESS: A FILMMAKER\u2019S APOCALYPSE",
+    "date": "2026-08-30",
+    "time": "3:50 PM",
+    "format": "4K DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/hearts-of-darkness-a-filmmakers-apocalypse-coppola",
+    "city": "NYC",
+    "description": "In the late 1970s, director Francis Ford Coppola, accompanied by his family and cast and crew, travelled to the Philippines to begin work on what would become APOCALYPSE NOW. But it soon became one of the most notorious shoots in cinema history, spiraling into a hellish, life-threatening nightmare. Chronicling the drama was Coppola\u2019s wife, the late Eleanor Coppola, who shot extensive behind-the-scenes footage of the shoot in 16mm, and recorded audio interviews with her husband and others involved in the movie\u2019s making. In the early \u201990s, Eleanor turned her 16mm footage and audio interviews over to filmmakers George Hickenlooper and Fax Bahr, who then interwove it with new interviews with the movie\u2019s cast members (including Martin Sheen and Dennis Hopper) and observers (like George Lucas). After a year of editing, the new documentary debuted at the Cannes Film Festival. It had its New York theatrical premiere at Film Forum. Says James Mockoski, Film Archivist and Restoration Supervisor at American Zoetrope, \u201cFor the past 30 years, Eleanor\u2019s 16mm behind-the-scenes footage has been three to four generations removed from the original elements. For this new release and restoration of the documentary, Francis decided to scan the original sources in 4K. The extensive excerpts from the feature are now presented in their original 2.39:1 aspect ratio, rather than being letterboxed into a 4x3 frame.\u201d",
+    "runtime": "96 min",
+    "director": "Fax Bahr"
   },
   {
     "title": "I Want Your Sex",
@@ -11258,16 +11206,16 @@
     "city": "LA"
   },
   {
-    "title": "TUCKER: THE MAN AND HIS DREAM",
+    "title": "APOCALYPSE NOW: 1979 ROADSHOW VERSION",
     "date": "2026-08-30",
     "time": "6:00 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/tucker-the-man-and-his-dream-coppola",
+    "url": "https://filmforum.org/film/apocalypse-now-1979-roadshow-version-coppola",
     "city": "NYC",
-    "description": "\u201cThe action starts in 1945, when Tucker, who is building an advanced tank turret for the war effort in a barn next to his family home in Ypsilanti, Michigan, sets in motion a bold plan to design, build, and market an entirely new kind of car\u2014one that will be better than, and will successfully compete with, the ones made by Detroit\u2019s Big Three automakers... Tucker makes himself a celebrity to advance the project, while an outside C.E.O. waters down his audacities, and he throws temper tantrums when his ideas aren\u2019t being realized as planned... Coppola tells this story with grand exuberance without masking the personal and historical tragedies that it involves, including a mysterious sidebar involving Howard Hughes as a savior and a kindred spirit. Tucker\u2019s story comes off no less than the story of other, more heralded films by Coppola\u2014or than Coppola\u2019s own story\u2014as an exemplary American legend.\u201d \u2013 Richard Brody, The New Yorker",
-    "runtime": "111 min",
+    "description": "\u201cStarts with what proves to be a nightmare: a stand of pale green palm trees, ominous air-beating chops, the fleeting blurs of attack helicopters, a sudden rush of flame engulfing the trees as, in magically perfect rhythm, Jim Morrison\u2019s high, thin voice croons, \u2018This is the end...\u2019 Then the dreamer of this recurring vision appears mingled with his own demonic images, in a Saigon hotel room during the Vietnam war, drunk, stunned, virtually deranged\u2014an American captain named Benjamin Willard (Martin Sheen). Soon afterwards, his superiors send him upriver to Cambodia on a secret mission to find and kill a Green Beret colonel, Walter Kurtz (Marlon Brando), who is rumoured to be running amok there with a private army of Montagnard tribesmen and renegade Americans.\u201d \u2013 Sight and Sound",
+    "runtime": "149 min",
     "director": "Francis Ford Coppola"
   },
   {
@@ -11830,19 +11778,6 @@
     "director": "Greg Araki"
   },
   {
-    "title": "TETRO",
-    "date": "2026-08-30",
-    "time": "8:20 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/tetro-coppola",
-    "city": "NYC",
-    "description": "\u201cVincent Gallo lends his suitably spikey presence to the title character, Tetro, a hobbling, boho literary genius in exile. Holed up in Buenos Aires with doting partner Miranda (Maribel Verd\u00fa), he works as the lighting operator for a saucy tinpot burlesque show while trying to escape the Freudian nightmare of his upbringing. A visitation from his baleful younger brother Benny (newcomer Alden Ehrenreich\u2014solid, if hardly a revelation) forces Tetro to attend to his severely knotted family ties as well as make a decision about what to do with the unfinished book that\u2019s lurking on top of the wardrobe.\u201d \u2013 Time Out",
-    "runtime": "127 min",
-    "director": "Francis Ford Coppola"
-  },
-  {
     "title": "Polyester",
     "date": "2026-08-30",
     "time": "8:20 PM",
@@ -11997,6 +11932,19 @@
     "description": "Willem Dafoe is Ed Saxberger, a postal worker whose former life as a downtown poet in late-70s New York is rediscovered by a young admirer (Donovan) and his \u201cEnthusiasm Society,\u201d a group of 20-somethings with a comically romanticized sense of the past. In the company of his new friends, including the mysterious and mercurial Gloria (Lee of PAST LIVES), Ed has the uncanny feeling of merging with his younger self. Directed by Kent Jones (DIANE) from a witty, razor-sharp script by Samy Burch (MAY DECEMBER), LATE FAME\u202fis a funny, lively, poignant, and occasionally haunting New York story.",
     "runtime": "96 min",
     "director": "Kent Jones"
+  },
+  {
+    "title": "THE WARRIORS",
+    "date": "2026-08-30",
+    "time": "9:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-warriors-nyc-in-transit",
+    "city": "NYC",
+    "description": "\u201cWarriors, come out to play.\u201d As color-coded gangs gather by the thousands in the Bronx, charismatic leader Cyrus is assassinated and the finger points, mistakenly, at the Warriors\u2014now it\u2019s one long trek back to Coney. Ultra-stylized, violence-packed update of Xenophon\u2019s Anabasis.",
+    "runtime": "90 min",
+    "director": "Walter Hill"
   },
   {
     "title": "Bitter Christmas",
@@ -13780,6 +13728,71 @@
     "city": "LA"
   },
   {
+    "title": "Wild Inside",
+    "date": "2026-09-01",
+    "time": "10:35 AM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576496~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Join educator and wildlife rehabilitator Suzanne Highland for a post screening Birdwatching Tour of the West Village after the 4pm screenings on 8/1 and 8/2! the path runs from the IFC to Hudson River Park with a pit stop in Washington Square Park. Bring binoculars if you have them! About WILD INSIDE: A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
+    "runtime": "96 min",
+    "director": "Penny Lane"
+  },
+  {
+    "title": "Local One",
+    "date": "2026-09-01",
+    "time": "10:40 AM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=577079~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "The Amazon Labor Union made history in 2022 by becoming the first group to successfully unionize an Amazon warehouse in the U.S. Two and a half years later, the company has refused to recognize the union and bargain a contract. To pressure the company to start negotiating, the Amazon Labor Union, now affiliated with the International Brotherhood of Teamsters, launches a nationwide strike during peak holiday shopping season. From the filmmakers of the award-winning film Union, Local One takes us into the first days of the strike at two Amazon warehouses in New York City, this time in solidarity with hundreds more workers across the country.",
+    "runtime": "10 min",
+    "director": "Stephen Maing, Brett Story"
+  },
+  {
+    "title": "Gandahar",
+    "date": "2026-09-01",
+    "time": "10:45 AM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576901~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "An entire civilization must confront its destiny in alternative-animation pioneer Ren\u00e9 Laloux\u2019s final feature, a cult classic of mind-bending science fiction. In a distant world, a merciless army of automata attacks Gandahar, turning its peace-loving people to stone. Hoping to discover the source of these Men of Metal, a council of matriarchs enlists the brave yet inexperienced warrior Sylvain (Pierre-Marie Escourro), who, while journeying through his planet\u2019s outer regions, teams up with the Deformed, a race cast out from Gandahar after failed science experiments rendered them mutants. Soon, Sylvain learns that a gargantuan brain called Metamorphis (Georges Wilson) is responsible for his utopian society\u2019s strife and\u2014together with the beautiful Airelle (Catherine Chevallier)\u2014travels through time to defeat him, in the process risking their lives and Gandahar\u2019s very existence. Featuring stunningly surreal creatures and wondrously bizarre environments designed by renowned comic-book artist Caza, Gandahar is a visceral, visionary head-trip in which animation opens a gateway to the furthest reaches of the imagination.",
+    "runtime": "83 min",
+    "director": "Ren\u00e9 Laloux"
+  },
+  {
+    "title": "Union County (Open Captioning)",
+    "date": "2026-09-01",
+    "time": "10:50 AM",
+    "format": "35mm",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576879~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Please note that there are additional showtimes of UNION COUNTY that screen without open captions (on-screen display of dialogue and sounds). For those showtimes, click here. Will Poulter and Noah Centineo deliver pitch-perfect performances as brothers Cody and Jack Parsons, each navigating a court-mandated drug rehabilitation program in a pocket of rural Ohio hit hard by the opioid epidemic. Provided with hope for the first time since their struggles began and with the support of a tireless counselor (Annette Deao), the brothers work toward a brighter, sober future.",
+    "runtime": "97 min",
+    "director": "Adam Meeks"
+  },
+  {
+    "title": "Maddie's Secret",
+    "date": "2026-09-01",
+    "time": "11:00 AM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576494~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "In his directorial debut, comedian, writer, and actor John Early stars as a plucky dishwasher who leaps to viral superstardom at a trendy food content-creation company. Maddie seems to have everything\u2014adoring husband (Eric Rahill), ride-or-die bestie (Kate Berlant) and a cupboard full of ethically-sourced chili crisp\u2014but mounting pressures threaten to reawaken a hidden secret from her troubled past. A pitch-perfect blend of satire, melodrama, daring tonal shifts and intimate performances, MADDIE\u2019S SECRET announces a bold new cinematic voice. Official selection: TIFF, New Directors New Films \u201cSoars on the fuel of its open-hearted sincerity\u2026it\u2019s hard not to be beguiled.\u201d \u2013 RogerEbert.com Previous in-person events:",
+    "runtime": "100 min",
+    "director": "John Early"
+  },
+  {
     "title": "Bitter Christmas",
     "date": "2026-09-01",
     "time": "11:00 AM",
@@ -13791,6 +13804,19 @@
     "description": "Bitter Christmas tells two alternating stories, one starring Elsa, an advertising director, in 2004, during a long weekend in December. The second takes place in 2026 and stars Ra\u00fal, a screenwriter and director who is writing a script that we soon discover is the story of Elsa, her boyfriend Bonifacio, and her friends Patricia and Natalia. Mixed with fiction, Elsa is, in a way, Ra\u00fal's alter ego, who, like him, resorts to autofiction as a solution to a long period of creative drought. He looks inside himself, and he can't help but also look at the people who make up his most intimate universe: his partner and his assistant.",
     "runtime": "111 min",
     "director": "Pedro Almod\u00f3var"
+  },
+  {
+    "title": "How to Divorce During the War",
+    "date": "2026-09-01",
+    "time": "11:05 AM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576497~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "",
+    "runtime": "108 min",
+    "director": "Andrius Bla\u017eevicius"
   },
   {
     "title": "I Want Your Sex",
@@ -13858,6 +13884,19 @@
     "director": "Idrissa Ou\u00e9draogo"
   },
   {
+    "title": "Mysterious Skin",
+    "date": "2026-09-01",
+    "time": "12:35 PM",
+    "format": "4K DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576499~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years later, the two boys couldn\u2019t be more different. Neil is a charismatic but emotionally aloof male hustler, while Brian is a nervous introvert obsessed with the idea that he has been abducted by a UFO. When the boys\u2019 parallel lives inevitably intersect, the pair unearth dark, repressed secrets on a harrowing and unforgettable journey of self-discovery. Director\u2019s Statement: \u201cI\u2019m SO excited about the glorious 4K restoration of MYSTERIOUS SKIN! When we made this little indie 20 years ago, we barely had enough money to finish it, let alone pay for a Digital Intermediate and the bells and whistles of a larger studio film. I would never drastically alter the film which has such an amazing and passionate following around the world. However, the incredible tools made possible by modern digital technology helped us polish and enhance the picture in a way that wasn\u2019t possible in the early 00\u2019s. MYSTERIOUS SKIN holds a special place in my heart and I can\u2019t wait for audiences, present and future, to experience this new definitive version of it.\u201d Official Selection: Sundance, TIFF, Venice Film Festival Previous screenings:",
+    "runtime": "99 min",
+    "director": "Gregg Araki"
+  },
+  {
     "title": "TAPE Collective: Bouchra",
     "date": "2026-09-01",
     "time": "12:40 PM",
@@ -13882,6 +13921,45 @@
     "description": "A legendary meta-soap opera that has maintained a devoted underground following since 1981, it captures the improvisational heat of Harlem life on gritty U-matic video to explore what Ishmael Reed calls the \"triteness of everyday life.\"",
     "runtime": "165 min",
     "director": "Bill Gunn"
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "date": "2026-09-01",
+    "time": "1:05 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576498~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
+    "runtime": "147 min",
+    "director": "Kiyoshi Kurosawa"
+  },
+  {
+    "title": "Colony",
+    "date": "2026-09-01",
+    "time": "1:20 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573845~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Horror master Yeon Sang-ho\u2019s ( Train to Busan ) new zombie thriller stars Gianna Jun as biology professor Se-jeong, who\u2019s thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations. Also starring Koo Kyo-hawn.",
+    "runtime": "122 min",
+    "director": "Yeon Sang-ho"
+  },
+  {
+    "title": "Wild Inside",
+    "date": "2026-09-01",
+    "time": "1:30 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576500~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Join educator and wildlife rehabilitator Suzanne Highland for a post screening Birdwatching Tour of the West Village after the 4pm screenings on 8/1 and 8/2! the path runs from the IFC to Hudson River Park with a pit stop in Washington Square Park. Bring binoculars if you have them! About WILD INSIDE: A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
+    "runtime": "96 min",
+    "director": "Penny Lane"
   },
   {
     "title": "Bitter Christmas",
@@ -14014,6 +14092,19 @@
     "director": "Gregg Araki"
   },
   {
+    "title": "Gandahar",
+    "date": "2026-09-01",
+    "time": "2:45 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576859~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "An entire civilization must confront its destiny in alternative-animation pioneer Ren\u00e9 Laloux\u2019s final feature, a cult classic of mind-bending science fiction. In a distant world, a merciless army of automata attacks Gandahar, turning its peace-loving people to stone. Hoping to discover the source of these Men of Metal, a council of matriarchs enlists the brave yet inexperienced warrior Sylvain (Pierre-Marie Escourro), who, while journeying through his planet\u2019s outer regions, teams up with the Deformed, a race cast out from Gandahar after failed science experiments rendered them mutants. Soon, Sylvain learns that a gargantuan brain called Metamorphis (Georges Wilson) is responsible for his utopian society\u2019s strife and\u2014together with the beautiful Airelle (Catherine Chevallier)\u2014travels through time to defeat him, in the process risking their lives and Gandahar\u2019s very existence. Featuring stunningly surreal creatures and wondrously bizarre environments designed by renowned comic-book artist Caza, Gandahar is a visceral, visionary head-trip in which animation opens a gateway to the furthest reaches of the imagination.",
+    "runtime": "83 min",
+    "director": "Ren\u00e9 Laloux"
+  },
+  {
     "title": "Spider-Man: Brand New Day",
     "date": "2026-09-01",
     "time": "2:45 PM",
@@ -14025,6 +14116,19 @@
     "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
     "runtime": "144 min",
     "director": "Destin Daniel Cretton"
+  },
+  {
+    "title": "Union County",
+    "date": "2026-09-01",
+    "time": "3:00 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576502~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Sneak preview + Q&A with dir. Adam Meeks & stars Will Poulter, Noah Centineo & Annette Deao Thu Aug 13 at 7:00 Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao, moderated by Danny Strong, Fri Aug 14 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sat Aug 15 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sun Aug 16 at 2:00 show Will Poulter and Noah Centineo deliver pitch-perfect performances as brothers Cody and Jack Parsons, each navigating a court-mandated drug rehabilitation program in a pocket of rural Ohio hit hard by the opioid epidemic. Provided with hope for the first time since their struggles began and with the support of a tireless counselor (Annette Deao), the brothers work toward a brighter, sober future. Additional showtimes for Aug 14-20 to be announced.",
+    "runtime": "97 min",
+    "director": "Adam Meeks"
   },
   {
     "title": "The Samurai and the Prisoner",
@@ -14118,6 +14222,19 @@
     "director": "Matt Johnson"
   },
   {
+    "title": "How to Divorce During the War",
+    "date": "2026-09-01",
+    "time": "3:45 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576503~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "",
+    "runtime": "108 min",
+    "director": "Andrius Bla\u017eevicius"
+  },
+  {
     "title": "The Changeling",
     "date": "2026-09-01",
     "time": "3:45 PM",
@@ -14181,6 +14298,32 @@
     "description": "Bitter Christmas tells two alternating stories, one starring Elsa, an advertising director, in 2004, during a long weekend in December. The second takes place in 2026 and stars Ra\u00fal, a screenwriter and director who is writing a script that we soon discover is the story of Elsa, her boyfriend Bonifacio, and her friends Patricia and Natalia. Mixed with fiction, Elsa is, in a way, Ra\u00fal's alter ego, who, like him, resorts to autofiction as a solution to a long period of creative drought. He looks inside himself, and he can't help but also look at the people who make up his most intimate universe: his partner and his assistant.",
     "runtime": "111 min",
     "director": "Pedro Almod\u00f3var"
+  },
+  {
+    "title": "Colony",
+    "date": "2026-09-01",
+    "time": "4:05 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573848~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Horror master Yeon Sang-ho\u2019s ( Train to Busan ) new zombie thriller stars Gianna Jun as biology professor Se-jeong, who\u2019s thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations. Also starring Koo Kyo-hawn.",
+    "runtime": "122 min",
+    "director": "Yeon Sang-ho"
+  },
+  {
+    "title": "Mysterious Skin",
+    "date": "2026-09-01",
+    "time": "4:10 PM",
+    "format": "4K DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576501~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years later, the two boys couldn\u2019t be more different. Neil is a charismatic but emotionally aloof male hustler, while Brian is a nervous introvert obsessed with the idea that he has been abducted by a UFO. When the boys\u2019 parallel lives inevitably intersect, the pair unearth dark, repressed secrets on a harrowing and unforgettable journey of self-discovery. Director\u2019s Statement: \u201cI\u2019m SO excited about the glorious 4K restoration of MYSTERIOUS SKIN! When we made this little indie 20 years ago, we barely had enough money to finish it, let alone pay for a Digital Intermediate and the bells and whistles of a larger studio film. I would never drastically alter the film which has such an amazing and passionate following around the world. However, the incredible tools made possible by modern digital technology helped us polish and enhance the picture in a way that wasn\u2019t possible in the early 00\u2019s. MYSTERIOUS SKIN holds a special place in my heart and I can\u2019t wait for audiences, present and future, to experience this new definitive version of it.\u201d Official Selection: Sundance, TIFF, Venice Film Festival Previous screenings:",
+    "runtime": "99 min",
+    "director": "Gregg Araki"
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -14259,6 +14402,19 @@
     "description": "Thooya, a migrant and aspiring actress, secretly works as a part time sex worker in Mumbai. When she sublets her sugar daddy\u2019s flat to Swetha, a call-centre employee and a migrant, an unexpected connection begins to form. Their lives, seemingly worlds apart, slowly entangle. Amid the city\u2019s chaos, they share silences, stories, and small acts of care. But as buried desires and past wounds emerge, the fragile bond is tested. What unfolds is not drama, but a quiet blooming of selfhood, survival, and strange and platonic kinship between women navigating a world that rarely sees them.",
     "runtime": "77 min",
     "director": "Anuparna Roy"
+  },
+  {
+    "title": "It Ends",
+    "date": "2026-09-01",
+    "time": "4:50 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576505~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Fri Aug 21 and Sat, Aug 22: Q&A with director Alex Ullom at 7:00 show Sun, Aug 23: Q&A with director Alex Ullom at 4:55 show A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding.",
+    "runtime": "87 min",
+    "director": "Alex Ullom"
   },
   {
     "title": "The Young Girls of Rochefort [Les demoiselles de Rochefort]",
@@ -14508,6 +14664,19 @@
     "director": ""
   },
   {
+    "title": "It Ends",
+    "date": "2026-09-01",
+    "time": "6:20 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576506~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Fri Aug 21 and Sat, Aug 22: Q&A with director Alex Ullom at 7:00 show Sun, Aug 23: Q&A with director Alex Ullom at 4:55 show A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding.",
+    "runtime": "87 min",
+    "director": "Alex Ullom"
+  },
+  {
     "title": "Kiki's Delivery Service",
     "date": "2026-09-01",
     "time": "6:20 PM",
@@ -14599,6 +14768,19 @@
     "director": ""
   },
   {
+    "title": "Colony",
+    "date": "2026-09-01",
+    "time": "6:55 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573851~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Horror master Yeon Sang-ho\u2019s ( Train to Busan ) new zombie thriller stars Gianna Jun as biology professor Se-jeong, who\u2019s thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations. Also starring Koo Kyo-hawn.",
+    "runtime": "122 min",
+    "director": "Yeon Sang-ho"
+  },
+  {
     "title": "THE HUNT FOR RED OCTOBER",
     "date": "2026-09-01",
     "time": "7:00 PM",
@@ -14612,6 +14794,19 @@
     "city": "LA"
   },
   {
+    "title": "The Sun Never Sets",
+    "date": "2026-09-01",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576504~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Sat, Aug 22 at 2:30pm: Sneak Preview + Q&A with stars Dakota Fanning and Cory Michael Smith Free-spirited Wendy (Dakota Fanning) is at a crossroads in her relationship with older divorced dad Jack (Jake Johnson, New Girl ) that is only further complicated when an old flame (Cory Michael Smith, Sentimental Value ) re-enters her life. Set in perpetually sunny summertime Anchorage and featuring a career-best performance by Fanning, THE SUN NEVER SETS is a funny and endearing return to form for mumblecore auteur Joe Swanberg. Regular engagement begins Fri, Sep 4. Showtimes to be announced. Official selection: SXSW \u201cMarks a confident return for Swanberg, bolstered by a stellar performance from Fanning and a thoughtful, often painful exploration of love, growth, and the realization that fulfillment doesn\u2019t always come from another person.\u201d \u2013 Film Inquiry",
+    "runtime": "102 min",
+    "director": "Joe Swanberg"
+  },
+  {
     "title": "Take Out",
     "date": "2026-09-01",
     "time": "7:00 PM",
@@ -14623,6 +14818,32 @@
     "description": "Take Out. 2004. USA. Written and directed by Sean Baker, Shih-Ching Tsou. With Charles Jang, Jeng-Hua Yu, Wang-Thye Lee, Justin Wan. DCP. In Mandarin, English; English subtitles. 88 min. Co-directed with his producer and creative collaborator Shih-Ching Tsou, Sean Baker\u2019s Take Out is often seen as an early blueprint for his renowned directing style. A spontaneous, minimalist v\u00e9rit\u00e9 piece that looks at the life of an undocumented Chinese immigrant who works as a deliveryman in post-9/11 New York City, Take Out serves as both a documentary piece on the struggles of essential workers\u2019 overlooked lives and an everyday thriller about a displaced young man chased by unexpected setbacks in a ruthless city that reveals precious glimpses of humanity nonetheless.",
     "runtime": "88 min",
     "director": "Sean Baker, Shih-Ching Tsou"
+  },
+  {
+    "title": "Gandahar",
+    "date": "2026-09-01",
+    "time": "7:05 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576851~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "An entire civilization must confront its destiny in alternative-animation pioneer Ren\u00e9 Laloux\u2019s final feature, a cult classic of mind-bending science fiction. In a distant world, a merciless army of automata attacks Gandahar, turning its peace-loving people to stone. Hoping to discover the source of these Men of Metal, a council of matriarchs enlists the brave yet inexperienced warrior Sylvain (Pierre-Marie Escourro), who, while journeying through his planet\u2019s outer regions, teams up with the Deformed, a race cast out from Gandahar after failed science experiments rendered them mutants. Soon, Sylvain learns that a gargantuan brain called Metamorphis (Georges Wilson) is responsible for his utopian society\u2019s strife and\u2014together with the beautiful Airelle (Catherine Chevallier)\u2014travels through time to defeat him, in the process risking their lives and Gandahar\u2019s very existence. Featuring stunningly surreal creatures and wondrously bizarre environments designed by renowned comic-book artist Caza, Gandahar is a visceral, visionary head-trip in which animation opens a gateway to the furthest reaches of the imagination.",
+    "runtime": "83 min",
+    "director": "Ren\u00e9 Laloux"
+  },
+  {
+    "title": "How to Divorce During the War",
+    "date": "2026-09-01",
+    "time": "7:20 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576508~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "",
+    "runtime": "108 min",
+    "director": "Andrius Bla\u017eevicius"
   },
   {
     "title": "Speed Racer",
@@ -14740,6 +14961,19 @@
     "description": "Warner Bros. Pictures present an \u2018unrestored\u2019 70mm print of the director\u2019s groundbreaking science fiction epic! \"For the first time since the original release, this 70mm print was struck from new printing elements made from the original camera negative. This is a true photochemical film recreation. There are no digital tricks, remastered effects, or revisionist edits. This is the unrestored film - that recreates the cinematic event that audiences experienced fifty years ago.\" - Christopher Nolan Stanley Kubrick\u2019s dazzling, Academy Award\u00ae-winning* achievement is a compelling drama of man vs. machine, a stunning meld of music and motion. Kubrick (who co-wrote the screenplay with Arthur C. Clarke) first visits our prehistoric ape-ancestry past, then leaps millennia (via one of the most mind-blowing jump cuts ever) into colonized space, and ultimately whisks astronaut Bowman (Keir Dullea) into uncharted space, perhaps even into immortality. \u201cOpen the pod bay doors, HAL.\u201d Let an awesome journey unlike any other begin. Please Note: Our 70mm screenings of '2001: A Space Odyssey' follow a partictular presentation procedure; - Overture (3mins / Music) - 1st half of feature (86mins) - * Intermission* (usually 10 for quieter shows, can be 20mins for busier ones) - Entracte (2mins / Music) - 2nd half of feature (54mins) - Exit (5mins / Music) - Total time; approx 170mins (though this is dependent on Intermission length)",
     "runtime": "160 min",
     "director": "Stanley Kubrick"
+  },
+  {
+    "title": "The Samurai and the Prisoner",
+    "date": "2026-09-01",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576509~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
+    "runtime": "147 min",
+    "director": "Kiyoshi Kurosawa"
   },
   {
     "title": "Samba Traore",
@@ -14989,6 +15223,19 @@
     "director": "Jon Lucas, Scott Moore"
   },
   {
+    "title": "Gandahar",
+    "date": "2026-09-01",
+    "time": "9:15 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576906~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "An entire civilization must confront its destiny in alternative-animation pioneer Ren\u00e9 Laloux\u2019s final feature, a cult classic of mind-bending science fiction. In a distant world, a merciless army of automata attacks Gandahar, turning its peace-loving people to stone. Hoping to discover the source of these Men of Metal, a council of matriarchs enlists the brave yet inexperienced warrior Sylvain (Pierre-Marie Escourro), who, while journeying through his planet\u2019s outer regions, teams up with the Deformed, a race cast out from Gandahar after failed science experiments rendered them mutants. Soon, Sylvain learns that a gargantuan brain called Metamorphis (Georges Wilson) is responsible for his utopian society\u2019s strife and\u2014together with the beautiful Airelle (Catherine Chevallier)\u2014travels through time to defeat him, in the process risking their lives and Gandahar\u2019s very existence. Featuring stunningly surreal creatures and wondrously bizarre environments designed by renowned comic-book artist Caza, Gandahar is a visceral, visionary head-trip in which animation opens a gateway to the furthest reaches of the imagination.",
+    "runtime": "83 min",
+    "director": "Ren\u00e9 Laloux"
+  },
+  {
     "title": "I Want Your Sex",
     "date": "2026-09-01",
     "time": "9:20 PM",
@@ -15000,6 +15247,45 @@
     "description": "I WANT YOUR SEX tells the story of Elliot (Cooper Hoffman), a kind-hearted if unmotivated twentysomething whose fantasies quickly come true when he lands a job with renowned artist and provocateur Erika Tracy (Olivia Wilde). When Erika breaks down office boundaries and takes Elliot on as her sexual muse and subordinate, their sexually charged relationship makes him question his own desires, boundaries, and relationships with his uptight girlfriend (Charli XCX) and repressed roommate (Chase Sui Wonders). As the stakes heighten and power dynamics shift, the film mixes satire, romantic comedy, mystery, and murder through the colourful and edgy visual language for which Araki is best known.",
     "runtime": "90 min",
     "director": "Gregg Araki"
+  },
+  {
+    "title": "Mysterious Skin",
+    "date": "2026-09-01",
+    "time": "9:35 PM",
+    "format": "4K DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576507~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years later, the two boys couldn\u2019t be more different. Neil is a charismatic but emotionally aloof male hustler, while Brian is a nervous introvert obsessed with the idea that he has been abducted by a UFO. When the boys\u2019 parallel lives inevitably intersect, the pair unearth dark, repressed secrets on a harrowing and unforgettable journey of self-discovery. Director\u2019s Statement: \u201cI\u2019m SO excited about the glorious 4K restoration of MYSTERIOUS SKIN! When we made this little indie 20 years ago, we barely had enough money to finish it, let alone pay for a Digital Intermediate and the bells and whistles of a larger studio film. I would never drastically alter the film which has such an amazing and passionate following around the world. However, the incredible tools made possible by modern digital technology helped us polish and enhance the picture in a way that wasn\u2019t possible in the early 00\u2019s. MYSTERIOUS SKIN holds a special place in my heart and I can\u2019t wait for audiences, present and future, to experience this new definitive version of it.\u201d Official Selection: Sundance, TIFF, Venice Film Festival Previous screenings:",
+    "runtime": "99 min",
+    "director": "Gregg Araki"
+  },
+  {
+    "title": "Colony",
+    "date": "2026-09-01",
+    "time": "9:40 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573854~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Horror master Yeon Sang-ho\u2019s ( Train to Busan ) new zombie thriller stars Gianna Jun as biology professor Se-jeong, who\u2019s thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations. Also starring Koo Kyo-hawn.",
+    "runtime": "122 min",
+    "director": "Yeon Sang-ho"
+  },
+  {
+    "title": "It Ends",
+    "date": "2026-09-01",
+    "time": "9:45 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=576510~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Fri Aug 21 and Sat, Aug 22: Q&A with director Alex Ullom at 7:00 show Sun, Aug 23: Q&A with director Alex Ullom at 4:55 show A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding.",
+    "runtime": "87 min",
+    "director": "Alex Ullom"
   },
   {
     "title": "Tampopo",
@@ -23764,6 +24050,19 @@
     "city": "LA"
   },
   {
+    "title": "2 Pasolini",
+    "date": "2026-09-13",
+    "time": "1:30 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11625",
+    "city": "NYC",
+    "description": "2 Pasolini. 2021. Germany. Directed by Andrei Ujic\u0103. DCP. In Italian; English subtitles. 11 min. Sopralluoghi in Palestina per il vangelo secondo Matteo (Location Hunting in Palestine). 1965. Italy. Directed by Pier Paolo Pasolini. DCP courtesy Viggo. In Italian; English subtitles. 55 min. Andrei Ujic\u0103 uses a Tupac Shakur song and Pier Paolo Pasolini\u2019s documentary Sopralluoghi in Palestina (Location Hunting in Palestine) (put together as research for Pasolini\u2019s 1964 film The Gospel According to St. Matthew) to interrogate the making and remaking of history. In his journey to the Holy Land in search of \u201cauthentic\u201d locations for his Biblical epic, Pasolini, a heterodox Marxist Catholic, was bound to find a modern landscape inhospitable to the historical presence of Christ. And yet, precisely because he ended up filming instead in southern Italy only two years after Vatican II\u2014a seismic moment of modern Catholic self-reckoning\u2014Pasolini\u2019s true masterpiece is a deeply personal confrontation with ideas of liberation theology, light/faith and dark/blindness, and the role of the artist in aesthetics and spirituality. The montagist Ujic\u0103 deposits several elements of violent beauty into this dialectic: Christ\u2019s jeremiad against the Pharisees and scribes, images of a tempest-tossed sea from a pair of films by Dominique Pipat, and Tupac\u2019s prophetic \u201cHit \u2019Em Up,\u201d which, with lyrics like \u201cWho shot me? But you punks didn\u2019t finish / Now you \u2019bout to feel the wrath of a menace,\u201d evokes another defiant proto-revolutionary cut down in the prime of youth.",
+    "runtime": "11 min",
+    "director": "Andrei Ujic\u0103, Pier Paolo Pasolini"
+  },
+  {
     "title": "Back to the Future Part II",
     "date": "2026-09-13",
     "time": "2:00 pm",
@@ -23918,6 +24217,19 @@
     "runtime": "",
     "director": "",
     "city": "LA"
+  },
+  {
+    "title": "Unknown Quantity",
+    "date": "2026-09-13",
+    "time": "4:00 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11626",
+    "city": "NYC",
+    "description": "Unknown Quantity. 2005. Germany. Directed by Andrei Ujic\u0103. With Svetlana Alexiyevich, Paul Virilio. DCP. In French; English subtitles. 67 min. In this theatrical version of a gallery installation, the French philosopher and cultural theorist Paul Virilio and the Belarussian Nobel laureate Svetlana Alexievich, author of Voices from Chernobyl: Chronicle of the Future, grapple with the man-made tragedy of nuclear catastrophe and its implications for irrationality and fear in decision making and technological innovation. With shades of Andrei Tarkovsky\u2019s Stalker\u2014the heroic men and women who volunteered to contain the Chernobyl meltdown referred to themselves, in fact, as \u201cstalkers\u201d\u2014Virilio and Alexievich venture into a black-box zone of epistemological and ontological uncertainty as they contend with human yearning and hubristic overreach, the myth of progress, and the awful, annihilating vastness of destruction in Chernobyl, seemingly as unfathomable as that of the atomic bombs in Hiroshima and Nagasaki, or perhaps even September 11.",
+    "runtime": "67 min",
+    "director": "Andrei Ujic\u0103"
   },
   {
     "title": "Brookner: Uncle Howard",
@@ -33835,11 +34147,11 @@
     "format": "DCP",
     "venue": "Barbican",
     "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/this-is-not-a-burial-its-a-resurrection",
     "city": "London",
-    "description": "",
-    "runtime": "",
-    "director": ""
+    "description": "In this poetic, critically acclaimed drama, director Lemohang Jeremiah Mosese explores what home and tradition mean when a village\u2019s existence is threatened by the forces of progress.",
+    "runtime": "120 min",
+    "director": "Lemohang Jeremiah Mosese"
   },
   {
     "title": "La Haine",
@@ -38455,356 +38767,5 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2027-08-25",
-    "time": "10:35 AM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574488~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "In his directorial debut, comedian, writer, and actor John Early stars as a plucky dishwasher who leaps to viral superstardom at a trendy food content-creation company. Maddie seems to have everything\u2014adoring husband (Eric Rahill), ride-or-die bestie (Kate Berlant) and a cupboard full of ethically-sourced chili crisp\u2014but mounting pressures threaten to reawaken a hidden secret from her troubled past. A pitch-perfect blend of satire, melodrama, daring tonal shifts and intimate performances, MADDIE\u2019S SECRET announces a bold new cinematic voice. Official selection: TIFF, New Directors New Films \u201cSoars on the fuel of its open-hearted sincerity\u2026it\u2019s hard not to be beguiled.\u201d \u2013 RogerEbert.com Previous in-person events:",
-    "runtime": "100 min",
-    "director": "John Early"
-  },
-  {
-    "title": "The Samurai and the Prisoner",
-    "date": "2027-08-25",
-    "time": "10:50 AM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574490~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
-    "runtime": "147 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
-    "title": "How to Divorce During the War",
-    "date": "2027-08-25",
-    "time": "10:55 AM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574489~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "",
-    "runtime": "108 min",
-    "director": "Andrius Bla\u017eevicius"
-  },
-  {
-    "title": "Union County",
-    "date": "2027-08-25",
-    "time": "11:35 AM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574493~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Sneak preview + Q&A with dir. Adam Meeks & stars Will Poulter, Noah Centineo & Annette Deao Thu Aug 13 at 7:00 Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao, moderated by Danny Strong, Fri Aug 14 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sat Aug 15 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sun Aug 16 at 2:00 show Will Poulter and Noah Centineo deliver pitch-perfect performances as brothers Cody and Jack Parsons, each navigating a court-mandated drug rehabilitation program in a pocket of rural Ohio hit hard by the opioid epidemic. Provided with hope for the first time since their struggles began and with the support of a tireless counselor (Annette Deao), the brothers work toward a brighter, sober future. Additional showtimes for Aug 14-20 to be announced.",
-    "runtime": "97 min",
-    "director": "Adam Meeks"
-  },
-  {
-    "title": "Mysterious Skin",
-    "date": "2027-08-25",
-    "time": "12:05 PM",
-    "format": "4K DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574494~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years later, the two boys couldn\u2019t be more different. Neil is a charismatic but emotionally aloof male hustler, while Brian is a nervous introvert obsessed with the idea that he has been abducted by a UFO. When the boys\u2019 parallel lives inevitably intersect, the pair unearth dark, repressed secrets on a harrowing and unforgettable journey of self-discovery. Director\u2019s Statement: \u201cI\u2019m SO excited about the glorious 4K restoration of MYSTERIOUS SKIN! When we made this little indie 20 years ago, we barely had enough money to finish it, let alone pay for a Digital Intermediate and the bells and whistles of a larger studio film. I would never drastically alter the film which has such an amazing and passionate following around the world. However, the incredible tools made possible by modern digital technology helped us polish and enhance the picture in a way that wasn\u2019t possible in the early 00\u2019s. MYSTERIOUS SKIN holds a special place in my heart and I can\u2019t wait for audiences, present and future, to experience this new definitive version of it.\u201d Official Selection: Sundance, TIFF, Venice Film Festival Previous screenings:",
-    "runtime": "99 min",
-    "director": "Gregg Araki"
-  },
-  {
-    "title": "It Ends (Open Captioning)",
-    "date": "2027-08-25",
-    "time": "12:35 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574491~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding.",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "How to Divorce During the War",
-    "date": "2027-08-25",
-    "time": "1:25 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574492~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "",
-    "runtime": "108 min",
-    "director": "Andrius Bla\u017eevicius"
-  },
-  {
-    "title": "Union County",
-    "date": "2027-08-25",
-    "time": "1:50 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574497~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Sneak preview + Q&A with dir. Adam Meeks & stars Will Poulter, Noah Centineo & Annette Deao Thu Aug 13 at 7:00 Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao, moderated by Danny Strong, Fri Aug 14 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sat Aug 15 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sun Aug 16 at 2:00 show Will Poulter and Noah Centineo deliver pitch-perfect performances as brothers Cody and Jack Parsons, each navigating a court-mandated drug rehabilitation program in a pocket of rural Ohio hit hard by the opioid epidemic. Provided with hope for the first time since their struggles began and with the support of a tireless counselor (Annette Deao), the brothers work toward a brighter, sober future. Additional showtimes for Aug 14-20 to be announced.",
-    "runtime": "97 min",
-    "director": "Adam Meeks"
-  },
-  {
-    "title": "Wild Inside",
-    "date": "2027-08-25",
-    "time": "1:50 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574495~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Join educator and wildlife rehabilitator Suzanne Highland for a post screening Birdwatching Tour of the West Village after the 4pm screenings on 8/1 and 8/2! the path runs from the IFC to Hudson River Park with a pit stop in Washington Square Park. Bring binoculars if you have them! About WILD INSIDE: A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
-    "runtime": "96 min",
-    "director": "Penny Lane"
-  },
-  {
-    "title": "Mysterious Skin",
-    "date": "2027-08-25",
-    "time": "2:05 PM",
-    "format": "4K DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574498~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years later, the two boys couldn\u2019t be more different. Neil is a charismatic but emotionally aloof male hustler, while Brian is a nervous introvert obsessed with the idea that he has been abducted by a UFO. When the boys\u2019 parallel lives inevitably intersect, the pair unearth dark, repressed secrets on a harrowing and unforgettable journey of self-discovery. Director\u2019s Statement: \u201cI\u2019m SO excited about the glorious 4K restoration of MYSTERIOUS SKIN! When we made this little indie 20 years ago, we barely had enough money to finish it, let alone pay for a Digital Intermediate and the bells and whistles of a larger studio film. I would never drastically alter the film which has such an amazing and passionate following around the world. However, the incredible tools made possible by modern digital technology helped us polish and enhance the picture in a way that wasn\u2019t possible in the early 00\u2019s. MYSTERIOUS SKIN holds a special place in my heart and I can\u2019t wait for audiences, present and future, to experience this new definitive version of it.\u201d Official Selection: Sundance, TIFF, Venice Film Festival Previous screenings:",
-    "runtime": "99 min",
-    "director": "Gregg Araki"
-  },
-  {
-    "title": "It Ends",
-    "date": "2027-08-25",
-    "time": "2:40 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573487~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Fri Aug 21 and Sat, Aug 22: Q&A with director Alex Ullom at 7:00 show Sun, Aug 23: Q&A with director Alex Ullom at 4:55 show A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding.",
-    "runtime": "87 min",
-    "director": "Alex Ullom"
-  },
-  {
-    "title": "How to Divorce During the War",
-    "date": "2027-08-25",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574496~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "",
-    "runtime": "108 min",
-    "director": "Andrius Bla\u017eevicius"
-  },
-  {
-    "title": "The Samurai and the Prisoner",
-    "date": "2027-08-25",
-    "time": "4:05 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574499~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
-    "runtime": "147 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
-    "title": "Union County",
-    "date": "2027-08-25",
-    "time": "4:05 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574501~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Sneak preview + Q&A with dir. Adam Meeks & stars Will Poulter, Noah Centineo & Annette Deao Thu Aug 13 at 7:00 Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao, moderated by Danny Strong, Fri Aug 14 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sat Aug 15 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sun Aug 16 at 2:00 show Will Poulter and Noah Centineo deliver pitch-perfect performances as brothers Cody and Jack Parsons, each navigating a court-mandated drug rehabilitation program in a pocket of rural Ohio hit hard by the opioid epidemic. Provided with hope for the first time since their struggles began and with the support of a tireless counselor (Annette Deao), the brothers work toward a brighter, sober future. Additional showtimes for Aug 14-20 to be announced.",
-    "runtime": "97 min",
-    "director": "Adam Meeks"
-  },
-  {
-    "title": "Train to Busan",
-    "date": "2027-08-25",
-    "time": "4:30 PM",
-    "format": "4K DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574556~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Yeon Sang-ho\u2019s global phenomenon TRAIN TO BUSAN arrives back in theaters to celebrate its 10th Anniversary. What begins as a simple birthday trip for a father and daughter turns into a high-octane fight for survival when a zombie outbreak ravages South Korea. Trapped on a speeding train, they must navigate a landscape of terror to reach safety. Experience the relentless action and heart-wrenching drama on the big screen like never before.",
-    "runtime": "118 min",
-    "director": "Yeon Sang-Ho"
-  },
-  {
-    "title": "It Ends",
-    "date": "2027-08-25",
-    "time": "4:50 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573490~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Fri Aug 21 and Sat, Aug 22: Q&A with director Alex Ullom at 7:00 show Sun, Aug 23: Q&A with director Alex Ullom at 4:55 show A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding.",
-    "runtime": "87 min",
-    "director": "Alex Ullom"
-  },
-  {
-    "title": "Union County",
-    "date": "2027-08-25",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574503~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Sneak preview + Q&A with dir. Adam Meeks & stars Will Poulter, Noah Centineo & Annette Deao Thu Aug 13 at 7:00 Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao, moderated by Danny Strong, Fri Aug 14 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sat Aug 15 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sun Aug 16 at 2:00 show Will Poulter and Noah Centineo deliver pitch-perfect performances as brothers Cody and Jack Parsons, each navigating a court-mandated drug rehabilitation program in a pocket of rural Ohio hit hard by the opioid epidemic. Provided with hope for the first time since their struggles began and with the support of a tireless counselor (Annette Deao), the brothers work toward a brighter, sober future. Additional showtimes for Aug 14-20 to be announced.",
-    "runtime": "97 min",
-    "director": "Adam Meeks"
-  },
-  {
-    "title": "How to Divorce During the War",
-    "date": "2027-08-25",
-    "time": "6:40 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574500~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "",
-    "runtime": "108 min",
-    "director": "Andrius Bla\u017eevicius"
-  },
-  {
-    "title": "Wild Inside",
-    "date": "2027-08-25",
-    "time": "7:05 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574502~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Join educator and wildlife rehabilitator Suzanne Highland for a post screening Birdwatching Tour of the West Village after the 4pm screenings on 8/1 and 8/2! the path runs from the IFC to Hudson River Park with a pit stop in Washington Square Park. Bring binoculars if you have them! About WILD INSIDE: A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
-    "runtime": "96 min",
-    "director": "Penny Lane"
-  },
-  {
-    "title": "It Ends",
-    "date": "2027-08-25",
-    "time": "7:10 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573497~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Fri Aug 21 and Sat, Aug 22: Q&A with director Alex Ullom at 7:00 show Sun, Aug 23: Q&A with director Alex Ullom at 4:55 show A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding.",
-    "runtime": "87 min",
-    "director": "Alex Ullom"
-  },
-  {
-    "title": "Mysterious Skin",
-    "date": "2027-08-25",
-    "time": "7:15 PM",
-    "format": "4K DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574504~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years later, the two boys couldn\u2019t be more different. Neil is a charismatic but emotionally aloof male hustler, while Brian is a nervous introvert obsessed with the idea that he has been abducted by a UFO. When the boys\u2019 parallel lives inevitably intersect, the pair unearth dark, repressed secrets on a harrowing and unforgettable journey of self-discovery. Director\u2019s Statement: \u201cI\u2019m SO excited about the glorious 4K restoration of MYSTERIOUS SKIN! When we made this little indie 20 years ago, we barely had enough money to finish it, let alone pay for a Digital Intermediate and the bells and whistles of a larger studio film. I would never drastically alter the film which has such an amazing and passionate following around the world. However, the incredible tools made possible by modern digital technology helped us polish and enhance the picture in a way that wasn\u2019t possible in the early 00\u2019s. MYSTERIOUS SKIN holds a special place in my heart and I can\u2019t wait for audiences, present and future, to experience this new definitive version of it.\u201d Official Selection: Sundance, TIFF, Venice Film Festival Previous screenings:",
-    "runtime": "99 min",
-    "director": "Gregg Araki"
-  },
-  {
-    "title": "The Samurai and the Prisoner",
-    "date": "2027-08-25",
-    "time": "8:50 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574506~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
-    "runtime": "147 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
-    "title": "Train to Busan",
-    "date": "2027-08-25",
-    "time": "9:15 PM",
-    "format": "4K DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574550~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Yeon Sang-ho\u2019s global phenomenon TRAIN TO BUSAN arrives back in theaters to celebrate its 10th Anniversary. What begins as a simple birthday trip for a father and daughter turns into a high-octane fight for survival when a zombie outbreak ravages South Korea. Trapped on a speeding train, they must navigate a landscape of terror to reach safety. Experience the relentless action and heart-wrenching drama on the big screen like never before.",
-    "runtime": "118 min",
-    "director": "Yeon Sang-Ho"
-  },
-  {
-    "title": "Union County",
-    "date": "2027-08-25",
-    "time": "9:20 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574505~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Sneak preview + Q&A with dir. Adam Meeks & stars Will Poulter, Noah Centineo & Annette Deao Thu Aug 13 at 7:00 Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao, moderated by Danny Strong, Fri Aug 14 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sat Aug 15 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sun Aug 16 at 2:00 show Will Poulter and Noah Centineo deliver pitch-perfect performances as brothers Cody and Jack Parsons, each navigating a court-mandated drug rehabilitation program in a pocket of rural Ohio hit hard by the opioid epidemic. Provided with hope for the first time since their struggles began and with the support of a tireless counselor (Annette Deao), the brothers work toward a brighter, sober future. Additional showtimes for Aug 14-20 to be announced.",
-    "runtime": "97 min",
-    "director": "Adam Meeks"
-  },
-  {
-    "title": "It Ends",
-    "date": "2027-08-25",
-    "time": "9:30 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=573494~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Fri Aug 21 and Sat, Aug 22: Q&A with director Alex Ullom at 7:00 show Sun, Aug 23: Q&A with director Alex Ullom at 4:55 show A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding.",
-    "runtime": "87 min",
-    "director": "Alex Ullom"
-  },
-  {
-    "title": "Mysterious Skin",
-    "date": "2027-08-25",
-    "time": "9:45 PM",
-    "format": "4K DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=574507~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years later, the two boys couldn\u2019t be more different. Neil is a charismatic but emotionally aloof male hustler, while Brian is a nervous introvert obsessed with the idea that he has been abducted by a UFO. When the boys\u2019 parallel lives inevitably intersect, the pair unearth dark, repressed secrets on a harrowing and unforgettable journey of self-discovery. Director\u2019s Statement: \u201cI\u2019m SO excited about the glorious 4K restoration of MYSTERIOUS SKIN! When we made this little indie 20 years ago, we barely had enough money to finish it, let alone pay for a Digital Intermediate and the bells and whistles of a larger studio film. I would never drastically alter the film which has such an amazing and passionate following around the world. However, the incredible tools made possible by modern digital technology helped us polish and enhance the picture in a way that wasn\u2019t possible in the early 00\u2019s. MYSTERIOUS SKIN holds a special place in my heart and I can\u2019t wait for audiences, present and future, to experience this new definitive version of it.\u201d Official Selection: Sundance, TIFF, Venice Film Festival Previous screenings:",
-    "runtime": "99 min",
-    "director": "Gregg Araki"
-  },
-  {
-    "title": "To Live and Die in L.A.             / The Rip",
-    "date": "2027-08-25",
-    "time": "7:30 pm / 9:55 pm",
-    "format": "35mm",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.com/program/august-25-to-live-and-die-in-l-a-the-rip/",
-    "description": "A federal agent is dead. A killer is loose. And the City of Angels is about to explode.",
-    "runtime": "116 min",
-    "director": "William Friedkin",
-    "city": "LA"
   }
 ]
