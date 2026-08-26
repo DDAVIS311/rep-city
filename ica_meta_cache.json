@@ -244,5 +244,11 @@
   "description": "Sherman’s March , winner of the Grand Jury Prize for Best Documentary at Sundance in 1987, is Ross McElwee’s monumental documentary which has been officially listed by the International Documentary Association as one of the top 20 documentary films of all time. Intending to make a film about General Sherman’s 1864 March to the Sea, Ross McElwee gets sidetracked. Affected by a recent breakup, he slows his progress through the American South to spend time with a succession of women and explore the possibility of romantic fulfilment in the nuclear age.",
   "runtime": "158 min",
   "format": ""
+ },
+ "https://www.ica.art/films/remake": {
+  "director": "Ross McElwee",
+  "description": "In Remake , filmmaker Ross McElwee turns his lens on the passage of time and the uneasy space between documenting life and understanding it. The film traces McElwee’s relationship with his son Adrian, and the fragile bond the camera created between them while Adrian was alive, and now that he’s gone. Drawing from decades of footage, some shot by Ross, some by Adrian, the film becomes a layered excavation of memory and image making. Threaded through is the ghost of another project: a stalled effort by Hollywood to fictionalize McElwee’s 1986 classic, Sherman’s March . What emerges is a work shaped by absence and propelled forward by a father’s love for his son.",
+  "runtime": "114 min",
+  "format": ""
  }
 }
