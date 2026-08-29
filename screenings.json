@@ -1729,19 +1729,6 @@
     "director": "Ren\u00e9 Laloux"
   },
   {
-    "title": "Zootopia",
-    "date": "2026-08-29",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/zootopia-019dda3b-5b6c-ff0e-36d9-e452ba39a26f",
-    "description": "Accessible screening On the last Saturday of every month, the museum's Family Matinee is an accommodative screening where we offer open captioning, keep the theater dimly lit, and maintain a lower volume specifically for neurodivergent viewers. When a young rabbit from Bunnyburrow moves to the big city of Zootopia to achieve her lifelong dream of becoming a police officer, she uncovers a sinister conspiracy. She also develops an unexpected friendship with a wily fox in this computer-animated comedy that imaginatively depicts a metropolis populated by animals of every type. The winner of the 2016 Animated Feature Film Oscar, Zootopia benefits from its expert voice cast, led by Ginnifer Goodwin as the bunny cop, Jason Bateman as the cynical fox, and Idris Elba as the world-weary Cape buffalo police chief.",
-    "runtime": "108 min",
-    "director": "Byron Howard, Rich Moore",
-    "city": "LA"
-  },
-  {
     "title": "How to Divorce During the War",
     "date": "2026-08-29",
     "time": "11:00 AM",
@@ -2002,19 +1989,6 @@
     "director": ""
   },
   {
-    "title": "I Want Your Sex",
-    "date": "2026-08-29",
-    "time": "1:30 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4438386/",
-    "description": "Los Angeles indie legend Gregg Araki\u2019s newest absurd comedy is a raunchy, kinky delight and it\u2019s steaming up our microcinema in all its eye-popping, kink-positive, raucously funny glory! When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
-    "runtime": "90 min",
-    "director": "Gregg Araki",
-    "city": "LA"
-  },
-  {
     "title": "Wild Inside",
     "date": "2026-08-29",
     "time": "1:30 PM",
@@ -2093,6 +2067,19 @@
     "city": "LA"
   },
   {
+    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
+    "date": "2026-08-29",
+    "time": "2:00 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2816663.TcsSection_1299",
+    "city": "London",
+    "description": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, ...",
+    "runtime": "111 min",
+    "director": "Jane Shoenbrun"
+  },
+  {
     "title": "LATE FAME",
     "date": "2026-08-29",
     "time": "2:25 PM",
@@ -2132,30 +2119,17 @@
     "director": ""
   },
   {
-    "title": "FLC Book Fair",
+    "title": "I WANT YOUR SEX",
     "date": "2026-08-29",
     "time": "2:30 PM",
     "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83772/83774",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "Samba Traore",
-    "date": "2026-08-29",
-    "time": "2:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83830/83837",
-    "city": "NYC",
-    "description": "Winner of the Silver Bear at the 1993 Berlinale and newly restored in 4K, the great Burkinab\u00e9 writer-director Idrissa Ou\u00e9draogo\u2019s Samba Traor\u00e9 remains one of the decisive works of African cinema.",
-    "runtime": "85 min",
-    "director": "Idrissa Ou\u00e9draogo"
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2795114.TcsSection_936",
+    "city": "London",
+    "description": "A bold, provocative, and wickedly funny erotic comedy-thriller from cult filmmaker Gregg Araki (Mysterious Skin, The Doom Generation). Olivia Wilde and Cooper Hoffman lead an irresistible ensemble cast featuring Charli XCX, Chase Sui Wonders, Mason Gooding and Daveed Diggs. Following its buzzy Sunda...",
+    "runtime": "90 min",
+    "director": "Greg Araki"
   },
   {
     "title": "CENTER STAGE",
@@ -2197,19 +2171,6 @@
     "director": "Adam Meeks"
   },
   {
-    "title": "The Samurai and the Prisoner",
-    "date": "2026-08-29",
-    "time": "3:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83373/84444",
-    "city": "NYC",
-    "description": "Kiyoshi Kurosawa\u2019s stately, meticulously composed period drama, set in 16th-century Japan, is a tense and metaphysical whodunit with the director\u2019s characteristic philosophical overtones.",
-    "runtime": "147 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
     "title": "Bitter Christmas",
     "date": "2026-08-29",
     "time": "3:00 PM",
@@ -2229,7 +2190,7 @@
     "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3964?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "description": "Speed Racer is a young and brilliant racing driver. When corruption in the racing leagues costs his brother his life, Speed must team up with the police and the mysterious Racer X to bring an end to the corruption and criminal activities.",
     "runtime": "135 min",
     "director": "",
@@ -2286,19 +2247,6 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "Indiana Jones the Last Crusade",
-    "date": "2026-08-29",
-    "time": "3:45 PM",
-    "format": "70mm",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83738/83753",
-    "city": "NYC",
-    "description": "For a film about digging up the past in more ways than one, it is only fitting that Film at Lincoln Center has unearthed its long-dormant 70mm blow-up print, unseen in a New York City cinema since 1989.",
-    "runtime": "127 min",
-    "director": "Steven Spielberg"
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -2405,6 +2353,19 @@
     "director": "Gregg Araki"
   },
   {
+    "title": "LADY",
+    "date": "2026-08-29",
+    "time": "4:20 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2816665.TcsSection_1299",
+    "city": "London",
+    "description": "Lady is an off-beat comedy about a lonely, narcissistic aristocrat who dupes a struggling, opportunistic director into filming her every move. But her obsession with the spotlight takes a surreal turn when she starts becoming\u2026 invisible. Blending mockumentary and magical realism, Lady satirises our ...",
+    "runtime": "97 min",
+    "director": "Samuel Abrahams"
+  },
+  {
     "title": "Welcome Space Brothers",
     "date": "2026-08-29",
     "time": "4:30 pm",
@@ -2416,19 +2377,6 @@
     "runtime": "101 min",
     "director": "Jodi Wille",
     "city": "LA"
-  },
-  {
-    "title": "Samba Traore",
-    "date": "2026-08-29",
-    "time": "4:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83830/83838",
-    "city": "NYC",
-    "description": "Winner of the Silver Bear at the 1993 Berlinale and newly restored in 4K, the great Burkinab\u00e9 writer-director Idrissa Ou\u00e9draogo\u2019s Samba Traor\u00e9 remains one of the decisive works of African cinema.",
-    "runtime": "85 min",
-    "director": "Idrissa Ou\u00e9draogo"
   },
   {
     "title": "LATE FAME",
@@ -2574,19 +2522,6 @@
     "director": ""
   },
   {
-    "title": "Late Fame",
-    "date": "2026-08-29",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83634/84451",
-    "city": "NYC",
-    "description": "In Kent Jones\u2019s marvelously witty second feature, a once-upon-a-time New York poet (Willem Dafoe) gets an ego boost when he is welcomed into the world of an emerging literary salon, but must reckon with the authenticity of his newfound circle of twentysomething admirers.",
-    "runtime": "96 min",
-    "director": "Kent Jones"
-  },
-  {
     "title": "Bitter Christmas",
     "date": "2026-08-29",
     "time": "6:00 PM",
@@ -2639,19 +2574,6 @@
     "director": "Alex Ullom"
   },
   {
-    "title": "Bitter Christmas",
-    "date": "2026-08-29",
-    "time": "6:20 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17614/",
-    "city": "London",
-    "description": "Bitter Christmas tells two alternating stories, one starring Elsa, an advertising director, in 2004, during a long weekend in December. The second takes place in 2026 and stars Ra\u00fal, a screenwriter and director who is writing a script that we soon discover is the story of Elsa, her boyfriend Bonifacio, and her friends Patricia and Natalia. Mixed with fiction, Elsa is, in a way, Ra\u00fal's alter ego, who, like him, resorts to autofiction as a solution to a long period of creative drought. He looks inside himself, and he can't help but also look at the people who make up his most intimate universe: his partner and his assistant.",
-    "runtime": "111 min",
-    "director": "Pedro Almod\u00f3var"
-  },
-  {
     "title": "Samba Traore",
     "date": "2026-08-29",
     "time": "6:30 PM",
@@ -2691,32 +2613,6 @@
     "director": "Adolfas Mekas, Jonas Mekas"
   },
   {
-    "title": "I Want Your Sex",
-    "date": "2026-08-29",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/i-want-your-sex",
-    "city": "London",
-    "description": "Gregg Araki's I Want Your Sex tells the story of Elliot (Cooper Hoffman), a kind-hearted if unmotivated twentysomething whose fantasies quickly come true when he lands a job with renowned artist and provocateur Erika Tracy (Olivia Wilde). When Erika breaks down office boundaries and takes Elliot on as her sexual muse and subordinate, their sexually charged relationship makes him question his own desires, boundaries, and relationships with his uptight girlfriend (Charli XCX) and repressed roommate (Chase Sui Wonders). As the stakes heighten and power dynamics shift, the film mixes satire, romantic comedy, mystery, and murder through the colourful and edgy visual language for which Araki is best known.",
-    "runtime": "90 min",
-    "director": "Gregg Araki"
-  },
-  {
-    "title": "Matador",
-    "date": "2026-08-29",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/matador",
-    "city": "London",
-    "description": "Pedro Almod\u00f3var's 1986 erotic thriller explores the intimate relationship between pleasure and death through the convergence of bullfighting and murder. Diego is an ex-champion matador who now runs a bullfighting school. Still looking for a kick, he watches sadistic videos for sexual pleasure. Maria is a lawyer and Diego\u2019s number one fan \u2013 she also likes to kill men with a hairpin at the point of orgasm. The pair are destined to meet.",
-    "runtime": "110 min",
-    "director": "Pedro Almod\u00f3var"
-  },
-  {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
     "date": "2026-08-29",
     "time": "6:30 PM",
@@ -2728,32 +2624,6 @@
     "description": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original's star, a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, ...",
     "runtime": "111 min",
     "director": "Jane Shoenbrun"
-  },
-  {
-    "title": "EL TOPO",
-    "date": "2026-08-29",
-    "time": "6:30 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/605",
-    "city": "London",
-    "description": "Across an arid, hallucinatory desert, a black-clad gunslinger undertakes a brutal spiritual odyssey\u2014duelling mystical masters, confronting his sins, and descending into a world of outcasts who worship him as a messiah.\nA feverish collision of western, religious allegory, and psychedelic ritual, El Topo reshapes myth into a violent dreamscape. Jodorowsky\u2019s vision is both sacred and profane\u2014a cosmic fable of enlightenment through blood, sand, and transformation.",
-    "runtime": "125 min",
-    "director": "Alejandro Jodorowsky"
-  },
-  {
-    "title": "Insidious: Out of the Further",
-    "date": "2026-08-29",
-    "time": "6:40 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82819?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-    "runtime": "106 min",
-    "director": ""
   },
   {
     "title": "How to Divorce During the War",
@@ -2832,19 +2702,6 @@
     "description": "An entire civilization must confront its destiny in alternative-animation pioneer Ren\u00e9 Laloux\u2019s final feature, a cult classic of mind-bending science fiction. In a distant world, a merciless army of automata attacks Gandahar, turning its peace-loving people to stone. Hoping to discover the source of these Men of Metal, a council of matriarchs enlists the brave yet inexperienced warrior Sylvain (Pierre-Marie Escourro), who, while journeying through his planet\u2019s outer regions, teams up with the Deformed, a race cast out from Gandahar after failed science experiments rendered them mutants. Soon, Sylvain learns that a gargantuan brain called Metamorphis (Georges Wilson) is responsible for his utopian society\u2019s strife and\u2014together with the beautiful Airelle (Catherine Chevallier)\u2014travels through time to defeat him, in the process risking their lives and Gandahar\u2019s very existence. Featuring stunningly surreal creatures and wondrously bizarre environments designed by renowned comic-book artist Caza, Gandahar is a visceral, visionary head-trip in which animation opens a gateway to the furthest reaches of the imagination.",
     "runtime": "83 min",
     "director": "Ren\u00e9 Laloux"
-  },
-  {
-    "title": "Yi Yi",
-    "date": "2026-08-29",
-    "time": "7:10 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/film/20548788/yi-yi",
-    "city": "London",
-    "description": "The extraordinary, internationally embraced Yi Yi (A One and a Two . . .), directed by the late Taiwanese master Edward Yang, follows a middle-class family in Taipei over the course of one year, beginning with a wedding and ending with a funeral. Whether chronicling middle-age father NJ\u2019s tentative flirtations with an old flame or precocious young son Yang-Yang\u2019s attempts at capturing reality with his beloved camera, the filmmaker deftly imbues every gorgeous frame with a compassionate clarity. Warm, sprawling, and dazzling, this intimate epic is one of the undisputed masterworks of the new century. 4K digital restoration carried out by Pony Canyon Inc., with analog and digital processes provided by Imagica Entertainment Media Services, Inc.",
-    "runtime": "173 min",
-    "director": "Edward Yang"
   },
   {
     "title": "Union County",
@@ -2951,32 +2808,6 @@
     "director": ""
   },
   {
-    "title": "De Gaulle: Resistance",
-    "date": "2026-08-29",
-    "time": "8:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82821?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A powerful account of Charles de Gaulle's journey during World War II, from his rise as a military leader to his emergence in French politics between 1940-1945.",
-    "runtime": "158 min",
-    "director": "Antonin Baudry"
-  },
-  {
-    "title": "Stop Making Sense",
-    "date": "2026-08-29",
-    "time": "8:05 PM",
-    "format": "4K DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627142",
-    "city": "London",
-    "description": "Stop Making Sense stars core band members David Byrne, Tina Weymouth, Chris Frantz, and Jerry Harrison along with Bernie Worrell, Alex Weir, Steve Scales, Lynn Mabry and Edna Holt. The live performance was shot over the course of three nights at Hollywood's Pantages Theater in December of 1983 and features Talking Heads' most memorable songs.",
-    "runtime": "87 min",
-    "director": "Jonathan Demme"
-  },
-  {
     "title": "Bitter Christmas",
     "date": "2026-08-29",
     "time": "8:10 PM",
@@ -3081,58 +2912,6 @@
     "director": "Idrissa Ou\u00e9draogo"
   },
   {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "date": "2026-08-29",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/teenage-sex-and-death-at-camp-miasma",
-    "city": "London",
-    "description": "",
-    "runtime": "112 min",
-    "director": ""
-  },
-  {
-    "title": "Mastercard Outdoor Cinema: Desperately Seeking Susan (15)",
-    "date": "2026-08-29",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/outdoor-cinema-desperately-seeking-susan",
-    "city": "London",
-    "description": "Madonna and Rosanna Arquette star in this 80s cult classic, in which an unhappy Suburban housewife is thrust into a life of adventure and romance.",
-    "runtime": "104 min",
-    "director": "Susan Seidelman"
-  },
-  {
-    "title": "Outdoor Cinema: Desperately Seeking Susan (15)",
-    "date": "2026-08-29",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/outdoor-cinema-desperately-seeking-susan",
-    "city": "London",
-    "description": "Madonna and Rosanna Arquette star in this 80s cult classic, in which an unhappy Suburban housewife is thrust into a life of adventure and romance.",
-    "runtime": "104 min",
-    "director": "Susan Seidelman"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma (15) (AD)",
-    "date": "2026-08-29",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/teenage-sex-and-death-at-camp-miasma",
-    "city": "London",
-    "description": "Bloody and bewildering, Jane Schoenbrun brings a film-within-a-film that unpacks a meta world of queer desire, pop-cultural gaze and identity. Starring Hannah Einbinder and Gillian Anderson.",
-    "runtime": "112 min",
-    "director": "Jane Schoenbrun"
-  },
-  {
     "title": "I WANT YOUR SEX",
     "date": "2026-08-29",
     "time": "8:30 PM",
@@ -3144,58 +2923,6 @@
     "description": "A bold, provocative, and wickedly funny erotic comedy-thriller from cult filmmaker Gregg Araki (Mysterious Skin, The Doom Generation). Olivia Wilde and Cooper Hoffman lead an irresistible ensemble cast featuring Charli XCX, Chase Sui Wonders, Mason Gooding and Daveed Diggs. Following its buzzy Sunda...",
     "runtime": "90 min",
     "director": "Greg Araki"
-  },
-  {
-    "title": "Off-Circuit: The Visitor",
-    "date": "2026-08-29",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/off-circuit-the-visitor",
-    "city": "London",
-    "description": "30-year-old Danielius returns to his hometown to sell his parents\u2019 flat, but the visit lasts longer than expected. With nowhere to rush, he tries to reconnect with the people and the town that no longer feels like his. Vytautas Katkus' debut feature is a delicate study of homecoming, fatherhood, and belated farewells.",
-    "runtime": "115 min",
-    "director": "Vytautas Katkus"
-  },
-  {
-    "title": "Bitter Christmas (15) (AD)",
-    "date": "2026-08-29",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/bitter-christmas",
-    "city": "London",
-    "description": "Pedro Almod\u00f3var is back with his unique brand of storytelling, setting the stage for the tale of a filmmaker who is a little too heavily inspired by the real lives of those around him.",
-    "runtime": "111 min",
-    "director": "Pedro Almod\u00f3var"
-  },
-  {
-    "title": "Tony (15) (AD)",
-    "date": "2026-08-29",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/tony",
-    "city": "London",
-    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, carving out a slice of a summer that will shape the course of his life.",
-    "runtime": "106 min",
-    "director": "Matt Johnson"
-  },
-  {
-    "title": "Tony",
-    "date": "2026-08-29",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82823?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-    "runtime": "106 min",
-    "director": "Matt Johnson"
   },
   {
     "title": "I Want Your Sex",
@@ -3222,32 +2949,6 @@
     "description": "In this seven-time Goya Award\u2013winning analog-age thriller from Alejandro Amen\u00e1bar (Abre los ojos, The Others), a thesis student discovers the uncomfortably narrow distance between studying violent spectacle and wanting, despite oneself, to see it.",
     "runtime": "125 min",
     "director": "Alejandro Amen\u00e1bar"
-  },
-  {
-    "title": "The Dog Stars",
-    "date": "2026-08-29",
-    "time": "8:45 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82822?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Set in a post-apocalyptic world in which a virus has wiped out most of humanity, with survivors being terrorized by roaming scavengers called \"Reapers.\" The protagonist is Hig, a pilot who survived the flu that killed everyone he knew, his wife included. He lives in the hangar of a small abandoned airport with his dog, his only neighbor a gun-toting ex-Marine. Hig sometimes heads off in his 1956 Cessna, where he can fish and pretend things are how they used to be. When a random transmission somehow beams through his radio, the voice ignites a hope deep inside him that a better life might exist if he flies a bit further. He risks it all. to chase a possible haven in Grand Junction.",
-    "runtime": "118 min",
-    "director": "Ridley Scott"
-  },
-  {
-    "title": "Bitter Christmas",
-    "date": "2026-08-29",
-    "time": "8:50 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17615/",
-    "city": "London",
-    "description": "Bitter Christmas tells two alternating stories, one starring Elsa, an advertising director, in 2004, during a long weekend in December. The second takes place in 2026 and stars Ra\u00fal, a screenwriter and director who is writing a script that we soon discover is the story of Elsa, her boyfriend Bonifacio, and her friends Patricia and Natalia. Mixed with fiction, Elsa is, in a way, Ra\u00fal's alter ego, who, like him, resorts to autofiction as a solution to a long period of creative drought. He looks inside himself, and he can't help but also look at the people who make up his most intimate universe: his partner and his assistant.",
-    "runtime": "111 min",
-    "director": "Pedro Almod\u00f3var"
   },
   {
     "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA",
@@ -3289,19 +2990,6 @@
     "director": "Alex Cox"
   },
   {
-    "title": "Insidious: Out of the Further",
-    "date": "2026-08-29",
-    "time": "9:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82826?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-    "runtime": "106 min",
-    "director": ""
-  },
-  {
     "title": "FILIPI\u00d1ANA",
     "date": "2026-08-29",
     "time": "9:10 PM",
@@ -3313,19 +3001,6 @@
     "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
     "runtime": "100 min",
     "director": ""
-  },
-  {
-    "title": "Spa Weekend",
-    "date": "2026-08-29",
-    "time": "9:10 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82824?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Three friends go on a spa weekend that descends into chaos when their trainwreck friend joins, leading to hilarious consequences.",
-    "runtime": "97 min",
-    "director": "Jon Lucas, Scott Moore"
   },
   {
     "title": "Gandahar",
@@ -3341,19 +3016,6 @@
     "director": "Ren\u00e9 Laloux"
   },
   {
-    "title": "MYSTERY MOVIE",
-    "date": "2026-08-29",
-    "time": "9:15 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/604",
-    "city": "London",
-    "description": "Not for the easily offended, and strictly programmed for adult audiences only - our mystery films are eye-popping forays into the bold and bonkers world of psychotronic cinema. Expect the unacceptable.\nPlease consider yourself forewarned that these films may (and probably will) contain offensive and upsetting content. Do not attend if you are of a sensitive disposition.",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Mysterious Skin",
     "date": "2026-08-29",
     "time": "9:20 PM",
@@ -3364,19 +3026,6 @@
     "city": "NYC",
     "description": "At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years later, the two boys couldn\u2019t be more different. Neil is a charismatic but emotionally aloof male hustler, while Brian is a nervous introvert obsessed with the idea that he has been abducted by a UFO. When the boys\u2019 parallel lives inevitably intersect, the pair unearth dark, repressed secrets on a harrowing and unforgettable journey of self-discovery. Director\u2019s Statement: \u201cI\u2019m SO excited about the glorious 4K restoration of MYSTERIOUS SKIN! When we made this little indie 20 years ago, we barely had enough money to finish it, let alone pay for a Digital Intermediate and the bells and whistles of a larger studio film. I would never drastically alter the film which has such an amazing and passionate following around the world. However, the incredible tools made possible by modern digital technology helped us polish and enhance the picture in a way that wasn\u2019t possible in the early 00\u2019s. MYSTERIOUS SKIN holds a special place in my heart and I can\u2019t wait for audiences, present and future, to experience this new definitive version of it.\u201d Official Selection: Sundance, TIFF, Venice Film Festival Previous screenings:",
     "runtime": "99 min",
-    "director": "Gregg Araki"
-  },
-  {
-    "title": "I Want Your Sex",
-    "date": "2026-08-29",
-    "time": "9:20 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/82825?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "I WANT YOUR SEX tells the story of Elliot (Cooper Hoffman), a kind-hearted if unmotivated twentysomething whose fantasies quickly come true when he lands a job with renowned artist and provocateur Erika Tracy (Olivia Wilde). When Erika breaks down office boundaries and takes Elliot on as her sexual muse and subordinate, their sexually charged relationship makes him question his own desires, boundaries, and relationships with his uptight girlfriend (Charli XCX) and repressed roommate (Chase Sui Wonders). As the stakes heighten and power dynamics shift, the film mixes satire, romantic comedy, mystery, and murder through the colourful and edgy visual language for which Araki is best known.",
-    "runtime": "90 min",
     "director": "Gregg Araki"
   },
   {
@@ -3445,19 +3094,6 @@
     "director": ""
   },
   {
-    "title": "Twin Peaks : Season 1 Marathon",
-    "date": "2026-08-29",
-    "time": "10:30 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/film/31617040/twin-peaks-season-1-marathon",
-    "city": "London",
-    "description": "ALL NIGHTER : FAQs, HOUSE RULES & TIPS Please Note: The Bar closes at Midnight on 29th August Step into the Red Room, as we present the First Season of David Lynch and Mark Frost's masterful television series TWIN PEAKS in an all-night marathon! And don't worry, there will be some damn fine coffee served all night! SCHEDULE: - Saturday 29th August 22:30 Line-up: \u2022 Pilot Episode \u2022 Episodes 1 & 2 \u2022 Episodes 3 & 4 \u2022 Episodes 5 & 6 \u2022 Episode 7 Please Note: The first episode will start 20 mins after the advertised time. ------------ Eccentric FBI Special Agent Dale Cooper visits the seemingly idyllic town of Twin Peaks, Washington to investigate the murder of high school student Laura Palmer, and uncovers a web of secrets and supernatural mysteries. Special thanks to Ryan at Showroom Cinema for helping us make this happen! ----------------------------------------------------------------------- NO ADMISSIONS TO THE CINEMA AFTER MIDNIGHT NO ALCOHOL PURCHASED FROM OUTSIDE IS PERMITTED IN THE BUILDING! AGE RESTRICTIONS: For the All Night Marathon, due to the event running through the night, all attendees must be 16+. For the daytime marathon, the rating is 15.",
-    "runtime": "453 min",
-    "director": "David Lynch, Mark Frost"
-  },
-  {
     "title": "True Romance",
     "date": "2026-08-29",
     "time": "10:45 PM",
@@ -3469,19 +3105,6 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "Mystery Movie Marathon",
-    "date": "2026-08-29",
-    "time": "11:00 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/film/7614149/mystery-movie-marathon",
-    "city": "London",
-    "description": "Please Note: The bar will close at Midnight on 29th August We'll be giving you 5 Mystery Films back-to-back, with No Clues or Hints! There are no links between these films, just 5 totally random picks. Tickets are only \u00a322 Non-Members / \u00a320 Members! That's an incredible deal for 5 films; so why not take a chance and let a little mystery into your life!?! MYSTERY MOVIE line-up \u2022 MYSTERY MOVIE 1 \u2022 MYSTERY MOVIE 2 \u2022 MYSTERY MOVIE 3 \u2022 MYSTERY MOVIE 4 \u2022 MYSTERY MOVIE 5 ** EACH 'MYSTERY MOVIE MARATHON' WILL BE A TOTALLY DIFFERENT LINE-UP! ** We aim to have the marathons over by 9am. ------------------------- ALL NIGHTER : FAQs, HOUSE RULES & TIPS NO ADMISSIONS TO THE CINEMA AFTER MIDNIGHT! NO ALCOHOL PURCHASED FROM OUTSIDE IS PERMITTED IN THE BUILDING! AGE RESTRICTIONS : This event is strictly 18 +",
-    "runtime": "500 min",
-    "director": "Various, Various Mystery Directors"
   },
   {
     "title": "The Departed",
@@ -5314,19 +4937,6 @@
     "description": "Speed Racer is a young and brilliant racing driver. When corruption in the racing leagues costs his brother his life, Speed must team up with the police and the mysterious Racer X to bring an end to the corruption and criminal activities.",
     "runtime": "135 min",
     "director": "",
-    "city": "LA"
-  },
-  {
-    "title": "I Want Your Sex",
-    "date": "2026-08-30",
-    "time": "7:30 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4438451/",
-    "description": "Los Angeles indie legend Gregg Araki\u2019s newest absurd comedy is a raunchy, kinky delight and it\u2019s steaming up our microcinema in all its eye-popping, kink-positive, raucously funny glory! When fresh-faced Elliot lands an exciting job for renowned artist, icon and provocateur Erika Tracy, his fantasies come true as Erika taps him to become her sexual muse. But Elliot soon finds himself out of his depth as Erika takes him on a journey more profound than he ever could have imagined, into a world of sex, obsession, power, betrayal and murder.",
-    "runtime": "90 min",
-    "director": "Gregg Araki",
     "city": "LA"
   },
   {
@@ -7720,6 +7330,19 @@
     "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island Sunday 2nd Aug 11am Charity Screening All proceeds from this performance will be donated to MEDICINEMA Cinema-based healthcare programmes inside hospitals",
     "runtime": "88 min",
     "director": "Cal Brunker"
+  },
+  {
+    "title": "Batman (1966)",
+    "date": "2026-09-01",
+    "time": "2:00 PM",
+    "format": "16mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4074?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "",
+    "runtime": "105 min",
+    "director": "",
+    "city": "LA"
   },
   {
     "title": "The End of Oak Street",
