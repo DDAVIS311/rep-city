@@ -400,5 +400,23 @@
   "description": "Join Saskia van Roomen and the team from Small World Cinema to create festive decorations themed around this bumper crop of short stories set in wintry worlds.",
   "runtime": "",
   "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/relaxed-screening-whisper-of-the-heart": {
+  "director": "Yoshifumi Kondô",
+  "description": "Pure Studio Ghibli magic unfolds as a bookish 14-year-old follows a cat to find the person who has borrowed all the same books as her from the library in this touching coming-of-age story.",
+  "runtime": "112 min",
+  "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/senior-community-cinema-effi-o-blaenau": {
+  "director": "Marc Evans",
+  "description": "Effi bounces between unemployment, clubbing and hangovers in the hills of Northern Wales, in Marc Evans ' hard-hitting, Welsh language drama.",
+  "runtime": "91 min",
+  "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/senior-community-cinema-persepolis-x-marsm": {
+  "director": "Marjane Satrapi",
+  "description": "Revisit Marjane Satrapi's acclaimed animated film about growing up in Tehran during and after Iran’s 1979 revolution, based on her autobiographical graphic novel.",
+  "runtime": "96 min",
+  "format": ""
  }
 }
