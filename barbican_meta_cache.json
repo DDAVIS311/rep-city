@@ -418,5 +418,23 @@
   "description": "Revisit Marjane Satrapi's acclaimed animated film about growing up in Tehran during and after Iran’s 1979 revolution, based on her autobiographical graphic novel.",
   "runtime": "96 min",
   "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/late-fame": {
+  "director": "Kent Jones",
+  "description": "A forgotten postman’s poetry collection finds new admirers in a story about how the mystique of the past filters into the present.",
+  "runtime": "96 min",
+  "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/the-incomer": {
+  "director": "Louis Paxton",
+  "description": "On an Orkney isle, siblings Isla and Sandy fend off outsiders and commune with mythical beings, until an awkward official arrives to relocate them.",
+  "runtime": "102 min",
+  "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/leviticus": {
+  "director": "Adrian Chiarella",
+  "description": "Two teenage boys living in an ultraconservative community in rural Australia are threatened by a violent entity seeking to destroy them in this breath-taking queer horror.",
+  "runtime": "88 min",
+  "format": ""
  }
 }
