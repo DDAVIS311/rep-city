@@ -346,5 +346,29 @@
   "description": "Introducing a season from the British Horror Studio. An independent British film studio Focusing on Gothic drama and arthouse filmmaking with a distinctive British horror character. Mr Whispers is a raw and unnerving found-footage horror film set within the decaying shadows of an abandoned cinema. When old rumours, local trauma, and a forgotten urban legend begin to close around a group of young investigators, the building becomes more than a location: it becomes a trap, a memory, and a place where something has been waiting in the dark. Directed by Dorian Todd, Oliver Revie, and Seumas MacNeil, and starring Dorian Todd, Sam McMillan, and members of The B-Team repertory, Mr Whispers captures the rough immediacy of grassroots horror while delivering a suffocating atmosphere of dread. It is a film of haunted spaces, buried pain, and the terrible feeling that some places are not empty at all. https://www.britishhorrorstudio.com/",
   "runtime": "120 min",
   "format": ""
+ },
+ "https://www.peckhamplex.london/film/runner": {
+  "director": "Scott Waugh",
+  "description": "Hank Malone, a high-end courier has three hours to transport an organ to save a seven-year-old girl in need of an immediate transplant. The seemingly simple mission turns deadly when the leader of a notorious crime syndicate becomes hell-bent on claiming the organ.",
+  "runtime": "99 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/teenage-sex-and-death-at-camp-miasma": {
+  "director": "Jane Schoenbrun",
+  "description": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director (Hannah Einbinder, Hacks) for resurrection. But when she visits the original movie’s star (Gillian Anderson, The X-Files, Sex Education), a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
+  "runtime": "112 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/just-an-illusion": {
+  "director": "Olivier Nakache, Eric Toledano",
+  "description": "It's 1985. Vincent, almost 13, lives in the suburbs of Paris, caught between an older brother who brushes him off and parents who never stop arguing. No longer a kid but not quite an adult, Vincent fumbles through life's big questions: identity, friendship, family, first crushes... and why adults don’t seem to have things figured out either.",
+  "runtime": "118 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/shaun-the-sheep-the-beast-of-mossy-bottom": {
+  "director": "Steve Cox, Matthew Walker",
+  "description": "The new adventure sees the residents of Mossy Bottom Farm looking forward to Halloween - until the clumsy Farmer trashes the Flock's beloved pumpkin patch. When Shaun turns mad scientist to fix the problem, things rapidly spiral out of control, leading to a wild beast roaming the woods.",
+  "runtime": "80 min",
+  "format": ""
  }
 }
