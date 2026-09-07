@@ -1807,19 +1807,6 @@
     "director": ""
   },
   {
-    "title": "Onslaught",
-    "date": "2026-09-07",
-    "time": "1:00 PM",
-    "format": "35mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3980?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "description": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
-    "runtime": "92 min",
-    "director": "",
-    "city": "LA"
-  },
-  {
     "title": "LATE FAME",
     "date": "2026-09-07",
     "time": "1:00 PM",
@@ -1937,45 +1924,6 @@
     "director": ""
   },
   {
-    "title": "Brazil",
-    "date": "2026-09-07",
-    "time": "2:30 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30795",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "The Apartment",
-    "date": "2026-09-07",
-    "time": "2:35 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30789",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "The Samurai and the Prisoner",
-    "date": "2026-09-07",
-    "time": "3:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83373/84556",
-    "city": "NYC",
-    "description": "Kiyoshi Kurosawa\u2019s stately, meticulously composed period drama, set in 16th-century Japan, is a tense and metaphysical whodunit with the director\u2019s characteristic philosophical overtones.",
-    "runtime": "147 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
     "title": "BARBARA FOREVER",
     "date": "2026-09-07",
     "time": "3:10 PM",
@@ -2015,19 +1963,6 @@
     "director": "Francis Ford Coppola"
   },
   {
-    "title": "Marketa Lazarova",
-    "date": "2026-09-07",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84083/84094",
-    "city": "NYC",
-    "description": "Frequently hailed as the greatest Czech film ever made, Franti\u0161ek Vl\u00e1\u010dil\u2019s staggering medieval epic, shot in stark widescreen black and white, plunges into the blood-soaked borderlands of 13th-century Bohemia amid the uneasy transition from paganism to Christianity.",
-    "runtime": "165 min",
-    "director": "Franti\u0161ek Vl\u00e1\u010dil"
-  },
-  {
     "title": "Late Fame",
     "date": "2026-09-07",
     "time": "3:30 PM",
@@ -2054,26 +1989,13 @@
     "director": "Kiyoshi Kurosawa"
   },
   {
-    "title": "Chronovisor",
-    "date": "2026-09-07",
-    "time": "3:45 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83868/83882",
-    "city": "NYC",
-    "description": "Inspired by the true story of a \u201cfake\u201d invention, Kevin Walker and Jack Auen\u2019s Chronovisor follows a Columbia professor deep into a Borgesian labyrinth of textual clues pointing to a time-travel device rumored to have been suppressed by the Vatican.",
-    "runtime": "100 min",
-    "director": "Kevin Walker, Jack Auen"
-  },
-  {
     "title": "Onslaught",
     "date": "2026-09-07",
     "time": "4:00 PM",
     "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/3990?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "description": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
     "runtime": "92 min",
     "director": "",
@@ -2184,19 +2106,6 @@
     "director": ""
   },
   {
-    "title": "Bitter Christmas",
-    "date": "2026-09-07",
-    "time": "5:30 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/film/bitter-christmas/",
-    "city": "London",
-    "description": "Presented in Spanish, with English subtitles.\r\n\r\nFrom iconic director Pedro Almod\u00f3var... A dual-timeline story exploring grief, creative block, and the blurry line between real life and fiction.",
-    "runtime": "111 min",
-    "director": "Pedro Almodovar"
-  },
-  {
     "title": "The Shop on the High Street",
     "date": "2026-09-07",
     "time": "5:45 PM",
@@ -2223,19 +2132,6 @@
     "director": "Kent Jones"
   },
   {
-    "title": "Late Fame",
-    "date": "2026-09-07",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83634/84548",
-    "city": "NYC",
-    "description": "In Kent Jones\u2019s marvelously witty second feature, a once-upon-a-time New York poet (Willem Dafoe) gets an ego boost when he is welcomed into the world of an emerging literary salon, but must reckon with the authenticity of his newfound circle of twentysomething admirers.",
-    "runtime": "96 min",
-    "director": "Kent Jones"
-  },
-  {
     "title": "The Liszt Institute presents: Silent Friend + Q&A",
     "date": "2026-09-07",
     "time": "6:00 PM",
@@ -2247,32 +2143,6 @@
     "description": "Join the Liszt Institute for a very special screening of Ildik\u00f3 Enyedi\u2019s 2025 masterpiece, Silent Friend, followed by a live Q&A with the\u2026",
     "runtime": "145 min",
     "director": "Ildik\u00f3 Enyedi"
-  },
-  {
-    "title": "Chronovisor",
-    "date": "2026-09-07",
-    "time": "6:15 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83868/83883",
-    "city": "NYC",
-    "description": "Inspired by the true story of a \u201cfake\u201d invention, Kevin Walker and Jack Auen\u2019s Chronovisor follows a Columbia professor deep into a Borgesian labyrinth of textual clues pointing to a time-travel device rumored to have been suppressed by the Vatican.",
-    "runtime": "100 min",
-    "director": "Kevin Walker, Jack Auen"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "date": "2026-09-07",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17702/",
-    "city": "London",
-    "description": "The infamous Camp Miasma slasher franchise is getting rebooted yet again. But when the latest movie\u2019s director becomes obsessed with the mysterious, reclusive actress who played the \u201cfinal girl\u201d in the original film, a whole new kind of slasher emerges from the bottom of the lake. Warning: This film contains sequences with flashing or flickering lights that may affect individuals with photosensitivity. Viewer discretion is advised.",
-    "runtime": "112 min",
-    "director": "Jane Schoenbrun"
   },
   {
     "title": "Union County",
@@ -2444,19 +2314,6 @@
     "director": ""
   },
   {
-    "title": "The Odyssey",
-    "date": "2026-09-07",
-    "time": "8:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83068?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Odyssey (2026), Christopher Nolan\u2019s epic adaptation of Homer\u2019s classic, follows Greek hero Odysseus on a perilous journey home after the Trojan War, encountering gods, monsters, and treacherous seas while his family faces turmoil in Ithaca Photo Id may required for 15 certificate films",
-    "runtime": "172 min",
-    "director": "Christopher Nolan"
-  },
-  {
     "title": "FILIPI\u00d1ANA",
     "date": "2026-09-07",
     "time": "8:10 PM",
@@ -2481,110 +2338,6 @@
     "description": "In Kent Jones\u2019s marvelously witty second feature, a once-upon-a-time New York poet (Willem Dafoe) gets an ego boost when he is welcomed into the world of an emerging literary salon, but must reckon with the authenticity of his newfound circle of twentysomething admirers.",
     "runtime": "96 min",
     "director": "Kent Jones"
-  },
-  {
-    "title": "The Incomer",
-    "date": "2026-09-07",
-    "time": "8:20 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83069?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "On an Orkney isle, siblings Isla and Sandy hunt birds and talk to mythical beings while fighting off outsiders. Their lives change when Daniel, an awkward official, arrives to relocate them.",
-    "runtime": "102 min",
-    "director": "Louis Paxton"
-  },
-  {
-    "title": "Hard Boiled",
-    "date": "2026-09-07",
-    "time": "8:25 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627764",
-    "city": "London",
-    "description": "A cop who loses his partner in a shoot-out with gun smugglers goes on a mission to catch them. In order to get closer to the leaders of the ring he joins forces with an undercover cop who's working as a gangster hitman. They use all means of excessive force to find them.",
-    "runtime": "128 min",
-    "director": "John Woo"
-  },
-  {
-    "title": "Lady (15)",
-    "date": "2026-09-07",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/lady",
-    "city": "London",
-    "description": "Samuel Abrahams serves up this delightfully odd mockumentary: an eccentric aristocrat ( Fleabag 's Sian Clifford) ropes a struggling filmmaker into documenting her gloriously mundane life.",
-    "runtime": "95 min",
-    "director": "Samuel Abrahams"
-  },
-  {
-    "title": "BITTER CHRISTMAS",
-    "date": "2026-09-07",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2843817.TcsSection_1299",
-    "city": "London",
-    "description": "Ra\u00fal is a cult filmmaker in the midst of a creative crisis. When tragedy strikes one of his closest collaborators, he draws inspiration from it to write his next film. Little by little, he imagines Elsa, a filmmaker in the midst of writing a script, whose journey begins to mirror his own. The two fi...",
-    "runtime": "111 min",
-    "director": "Pedro Almod\u00f3var"
-  },
-  {
-    "title": "Tony",
-    "date": "2026-09-07",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83070?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-    "runtime": "106 min",
-    "director": "Matt Johnson"
-  },
-  {
-    "title": "Teenage Sex and Death at Camp Miasma",
-    "date": "2026-09-07",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/72950",
-    "city": "London",
-    "description": "After years of slapdash sequels and waning fandom, the Camp Miasma slasher franchise is handed over to an enthusiastic young director for resurrection. But when she visits the original movie\u2019s star (Gillian Anderson, The X-Files, Sex Education), a now-reclusive actress shrouded in mystery, the two women fall into a blood-soaked world of desire, fear, and delirium.",
-    "runtime": "112 min",
-    "director": "Jane Schoenbrun"
-  },
-  {
-    "title": "Bitter Christmas (15) (AD)",
-    "date": "2026-09-07",
-    "time": "8:35 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/parent-baby-screening-bitter-christmas",
-    "city": "London",
-    "description": "Pedro Almod\u00f3var is back with his unique brand of storytelling, setting the stage for the tale of a filmmaker who begins to be a little too heavily inspired by the real lives of those around him.",
-    "runtime": "",
-    "director": "Pedro Almod\u00f3var"
-  },
-  {
-    "title": "Leviticus (15) (AD)",
-    "date": "2026-09-07",
-    "time": "8:35 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/leviticus",
-    "city": "London",
-    "description": "Two teenage boys living in an ultraconservative community in rural Australia are threatened by a violent entity seeking to destroy them in this breath-taking queer horror.",
-    "runtime": "88 min",
-    "director": "Adrian Chiarella"
   },
   {
     "title": "Leviticus",
@@ -2613,84 +2366,6 @@
     "director": "Kevin Walker, Jack Auen"
   },
   {
-    "title": "Fallen Angels",
-    "date": "2026-09-07",
-    "time": "8:45 PM",
-    "format": "4K DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627760",
-    "city": "London",
-    "description": "An assassin goes through obstacles as he attempts to escape his violent lifestyle despite the opposition of his partner, who is secretly attracted to him.",
-    "runtime": "99 min",
-    "director": "Wong Kar Wai"
-  },
-  {
-    "title": "DOGFIGHT",
-    "date": "2026-09-07",
-    "time": "8:45 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/628",
-    "city": "London",
-    "description": "A group of young United States Marines on leave in San Francisco before shipping out for Vietnam take part in a cruel contest known as a \"dogfight,\" in which each man competes to bring the least attractive date to a party. When Eddie Birdlace invites an awkward but kind-hearted waitress and aspiring folk singer named Rose, what begins as a humiliating prank gradually develops into an unexpected connection that forces him to confront his own behaviour.\nAs their night together unfolds, the story moves beyond its provocative premise into a compassionate portrait of two young people on the cusp of adulthood. Balancing romance with the looming shadow of Vietnam, it explores masculinity, vulnerability, and the possibility of personal change with uncommon warmth and emotional honesty.\nIntroduced and programmed by Abby Spira",
-    "runtime": "94 min",
-    "director": "Nancy Savoca"
-  },
-  {
-    "title": "The Death of Robin Hood",
-    "date": "2026-09-07",
-    "time": "8:45 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83072?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "THE DEATH OF ROBIN HOOD is a darker reimagining of the classic Robin Hood tale. Set of its time, the film sees the title character grappling with his past after a life of crime and murder; a battleworn loner who finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-    "runtime": "120 min",
-    "director": "Michael Sarnoski"
-  },
-  {
-    "title": "Late Fame",
-    "date": "2026-09-07",
-    "time": "8:50 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17708/",
-    "city": "London",
-    "description": "The great Willem Dafoe lends his delicate gravitas to the role of Ed Saxberger, a forgotten New York poet who works in the post office. After an eager and flattering young admirer (Edmund Donovan) appears on his doorstep, Saxberger is beckoned into a coterie of twenty-something admirers who anoint him as a rediscovered genius. Intoxicated by the attention \u2014 and by the alluring presence of Gloria, the group\u2019s\u201c tragic heroine\u201d (a sinuous, Kurt Weill\u2013 crooning Greta Lee) \u2014 Saxberger gradually reckons with the authenticity of his newfound poetic circle. This thoughtful, witty second feature from Kent Jones (DIANE), working from a sly and hugely entertaining script by Oscar - nominated screenwriter Samy Burch (MAYDECEMBER), is a wistful yet unromantic look at a lost idea of downtown New York.",
-    "runtime": "96 min",
-    "director": "Kent Jones"
-  },
-  {
-    "title": "TEENAGE SEX AND DEATH AT CAMP MIASMA (ON 35MM)",
-    "date": "2026-09-07",
-    "time": "8:50 PM",
-    "format": "35mm",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2844228.TcsSection_936",
-    "city": "London",
-    "description": "Ja ne Schoenbrun\u2019s blood-soaked sapphic fever dream gets a very special one-off 35mm Monday screening at the Rio. Starring Hannah Einbinder and Gillian Anderson, TEENAGE SEX AND DEATH AT CAMP MIASMA is Schoenbrun\u2019s audacious, sexy and gloriously strange ode to the slasher movie, presented on film fo...",
-    "runtime": "111 min",
-    "director": "Jane Shoenbrun"
-  },
-  {
-    "title": "The Dog Stars",
-    "date": "2026-09-07",
-    "time": "8:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83071?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Set in a post-apocalyptic world in which a virus has wiped out most of humanity, with survivors being terrorized by roaming scavengers called \"Reapers.\" The protagonist is Hig, a pilot who survived the flu that killed everyone he knew, his wife included. He lives in the hangar of a small abandoned airport with his dog, his only neighbor a gun-toting ex-Marine. Hig sometimes heads off in his 1956 Cessna, where he can fish and pretend things are how they used to be. When a random transmission somehow beams through his radio, the voice ignites a hope deep inside him that a better life might exist if he flies a bit further. He risks it all. to chase a possible haven in Grand Junction.",
-    "runtime": "118 min",
-    "director": "Ridley Scott"
-  },
-  {
     "title": "The Samurai and the Prisoner",
     "date": "2026-09-07",
     "time": "8:55 PM",
@@ -2702,32 +2377,6 @@
     "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
     "runtime": "147 min",
     "director": "Kiyoshi Kurosawa"
-  },
-  {
-    "title": "Leviticus",
-    "date": "2026-09-07",
-    "time": "9:00 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17710/",
-    "city": "London",
-    "description": "From the producers of Talk To Me and The Babadook, LEVITICUS is the striking feature debut from writer-director Adrian Chiarella, telling the story of two teenage boys whose forbidden relationship unleashes a terrifying supernatural entity that takes the form of the person they desire most - each other. Blending nerve-shredding suspense with an emotionally powerful love story, the film delivers an unforgettable theatrical experience that lingers long after the credits roll.",
-    "runtime": "85 min",
-    "director": ""
-  },
-  {
-    "title": "Leviticus",
-    "date": "2026-09-07",
-    "time": "9:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83073?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Teenage boys Naim and Ryan strike up an unexpected connection. But when their bond draws the attention of their community, a ritual is performed on them, releasing a violent entity. An entity that takes the form of its victim's truest desire.",
-    "runtime": "88 min",
-    "director": "Adrian Chiarella"
   },
   {
     "title": "Colony",
@@ -2832,19 +2481,6 @@
     "runtime": "93 min",
     "director": "John Waters",
     "city": "LA"
-  },
-  {
-    "title": "Twice Upon A Time",
-    "date": "2026-09-07",
-    "time": "6 PM",
-    "format": "DCP",
-    "venue": "Low Cinema",
-    "venue_short": "LowCinema",
-    "url": "https://lowcinema.com/checkout/b682e983-0712-4223-ba41-c8f3582e2c82/",
-    "city": "NYC",
-    "description": "In a land where dreams are born, the evil Synonamess Botch sets in motion a plan to give humanity non-stop nightmares that threatens the flow of time itself. Only a motley crew of creatures, including an adorable shapeshifter, a floral aspiring actress, a snarky Fairy Godmother, and a mime straight out of the silent film era, can save both the world and people's sleeping habits.",
-    "runtime": "75 min",
-    "director": "Charles Swenson and John Korty"
   },
   {
     "title": "Cuddly Toys (Kansas Bowling In Person)             / The All-American Girl",
@@ -10432,7 +10068,7 @@
     "format": "16mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4078?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "description": "A hapless carnival performer masquerades as the court jester as part of a plot against an evil ruler who has overthrown the rightful king.",
     "runtime": "101 min",
     "director": "",
