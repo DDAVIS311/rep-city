@@ -454,5 +454,23 @@
   "description": "Christopher Nolan brings one of the world's most famous ancient texts to life in this mythic action epic starring Matt Damon, Anne Hathaway, Tom Holland and more.",
   "runtime": "172 min",
   "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/everybody-digs-bill-evans": {
+  "director": "Grant Gee",
+  "description": "This award-winning biographical drama follows the famous jazz pianist and composer Bill Evans ( Anders Danielsen Lie ) through grief, love, genius and the call to music.",
+  "runtime": "102 min",
+  "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/oasis-dont-look-back-in-anger": {
+  "director": "Dylan Southern, Will Lovelace",
+  "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25 , chronicling their journey from Manchester streets to global rock stardom.",
+  "runtime": "123 min",
+  "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/blue-film": {
+  "director": "Elliot Tuttle",
+  "description": "In this drama, an LA camboy visits the home of a mysterious client, only to discover personal connections that go back to his childhood.",
+  "runtime": "85 min",
+  "format": ""
  }
 }
