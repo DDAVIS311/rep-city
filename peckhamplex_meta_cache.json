@@ -370,5 +370,23 @@
   "description": "The new adventure sees the residents of Mossy Bottom Farm looking forward to Halloween - until the clumsy Farmer trashes the Flock's beloved pumpkin patch. When Shaun turns mad scientist to fix the problem, things rapidly spiral out of control, leading to a wild beast roaming the woods.",
   "runtime": "80 min",
   "format": ""
+ },
+ "https://www.peckhamplex.london/film/practical-magic-2": {
+  "director": "Susanne Bier",
+  "description": "A multi generational family of witches, cursed to be loveless for centuries, attempts to break the spell by confronting dark secrets and sacrificing for each other.",
+  "runtime": "130 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/de-gaulle-part-2-liberte": {
+  "director": "Antonin Baudry",
+  "description": "Charles De Gaulle's journey as a French army officer from 1940 to 1945, tracking his evolution toward a political career.",
+  "runtime": "159 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/heart-of-the-beast": {
+  "director": "David Ayer",
+  "description": "After a harrowing plane crash, Special Forces officer James Belmont (Brad Pitt) and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements. From acclaimed filmmaker David Ayer, Heart of the Beast is an intense adventure thriller that explores the unbreakable bond between a man and his best friend as they face their greatest battle yet.",
+  "runtime": "101 min",
+  "format": ""
  }
 }
