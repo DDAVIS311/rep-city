@@ -514,5 +514,17 @@
   "description": "A forgotten postman’s poetry collection finds new admirers in a story about how the mystique of the past filters into the present.",
   "runtime": "96 min",
   "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/queen-at-sea": {
+  "director": "Lance Hammer",
+  "description": "This English drama explores the harrowing reality of autonomy and independence in the face of dementia, with Juliette Binoche and Anna Calder-Marshall .",
+  "runtime": "121 min",
+  "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/whisper-of-the-heart-subtitled": {
+  "director": "Yoshifumi Kondō",
+  "description": "Two kids and a magical cat embark on a journey of self-discovery, in this coming-of-age fantasy masterpiece from legendary Studio Ghibli.",
+  "runtime": "111 min",
+  "format": ""
  }
 }
