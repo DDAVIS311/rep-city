@@ -1,5 +1,7 @@
+# Runtime deps for the Vercel serverless function ONLY.
+# The scrapers (requests / beautifulsoup4 / playwright) run on GitHub Actions with
+# their own pip install (see .github/workflows/scrape.yml) — they must NOT be listed
+# here, or @vercel/python bundles them (playwright alone is ~150MB) into every deploy,
+# ballooning Function Storage even with zero traffic.
 flask
-requests
-beautifulsoup4
-playwright
 upstash-redis
