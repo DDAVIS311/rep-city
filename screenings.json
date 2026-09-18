@@ -2041,19 +2041,6 @@
     "director": "Ben Rivers"
   },
   {
-    "title": "KWAIDAN",
-    "date": "2026-09-14",
-    "time": "12:15 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/kwaidan-2026",
-    "city": "NYC",
-    "description": "Four ghost stories by American expatriate Lafcadio Hearn (1850-1904): When he adds a second wife, Rentar\u00f4 Mikuni finds a skeleton at the feast; woodcutter Tatsuya Nakadai (star of Kobayashi\u2019s Harakiri and Kurosawa\u2019s Yojimbo and Ran) meets a strange woman in the snow; a blind biwa player gives a command performance for a spirit; an apparition appears in a cup of tea. Kobayashi\u2019s first color film, with an eerie score by the great T\u014dru Takemitsu (Ran, Harakiri, Teshigahara\u2019s Woman in the Dunes, etc.).",
-    "runtime": "183 min",
-    "director": "Masaki Kobayashi"
-  },
-  {
     "title": "FILIPI\u00d1ANA",
     "date": "2026-09-14",
     "time": "12:20 PM",
@@ -2067,30 +2054,56 @@
     "director": ""
   },
   {
-    "title": "BARBARA FOREVER",
+    "title": "MY BROTHER'S WEDDING",
     "date": "2026-09-14",
-    "time": "12:45 PM",
+    "time": "12:30 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/barbara-forever",
+    "url": "https://filmforum.org/film/my-brothers-wedding",
     "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
+    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
+    "runtime": "81 min",
+    "director": "Charles Burnett"
   },
   {
-    "title": "LATE FAME",
+    "title": "KWAIDAN",
+    "date": "2026-09-14",
+    "time": "12:40 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/kwaidan-2026",
+    "city": "NYC",
+    "description": "Four ghost stories by American expatriate Lafcadio Hearn (1850-1904): When he adds a second wife, Rentar\u00f4 Mikuni finds a skeleton at the feast; woodcutter Tatsuya Nakadai (star of Kobayashi\u2019s Harakiri and Kurosawa\u2019s Yojimbo and Ran) meets a strange woman in the snow; a blind biwa player gives a command performance for a spirit; an apparition appears in a cup of tea. Kobayashi\u2019s first color film, with an eerie score by the great T\u014dru Takemitsu (Ran, Harakiri, Teshigahara\u2019s Woman in the Dunes, etc.).",
+    "runtime": "183 min",
+    "director": "Masaki Kobayashi"
+  },
+  {
+    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
     "date": "2026-09-14",
     "time": "1:00 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/late-fame",
+    "url": "https://filmforum.org/film/you-had-to-be-there",
     "city": "NYC",
-    "description": "Willem Dafoe is Ed Saxberger, a postal worker whose former life as a downtown poet in late-70s New York is rediscovered by a young admirer (Donovan) and his \u201cEnthusiasm Society,\u201d a group of 20-somethings with a comically romanticized sense of the past. In the company of his new friends, including the mysterious and mercurial Gloria (Lee of PAST LIVES), Ed has the uncanny feeling of merging with his younger self. Directed by Kent Jones (DIANE) from a witty, razor-sharp script by Samy Burch (MAY DECEMBER), LATE FAME\u202fis a funny, lively, poignant, and occasionally haunting New York story.",
-    "runtime": "96 min",
-    "director": "Kent Jones"
+    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
+    "runtime": "98 min",
+    "director": ""
+  },
+  {
+    "title": "MY BROTHER'S WEDDING",
+    "date": "2026-09-14",
+    "time": "2:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/my-brothers-wedding",
+    "city": "NYC",
+    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
+    "runtime": "81 min",
+    "director": "Charles Burnett"
   },
   {
     "title": "FILIPI\u00d1ANA",
@@ -2106,9 +2119,35 @@
     "director": ""
   },
   {
+    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
+    "date": "2026-09-14",
+    "time": "3:15 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/you-had-to-be-there",
+    "city": "NYC",
+    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
+    "runtime": "98 min",
+    "director": ""
+  },
+  {
+    "title": "MY BROTHER'S WEDDING",
+    "date": "2026-09-14",
+    "time": "4:10 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/my-brothers-wedding",
+    "city": "NYC",
+    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
+    "runtime": "81 min",
+    "director": "Charles Burnett"
+  },
+  {
     "title": "BARBARA FOREVER",
     "date": "2026-09-14",
-    "time": "3:10 PM",
+    "time": "4:40 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -2117,32 +2156,6 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "LATE FAME",
-    "date": "2026-09-14",
-    "time": "3:15 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/late-fame",
-    "city": "NYC",
-    "description": "Willem Dafoe is Ed Saxberger, a postal worker whose former life as a downtown poet in late-70s New York is rediscovered by a young admirer (Donovan) and his \u201cEnthusiasm Society,\u201d a group of 20-somethings with a comically romanticized sense of the past. In the company of his new friends, including the mysterious and mercurial Gloria (Lee of PAST LIVES), Ed has the uncanny feeling of merging with his younger self. Directed by Kent Jones (DIANE) from a witty, razor-sharp script by Samy Burch (MAY DECEMBER), LATE FAME\u202fis a funny, lively, poignant, and occasionally haunting New York story.",
-    "runtime": "96 min",
-    "director": "Kent Jones"
-  },
-  {
-    "title": "KWAIDAN",
-    "date": "2026-09-14",
-    "time": "3:50 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/kwaidan-2026",
-    "city": "NYC",
-    "description": "Four ghost stories by American expatriate Lafcadio Hearn (1850-1904): When he adds a second wife, Rentar\u00f4 Mikuni finds a skeleton at the feast; woodcutter Tatsuya Nakadai (star of Kobayashi\u2019s Harakiri and Kurosawa\u2019s Yojimbo and Ran) meets a strange woman in the snow; a blind biwa player gives a command performance for a spirit; an apparition appears in a cup of tea. Kobayashi\u2019s first color film, with an eerie score by the great T\u014dru Takemitsu (Ran, Harakiri, Teshigahara\u2019s Woman in the Dunes, etc.).",
-    "runtime": "183 min",
-    "director": "Masaki Kobayashi"
   },
   {
     "title": "FILIPI\u00d1ANA",
@@ -2158,22 +2171,9 @@
     "director": ""
   },
   {
-    "title": "BARBARA FOREVER",
-    "date": "2026-09-14",
-    "time": "5:30 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/barbara-forever",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
     "date": "2026-09-14",
-    "time": "6:45 PM",
+    "time": "5:30 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -2182,6 +2182,32 @@
     "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
     "runtime": "98 min",
     "director": ""
+  },
+  {
+    "title": "MY BROTHER'S WEDDING",
+    "date": "2026-09-14",
+    "time": "6:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/my-brothers-wedding",
+    "city": "NYC",
+    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
+    "runtime": "81 min",
+    "director": "Charles Burnett"
+  },
+  {
+    "title": "KWAIDAN",
+    "date": "2026-09-14",
+    "time": "6:50 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/kwaidan-2026",
+    "city": "NYC",
+    "description": "Four ghost stories by American expatriate Lafcadio Hearn (1850-1904): When he adds a second wife, Rentar\u00f4 Mikuni finds a skeleton at the feast; woodcutter Tatsuya Nakadai (star of Kobayashi\u2019s Harakiri and Kurosawa\u2019s Yojimbo and Ran) meets a strange woman in the snow; a blind biwa player gives a command performance for a spirit; an apparition appears in a cup of tea. Kobayashi\u2019s first color film, with an eerie score by the great T\u014dru Takemitsu (Ran, Harakiri, Teshigahara\u2019s Woman in the Dunes, etc.).",
+    "runtime": "183 min",
+    "director": "Masaki Kobayashi"
   },
   {
     "title": "FILIPI\u00d1ANA",
@@ -2197,29 +2223,16 @@
     "director": ""
   },
   {
-    "title": "KWAIDAN",
-    "date": "2026-09-14",
-    "time": "7:30 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/kwaidan-2026",
-    "city": "NYC",
-    "description": "Four ghost stories by American expatriate Lafcadio Hearn (1850-1904): When he adds a second wife, Rentar\u00f4 Mikuni finds a skeleton at the feast; woodcutter Tatsuya Nakadai (star of Kobayashi\u2019s Harakiri and Kurosawa\u2019s Yojimbo and Ran) meets a strange woman in the snow; a blind biwa player gives a command performance for a spirit; an apparition appears in a cup of tea. Kobayashi\u2019s first color film, with an eerie score by the great T\u014dru Takemitsu (Ran, Harakiri, Teshigahara\u2019s Woman in the Dunes, etc.).",
-    "runtime": "183 min",
-    "director": "Masaki Kobayashi"
-  },
-  {
-    "title": "BARBARA FOREVER",
+    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
     "date": "2026-09-14",
     "time": "7:45 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/barbara-forever",
+    "url": "https://filmforum.org/film/you-had-to-be-there",
     "city": "NYC",
-    "description": "",
-    "runtime": "",
+    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
+    "runtime": "98 min",
     "director": ""
   },
   {
@@ -2249,22 +2262,22 @@
     "director": "Daniele Rugo"
   },
   {
-    "title": "FILIPI\u00d1ANA",
+    "title": "MY BROTHER'S WEDDING",
     "date": "2026-09-14",
-    "time": "9:10 PM",
+    "time": "8:40 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/filipinana",
+    "url": "https://filmforum.org/film/my-brothers-wedding",
     "city": "NYC",
-    "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
-    "runtime": "100 min",
-    "director": ""
+    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
+    "runtime": "81 min",
+    "director": "Charles Burnett"
   },
   {
     "title": "LATE FAME",
     "date": "2026-09-14",
-    "time": "9:15 PM",
+    "time": "9:10 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -2303,7 +2316,7 @@
   {
     "title": "KWAIDAN",
     "date": "2026-09-15",
-    "time": "12:40 PM",
+    "time": "12:50 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -2312,19 +2325,6 @@
     "description": "Four ghost stories by American expatriate Lafcadio Hearn (1850-1904): When he adds a second wife, Rentar\u00f4 Mikuni finds a skeleton at the feast; woodcutter Tatsuya Nakadai (star of Kobayashi\u2019s Harakiri and Kurosawa\u2019s Yojimbo and Ran) meets a strange woman in the snow; a blind biwa player gives a command performance for a spirit; an apparition appears in a cup of tea. Kobayashi\u2019s first color film, with an eerie score by the great T\u014dru Takemitsu (Ran, Harakiri, Teshigahara\u2019s Woman in the Dunes, etc.).",
     "runtime": "183 min",
     "director": "Masaki Kobayashi"
-  },
-  {
-    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
-    "date": "2026-09-15",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/you-had-to-be-there",
-    "city": "NYC",
-    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
-    "runtime": "98 min",
-    "director": ""
   },
   {
     "title": "MY BROTHER'S WEDDING",
@@ -2379,19 +2379,6 @@
     "director": ""
   },
   {
-    "title": "MY BROTHER'S WEDDING",
-    "date": "2026-09-15",
-    "time": "4:10 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/my-brothers-wedding",
-    "city": "NYC",
-    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
-    "runtime": "81 min",
-    "director": "Charles Burnett"
-  },
-  {
     "title": "BARBARA FOREVER",
     "date": "2026-09-15",
     "time": "4:40 PM",
@@ -2418,6 +2405,19 @@
     "director": ""
   },
   {
+    "title": "MY BROTHER'S WEDDING",
+    "date": "2026-09-15",
+    "time": "4:50 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/my-brothers-wedding",
+    "city": "NYC",
+    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
+    "runtime": "81 min",
+    "director": "Charles Burnett"
+  },
+  {
     "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
     "date": "2026-09-15",
     "time": "5:30 PM",
@@ -2433,7 +2433,7 @@
   {
     "title": "MY BROTHER'S WEDDING",
     "date": "2026-09-15",
-    "time": "6:00 PM",
+    "time": "6:40 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -2485,7 +2485,7 @@
   {
     "title": "MY BROTHER'S WEDDING",
     "date": "2026-09-15",
-    "time": "8:40 PM",
+    "time": "8:30 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -2509,6 +2509,19 @@
     "director": "Kent Jones"
   },
   {
+    "title": "THE CAMERAMAN",
+    "date": "2026-09-16",
+    "time": "11:00 AM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-cameraman-ffjr-2026-fall",
+    "city": "NYC",
+    "description": "Neophyte newsreel cameraman Buster loses his swimsuit at Coney Island and his heart on the sidewalks of New York, lensing Mott Street Tong Wars while being upstaged by monkey great, Josephine.",
+    "runtime": "76 min",
+    "director": "Edward Sedgwick"
+  },
+  {
     "title": "FILIPI\u00d1ANA",
     "date": "2026-09-16",
     "time": "12:20 PM",
@@ -2524,7 +2537,7 @@
   {
     "title": "MY BROTHER'S WEDDING",
     "date": "2026-09-16",
-    "time": "12:30 PM",
+    "time": "12:50 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -2548,17 +2561,17 @@
     "director": "Masaki Kobayashi"
   },
   {
-    "title": "MY BROTHER'S WEDDING",
+    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
     "date": "2026-09-16",
-    "time": "2:20 PM",
+    "time": "2:30 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/my-brothers-wedding",
+    "url": "https://filmforum.org/film/you-had-to-be-there",
     "city": "NYC",
-    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
-    "runtime": "81 min",
-    "director": "Charles Burnett"
+    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
+    "runtime": "98 min",
+    "director": ""
   },
   {
     "title": "FILIPI\u00d1ANA",
@@ -2587,17 +2600,30 @@
     "director": "Andrzej \u017bu\u0142awski"
   },
   {
-    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
+    "title": "MY BROTHER'S WEDDING",
     "date": "2026-09-16",
-    "time": "3:15 PM",
+    "time": "2:40 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/you-had-to-be-there",
+    "url": "https://filmforum.org/film/my-brothers-wedding",
     "city": "NYC",
-    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
-    "runtime": "98 min",
-    "director": ""
+    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
+    "runtime": "81 min",
+    "director": "Charles Burnett"
+  },
+  {
+    "title": "MY BROTHER'S WEDDING",
+    "date": "2026-09-16",
+    "time": "4:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/my-brothers-wedding",
+    "city": "NYC",
+    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
+    "runtime": "81 min",
+    "director": "Charles Burnett"
   },
   {
     "title": "BARBARA FOREVER",
@@ -2626,22 +2652,9 @@
     "director": ""
   },
   {
-    "title": "MY BROTHER'S WEDDING",
-    "date": "2026-09-16",
-    "time": "4:50 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/my-brothers-wedding",
-    "city": "NYC",
-    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
-    "runtime": "81 min",
-    "director": "Charles Burnett"
-  },
-  {
     "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
     "date": "2026-09-16",
-    "time": "5:30 PM",
+    "time": "5:20 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -2654,7 +2667,7 @@
   {
     "title": "MY BROTHER'S WEDDING",
     "date": "2026-09-16",
-    "time": "6:40 PM",
+    "time": "6:20 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -2693,7 +2706,7 @@
   {
     "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
     "date": "2026-09-16",
-    "time": "7:45 PM",
+    "time": "7:40 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -2704,17 +2717,17 @@
     "director": ""
   },
   {
-    "title": "MY BROTHER'S WEDDING",
+    "title": "WILD STYLE",
     "date": "2026-09-16",
-    "time": "8:30 PM",
+    "time": "8:10 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/my-brothers-wedding",
+    "url": "https://filmforum.org/film/wild-style",
     "city": "NYC",
-    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
-    "runtime": "81 min",
-    "director": "Charles Burnett"
+    "description": "While Lee\u2019s masked mystery tagger ZORRO tries to get back his main flame Rose (Pink), reporter Patti Astor goes way uptown to the South Bronx to blow up the whole scene as Fab 5 Freddy tries to get rich. Joyous, raucous, explosive, premonitory, and with not one single professional actor, WILD STYLE is the movie that had Hollywood see $$$$. From ZEPHYR\u2019s animated graf titles rivaling Saul Bass, to the epic park jam climax at the Williamsburg Bridge amphitheater with Rammellzee in a trenchcoat waving around a sawed-off, there\u2019s scene after indelible scene: Chief Rocker Busy Bee rocking the Dixie Club while white-gloved b-boys pop and lock, the Cold Crush Brothers and the Fantastic 5 battling on the b-ball court, Grandmaster Flash on the ones and twos in his kitchen, Double Trouble freestyling on a stoop as a turtlenecked kid looks on, and graf galore\u2014whole-cars and murals by DONDI, DAZE and CRASH and a funky-ass soundtrack by FAB and Blondie leader Chris Stein, spun throughout.",
+    "runtime": "",
+    "director": "Charlie Ahearn"
   },
   {
     "title": "LATE FAME",
@@ -2730,82 +2743,17 @@
     "director": "Kent Jones"
   },
   {
-    "title": "2026 Sundance Film Festival Short Film Tour",
+    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
     "date": "2026-09-17",
-    "time": "10:35 AM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578950~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Curated from this year\u2019s festival, this selection of six standout shorts from around the world includes Jury Award winners THE BOYS AND THE BEES (Nonfiction), CRISIS ACTOR (US Fiction) and LIVING WITHOUT A VISIONARY (Animation) in an eclectic showcase of truly independent filmmaking.",
-    "runtime": "100 min",
-    "director": "Arielle C. Knight, Lily Platt, Stephen P. Neary, Gabriela Ortega, Anooya Swamy, Malin Barr"
-  },
-  {
-    "title": "Maddie's Secret",
-    "date": "2026-09-17",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578923~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "In his directorial debut, comedian, writer, and actor John Early stars as a plucky dishwasher who leaps to viral superstardom at a trendy food content-creation company. Maddie seems to have everything\u2014adoring husband (Eric Rahill), ride-or-die bestie (Kate Berlant) and a cupboard full of ethically-sourced chili crisp\u2014but mounting pressures threaten to reawaken a hidden secret from her troubled past. A pitch-perfect blend of satire, melodrama, daring tonal shifts and intimate performances, MADDIE\u2019S SECRET announces a bold new cinematic voice. Official selection: TIFF, New Directors New Films \u201cSoars on the fuel of its open-hearted sincerity\u2026it\u2019s hard not to be beguiled.\u201d \u2013 RogerEbert.com Previous in-person events:",
-    "runtime": "100 min",
-    "director": "John Early"
-  },
-  {
-    "title": "THE CAMERAMAN",
-    "date": "2026-09-17",
-    "time": "11:00 AM",
+    "time": "12:15 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/the-cameraman-ffjr-2026-fall",
+    "url": "https://filmforum.org/film/you-had-to-be-there",
     "city": "NYC",
-    "description": "Neophyte newsreel cameraman Buster loses his swimsuit at Coney Island and his heart on the sidewalks of New York, lensing Mott Street Tong Wars while being upstaged by monkey great, Josephine.",
-    "runtime": "76 min",
-    "director": "Edward Sedgwick"
-  },
-  {
-    "title": "Union County",
-    "date": "2026-09-17",
-    "time": "11:05 AM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578922~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Sneak preview + Q&A with dir. Adam Meeks & stars Will Poulter, Noah Centineo & Annette Deao Thu Aug 13 at 7:00 Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao, moderated by Danny Strong, Fri Aug 14 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sat Aug 15 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sun Aug 16 at 2:00 show Will Poulter and Noah Centineo deliver pitch-perfect performances as brothers Cody and Jack Parsons, each navigating a court-mandated drug rehabilitation program in a pocket of rural Ohio hit hard by the opioid epidemic. Provided with hope for the first time since their struggles began and with the support of a tireless counselor (Annette Deao), the brothers work toward a brighter, sober future. Additional showtimes for Aug 14-20 to be announced.",
-    "runtime": "97 min",
-    "director": "Adam Meeks"
-  },
-  {
-    "title": "A Clockwork Orange",
-    "date": "2026-09-17",
-    "time": "11:30 AM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578963~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "\u201cA merciless, demoniac satire in the future imperfect. It posits a world somehow gone berserk, in which there are no real alternatives, only degrees of madness. Kubrick makes the whole thing (as he did in Dr. Strangelove ) chillingly and often hilariously believable\u2026. Malcolm McDowell is sensational. His performance has the range and dynamism that signal the arrival of a new superstar. As for Director Kubrick, his work is stylistically almost flawless. If there was any doubt after 2001 , A Clockwork Orange confirms Kubrick as our most audacious film maker. There have been many visions of a malign future on film ( 1984 , Things to Come , Fahrenheit 451 ) but none quite so unsparing and so ruthlessly witty.\u201d \u2013 Jay Cocks, TIME",
-    "runtime": "137 min",
-    "director": "Stanley Kubrick"
-  },
-  {
-    "title": "Stop Making Sense",
-    "date": "2026-09-17",
-    "time": "11:45 AM",
-    "format": "4K DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578973~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Considered by critics as the greatest concert film of all time, STOP MAKING SENSE stars core band members David Byrne, Tina Weymouth, Chris Frantz, and Jerry Harrison along with Bernie Worrell, Alex Weir, Steve Scales, Lynn Mabry and Edna Holt. The live performance was shot over the course of three nights at Hollywood\u2019s Pantages Theater in December of 1983 and features Talking Heads\u2019 most memorable songs.",
-    "runtime": "88 min",
-    "director": "Jonathan Demme"
+    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
+    "runtime": "98 min",
+    "director": ""
   },
   {
     "title": "FILIPI\u00d1ANA",
@@ -2823,7 +2771,7 @@
   {
     "title": "MY BROTHER'S WEDDING",
     "date": "2026-09-17",
-    "time": "12:50 PM",
+    "time": "12:30 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -2836,7 +2784,7 @@
   {
     "title": "KWAIDAN",
     "date": "2026-09-17",
-    "time": "12:50 PM",
+    "time": "12:40 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -2847,69 +2795,17 @@
     "director": "Masaki Kobayashi"
   },
   {
-    "title": "Gandahar",
+    "title": "MY BROTHER'S WEDDING",
     "date": "2026-09-17",
-    "time": "12:55 PM",
+    "time": "2:20 PM",
     "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578924~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/my-brothers-wedding",
     "city": "NYC",
-    "description": "An entire civilization must confront its destiny in alternative-animation pioneer Ren\u00e9 Laloux\u2019s final feature, a cult classic of mind-bending science fiction. In a distant world, a merciless army of automata attacks Gandahar, turning its peace-loving people to stone. Hoping to discover the source of these Men of Metal, a council of matriarchs enlists the brave yet inexperienced warrior Sylvain (Pierre-Marie Escourro), who, while journeying through his planet\u2019s outer regions, teams up with the Deformed, a race cast out from Gandahar after failed science experiments rendered them mutants. Soon, Sylvain learns that a gargantuan brain called Metamorphis (Georges Wilson) is responsible for his utopian society\u2019s strife and\u2014together with the beautiful Airelle (Catherine Chevallier)\u2014travels through time to defeat him, in the process risking their lives and Gandahar\u2019s very existence. Featuring stunningly surreal creatures and wondrously bizarre environments designed by renowned comic-book artist Caza, Gandahar is a visceral, visionary head-trip in which animation opens a gateway to the furthest reaches of the imagination.",
-    "runtime": "83 min",
-    "director": "Ren\u00e9 Laloux"
-  },
-  {
-    "title": "Serpent's Path",
-    "date": "2026-09-17",
-    "time": "1:20 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578429~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "A grieving father and a mysterious psychiatrist embark on a ruthless quest for vengeance after his daughter is murdered. As they abduct and interrogate suspects across Paris, the line between justice and obsession begins to blur, revealing a web of corruption and hidden truths that threatens to consume them both.",
-    "runtime": "112 min",
-    "director": "Kiyoshi Kurasawa"
-  },
-  {
-    "title": "The Sun Never Sets",
-    "date": "2026-09-17",
-    "time": "1:25 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578927~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Sat, Aug 22 at 2:30pm: Sneak Preview + Q&A with stars Dakota Fanning and Cory Michael Smith Free-spirited Wendy (Dakota Fanning) is at a crossroads in her relationship with older divorced dad Jack (Jake Johnson, New Girl ) that is only further complicated when an old flame (Cory Michael Smith, Sentimental Value ) re-enters her life. Set in perpetually sunny summertime Anchorage and featuring a career-best performance by Fanning, THE SUN NEVER SETS is a funny and endearing return to form for mumblecore auteur Joe Swanberg. Regular engagement begins Fri, Sep 4. Showtimes to be announced. Official selection: SXSW \u201cMarks a confident return for Swanberg, bolstered by a stellar performance from Fanning and a thoughtful, often painful exploration of love, growth, and the realization that fulfillment doesn\u2019t always come from another person.\u201d \u2013 Film Inquiry",
-    "runtime": "102 min",
-    "director": "Joe Swanberg"
-  },
-  {
-    "title": "The Kingdom",
-    "date": "2026-09-17",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578926~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "On the pale, sun soaked island of Corsica in the summer of 1995, the teenage Lesia is plucked from her sheltered life, and taken to a remote villa where her fugitive mob boss father, Pierre-Paul, is hiding out. Pierre-Paul is a menacing figure, a near stranger to Lesia, and at first she feels trapped by the secrecy and danger which defines his life. But when an assassination attempt sets a chain of bloody vendettas in motion, Lesia and Pierre-Paul are forced to go on the run together. As they flee, Lesia becomes closer than ever with her father, and as they wade together through the violent underworld which he is entrenched in, his devotion to revenge begins to rub off on her. THE KINGDOM is a story of blood: blood spilled, blood sought, and the blood which binds us. Official selection: Un Certain Regard, Cannes Film Festival",
-    "runtime": "111 min",
-    "director": "Julien Colonna"
-  },
-  {
-    "title": "Who Moves America",
-    "date": "2026-09-17",
-    "time": "2:25 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578925~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Wednesday, September 9: Q&A w/dir. Yael Bridge, prod. Jeremy Flood and UPS Teamster Antoine Andrews moderated by journalist Alex Press after the 6:30 show! Saturday, September 12: Q&A w/dir. Yael Bridge and prods. Yoni Golijov & Mars Verrone, moderated by Laura Poitras, after the 6:55 show! Sunday, September 13: Q&A w/dir. Yael Bridge, and UPS Teamster Antonio Rosario, moderated by Stephen Maing, after 4:35 show! Monday, September 14: Q&A w/dir. Yael Bridge, city council member Tiffany Cab\u00e1n, UPS Teamster Antonio Rosario and Amazon Labor Union IBT 1 president Connor Spence after 6:40 show! In an era of deepening inequality, UPS Teamsters stand on the brink of a historic strike. As the deadline looms, WHO MOVES AMERICA shadows UPS workers in New York, Kentucky, California and across the country as they navigate the challenges of building solidarity with their 340,000 co-workers. Opens Wed, Sep 9, more showtimes to be announced.",
-    "runtime": "87 min",
-    "director": "Yael Bridge"
+    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
+    "runtime": "81 min",
+    "director": "Charles Burnett"
   },
   {
     "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
@@ -2940,85 +2836,7 @@
   {
     "title": "MY BROTHER'S WEDDING",
     "date": "2026-09-17",
-    "time": "2:40 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/my-brothers-wedding",
-    "city": "NYC",
-    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
-    "runtime": "81 min",
-    "director": "Charles Burnett"
-  },
-  {
-    "title": "2026 Sundance Film Festival Short Film Tour",
-    "date": "2026-09-17",
-    "time": "2:55 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578951~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Curated from this year\u2019s festival, this selection of six standout shorts from around the world includes Jury Award winners THE BOYS AND THE BEES (Nonfiction), CRISIS ACTOR (US Fiction) and LIVING WITHOUT A VISIONARY (Animation) in an eclectic showcase of truly independent filmmaking.",
-    "runtime": "100 min",
-    "director": "Arielle C. Knight, Lily Platt, Stephen P. Neary, Gabriela Ortega, Anooya Swamy, Malin Barr"
-  },
-  {
-    "title": "The Samurai and the Prisoner",
-    "date": "2026-09-17",
-    "time": "3:50 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578930~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "When Lord Murashige Araki (Masahiro Motoki) rises up against the tyrannical Nobunaga Oda (Masaki Suda), he finds himself besieged within the walls of his own castle. Isolated, he is confronted with a series of mysterious crimes that shatter the fragile order of his court, plunging the fortress into fear and suspicion. With Oda\u2019s army closing in and a traitor hiding among his ranks, Murashige is forced into an uneasy alliance with Kanbei Kuroda (Masaki Suda), a brilliant yet dangerous strategist held prisoner in the dungeon. Helped by his wife Chiyoho (Yuriko Yoshitaka) and his most loyal generals, Murashige must uncover the truth before the castle falls. \u201cKurosawa has made one of his best films, a work that feels a bit like Agatha Christie, a bit like Shakespeare, and even a bit like Samurai Columbo.\u201d \u2013 RogerEbert.com",
-    "runtime": "147 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
-    "title": "Serpent's Path",
-    "date": "2026-09-17",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578444~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "A grieving father and a mysterious psychiatrist embark on a ruthless quest for vengeance after his daughter is murdered. As they abduct and interrogate suspects across Paris, the line between justice and obsession begins to blur, revealing a web of corruption and hidden truths that threatens to consume them both.",
-    "runtime": "112 min",
-    "director": "Kiyoshi Kurasawa"
-  },
-  {
-    "title": "Who Moves America",
-    "date": "2026-09-17",
-    "time": "4:15 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578928~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Wednesday, September 9: Q&A w/dir. Yael Bridge, prod. Jeremy Flood and UPS Teamster Antoine Andrews moderated by journalist Alex Press after the 6:30 show! Saturday, September 12: Q&A w/dir. Yael Bridge and prods. Yoni Golijov & Mars Verrone, moderated by Laura Poitras, after the 6:55 show! Sunday, September 13: Q&A w/dir. Yael Bridge, and UPS Teamster Antonio Rosario, moderated by Stephen Maing, after 4:35 show! Monday, September 14: Q&A w/dir. Yael Bridge, city council member Tiffany Cab\u00e1n, UPS Teamster Antonio Rosario and Amazon Labor Union IBT 1 president Connor Spence after 6:40 show! In an era of deepening inequality, UPS Teamsters stand on the brink of a historic strike. As the deadline looms, WHO MOVES AMERICA shadows UPS workers in New York, Kentucky, California and across the country as they navigate the challenges of building solidarity with their 340,000 co-workers. Opens Wed, Sep 9, more showtimes to be announced.",
-    "runtime": "87 min",
-    "director": "Yael Bridge"
-  },
-  {
-    "title": "Heathers",
-    "date": "2026-09-17",
-    "time": "4:30 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578929~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "NEW 4K RESTORATION \u201cWhat is your damage, Heather?\u201d Cynical, surreal and viciously funny, this dark high school comedy remains one of the most influential teen movies ever. Iconic performances from 80s luminaries Winona Ryder, Shannen Doherty and Christian Slater, and a cornucopia of gleefully nasty putdowns ( \u201cLick it up baby. Lick. It. Up.\u201d ) mask an earnest plea for empathy and kindess at the center of HEATHERS\u2019 black heart.",
-    "runtime": "103 min",
-    "director": "Michael Lehmann"
-  },
-  {
-    "title": "MY BROTHER'S WEDDING",
-    "date": "2026-09-17",
-    "time": "4:30 PM",
+    "time": "4:10 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -3042,6 +2860,19 @@
     "director": ""
   },
   {
+    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
+    "date": "2026-09-17",
+    "time": "4:45 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/you-had-to-be-there",
+    "city": "NYC",
+    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
+    "runtime": "98 min",
+    "director": ""
+  },
+  {
     "title": "FILIPI\u00d1ANA",
     "date": "2026-09-17",
     "time": "4:45 PM",
@@ -3055,48 +2886,9 @@
     "director": ""
   },
   {
-    "title": "Gandahar",
-    "date": "2026-09-17",
-    "time": "4:55 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578931~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "An entire civilization must confront its destiny in alternative-animation pioneer Ren\u00e9 Laloux\u2019s final feature, a cult classic of mind-bending science fiction. In a distant world, a merciless army of automata attacks Gandahar, turning its peace-loving people to stone. Hoping to discover the source of these Men of Metal, a council of matriarchs enlists the brave yet inexperienced warrior Sylvain (Pierre-Marie Escourro), who, while journeying through his planet\u2019s outer regions, teams up with the Deformed, a race cast out from Gandahar after failed science experiments rendered them mutants. Soon, Sylvain learns that a gargantuan brain called Metamorphis (Georges Wilson) is responsible for his utopian society\u2019s strife and\u2014together with the beautiful Airelle (Catherine Chevallier)\u2014travels through time to defeat him, in the process risking their lives and Gandahar\u2019s very existence. Featuring stunningly surreal creatures and wondrously bizarre environments designed by renowned comic-book artist Caza, Gandahar is a visceral, visionary head-trip in which animation opens a gateway to the furthest reaches of the imagination.",
-    "runtime": "83 min",
-    "director": "Ren\u00e9 Laloux"
-  },
-  {
-    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
-    "date": "2026-09-17",
-    "time": "5:20 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/you-had-to-be-there",
-    "city": "NYC",
-    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
-    "runtime": "98 min",
-    "director": ""
-  },
-  {
-    "title": "Onslaught",
-    "date": "2026-09-17",
-    "time": "5:30 PM",
-    "format": "35mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4014?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "description": "When a rogue squad of genetically engineered super soldiers break loose in the desert, a badass Army sniper must unleash hell to protect her young daughter.",
-    "runtime": "92 min",
-    "director": "",
-    "city": "LA"
-  },
-  {
     "title": "MY BROTHER'S WEDDING",
     "date": "2026-09-17",
-    "time": "6:20 PM",
+    "time": "6:00 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -3105,19 +2897,6 @@
     "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
     "runtime": "81 min",
     "director": "Charles Burnett"
-  },
-  {
-    "title": "Serpent's Path",
-    "date": "2026-09-17",
-    "time": "6:40 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578451~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "A grieving father and a mysterious psychiatrist embark on a ruthless quest for vengeance after his daughter is murdered. As they abduct and interrogate suspects across Paris, the line between justice and obsession begins to blur, revealing a web of corruption and hidden truths that threatens to consume them both.",
-    "runtime": "112 min",
-    "director": "Kiyoshi Kurasawa"
   },
   {
     "title": "KWAIDAN",
@@ -3133,32 +2912,6 @@
     "director": "Masaki Kobayashi"
   },
   {
-    "title": "THERE'S ALWAYS TOMORROW",
-    "date": "2026-09-17",
-    "time": "7:00 PM",
-    "format": "35mm",
-    "venue": "Los Feliz Theatre",
-    "venue_short": "LosFeliz",
-    "url": "https://www.americancinematheque.com/now-showing/theres-always-tomorrow-09-17-2026/",
-    "description": "When a toy manufacturer feels ignored and unappreciated by his wife and children, he begins to rekindle a past love when a former employee comes back into his life. Starring Barbara Stanwyck, Fred MacMurray and Joan Bennett.",
-    "runtime": "84 min",
-    "director": "Douglas Sirk",
-    "city": "LA"
-  },
-  {
-    "title": "The Sun Never Sets",
-    "date": "2026-09-17",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578933~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Sat, Aug 22 at 2:30pm: Sneak Preview + Q&A with stars Dakota Fanning and Cory Michael Smith Free-spirited Wendy (Dakota Fanning) is at a crossroads in her relationship with older divorced dad Jack (Jake Johnson, New Girl ) that is only further complicated when an old flame (Cory Michael Smith, Sentimental Value ) re-enters her life. Set in perpetually sunny summertime Anchorage and featuring a career-best performance by Fanning, THE SUN NEVER SETS is a funny and endearing return to form for mumblecore auteur Joe Swanberg. Regular engagement begins Fri, Sep 4. Showtimes to be announced. Official selection: SXSW \u201cMarks a confident return for Swanberg, bolstered by a stellar performance from Fanning and a thoughtful, often painful exploration of love, growth, and the realization that fulfillment doesn\u2019t always come from another person.\u201d \u2013 Film Inquiry",
-    "runtime": "102 min",
-    "director": "Joe Swanberg"
-  },
-  {
     "title": "FILIPI\u00d1ANA",
     "date": "2026-09-17",
     "time": "7:00 PM",
@@ -3172,147 +2925,17 @@
     "director": ""
   },
   {
-    "title": "PERMANENT VACATION",
+    "title": "MY BROTHER'S WEDDING",
     "date": "2026-09-17",
-    "time": "7:00 PM",
-    "format": "35mm",
-    "venue": "Anthology Film Archives",
-    "venue_short": "Anthology",
-    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61902",
-    "city": "NYC",
-    "description": "During her years running and programming the legendary Bleecker Street Cinema, Jackie Raynal discovered or premiered countless now-beloved films, not least of which was Jim Jarmusch\u2019s debut feature, PERMANENT VACATION. For this special screening, Raynal will present the film in person, and speak about her early advocacy of Jarmusch\u2019s work. \u201cJim Jarmusch\u2019s first feature displays the first hints of the deadpan, minimalist-cool style that he would refine in his breakthrough STRANGER THAN PARADISE (1987). Young, alienated hipster Aloysius Christopher Parker (Chris Parker) wanders an eerily vacant Manhattan searching for a sense of meaning while encountering an array of idiosyncratic characters. Downtown fixtures Sara Driver, Eric Mitchell, and John Lurie (who composed the film\u2019s score) are among the eccentrics and vagabonds populating this existential urban odyssey.\u201d \u2013CRITERION Preceded by: Jacques Rozier PAPARAZZI 1964, 23 min, 16mm-to-DCP. In French with English subtitles. \u201cOne of two documentaries Jacques Rozier made chronicling the making of Jean-Luc Godard\u2019s CONTEMPT, PAPARAZZI focuses on the intense media frenzy that accompanied star Brigitte Bardot\u2019s every move, offering a revealing look at the nature of modern celebrity culture.\u201d \u2013CRITERION Total running time: ca. 105 min.",
-    "runtime": "75 min",
-    "director": "Jim Jarmusch"
-  },
-  {
-    "title": "Blades of the Guardians (\u93e2\u4eba:\u98a8\u8d77\u5927\u6f20)",
-    "date": "2026-09-17",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11644",
-    "city": "NYC",
-    "description": "Blades of the Guardians (\u93e2\u4eba:\u98a8\u8d77\u5927\u6f20). 2026. China. Directed by Yuen Woo-ping. With Wu Jing, Nicholas Tse, Sun Yizhou, Chen Lijun, Tony Leung Ka Fai, Kara Wai, Jet Li. DCP courtesy Well Go USA Entertainment. In Mandarin; English subtitles. 130 min. Yuen Woo-ping\u2019s latest directorial effort is a sweeping wuxia epic set against the blazing expanse of the Taklamakan Desert, where a mercenary hired to escort a political fugitive finds himself caught between warring factions, relentless bounty hunters, and age-old rivals. Yuen turns the desert itself into a living combatant, pitting his warriors against the merciless terrain as much as one another. Every set piece is built on movement legibility and spatial clarity, delivering action of breathtaking scale without sacrificing precision. The ensemble spans generations screen royalty\u2014Jet Li, Tony Leung Ka-fai, and Kara Wai alongside contemporary powerhouses Wu Jing, Nicholas Tse, and Max Zhang\u2014all joined by a new generation of rising talent and performing actual combat following rigorous training in martial arts, weapons handling, horsemanship, and archery. The result is a relentless spectacle that reaffirms Yuen\u2019s enduring mastery of cinematic action.",
-    "runtime": "130 min",
-    "director": "Yuen Woo-ping"
-  },
-  {
-    "title": "The Kingdom",
-    "date": "2026-09-17",
-    "time": "7:05 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578932~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "On the pale, sun soaked island of Corsica in the summer of 1995, the teenage Lesia is plucked from her sheltered life, and taken to a remote villa where her fugitive mob boss father, Pierre-Paul, is hiding out. Pierre-Paul is a menacing figure, a near stranger to Lesia, and at first she feels trapped by the secrecy and danger which defines his life. But when an assassination attempt sets a chain of bloody vendettas in motion, Lesia and Pierre-Paul are forced to go on the run together. As they flee, Lesia becomes closer than ever with her father, and as they wade together through the violent underworld which he is entrenched in, his devotion to revenge begins to rub off on her. THE KINGDOM is a story of blood: blood spilled, blood sought, and the blood which binds us. Official selection: Un Certain Regard, Cannes Film Festival",
-    "runtime": "111 min",
-    "director": "Julien Colonna"
-  },
-  {
-    "title": "Fight Club",
-    "date": "2026-09-17",
-    "time": "7:30 pm",
-    "format": "35mm",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.com/program/september-17-fight-club/",
-    "description": "The first rule of Fight Club is: You do not talk about Fight Club . David Fincher\u2019s stylized adaptation of the Chuck Palahniuk book is a darkly comic and intoxicatingly energetic screen thunderbolt, a visually striking, critically polarizing, and often misunderstood exploration of modern-day man, mischief, madness, mayhem and soap. Brad Pitt, Edward Norton, and Helena Bonham Carter turn in powerful performances, while the Dust Brothers provide a propulsive score.",
-    "runtime": "139 min",
-    "director": "David Fincher",
-    "city": "LA"
-  },
-  {
-    "title": "THE MUSICAL",
-    "date": "2026-09-17",
-    "time": "7:30 PM",
-    "format": "DCP",
-    "venue": "Aero Theatre",
-    "venue_short": "Aero",
-    "url": "https://www.americancinematheque.com/now-showing/the-musical-09-17-2026/",
-    "description": "When a frustrated playwright/middle school theater teacher finds out his ex-girlfriend has started dating his nemesis, the school\u2019s principal, he exacts revenge the only way he knows how: by staging the most inappropriate play imaginable.",
-    "runtime": "87 min",
-    "director": "Giselle Bonilla",
-    "city": "LA"
-  },
-  {
-    "title": "Knife: The Attempted Murder of Salman Rushdie",
-    "date": "2026-09-17",
-    "time": "7:30 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578167~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Thursday, September 17: Sneak preview and Q&A with dir. Alex Gibney, moderated by David Remnick, after 7:30 show! Saturday, September 19: Q&A with Andy Grieve, moderated by Alec Baldwin, after 6:30 show! More than 30 years after Iran\u2019s Ayatollah Khomeini called for the death of author Salman Rushdie over the publication of The Satanic Verses, Rushdie traveled to Chautauqua, NY to speak about the US as a sanctuary for exiled artists. At his talk, a young man rushed the stage, intent on killing him with a knife. Using Rushdie\u2019s works, including his powerful memoir Knife: Meditations After an Attempted Murder, Oscar winning documentarian Gibney crafts a striking testament to freedom of expression and a defiant response to the attempt on Rushdie\u2019s life.",
-    "runtime": "107 min",
-    "director": "Alex Gibney"
-  },
-  {
-    "title": "GO GO GO SLOW (book release event!)",
-    "date": "2026-09-17",
-    "time": "7:30 PM",
-    "format": "DCP",
-    "venue": "Anthology Film Archives",
-    "venue_short": "Anthology",
-    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61983",
-    "city": "NYC",
-    "description": "This evening features a rare screening of John Smith\u2019s SLOW GLASS (1988-91) \u2013 which uses the art of glassmaking as a prism to explore themes of memory and transformation \u2013 preceded by Marie Menken\u2019s ode to New York City on speed, GO! GO! GO! (1964). Both films utilize layered imagery, in different ways, to alter our perception of time and space. The event celebrates the publication of \u201cFrozen Features\u201d, a new book of photographs by Jason Fulford. For nearly thirty years, Fulford has built a practice on the conviction that meaning lives less inside any single photograph than in the sequence and the things that happen around it \u2013 individual pictures forced to rhyme, echo, or collapse into dissonance against their neighbors, across books, exhibitions, publishing, and performance. \u201cFrozen Features\u201d pushes that instinct one step further, into a visual language of layers randomly composed from images made between 1996 and 2026. The results invite us to find the mystical lodged inside the everyday, felt before it\u2019s understood. Fulford will introduce the films, and books will be available for purchase. For more info about \u201cFrozen Features\u201d, visit: https://loosejoints.biz/products/frozen-features Marie Menken GO! GO! GO! (1962-64, 12 min, 16mm, silent. Preserved by Anthology Film Archives.) John Smith SLOW GLASS (1988-91, 40 min, 16mm) Total running time: ca. 55 min.",
-    "runtime": "55 min",
-    "director": ""
-  },
-  {
-    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
-    "date": "2026-09-17",
-    "time": "7:40 PM",
+    "time": "7:50 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/you-had-to-be-there",
+    "url": "https://filmforum.org/film/my-brothers-wedding",
     "city": "NYC",
-    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
-    "runtime": "98 min",
-    "director": ""
-  },
-  {
-    "title": "Camelot",
-    "date": "2026-09-17",
-    "time": "8:00 PM",
-    "format": "DVD",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4065?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "description": "",
-    "runtime": "180 min",
-    "director": "",
-    "city": "LA"
-  },
-  {
-    "title": "WILD STYLE",
-    "date": "2026-09-17",
-    "time": "8:10 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/wild-style",
-    "city": "NYC",
-    "description": "While Lee\u2019s masked mystery tagger ZORRO tries to get back his main flame Rose (Pink), reporter Patti Astor goes way uptown to the South Bronx to blow up the whole scene as Fab 5 Freddy tries to get rich. Joyous, raucous, explosive, premonitory, and with not one single professional actor, WILD STYLE is the movie that had Hollywood see $$$$. From ZEPHYR\u2019s animated graf titles rivaling Saul Bass, to the epic park jam climax at the Williamsburg Bridge amphitheater with Rammellzee in a trenchcoat waving around a sawed-off, there\u2019s scene after indelible scene: Chief Rocker Busy Bee rocking the Dixie Club while white-gloved b-boys pop and lock, the Cold Crush Brothers and the Fantastic 5 battling on the b-ball court, Grandmaster Flash on the ones and twos in his kitchen, Double Trouble freestyling on a stoop as a turtlenecked kid looks on, and graf galore\u2014whole-cars and murals by DONDI, DAZE and CRASH and a funky-ass soundtrack by FAB and Blondie leader Chris Stein, spun throughout.",
-    "runtime": "",
-    "director": "Charlie Ahearn"
-  },
-  {
-    "title": "Late Fame",
-    "date": "2026-09-17",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83634/84641",
-    "city": "NYC",
-    "description": "In Kent Jones\u2019s marvelously witty second feature, a once-upon-a-time New York poet (Willem Dafoe) gets an ego boost when he is welcomed into the world of an emerging literary salon, but must reckon with the authenticity of his newfound circle of twentysomething admirers.",
-    "runtime": "96 min",
-    "director": "Kent Jones"
+    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
+    "runtime": "81 min",
+    "director": "Charles Burnett"
   },
   {
     "title": "Daisies",
@@ -3328,32 +2951,6 @@
     "director": "V\u011bra Chytilov\u00e1"
   },
   {
-    "title": "Chronovisor",
-    "date": "2026-09-17",
-    "time": "8:45 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/83868/84592",
-    "city": "NYC",
-    "description": "Inspired by the true story of a \u201cfake\u201d invention, Kevin Walker and Jack Auen\u2019s Chronovisor follows a Columbia professor deep into a Borgesian labyrinth of textual clues pointing to a time-travel device rumored to have been suppressed by the Vatican.",
-    "runtime": "100 min",
-    "director": "Kevin Walker, Jack Auen"
-  },
-  {
-    "title": "Resident Evil",
-    "date": "2026-09-17",
-    "time": "9:00 PM",
-    "format": "35mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "description": "From the mind of visionary filmmaker Zach Cregger (Weapons, Barbarian) comes a thrilling \u2014and terrifying \u2014reinvention of the Resident Evil franchise. In an all-new story, Resident Evil follows\n\nBryan (Austin Abrams), a medical courier who unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.",
-    "runtime": "94 min",
-    "director": "",
-    "city": "LA"
-  },
-  {
     "title": "LATE FAME",
     "date": "2026-09-17",
     "time": "9:10 PM",
@@ -3367,120 +2964,16 @@
     "director": "Kent Jones"
   },
   {
-    "title": "Serpent's Path",
+    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
     "date": "2026-09-17",
-    "time": "9:20 PM",
+    "time": "9:15 PM",
     "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578458~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/you-had-to-be-there",
     "city": "NYC",
-    "description": "A grieving father and a mysterious psychiatrist embark on a ruthless quest for vengeance after his daughter is murdered. As they abduct and interrogate suspects across Paris, the line between justice and obsession begins to blur, revealing a web of corruption and hidden truths that threatens to consume them both.",
-    "runtime": "112 min",
-    "director": "Kiyoshi Kurasawa"
-  },
-  {
-    "title": "Colony",
-    "date": "2026-09-17",
-    "time": "9:25 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578934~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Horror master Yeon Sang-ho\u2019s ( Train to Busan ) new zombie thriller stars Gianna Jun as biology professor Se-jeong, who\u2019s thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations. Also starring Koo Kyo-hawn.",
-    "runtime": "122 min",
-    "director": "Yeon Sang-ho"
-  },
-  {
-    "title": "Mysterious Skin",
-    "date": "2026-09-17",
-    "time": "9:30 PM",
-    "format": "4K DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580329~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "At the age of eight, Kansas youngsters Neil and Brian played on the same little league baseball team. Now, ten years later, the two boys couldn\u2019t be more different. Neil is a charismatic but emotionally aloof male hustler, while Brian is a nervous introvert obsessed with the idea that he has been abducted by a UFO. When the boys\u2019 parallel lives inevitably intersect, the pair unearth dark, repressed secrets on a harrowing and unforgettable journey of self-discovery. Director\u2019s Statement: \u201cI\u2019m SO excited about the glorious 4K restoration of MYSTERIOUS SKIN! When we made this little indie 20 years ago, we barely had enough money to finish it, let alone pay for a Digital Intermediate and the bells and whistles of a larger studio film. I would never drastically alter the film which has such an amazing and passionate following around the world. However, the incredible tools made possible by modern digital technology helped us polish and enhance the picture in a way that wasn\u2019t possible in the early 00\u2019s. MYSTERIOUS SKIN holds a special place in my heart and I can\u2019t wait for audiences, present and future, to experience this new definitive version of it.\u201d Official Selection: Sundance, TIFF, Venice Film Festival Previous screenings:",
-    "runtime": "99 min",
-    "director": "Gregg Araki"
-  },
-  {
-    "title": "Union County",
-    "date": "2026-09-17",
-    "time": "9:35 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580327~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Sneak preview + Q&A with dir. Adam Meeks & stars Will Poulter, Noah Centineo & Annette Deao Thu Aug 13 at 7:00 Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao, moderated by Danny Strong, Fri Aug 14 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sat Aug 15 at 7:00 show Q&A with dir. Adam Meeks & stars Will Poulter & Annette Deao Sun Aug 16 at 2:00 show Will Poulter and Noah Centineo deliver pitch-perfect performances as brothers Cody and Jack Parsons, each navigating a court-mandated drug rehabilitation program in a pocket of rural Ohio hit hard by the opioid epidemic. Provided with hope for the first time since their struggles began and with the support of a tireless counselor (Annette Deao), the brothers work toward a brighter, sober future. Additional showtimes for Aug 14-20 to be announced.",
-    "runtime": "97 min",
-    "director": "Adam Meeks"
-  },
-  {
-    "title": "Heathers",
-    "date": "2026-09-17",
-    "time": "9:50 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578935~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "NEW 4K RESTORATION \u201cWhat is your damage, Heather?\u201d Cynical, surreal and viciously funny, this dark high school comedy remains one of the most influential teen movies ever. Iconic performances from 80s luminaries Winona Ryder, Shannen Doherty and Christian Slater, and a cornucopia of gleefully nasty putdowns ( \u201cLick it up baby. Lick. It. Up.\u201d ) mask an earnest plea for empathy and kindess at the center of HEATHERS\u2019 black heart.",
-    "runtime": "103 min",
-    "director": "Michael Lehmann"
-  },
-  {
-    "title": "GANDAHAR",
-    "date": "2026-09-17",
-    "time": "10:00 PM",
-    "format": "4K",
-    "venue": "Los Feliz Theatre",
-    "venue_short": "LosFeliz",
-    "url": "https://www.americancinematheque.com/now-showing/gandahar-09-17-2026/",
-    "description": "An entire civilization must confront its destiny in alternative-animation pioneer Ren\u00e9 Laloux\u2019s final feature, a cult classic of mind-bending science fiction. In a distant world, a merciless army of automata attacks Gandahar, turning its peace-loving people to stone. Hoping to discover the source of these Men of Metal, a council of matriarchs enlists the brave yet inexperienced warrior Sylvain (Pierre-Marie Escourro), who, while journeying through his planet\u2019s outer regions, teams up with the Deformed, a race cast out from Gandahar after failed science experiments rendered them mutants. Soon, Sylvain learns that a gargantuan brain called Metamorphis (Georges Wilson) is responsible for his utopian society\u2019s strife and\u2014together with the beautiful Airelle (Catherine Chevallier)\u2014travels through time to defeat him, in the process risking their lives and Gandahar\u2019s very existence. Featuring stunningly surreal creatures and wondrously bizarre environments designed by renowned comic-book artist Caza, Gandahar is a visceral, visionary head-trip in which animation opens a gateway to the furthest reaches of the imagination.",
-    "runtime": "93 min",
-    "director": "Ren\u00e9 Laloux",
-    "city": "LA"
-  },
-  {
-    "title": "Dream Emulator: BENEATH THE BLISTERED MOON",
-    "date": "2026-09-17",
-    "time": "11:30 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2779482.TcsSection_1299",
-    "city": "London",
-    "description": "The blistered moon whispers a welcome to the eldritch abominations of a twisted internet. We\u2019re wearing our love of all things cosmic horror on our shimmering sleeves tonight, this screening is a celebration of the myriad anomalous destinations digital culture has taken the otherworldly horrors popu...",
-    "runtime": "120 min",
-    "director": "World Wide Web"
-  },
-  {
-    "title": "The History of Concrete",
-    "date": "2026-09-17",
-    "time": "11:59 PM",
-    "format": "DCP",
-    "venue": "Low Cinema",
-    "venue_short": "LowCinema",
-    "url": "https://lowcinema.com/checkout/907d0489-5ca1-47df-afaf-f07146df382a/",
-    "city": "NYC",
-    "description": "A filmmaker applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete.",
-    "runtime": "100 min",
-    "director": "John Wilson"
-  },
-  {
-    "title": "Night Owl Mystery VHS Night #7",
-    "date": "2026-09-17",
-    "time": "9 PM",
-    "format": "DCP",
-    "venue": "Low Cinema",
-    "venue_short": "LowCinema",
-    "url": "https://lowcinema.com/checkout/5243d583-e199-45c0-8085-3e8fb8e3ce89/",
-    "city": "NYC",
-    "description": "Join us for another mystery VHS night presented by the folks at Night Owl Video.",
-    "runtime": "",
+    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
+    "runtime": "98 min",
     "director": ""
   },
   {
@@ -3599,19 +3092,6 @@
     "description": "On the cusp of marriage, Liana becomes convinced she shouldn't live a life in service of a man. Instead, she leaves for Amalfi, where she embarks on an affair. From there she makes for Paris, but each new adventure is compromised by some kind of emotional constraint, culminating in a final act of tragedy. Vittorio Cottafavi's remarkably modern exploration of female autonomy exhibits the melodramatic finesse of Douglas Sirk with a style reminiscent of Max Ophuls. A Free Woman has been newly restored by Radiance.",
     "runtime": "93 min",
     "director": "Vittorio Cottafavi"
-  },
-  {
-    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
-    "date": "2026-09-18",
-    "time": "12:15 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/you-had-to-be-there",
-    "city": "NYC",
-    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
-    "runtime": "98 min",
-    "director": ""
   },
   {
     "title": "Sexy Beast",
@@ -4290,19 +3770,6 @@
     "director": ""
   },
   {
-    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
-    "date": "2026-09-18",
-    "time": "4:45 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/you-had-to-be-there",
-    "city": "NYC",
-    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
-    "runtime": "98 min",
-    "director": ""
-  },
-  {
     "title": "FILIPI\u00d1ANA",
     "date": "2026-09-18",
     "time": "4:45 PM",
@@ -4368,17 +3835,30 @@
     "director": "Anthony Maras"
   },
   {
-    "title": "MY BROTHER'S WEDDING",
+    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
     "date": "2026-09-18",
     "time": "6:00 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/my-brothers-wedding",
+    "url": "https://filmforum.org/film/you-had-to-be-there",
     "city": "NYC",
-    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
-    "runtime": "81 min",
-    "director": "Charles Burnett"
+    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
+    "runtime": "98 min",
+    "director": ""
+  },
+  {
+    "title": "THE \u201cEL\u201d SEEN BY KIRCHHEIMER, BRAKHAGE, & PENNEBAKER",
+    "date": "2026-09-18",
+    "time": "6:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/stations-of-the-elevated-nyc-in-transit",
+    "city": "NYC",
+    "description": "Lyrical and contemplative this 45-minute wordless tone poem to elevated trains creaking by in northern Manhattan, the Bronx, and upstate is set to ambient city soundscapes and the gutbucket gospel squall of Mingus and Aretha Franklin. STATIONS is not only stunning, but it\u2019s the first-ever film about graffiti, from \u201cthrow-ups\u201d to \u201cwhole-cars\u201d in gorgeous 16mm reversal, and is a meditation on the power of the image. Gorgeous.",
+    "runtime": "45 min",
+    "director": "Manfred Kirchheimer"
   },
   {
     "title": "Left-Handed Girl",
@@ -4764,7 +4244,7 @@
     "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4018?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "description": "From the mind of visionary filmmaker Zach Cregger (Weapons, Barbarian) comes a thrilling \u2014and terrifying \u2014reinvention of the Resident Evil franchise. In an all-new story, Resident Evil follows\n\nBryan (Austin Abrams), a medical courier who unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.",
     "runtime": "94 min",
     "director": "",
@@ -4842,7 +4322,7 @@
     "format": "DVD",
     "venue": "Vista Theater",
     "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4066?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "description": "In a decrepit South American village, four men are hired to transport an urgent nitroglycerine shipment without the equipment that would make it safe.",
     "runtime": "131 min",
     "director": "",
@@ -4899,6 +4379,19 @@
     "description": "The new adventure sees the residents of Mossy Bottom Farm looking forward to Halloween - until the clumsy Farmer trashes the Flock's beloved pumpkin patch. When Shaun turns mad scientist to fix the problem, things rapidly spiral out of control, leading to a wild beast roaming the woods.",
     "runtime": "80 min",
     "director": "Steve Cox, Matthew Walker"
+  },
+  {
+    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
+    "date": "2026-09-18",
+    "time": "8:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/you-had-to-be-there",
+    "city": "NYC",
+    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
+    "runtime": "98 min",
+    "director": ""
   },
   {
     "title": "Interstellar",
@@ -5187,19 +4680,6 @@
     "director": "Kent Jones"
   },
   {
-    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
-    "date": "2026-09-18",
-    "time": "9:15 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/you-had-to-be-there",
-    "city": "NYC",
-    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
-    "runtime": "98 min",
-    "director": ""
-  },
-  {
     "title": "Heathers",
     "date": "2026-09-18",
     "time": "9:20 PM",
@@ -5330,6 +4810,19 @@
     "director": "Stanley Kubrick"
   },
   {
+    "title": "The History of Concrete",
+    "date": "2026-09-18",
+    "time": "11:30 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580703~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
+    "runtime": "101 min",
+    "director": "John Wilson"
+  },
+  {
     "title": "Angel's Egg",
     "date": "2026-09-18",
     "time": "11:35 PM",
@@ -5345,7 +4838,7 @@
   {
     "title": "Popstar: Never Stop Never Stopping",
     "date": "2026-09-18",
-    "time": "11:45 PM",
+    "time": "11:50 PM",
     "format": "DCP",
     "venue": "IFC Center",
     "venue_short": "IFC",
@@ -5380,19 +4873,6 @@
     "runtime": "111 min",
     "director": "Quentin Tarantino",
     "city": "LA"
-  },
-  {
-    "title": "Mac and Me",
-    "date": "2026-09-18",
-    "time": "11:59 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579923~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "A wheelchair-bound boy helps to reunite an earthbound alien with its extraterrestrial family in this shameless rip-off of Steven Spielberg\u2019s E.T.. Separated from his parents shortly after arriving on planet Earth, a Mysterious Alien Creature (MAC) quickly strikes up a friendship with lonely Eric Cruise (former Easter Seals spokesman Jade Calegory). New to town and in need of a pal after losing his father, Eric discovers just how amazing the universe can be when mischievous MAC takes him on the adventure of a lifetime. Staff Pick by Andrew Pankey, usher",
-    "runtime": "99 min",
-    "director": "Stewart Raffill"
   },
   {
     "title": "The History of Concrete",
@@ -5557,7 +5037,7 @@
     "format": "DCP",
     "venue": "Barbican",
     "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/oasis-dont-look-back-in-anger",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/parent-baby-screening-oasis-dont-look-back-in-anger",
     "city": "London",
     "description": "Experience the meteoric rise of Oasis through rare footage and untold stories as the band reunites for Oasis Live '25 , chronicling their journey from Manchester streets to global rock stardom.",
     "runtime": "123 min",
@@ -5681,6 +5161,19 @@
     "director": "Destin Daniel Cretton"
   },
   {
+    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
+    "date": "2026-09-19",
+    "time": "12:15 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/you-had-to-be-there",
+    "city": "NYC",
+    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
+    "runtime": "98 min",
+    "director": ""
+  },
+  {
     "title": "Oedipus Rex",
     "date": "2026-09-19",
     "time": "12:15 PM",
@@ -5772,19 +5265,6 @@
     "director": ""
   },
   {
-    "title": "KWAIDAN",
-    "date": "2026-09-19",
-    "time": "12:40 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/kwaidan-2026",
-    "city": "NYC",
-    "description": "Four ghost stories by American expatriate Lafcadio Hearn (1850-1904): When he adds a second wife, Rentar\u00f4 Mikuni finds a skeleton at the feast; woodcutter Tatsuya Nakadai (star of Kobayashi\u2019s Harakiri and Kurosawa\u2019s Yojimbo and Ran) meets a strange woman in the snow; a blind biwa player gives a command performance for a spirit; an apparition appears in a cup of tea. Kobayashi\u2019s first color film, with an eerie score by the great T\u014dru Takemitsu (Ran, Harakiri, Teshigahara\u2019s Woman in the Dunes, etc.).",
-    "runtime": "183 min",
-    "director": "Masaki Kobayashi"
-  },
-  {
     "title": "Moana (Live Action)",
     "date": "2026-09-19",
     "time": "12:50 PM",
@@ -5835,6 +5315,19 @@
     "runtime": "84 min",
     "director": "Douglas Sirk",
     "city": "LA"
+  },
+  {
+    "title": "KWAIDAN",
+    "date": "2026-09-19",
+    "time": "1:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/kwaidan-2026",
+    "city": "NYC",
+    "description": "Four ghost stories by American expatriate Lafcadio Hearn (1850-1904): When he adds a second wife, Rentar\u00f4 Mikuni finds a skeleton at the feast; woodcutter Tatsuya Nakadai (star of Kobayashi\u2019s Harakiri and Kurosawa\u2019s Yojimbo and Ran) meets a strange woman in the snow; a blind biwa player gives a command performance for a spirit; an apparition appears in a cup of tea. Kobayashi\u2019s first color film, with an eerie score by the great T\u014dru Takemitsu (Ran, Harakiri, Teshigahara\u2019s Woman in the Dunes, etc.).",
+    "runtime": "183 min",
+    "director": "Masaki Kobayashi"
   },
   {
     "title": "Late Fame",
@@ -6539,9 +6032,22 @@
     "director": "John Wilson"
   },
   {
+    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
+    "date": "2026-09-19",
+    "time": "4:45 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/you-had-to-be-there",
+    "city": "NYC",
+    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
+    "runtime": "98 min",
+    "director": ""
+  },
+  {
     "title": "BARBARA FOREVER",
     "date": "2026-09-19",
-    "time": "4:40 PM",
+    "time": "4:45 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -6669,30 +6175,17 @@
     "director": "Anthony Maras"
   },
   {
-    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
+    "title": "MY BROTHER'S WEDDING",
     "date": "2026-09-19",
     "time": "6:00 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/you-had-to-be-there",
+    "url": "https://filmforum.org/film/my-brothers-wedding",
     "city": "NYC",
-    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
-    "runtime": "98 min",
-    "director": ""
-  },
-  {
-    "title": "THE \u201cEL\u201d SEEN BY KIRCHHEIMER, BRAKHAGE, & PENNEBAKER",
-    "date": "2026-09-19",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/stations-of-the-elevated-nyc-in-transit",
-    "city": "NYC",
-    "description": "Lyrical and contemplative this 45-minute wordless tone poem to elevated trains creaking by in northern Manhattan, the Bronx, and upstate is set to ambient city soundscapes and the gutbucket gospel squall of Mingus and Aretha Franklin. STATIONS is not only stunning, but it\u2019s the first-ever film about graffiti, from \u201cthrow-ups\u201d to \u201cwhole-cars\u201d in gorgeous 16mm reversal, and is a meditation on the power of the image. Gorgeous.",
-    "runtime": "45 min",
-    "director": "Manfred Kirchheimer"
+    "description": "In this tragicomic follow-up to the director\u2019s breakthrough film KILLER OF SHEEP, a lowly dry cleaner worker\u2019s yuppie brother is busy planning his nuptials to a snobbish upper-middle-class Black woman. The story focuses on a young man who hasn\u2019t developed beyond the embryonic stage, socially. And yet, in spite of his naive sensitivity, he's given the task of being his brother\u2019s keeper.\u201d \u2013 Charles Burnett",
+    "runtime": "81 min",
+    "director": "Charles Burnett"
   },
   {
     "title": "Late Fame",
@@ -6981,19 +6474,6 @@
     "director": "DEADHORSES"
   },
   {
-    "title": "KWAIDAN",
-    "date": "2026-09-19",
-    "time": "6:50 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/kwaidan-2026",
-    "city": "NYC",
-    "description": "Four ghost stories by American expatriate Lafcadio Hearn (1850-1904): When he adds a second wife, Rentar\u00f4 Mikuni finds a skeleton at the feast; woodcutter Tatsuya Nakadai (star of Kobayashi\u2019s Harakiri and Kurosawa\u2019s Yojimbo and Ran) meets a strange woman in the snow; a blind biwa player gives a command performance for a spirit; an apparition appears in a cup of tea. Kobayashi\u2019s first color film, with an eerie score by the great T\u014dru Takemitsu (Ran, Harakiri, Teshigahara\u2019s Woman in the Dunes, etc.).",
-    "runtime": "183 min",
-    "director": "Masaki Kobayashi"
-  },
-  {
     "title": "TCM's The Plot Thickens Presents DR. STRANGELOVE",
     "date": "2026-09-19",
     "time": "7:00 PM",
@@ -7031,6 +6511,32 @@
     "description": "Arsa is aged eighteen or so. She is beautiful, introverted and wild. She lives alone in a rundown hovel overlooking the sea, somewhere on the edge of an island. One day, three youngsters arrive on the island and rent a holiday home. All of a sudden, Arsa\u2019s world is invaded. Andrea, one of the boys, captivated by Arsa\u2019s enigmatic presence, tries to migrate into her world and discovers her shocking desire\u2026 Opens Fri, Sep 18. More showtimes to be announced.",
     "runtime": "94 min",
     "director": "MASBEDO"
+  },
+  {
+    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
+    "date": "2026-09-19",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/you-had-to-be-there",
+    "city": "NYC",
+    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
+    "runtime": "98 min",
+    "director": ""
+  },
+  {
+    "title": "KWAIDAN",
+    "date": "2026-09-19",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/kwaidan-2026",
+    "city": "NYC",
+    "description": "Four ghost stories by American expatriate Lafcadio Hearn (1850-1904): When he adds a second wife, Rentar\u00f4 Mikuni finds a skeleton at the feast; woodcutter Tatsuya Nakadai (star of Kobayashi\u2019s Harakiri and Kurosawa\u2019s Yojimbo and Ran) meets a strange woman in the snow; a blind biwa player gives a command performance for a spirit; an apparition appears in a cup of tea. Kobayashi\u2019s first color film, with an eerie score by the great T\u014dru Takemitsu (Ran, Harakiri, Teshigahara\u2019s Woman in the Dunes, etc.).",
+    "runtime": "183 min",
+    "director": "Masaki Kobayashi"
   },
   {
     "title": "FILIPI\u00d1ANA",
@@ -7252,19 +6758,6 @@
     "description": "The new adventure sees the residents of Mossy Bottom Farm looking forward to Halloween - until the clumsy Farmer trashes the Flock's beloved pumpkin patch. When Shaun turns mad scientist to fix the problem, things rapidly spiral out of control, leading to a wild beast roaming the woods.",
     "runtime": "80 min",
     "director": "Steve Cox, Matthew Walker"
-  },
-  {
-    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
-    "date": "2026-09-19",
-    "time": "8:20 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/you-had-to-be-there",
-    "city": "NYC",
-    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
-    "runtime": "98 min",
-    "director": ""
   },
   {
     "title": "BLUE FILM",
@@ -7553,6 +7046,19 @@
     "city": "LA"
   },
   {
+    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
+    "date": "2026-09-19",
+    "time": "9:15 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/you-had-to-be-there",
+    "city": "NYC",
+    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
+    "runtime": "98 min",
+    "director": ""
+  },
+  {
     "title": "Heathers",
     "date": "2026-09-19",
     "time": "9:20 PM",
@@ -7603,19 +7109,6 @@
     "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
     "runtime": "101 min",
     "director": "John Wilson"
-  },
-  {
-    "title": "Serpent's Path",
-    "date": "2026-09-19",
-    "time": "9:50 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579937~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "A grieving father and a mysterious psychiatrist embark on a ruthless quest for vengeance after his daughter is murdered. As they abduct and interrogate suspects across Paris, the line between justice and obsession begins to blur, revealing a web of corruption and hidden truths that threatens to consume them both.",
-    "runtime": "112 min",
-    "director": "Kiyoshi Kurasawa"
   },
   {
     "title": "Don't Play with Fire",
@@ -7722,19 +7215,6 @@
     "city": "LA"
   },
   {
-    "title": "Mac and Me",
-    "date": "2026-09-19",
-    "time": "11:59 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579939~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "A wheelchair-bound boy helps to reunite an earthbound alien with its extraterrestrial family in this shameless rip-off of Steven Spielberg\u2019s E.T.. Separated from his parents shortly after arriving on planet Earth, a Mysterious Alien Creature (MAC) quickly strikes up a friendship with lonely Eric Cruise (former Easter Seals spokesman Jade Calegory). New to town and in need of a pal after losing his father, Eric discovers just how amazing the universe can be when mischievous MAC takes him on the adventure of a lifetime. Staff Pick by Andrew Pankey, usher",
-    "runtime": "99 min",
-    "director": "Stewart Raffill"
-  },
-  {
     "title": "The History of Concrete",
     "date": "2026-09-19",
     "time": "6 PM",
@@ -7785,19 +7265,6 @@
     "description": "One gibbon. One call. One chance. Cut off from his kind, a lone gibbon calls out from a vanishing forest patch in the heart of a Malaysian metro \u2014 and a team races to reach him before time runs out. Han is a wild lar gibbon living where he shouldn\u2019t be \u2014 trapped between highways and housing estates in a Malaysian city, swinging through power lines, his haunting calls answered by no one. As residents, conservationists, and wildlife authorities unite to translocate him to a national park, one question remains: leave him, move him, or risk losing him altogether? Inspired by the late Dr. Jane Goodall, The Vanishing Song follows the race to get him home. Directed & Produced by: Ruby Yang Directed by: Myles Storey Producer & Executive Producer: Peter Ong & TP Lim Executive Producer: Ying Chan",
     "runtime": "37 min",
     "director": ""
-  },
-  {
-    "title": "Who Moves America",
-    "date": "2026-09-20",
-    "time": "10:40 AM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579942~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Wednesday, September 9: Q&A w/dir. Yael Bridge, prod. Jeremy Flood and UPS Teamster Antoine Andrews moderated by journalist Alex Press after the 6:30 show! Saturday, September 12: Q&A w/dir. Yael Bridge and prods. Yoni Golijov & Mars Verrone, moderated by Laura Poitras, after the 6:55 show! Sunday, September 13: Q&A w/dir. Yael Bridge, and UPS Teamster Antonio Rosario, moderated by Stephen Maing, after 4:35 show! Monday, September 14: Q&A w/dir. Yael Bridge, city council member Tiffany Cab\u00e1n, UPS Teamster Antonio Rosario and Amazon Labor Union IBT 1 president Connor Spence after 6:40 show! In an era of deepening inequality, UPS Teamsters stand on the brink of a historic strike. As the deadline looms, WHO MOVES AMERICA shadows UPS workers in New York, Kentucky, California and across the country as they navigate the challenges of building solidarity with their 340,000 co-workers. Opens Wed, Sep 9, more showtimes to be announced.",
-    "runtime": "87 min",
-    "director": "Yael Bridge"
   },
   {
     "title": "The History of Concrete",
@@ -8034,19 +7501,6 @@
     "director": "Pierre Coffin"
   },
   {
-    "title": "2026 Sundance Film Festival Short Film Tour",
-    "date": "2026-09-20",
-    "time": "12:30 PM",
-    "format": "DCP",
-    "venue": "IFC Center",
-    "venue_short": "IFC",
-    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580051~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
-    "city": "NYC",
-    "description": "Curated from this year\u2019s festival, this selection of six standout shorts from around the world includes Jury Award winners THE BOYS AND THE BEES (Nonfiction), CRISIS ACTOR (US Fiction) and LIVING WITHOUT A VISIONARY (Animation) in an eclectic showcase of truly independent filmmaking.",
-    "runtime": "100 min",
-    "director": "Arielle C. Knight, Lily Platt, Stephen P. Neary, Gabriela Ortega, Anooya Swamy, Malin Barr"
-  },
-  {
     "title": "MY BROTHER'S WEDDING",
     "date": "2026-09-20",
     "time": "12:30 PM",
@@ -8097,6 +7551,19 @@
     "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
     "runtime": "102 min",
     "director": ""
+  },
+  {
+    "title": "KWAIDAN",
+    "date": "2026-09-20",
+    "time": "12:50 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/kwaidan-2026",
+    "city": "NYC",
+    "description": "Four ghost stories by American expatriate Lafcadio Hearn (1850-1904): When he adds a second wife, Rentar\u00f4 Mikuni finds a skeleton at the feast; woodcutter Tatsuya Nakadai (star of Kobayashi\u2019s Harakiri and Kurosawa\u2019s Yojimbo and Ran) meets a strange woman in the snow; a blind biwa player gives a command performance for a spirit; an apparition appears in a cup of tea. Kobayashi\u2019s first color film, with an eerie score by the great T\u014dru Takemitsu (Ran, Harakiri, Teshigahara\u2019s Woman in the Dunes, etc.).",
+    "runtime": "183 min",
+    "director": "Masaki Kobayashi"
   },
   {
     "title": "Medea (1969)",
@@ -8162,19 +7629,6 @@
     "runtime": "95 min",
     "director": "Jean Negulesco",
     "city": "LA"
-  },
-  {
-    "title": "KWAIDAN",
-    "date": "2026-09-20",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/kwaidan-2026",
-    "city": "NYC",
-    "description": "Four ghost stories by American expatriate Lafcadio Hearn (1850-1904): When he adds a second wife, Rentar\u00f4 Mikuni finds a skeleton at the feast; woodcutter Tatsuya Nakadai (star of Kobayashi\u2019s Harakiri and Kurosawa\u2019s Yojimbo and Ran) meets a strange woman in the snow; a blind biwa player gives a command performance for a spirit; an apparition appears in a cup of tea. Kobayashi\u2019s first color film, with an eerie score by the great T\u014dru Takemitsu (Ran, Harakiri, Teshigahara\u2019s Woman in the Dunes, etc.).",
-    "runtime": "183 min",
-    "director": "Masaki Kobayashi"
   },
   {
     "title": "Knock Off",
@@ -8853,22 +8307,9 @@
     "director": "John Wilson"
   },
   {
-    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
-    "date": "2026-09-20",
-    "time": "4:45 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/you-had-to-be-there",
-    "city": "NYC",
-    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
-    "runtime": "98 min",
-    "director": ""
-  },
-  {
     "title": "BARBARA FOREVER",
     "date": "2026-09-20",
-    "time": "4:45 PM",
+    "time": "4:40 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -8879,16 +8320,16 @@
     "director": ""
   },
   {
-    "title": "FILIPI\u00d1ANA",
+    "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
     "date": "2026-09-20",
     "time": "4:45 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/filipinana",
+    "url": "https://filmforum.org/film/you-had-to-be-there",
     "city": "NYC",
-    "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
-    "runtime": "100 min",
+    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
+    "runtime": "98 min",
     "director": ""
   },
   {
@@ -9308,32 +8749,6 @@
     "director": ""
   },
   {
-    "title": "KWAIDAN",
-    "date": "2026-09-20",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/kwaidan-2026",
-    "city": "NYC",
-    "description": "Four ghost stories by American expatriate Lafcadio Hearn (1850-1904): When he adds a second wife, Rentar\u00f4 Mikuni finds a skeleton at the feast; woodcutter Tatsuya Nakadai (star of Kobayashi\u2019s Harakiri and Kurosawa\u2019s Yojimbo and Ran) meets a strange woman in the snow; a blind biwa player gives a command performance for a spirit; an apparition appears in a cup of tea. Kobayashi\u2019s first color film, with an eerie score by the great T\u014dru Takemitsu (Ran, Harakiri, Teshigahara\u2019s Woman in the Dunes, etc.).",
-    "runtime": "183 min",
-    "director": "Masaki Kobayashi"
-  },
-  {
-    "title": "FILIPI\u00d1ANA",
-    "date": "2026-09-20",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/filipinana",
-    "city": "NYC",
-    "description": "17-year-old Isabel navigates the opulent pavilions and lush green landscapes of Dr. Palanca\u2019s luxury golf course as a newly-hired \u201ctee girl.\u201d Meticulously composed, highly stylized, and guided by precisely choreographed movement and deadpan delivery, FILIPI\u00d1ANA unfolds through the gradual accumulation of everyday encounters between staff and the wealthy clients of this secluded country club on the outskirts of Manila. When she attempts to return a lost golf club, Isabel uncovers a dark underbelly beneath the club\u2019s pristine surfaces, in this sweltering, pastel-colored fairy tale of class division, institutional patriarchy, and invisible violence.",
-    "runtime": "100 min",
-    "director": ""
-  },
-  {
     "title": "Wives III",
     "date": "2026-09-20",
     "time": "7:00 PM",
@@ -9448,6 +8863,19 @@
     "city": "NYC",
     "description": "Please note that there are additional showtimes of the 2026 SUNDANCE FILM FESTIVAL SHORT FILM TOUR that screen without open captions (on-screen display of dialogue and sounds). For those showtimes, click here. Curated from this year\u2019s festival, this selection of six standout shorts from around the world includes Jury Award winners THE BOYS AND THE BEES (Nonfiction), CRISIS ACTOR (US Fiction) and LIVING WITHOUT A VISIONARY (Animation) in an eclectic showcase of truly independent filmmaking. Program: Crisis Actor / U.S.A. (Director, Screenwriter, and Producer: Lily Platt, Producers: Sophie Seyd, Alex Bendo, Lexi Preiser) \u2014 Fired from her day job, an impulsive actress crashes a support group and spirals into a chaotic night that forces her to face her addiction to drama. Cast: Sarah Steele, Philip Ettinger. Short Film Jury Award: U.S. Fiction The Boys and the Bees / U.S.A. (Director and Producer: Arielle Knight, Producer: Sean Weiner) \u2014 On an idyllic farm in rural Georgia, Black beekeeping parents tenderly share their knowledge of life, love, and nature with their young sons while restoring their homestead. Short Film Jury Award: Nonfiction Pankaja / U.S.A., India (Director, Screenwriter, and Producer: Anooya Swamy, Producers: Nakirekanti Swamy, Archana Swamy, Vindhya Gupta) \u2014 Pankaja, along with her daughter, Lalli, searches for her missing husband through the city slums of Bangalore to bring him back home. Cast: Harshini Boyalla, Padmashree G. Sauna Sickness / Sweden (Director, Screenwriter, and Producer: Malin Barr) \u2014 Struggling to maintain the peace she mistakes for love, Cleo\u2019s steamy New Year\u2019s Eve plans fissure into a chilling nightmare. Cast: Thea Sofie Loch N\u00e6ss, Adam Lundgren, Magnus Krepper, Sanna Krepper. NY Premiere! Living with a Visionary / U.S.A. (Director, Screenwriter, and Producer: Stephen P. Neary, Producer: Mireia Vilanova) \u2014 After 50 years of marriage, John must care for his wife while learning to live alongside her vivid hallucinations. Cast: James Cromwell, Katherine LaVictoire. Short Film Jury Award: Animation Marga en el DF / Mexico, U.S.A. (Director and Screenwriter: Gabriela Ortega, Producers: Karla Luna Cant\u00fa, Natalia Gonzalez, Eugenio Valero, Carlos L\u00f3pez Estrada, Valerie Bush, Stacy Perskie) \u2014 In the wake of Selena Quintanilla\u2019s murder, Marga\u2019s life takes an unexpected turn at 21 weeks pregnant during a surprise visit to Mexico City. Cast: Camila Santana, David Palacio, Xabiani Ponce de Le\u00f3n, Andrea de F\u00e1tima.",
     "runtime": "100 min",
+    "director": ""
+  },
+  {
+    "title": "THE SCOUT",
+    "date": "2026-09-20",
+    "time": "7:45 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-scout",
+    "city": "NYC",
+    "description": "Director Gonz\u00e1lez-Nasser spent six years working as a location scout. In this luminous directorial debut, she brings us into a day in the life of a young scout tasked with finding the perfect interiors for a television pilot. Sof\u00eda (Mimi Davila) moves in and out of other people\u2019s intimate spaces and quotidian lives, tweaking her personality just enough to connect while struggling to find balance between her professional and personal worlds. With a mounting stack of parking tickets and the impertinent commentaries of her crew, she faces a series of small-yet-paralyzing obstacles that render her day increasingly exhausting. Through a constellation of quiet but poignant vignettes, the film offers an original view into the invisible labor of TV production, unfolding as an alternative symphony of a New York grappling with gentrification and a growing erosion of empathy.",
+    "runtime": "89 min",
     "director": ""
   },
   {
@@ -9685,6 +9113,19 @@
     "director": "Giuseppe Tornatore"
   },
   {
+    "title": "LATE FAME",
+    "date": "2026-09-20",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/late-fame",
+    "city": "NYC",
+    "description": "Willem Dafoe is Ed Saxberger, a postal worker whose former life as a downtown poet in late-70s New York is rediscovered by a young admirer (Donovan) and his \u201cEnthusiasm Society,\u201d a group of 20-somethings with a comically romanticized sense of the past. In the company of his new friends, including the mysterious and mercurial Gloria (Lee of PAST LIVES), Ed has the uncanny feeling of merging with his younger self. Directed by Kent Jones (DIANE) from a witty, razor-sharp script by Samy Burch (MAY DECEMBER), LATE FAME\u202fis a funny, lively, poignant, and occasionally haunting New York story.",
+    "runtime": "96 min",
+    "director": "Kent Jones"
+  },
+  {
     "title": "Late Fame",
     "date": "2026-09-20",
     "time": "8:30 PM",
@@ -9813,19 +9254,6 @@
     "description": "On the pale, sun soaked island of Corsica in the summer of 1995, the teenage Lesia is plucked from her sheltered life, and taken to a remote villa where her fugitive mob boss father, Pierre-Paul, is hiding out. Pierre-Paul is a menacing figure, a near stranger to Lesia, and at first she feels trapped by the secrecy and danger which defines his life. But when an assassination attempt sets a chain of bloody vendettas in motion, Lesia and Pierre-Paul are forced to go on the run together. As they flee, Lesia becomes closer than ever with her father, and as they wade together through the violent underworld which he is entrenched in, his devotion to revenge begins to rub off on her. THE KINGDOM is a story of blood: blood spilled, blood sought, and the blood which binds us. Official selection: Un Certain Regard, Cannes Film Festival",
     "runtime": "111 min",
     "director": "Julien Colonna"
-  },
-  {
-    "title": "LATE FAME",
-    "date": "2026-09-20",
-    "time": "9:10 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/late-fame",
-    "city": "NYC",
-    "description": "Willem Dafoe is Ed Saxberger, a postal worker whose former life as a downtown poet in late-70s New York is rediscovered by a young admirer (Donovan) and his \u201cEnthusiasm Society,\u201d a group of 20-somethings with a comically romanticized sense of the past. In the company of his new friends, including the mysterious and mercurial Gloria (Lee of PAST LIVES), Ed has the uncanny feeling of merging with his younger self. Directed by Kent Jones (DIANE) from a witty, razor-sharp script by Samy Burch (MAY DECEMBER), LATE FAME\u202fis a funny, lively, poignant, and occasionally haunting New York story.",
-    "runtime": "96 min",
-    "director": "Kent Jones"
   },
   {
     "title": "YOU HAD TO BE THERE:\nHOW THE TORONTO GODSPELL IGNITED THE COMEDY REVOLUTION\u2026",
@@ -14027,6 +13455,110 @@
     "city": "LA"
   },
   {
+    "title": "The Vanishing Song",
+    "date": "2026-09-24",
+    "time": "10:35 AM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579389~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "One gibbon. One call. One chance. Cut off from his kind, a lone gibbon calls out from a vanishing forest patch in the heart of a Malaysian metro \u2014 and a team races to reach him before time runs out. Han is a wild lar gibbon living where he shouldn\u2019t be \u2014 trapped between highways and housing estates in a Malaysian city, swinging through power lines, his haunting calls answered by no one. As residents, conservationists, and wildlife authorities unite to translocate him to a national park, one question remains: leave him, move him, or risk losing him altogether? Inspired by the late Dr. Jane Goodall, The Vanishing Song follows the race to get him home. Directed & Produced by: Ruby Yang Directed by: Myles Storey Producer & Executive Producer: Peter Ong & TP Lim Executive Producer: Ying Chan",
+    "runtime": "37 min",
+    "director": ""
+  },
+  {
+    "title": "Who Moves America",
+    "date": "2026-09-24",
+    "time": "10:40 AM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579992~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Wednesday, September 9: Q&A w/dir. Yael Bridge, prod. Jeremy Flood and UPS Teamster Antoine Andrews moderated by journalist Alex Press after the 6:30 show! Saturday, September 12: Q&A w/dir. Yael Bridge and prods. Yoni Golijov & Mars Verrone, moderated by Laura Poitras, after the 6:55 show! Sunday, September 13: Q&A w/dir. Yael Bridge, and UPS Teamster Antonio Rosario, moderated by Stephen Maing, after 4:35 show! Monday, September 14: Q&A w/dir. Yael Bridge, city council member Tiffany Cab\u00e1n, UPS Teamster Antonio Rosario and Amazon Labor Union IBT 1 president Connor Spence after 6:40 show! In an era of deepening inequality, UPS Teamsters stand on the brink of a historic strike. As the deadline looms, WHO MOVES AMERICA shadows UPS workers in New York, Kentucky, California and across the country as they navigate the challenges of building solidarity with their 340,000 co-workers. Opens Wed, Sep 9, more showtimes to be announced.",
+    "runtime": "87 min",
+    "director": "Yael Bridge"
+  },
+  {
+    "title": "The History of Concrete",
+    "date": "2026-09-24",
+    "time": "10:45 AM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579993~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
+    "runtime": "101 min",
+    "director": "John Wilson"
+  },
+  {
+    "title": "Queen at Sea",
+    "date": "2026-09-24",
+    "time": "11:00 AM",
+    "format": "DCP",
+    "venue": "The Castle Cinema",
+    "venue_short": "Castle",
+    "url": "https://thecastlecinema.com/bookings/17854/",
+    "city": "London",
+    "description": "As dementia erodes a woman's ability to communicate her inner life, her husband and daughter struggle to act in her best interest, navigating love and the fragile boundaries between care, protection, and autonomy.",
+    "runtime": "121 min",
+    "director": "Lance Hammer"
+  },
+  {
+    "title": "Arsa",
+    "date": "2026-09-24",
+    "time": "11:05 AM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579460~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Arsa is aged eighteen or so. She is beautiful, introverted and wild. She lives alone in a rundown hovel overlooking the sea, somewhere on the edge of an island. One day, three youngsters arrive on the island and rent a holiday home. All of a sudden, Arsa\u2019s world is invaded. Andrea, one of the boys, captivated by Arsa\u2019s enigmatic presence, tries to migrate into her world and discovers her shocking desire\u2026 Opens Fri, Sep 18. More showtimes to be announced.",
+    "runtime": "94 min",
+    "director": "MASBEDO"
+  },
+  {
+    "title": "Bad Apples",
+    "date": "2026-09-24",
+    "time": "11:15 AM",
+    "format": "DCP",
+    "venue": "The Castle Cinema",
+    "venue_short": "Castle",
+    "url": "https://thecastlecinema.com/bookings/17859/",
+    "city": "London",
+    "description": "Maria, a primary school teacher doing her best to inspire a class of 10-year-olds, is stifled by one unruly and chaotic student. With her career in question and the child's behaviour spiralling, she makes a series of bad decisions that lead to her accidentally taking and locking this \"bad apple\" in her home. Maria tries desperately to backtrack, but when the class starts flourishing and the staff and parents are thrilled with the improvement, she finds herself in a very complicated predicament...",
+    "runtime": "101 min",
+    "director": "Jonathan Etzler"
+  },
+  {
+    "title": "Heathers",
+    "date": "2026-09-24",
+    "time": "11:30 AM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579994~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "NEW 4K RESTORATION \u201cWhat is your damage, Heather?\u201d Cynical, surreal and viciously funny, this dark high school comedy remains one of the most influential teen movies ever. Iconic performances from 80s luminaries Winona Ryder, Shannen Doherty and Christian Slater, and a cornucopia of gleefully nasty putdowns ( \u201cLick it up baby. Lick. It. Up.\u201d ) mask an earnest plea for empathy and kindess at the center of HEATHERS\u2019 black heart.",
+    "runtime": "103 min",
+    "director": "Michael Lehmann"
+  },
+  {
+    "title": "The History of Concrete",
+    "date": "2026-09-24",
+    "time": "11:40 AM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578542~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
+    "runtime": "101 min",
+    "director": "John Wilson"
+  },
+  {
     "title": "April X",
     "date": "2026-09-24",
     "time": "12:00 PM",
@@ -14079,6 +13611,19 @@
     "director": "Matt Johnson"
   },
   {
+    "title": "2026 Sundance Festival Short Film Tour (Open Captioning)",
+    "date": "2026-09-24",
+    "time": "12:25 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580057~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Please note that there are additional showtimes of the 2026 SUNDANCE FILM FESTIVAL SHORT FILM TOUR that screen without open captions (on-screen display of dialogue and sounds). For those showtimes, click here. Curated from this year\u2019s festival, this selection of six standout shorts from around the world includes Jury Award winners THE BOYS AND THE BEES (Nonfiction), CRISIS ACTOR (US Fiction) and LIVING WITHOUT A VISIONARY (Animation) in an eclectic showcase of truly independent filmmaking. Program: Crisis Actor / U.S.A. (Director, Screenwriter, and Producer: Lily Platt, Producers: Sophie Seyd, Alex Bendo, Lexi Preiser) \u2014 Fired from her day job, an impulsive actress crashes a support group and spirals into a chaotic night that forces her to face her addiction to drama. Cast: Sarah Steele, Philip Ettinger. Short Film Jury Award: U.S. Fiction The Boys and the Bees / U.S.A. (Director and Producer: Arielle Knight, Producer: Sean Weiner) \u2014 On an idyllic farm in rural Georgia, Black beekeeping parents tenderly share their knowledge of life, love, and nature with their young sons while restoring their homestead. Short Film Jury Award: Nonfiction Pankaja / U.S.A., India (Director, Screenwriter, and Producer: Anooya Swamy, Producers: Nakirekanti Swamy, Archana Swamy, Vindhya Gupta) \u2014 Pankaja, along with her daughter, Lalli, searches for her missing husband through the city slums of Bangalore to bring him back home. Cast: Harshini Boyalla, Padmashree G. Sauna Sickness / Sweden (Director, Screenwriter, and Producer: Malin Barr) \u2014 Struggling to maintain the peace she mistakes for love, Cleo\u2019s steamy New Year\u2019s Eve plans fissure into a chilling nightmare. Cast: Thea Sofie Loch N\u00e6ss, Adam Lundgren, Magnus Krepper, Sanna Krepper. NY Premiere! Living with a Visionary / U.S.A. (Director, Screenwriter, and Producer: Stephen P. Neary, Producer: Mireia Vilanova) \u2014 After 50 years of marriage, John must care for his wife while learning to live alongside her vivid hallucinations. Cast: James Cromwell, Katherine LaVictoire. Short Film Jury Award: Animation Marga en el DF / Mexico, U.S.A. (Director and Screenwriter: Gabriela Ortega, Producers: Karla Luna Cant\u00fa, Natalia Gonzalez, Eugenio Valero, Carlos L\u00f3pez Estrada, Valerie Bush, Stacy Perskie) \u2014 In the wake of Selena Quintanilla\u2019s murder, Marga\u2019s life takes an unexpected turn at 21 weeks pregnant during a surprise visit to Mexico City. Cast: Camila Santana, David Palacio, Xabiani Ponce de Le\u00f3n, Andrea de F\u00e1tima.",
+    "runtime": "100 min",
+    "director": ""
+  },
+  {
     "title": "Resident Evil",
     "date": "2026-09-24",
     "time": "12:30 PM",
@@ -14090,6 +13635,58 @@
     "runtime": "94 min",
     "director": "",
     "city": "LA"
+  },
+  {
+    "title": "The History of Concrete",
+    "date": "2026-09-24",
+    "time": "1:15 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579995~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
+    "runtime": "101 min",
+    "director": "John Wilson"
+  },
+  {
+    "title": "Knife: The Attempted Murder of Salman Rushdie",
+    "date": "2026-09-24",
+    "time": "1:20 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579515~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Thursday, September 17: Sneak preview and Q&A with dir. Alex Gibney, moderated by David Remnick, after 7:30 show! Saturday, September 19: Q&A with Andy Grieve, moderated by Alec Baldwin, after 6:30 show! More than 30 years after Iran\u2019s Ayatollah Khomeini called for the death of author Salman Rushdie over the publication of The Satanic Verses, Rushdie traveled to Chautauqua, NY to speak about the US as a sanctuary for exiled artists. At his talk, a young man rushed the stage, intent on killing him with a knife. Using Rushdie\u2019s works, including his powerful memoir Knife: Meditations After an Attempted Murder, Oscar winning documentarian Gibney crafts a striking testament to freedom of expression and a defiant response to the attempt on Rushdie\u2019s life.",
+    "runtime": "107 min",
+    "director": "Alex Gibney"
+  },
+  {
+    "title": "Teenage Sex and Death at Camp Miasma",
+    "date": "2026-09-24",
+    "time": "1:30 PM",
+    "format": "DCP",
+    "venue": "The Castle Cinema",
+    "venue_short": "Castle",
+    "url": "https://thecastlecinema.com/bookings/17858/",
+    "city": "London",
+    "description": "The infamous Camp Miasma slasher franchise is getting rebooted yet again. But when the latest movie\u2019s director becomes obsessed with the mysterious, reclusive actress who played the \u201cfinal girl\u201d in the original film, a whole new kind of slasher emerges from the bottom of the lake. Warning: This film contains sequences with flashing or flickering lights that may affect individuals with photosensitivity. Viewer discretion is advised.",
+    "runtime": "112 min",
+    "director": "Jane Schoenbrun"
+  },
+  {
+    "title": "Arsa",
+    "date": "2026-09-24",
+    "time": "2:00 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579466~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Arsa is aged eighteen or so. She is beautiful, introverted and wild. She lives alone in a rundown hovel overlooking the sea, somewhere on the edge of an island. One day, three youngsters arrive on the island and rent a holiday home. All of a sudden, Arsa\u2019s world is invaded. Andrea, one of the boys, captivated by Arsa\u2019s enigmatic presence, tries to migrate into her world and discovers her shocking desire\u2026 Opens Fri, Sep 18. More showtimes to be announced.",
+    "runtime": "94 min",
+    "director": "MASBEDO"
   },
   {
     "title": "Clash of the Titans",
@@ -14131,6 +13728,19 @@
     "director": "Lance Hammer"
   },
   {
+    "title": "The History of Concrete",
+    "date": "2026-09-24",
+    "time": "2:10 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578557~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
+    "runtime": "101 min",
+    "director": "John Wilson"
+  },
+  {
     "title": "Rebels of the Neon God",
     "date": "2026-09-24",
     "time": "2:10 PM",
@@ -14155,6 +13765,32 @@
     "description": "In Earth's future, a global crop blight and second Dust Bowl are slowly rendering the planet uninhabitable. Professor Brand (Michael Caine), a brilliant NASA physicist, is working on plans to save mankind by transporting Earth's population to a new home via a wormhole. But first, Brand must send former NASA pilot Cooper (Matthew McConaughey) and a team of researchers through the wormhole and across the galaxy to find out which of three planets could be mankind's new home.",
     "runtime": "168 min",
     "director": "Christopher Nolan"
+  },
+  {
+    "title": "The Incomer",
+    "date": "2026-09-24",
+    "time": "2:15 PM",
+    "format": "DCP",
+    "venue": "The Castle Cinema",
+    "venue_short": "Castle",
+    "url": "https://thecastlecinema.com/bookings/17853/",
+    "city": "London",
+    "description": "Set on a remote Scottish island, the film follows siblings Isla and Sandy (Rankin and O\u2019Rourke) who have lived a totally normal life for decades, hunting seabirds, chatting to mythic creatures and defending their isle from dreaded Incomers. Their world is upended with the arrival of Daniel (Gleeson), an awkward council worker, come to uproot them to the mainland. While Daniel brings strange new discoveries, Isla and Sandy teach the outsider the \u2018ways of the gull\u2019. Together, the trio are forced to confront the truth about their respective isolation.",
+    "runtime": "102 min",
+    "director": "Louis Paxton"
+  },
+  {
+    "title": "Take Me Home",
+    "date": "2026-09-24",
+    "time": "2:25 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578460~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Wed, Sep 23: 6:50 show introduced by recording artist and disability expert Lachi, plus Q&A with writ/dir. Liz Sargent & actors Ali Ahn, Victor Slezak & Marceline Hugot! Thu, Sep 24: Q&A with writ/dir. Liz Sargent moderated by CNN/NBC/MSN NOW anchor Richard Lui, hosted by Disability Belongs after 4:25 show! Thu, Sep 24: 6:50 show introduced by Emmy Rossum and Steve Way, plus Q&A with writ/dir. Liz Sargent, actors Ali Ahn & Victor Slezak, and exec. Prod. Lydia Storie! Anna (Anna Sargent making her acting debut), a middle-aged Korean adoptee with a cognitive disability, cares for her aging parents in a fragile balance of meeting one another\u2019s needs. Alongside her sister Emily (Ali Ahn) and her father (Victor Slezak), they must confront challenging questions about the future, but she remains determined to build a life where all of them can thrive. Liz Sargent\u2019s intimate debut drama examines the shifting demands placed on a unique \u2014 and uniquely challenged \u2014 family in a Florida suburb. Expanded from Sargent\u2019s acclaimed short (2023 Sundance Film Festival), Take Me Home exposes the indignities of the American health care system and the structural challenges faced by disabled people. The film also gently and imaginatively traces a path for Anna\u2019s independence and connection to a community of chosen family. By turns quietly devastating and bracingly optimistic, Take Me Home confronts us with an impossible situation, while holding out hope for Anna\u2019s future. Opens Wed, Sep 23, more showtimes to be announced.",
+    "runtime": "90 min",
+    "director": "Liz Sargent"
   },
   {
     "title": "Nirvanna the Band the Show the Movie",
@@ -14183,6 +13819,19 @@
     "director": "Lance Hammer"
   },
   {
+    "title": "The History of Concrete",
+    "date": "2026-09-24",
+    "time": "3:45 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579997~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
+    "runtime": "101 min",
+    "director": "John Wilson"
+  },
+  {
     "title": "Tony (15) (AD)",
     "date": "2026-09-24",
     "time": "3:45 PM",
@@ -14194,6 +13843,19 @@
     "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, carving out a slice of a summer that will shape the course of his life.",
     "runtime": "106 min",
     "director": "Matt Johnson"
+  },
+  {
+    "title": "Knife: The Attempted Murder of Salman Rushdie",
+    "date": "2026-09-24",
+    "time": "3:55 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579521~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Thursday, September 17: Sneak preview and Q&A with dir. Alex Gibney, moderated by David Remnick, after 7:30 show! Saturday, September 19: Q&A with Andy Grieve, moderated by Alec Baldwin, after 6:30 show! More than 30 years after Iran\u2019s Ayatollah Khomeini called for the death of author Salman Rushdie over the publication of The Satanic Verses, Rushdie traveled to Chautauqua, NY to speak about the US as a sanctuary for exiled artists. At his talk, a young man rushed the stage, intent on killing him with a knife. Using Rushdie\u2019s works, including his powerful memoir Knife: Meditations After an Attempted Murder, Oscar winning documentarian Gibney crafts a striking testament to freedom of expression and a defiant response to the attempt on Rushdie\u2019s life.",
+    "runtime": "107 min",
+    "director": "Alex Gibney"
   },
   {
     "title": "Resident Evil",
@@ -14235,6 +13897,32 @@
     "director": ""
   },
   {
+    "title": "Queen at Sea",
+    "date": "2026-09-24",
+    "time": "4:00 PM",
+    "format": "DCP",
+    "venue": "The Castle Cinema",
+    "venue_short": "Castle",
+    "url": "https://thecastlecinema.com/bookings/17857/",
+    "city": "London",
+    "description": "As dementia erodes a woman's ability to communicate her inner life, her husband and daughter struggle to act in her best interest, navigating love and the fragile boundaries between care, protection, and autonomy.",
+    "runtime": "121 min",
+    "director": "Lance Hammer"
+  },
+  {
+    "title": "Serpent's Path",
+    "date": "2026-09-24",
+    "time": "4:15 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579999~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "A grieving father and a mysterious psychiatrist embark on a ruthless quest for vengeance after his daughter is murdered. As they abduct and interrogate suspects across Paris, the line between justice and obsession begins to blur, revealing a web of corruption and hidden truths that threatens to consume them both.",
+    "runtime": "112 min",
+    "director": "Kiyoshi Kurasawa"
+  },
+  {
     "title": "Everybody Digs Bill Evans",
     "date": "2026-09-24",
     "time": "4:15 PM",
@@ -14261,6 +13949,19 @@
     "director": "Michelangelo Antonioni"
   },
   {
+    "title": "Take Me Home",
+    "date": "2026-09-24",
+    "time": "4:25 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578462~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Wed, Sep 23: 6:50 show introduced by recording artist and disability expert Lachi, plus Q&A with writ/dir. Liz Sargent & actors Ali Ahn, Victor Slezak & Marceline Hugot! Thu, Sep 24: Q&A with writ/dir. Liz Sargent moderated by CNN/NBC/MSN NOW anchor Richard Lui, hosted by Disability Belongs after 4:25 show! Thu, Sep 24: 6:50 show introduced by Emmy Rossum and Steve Way, plus Q&A with writ/dir. Liz Sargent, actors Ali Ahn & Victor Slezak, and exec. Prod. Lydia Storie! Anna (Anna Sargent making her acting debut), a middle-aged Korean adoptee with a cognitive disability, cares for her aging parents in a fragile balance of meeting one another\u2019s needs. Alongside her sister Emily (Ali Ahn) and her father (Victor Slezak), they must confront challenging questions about the future, but she remains determined to build a life where all of them can thrive. Liz Sargent\u2019s intimate debut drama examines the shifting demands placed on a unique \u2014 and uniquely challenged \u2014 family in a Florida suburb. Expanded from Sargent\u2019s acclaimed short (2023 Sundance Film Festival), Take Me Home exposes the indignities of the American health care system and the structural challenges faced by disabled people. The film also gently and imaginatively traces a path for Anna\u2019s independence and connection to a community of chosen family. By turns quietly devastating and bracingly optimistic, Take Me Home confronts us with an impossible situation, while holding out hope for Anna\u2019s future. Opens Wed, Sep 23, more showtimes to be announced.",
+    "runtime": "90 min",
+    "director": "Liz Sargent"
+  },
+  {
     "title": "Playtime",
     "date": "2026-09-24",
     "time": "4:25 PM",
@@ -14272,6 +13973,32 @@
     "description": "",
     "runtime": "",
     "director": ""
+  },
+  {
+    "title": "The History of Concrete",
+    "date": "2026-09-24",
+    "time": "4:40 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578562~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
+    "runtime": "101 min",
+    "director": "John Wilson"
+  },
+  {
+    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "date": "2026-09-24",
+    "time": "5:00 PM",
+    "format": "DCP",
+    "venue": "The Castle Cinema",
+    "venue_short": "Castle",
+    "url": "https://thecastlecinema.com/bookings/17852/",
+    "city": "London",
+    "description": "Shaun The Sheep: The Beast Of Mossy Bottom sees the residents of Mossy Bottom Farm looking forward to Halloween - until the clumsy Farmer trashes the Flock's beloved pumpkin patch! When Shaun turns mad scientist to fix the problem, things rapidly spiral out of control... With The Farmer missing and a wild beast roaming the woods of Mossingham, all the ingredients are in place for a monstrously fun family adventure. Warning: This film contains sequences with flashing or flickering lights that may affect individuals with photosensitivity. Viewer discretion is advised.",
+    "runtime": "81 min",
+    "director": "Steve Cox, Matthew Walker"
   },
   {
     "title": "The Incomer",
@@ -14378,6 +14105,19 @@
     "director": "Jane Schoenbrun"
   },
   {
+    "title": "The History of Concrete",
+    "date": "2026-09-24",
+    "time": "6:15 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580000~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
+    "runtime": "101 min",
+    "director": "John Wilson"
+  },
+  {
     "title": "Picture This + Q&A",
     "date": "2026-09-24",
     "time": "6:15 PM",
@@ -14443,6 +14183,19 @@
     "director": "Jonatan Etzler"
   },
   {
+    "title": "Knife: The Attempted Murder of Salman Rushdie",
+    "date": "2026-09-24",
+    "time": "6:30 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579525~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Thursday, September 17: Sneak preview and Q&A with dir. Alex Gibney, moderated by David Remnick, after 7:30 show! Saturday, September 19: Q&A with Andy Grieve, moderated by Alec Baldwin, after 6:30 show! More than 30 years after Iran\u2019s Ayatollah Khomeini called for the death of author Salman Rushdie over the publication of The Satanic Verses, Rushdie traveled to Chautauqua, NY to speak about the US as a sanctuary for exiled artists. At his talk, a young man rushed the stage, intent on killing him with a knife. Using Rushdie\u2019s works, including his powerful memoir Knife: Meditations After an Attempted Murder, Oscar winning documentarian Gibney crafts a striking testament to freedom of expression and a defiant response to the attempt on Rushdie\u2019s life.",
+    "runtime": "107 min",
+    "director": "Alex Gibney"
+  },
+  {
     "title": "Tai Chi Master (\u592a\u6975\u5f35\u4e09\u8c50)",
     "date": "2026-09-24",
     "time": "6:30 PM",
@@ -14493,6 +14246,32 @@
     "description": "Protomartyr do a Nickel takeover with a double bill of Detroit-set action movies!\nIn BRICK MANSIONS at 6.30pm - a dystopian Detroit, abandoned brick mansions left from better times now house only the most dangerous criminals. Unable to control the crime, the police constructed a colossal containment wall around this area to protect the rest of the city. For undercover cop Damien Collier (Paul Walker) every day is a battle against corruption. For Lino (David Belle), every day is a fight to live an honest life. Their paths never should have crossed, but when drug kingpin, Tremaine (RZA) kidnaps Lino's girlfriend, Damien reluctantly accepts the help of the fearless ex-convict, and together they must stop a sinister plot to devastate the entire city.\nIn ACTION JACKSON, Ex-football player Carl Weathers stars in this violent action film as Detroit policeman Jericho Jackson. The dedicated but brutal cop is plunged into nefarious doings concerning a crooked industrialist (Craig T. Nelson) and his drug-addicted girlfriend (pop-singer Vanity), breaking many people's bones before solving the case.\nProtomartyr will be in person at The Nickel to kick off the night with a Q&A.",
     "runtime": "",
     "director": ""
+  },
+  {
+    "title": "Tony",
+    "date": "2026-09-24",
+    "time": "6:40 PM",
+    "format": "DCP",
+    "venue": "The Castle Cinema",
+    "venue_short": "Castle",
+    "url": "https://thecastlecinema.com/bookings/17856/",
+    "city": "London",
+    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+    "runtime": "106 min",
+    "director": "Matt Johnson"
+  },
+  {
+    "title": "Take Me Home",
+    "date": "2026-09-24",
+    "time": "6:50 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578468~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Wed, Sep 23: 6:50 show introduced by recording artist and disability expert Lachi, plus Q&A with writ/dir. Liz Sargent & actors Ali Ahn, Victor Slezak & Marceline Hugot! Thu, Sep 24: Q&A with writ/dir. Liz Sargent moderated by CNN/NBC/MSN NOW anchor Richard Lui, hosted by Disability Belongs after 4:25 show! Thu, Sep 24: 6:50 show introduced by Emmy Rossum and Steve Way, plus Q&A with writ/dir. Liz Sargent, actors Ali Ahn & Victor Slezak, and exec. Prod. Lydia Storie! Anna (Anna Sargent making her acting debut), a middle-aged Korean adoptee with a cognitive disability, cares for her aging parents in a fragile balance of meeting one another\u2019s needs. Alongside her sister Emily (Ali Ahn) and her father (Victor Slezak), they must confront challenging questions about the future, but she remains determined to build a life where all of them can thrive. Liz Sargent\u2019s intimate debut drama examines the shifting demands placed on a unique \u2014 and uniquely challenged \u2014 family in a Florida suburb. Expanded from Sargent\u2019s acclaimed short (2023 Sundance Film Festival), Take Me Home exposes the indignities of the American health care system and the structural challenges faced by disabled people. The film also gently and imaginatively traces a path for Anna\u2019s independence and connection to a community of chosen family. By turns quietly devastating and bracingly optimistic, Take Me Home confronts us with an impossible situation, while holding out hope for Anna\u2019s future. Opens Wed, Sep 23, more showtimes to be announced.",
+    "runtime": "90 min",
+    "director": "Liz Sargent"
   },
   {
     "title": "Troy",
@@ -14560,6 +14339,19 @@
     "city": "LA"
   },
   {
+    "title": "Arsa",
+    "date": "2026-09-24",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=579472~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Arsa is aged eighteen or so. She is beautiful, introverted and wild. She lives alone in a rundown hovel overlooking the sea, somewhere on the edge of an island. One day, three youngsters arrive on the island and rent a holiday home. All of a sudden, Arsa\u2019s world is invaded. Andrea, one of the boys, captivated by Arsa\u2019s enigmatic presence, tries to migrate into her world and discovers her shocking desire\u2026 Opens Fri, Sep 18. More showtimes to be announced.",
+    "runtime": "94 min",
+    "director": "MASBEDO"
+  },
+  {
     "title": "IN VANDA\u2019S ROOM / NO QUARTO DA VANDA",
     "date": "2026-09-24",
     "time": "7:00 PM",
@@ -14610,6 +14402,19 @@
     "description": "This double-bill brings together two films that place listening at the centre of acts of investigation, revealing sound as a crucial witness to events that might otherwise remain obscured.",
     "runtime": "",
     "director": ""
+  },
+  {
+    "title": "The History of Concrete",
+    "date": "2026-09-24",
+    "time": "7:15 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578567~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
+    "runtime": "101 min",
+    "director": "John Wilson"
   },
   {
     "title": "JFK",
@@ -14688,6 +14493,19 @@
     "description": "Charles De Gaulle's journey as a French army officer from 1940 to 1945, tracking his evolution toward a political career.",
     "runtime": "159 min",
     "director": "Antonin Baudry"
+  },
+  {
+    "title": "The History of Concrete",
+    "date": "2026-09-24",
+    "time": "8:15 PM",
+    "format": "DCP",
+    "venue": "Low Cinema",
+    "venue_short": "LowCinema",
+    "url": "https://lowcinema.com/checkout/aeede66f-e186-4198-8847-64b031939a30/",
+    "city": "NYC",
+    "description": "A filmmaker applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete.",
+    "runtime": "100 min",
+    "director": "John Wilson"
   },
   {
     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
@@ -14807,6 +14625,19 @@
     "director": "Grant Gee"
   },
   {
+    "title": "The History of Concrete",
+    "date": "2026-09-24",
+    "time": "8:45 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580002~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
+    "runtime": "101 min",
+    "director": "John Wilson"
+  },
+  {
     "title": "Tony (15) (AD)",
     "date": "2026-09-24",
     "time": "8:45 PM",
@@ -14859,6 +14690,19 @@
     "director": "Anthony Maras"
   },
   {
+    "title": "Bad Apples",
+    "date": "2026-09-24",
+    "time": "9:00 PM",
+    "format": "DCP",
+    "venue": "The Castle Cinema",
+    "venue_short": "Castle",
+    "url": "https://thecastlecinema.com/bookings/17855/",
+    "city": "London",
+    "description": "Maria, a primary school teacher doing her best to inspire a class of 10-year-olds, is stifled by one unruly and chaotic student. With her career in question and the child's behaviour spiralling, she makes a series of bad decisions that lead to her accidentally taking and locking this \"bad apple\" in her home. Maria tries desperately to backtrack, but when the class starts flourishing and the staff and parents are thrilled with the improvement, she finds herself in a very complicated predicament...",
+    "runtime": "101 min",
+    "director": "Jonathan Etzler"
+  },
+  {
     "title": "Heart of the Beast",
     "date": "2026-09-24",
     "time": "9:00 PM",
@@ -14885,6 +14729,45 @@
     "director": "Anthony Maras"
   },
   {
+    "title": "The Kingdom",
+    "date": "2026-09-24",
+    "time": "9:05 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580003~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "On the pale, sun soaked island of Corsica in the summer of 1995, the teenage Lesia is plucked from her sheltered life, and taken to a remote villa where her fugitive mob boss father, Pierre-Paul, is hiding out. Pierre-Paul is a menacing figure, a near stranger to Lesia, and at first she feels trapped by the secrecy and danger which defines his life. But when an assassination attempt sets a chain of bloody vendettas in motion, Lesia and Pierre-Paul are forced to go on the run together. As they flee, Lesia becomes closer than ever with her father, and as they wade together through the violent underworld which he is entrenched in, his devotion to revenge begins to rub off on her. THE KINGDOM is a story of blood: blood spilled, blood sought, and the blood which binds us. Official selection: Un Certain Regard, Cannes Film Festival",
+    "runtime": "111 min",
+    "director": "Julien Colonna"
+  },
+  {
+    "title": "The Incomer",
+    "date": "2026-09-24",
+    "time": "9:15 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580004~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Thursday, September 10: Sneak preview and Q&A w/ star Domhnall Gleeson after the 6:15 show! On a remote Scottish isle, siblings Isla (Gayle Rankin, GLOW ) and Sandy (Grant O\u2019Rourke, Outlander ) spend their days hunting seabirds and retelling the stories of their ancestors. They follow the strict rules inherited from their late father \u2014 protect the island, allow no incomer, survive \u2014 until one day, Daniel (Domhnall Gleeson, Ex Machina ), an awkward and socially inept council official, arrives to evacuate them. Bringing with him the strange mainland ways of laws, paperwork, veganism and internet wizardry, he turns their world upside down. Opens Fri, Sep 25, more showtimes to be announced.",
+    "runtime": "100 min",
+    "director": "Louis Paxton"
+  },
+  {
+    "title": "Knife: The Attempted Murder of Salman Rushdie",
+    "date": "2026-09-24",
+    "time": "9:20 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=580005~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Thursday, September 17: Sneak preview and Q&A with dir. Alex Gibney, moderated by David Remnick, after 7:30 show! Saturday, September 19: Q&A with Andy Grieve, moderated by Alec Baldwin, after 6:30 show! More than 30 years after Iran\u2019s Ayatollah Khomeini called for the death of author Salman Rushdie over the publication of The Satanic Verses, Rushdie traveled to Chautauqua, NY to speak about the US as a sanctuary for exiled artists. At his talk, a young man rushed the stage, intent on killing him with a knife. Using Rushdie\u2019s works, including his powerful memoir Knife: Meditations After an Attempted Murder, Oscar winning documentarian Gibney crafts a striking testament to freedom of expression and a defiant response to the attempt on Rushdie\u2019s life.",
+    "runtime": "107 min",
+    "director": "Alex Gibney"
+  },
+  {
     "title": "THE CYCLE",
     "date": "2026-09-24",
     "time": "9:45 PM",
@@ -14896,6 +14779,19 @@
     "runtime": "111 min",
     "director": "Jordan Downey",
     "city": "LA"
+  },
+  {
+    "title": "The History of Concrete",
+    "date": "2026-09-24",
+    "time": "9:45 PM",
+    "format": "DCP",
+    "venue": "IFC Center",
+    "venue_short": "IFC",
+    "url": "https://tickets.ifccenter.com/websales/pages/ticketsearchcriteria.aspx?evtinfo=578572~8722a542-64c1-4c0b-af02-c3e8a239d769& ",
+    "city": "NYC",
+    "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
+    "runtime": "101 min",
+    "director": "John Wilson"
   },
   {
     "title": "True Romance",
@@ -14948,6 +14844,32 @@
     "runtime": "78 min",
     "director": "E. Elias Merhige",
     "city": "LA"
+  },
+  {
+    "title": "The History of Concrete",
+    "date": "2026-09-24",
+    "time": "10:30 PM",
+    "format": "DCP",
+    "venue": "Low Cinema",
+    "venue_short": "LowCinema",
+    "url": "https://lowcinema.com/checkout/12412f7c-68fb-4b45-9296-d3ea972ab95c/",
+    "city": "NYC",
+    "description": "A filmmaker applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete.",
+    "runtime": "100 min",
+    "director": "John Wilson"
+  },
+  {
+    "title": "The History of Concrete",
+    "date": "2026-09-24",
+    "time": "6 PM",
+    "format": "DCP",
+    "venue": "Low Cinema",
+    "venue_short": "LowCinema",
+    "url": "https://lowcinema.com/checkout/be616821-684e-4b11-ae39-430e6656ca13/",
+    "city": "NYC",
+    "description": "A filmmaker applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete.",
+    "runtime": "100 min",
+    "director": "John Wilson"
   },
   {
     "title": "Interstellar",
@@ -19581,6 +19503,19 @@
     "description": "A fascinating, ahead-of-its-time synthesis of fiction and documentary, Allen Fong\u2019s third feature follows a couple from Hong Kong as they navigate domestic trials and tribulations before eventually heading to the United States.",
     "runtime": "95 min",
     "director": "Allen Fong"
+  },
+  {
+    "title": "Blades of the Guardians (\u93e2\u4eba:\u98a8\u8d77\u5927\u6f20)",
+    "date": "2026-09-30",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11644",
+    "city": "NYC",
+    "description": "Blades of the Guardians (\u93e2\u4eba:\u98a8\u8d77\u5927\u6f20). 2026. China. Directed by Yuen Woo-ping. With Wu Jing, Nicholas Tse, Sun Yizhou, Chen Lijun, Tony Leung Ka Fai, Kara Wai, Jet Li. DCP courtesy Well Go USA Entertainment. In Mandarin; English subtitles. 130 min. Yuen Woo-ping\u2019s latest directorial effort is a sweeping wuxia epic set against the blazing expanse of the Taklamakan Desert, where a mercenary hired to escort a political fugitive finds himself caught between warring factions, relentless bounty hunters, and age-old rivals. Yuen turns the desert itself into a living combatant, pitting his warriors against the merciless terrain as much as one another. Every set piece is built on movement legibility and spatial clarity, delivering action of breathtaking scale without sacrificing precision. The ensemble spans generations screen royalty\u2014Jet Li, Tony Leung Ka-fai, and Kara Wai alongside contemporary powerhouses Wu Jing, Nicholas Tse, and Max Zhang\u2014all joined by a new generation of rising talent and performing actual combat following rigorous training in martial arts, weapons handling, horsemanship, and archery. The result is a relentless spectacle that reaffirms Yuen\u2019s enduring mastery of cinematic action.",
+    "runtime": "130 min",
+    "director": "Yuen Woo-ping"
   },
   {
     "title": "CHAT PILE Presents: Escape from L.A.",
@@ -32490,6 +32425,19 @@
     "director": "Raja Gosnell"
   },
   {
+    "title": "DOC'N ROLL 2026: NOFX: 40 YEARS OF FUCKIN\u2019 UP!",
+    "date": "2026-10-23",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2884465.TcsSection_936",
+    "city": "London",
+    "description": "40 Years of Fuckin' Up is Spinal Tap, but real. It's a film about the infamous, fairly un-famous, and beloved punk rock band NOFX. This is the unbelievable story about how a group of untalented drug-addled teenage punks somehow became the most successful independent band in history. And they did it ...",
+    "runtime": "124 min",
+    "director": "James Buddy Day"
+  },
+  {
     "title": "Halloween III: Season of the Witch",
     "date": "2026-10-23",
     "time": "8:35 PM",
@@ -42823,5 +42771,18 @@
     "description": "",
     "runtime": "",
     "director": ""
+  },
+  {
+    "title": "Fight Club",
+    "date": "2027-09-17",
+    "time": "7:30 pm",
+    "format": "35mm",
+    "venue": "New Beverly Cinema",
+    "venue_short": "NewBev",
+    "url": "https://thenewbev.com/program/september-17-fight-club/",
+    "description": "The first rule of Fight Club is: You do not talk about Fight Club . David Fincher\u2019s stylized adaptation of the Chuck Palahniuk book is a darkly comic and intoxicatingly energetic screen thunderbolt, a visually striking, critically polarizing, and often misunderstood exploration of modern-day man, mischief, madness, mayhem and soap. Brad Pitt, Edward Norton, and Helena Bonham Carter turn in powerful performances, while the Dust Brothers provide a propulsive score.",
+    "runtime": "139 min",
+    "director": "David Fincher",
+    "city": "LA"
   }
 ]
