@@ -388,5 +388,29 @@
   "description": "After a harrowing plane crash, Special Forces officer James Belmont (Brad Pitt) and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements. From acclaimed filmmaker David Ayer, Heart of the Beast is an intense adventure thriller that explores the unbreakable bond between a man and his best friend as they face their greatest battle yet.",
   "runtime": "101 min",
   "format": ""
+ },
+ "https://www.peckhamplex.london/film/resident-evil": {
+  "director": "Zach Cregger",
+  "description": "In this sci-fi horror action reboot, a hapless medical courier fights for his life amid an outbreak of a deadly mutagenic virus in an isolated mountain town.",
+  "runtime": "94 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/sense-and-sensibility": {
+  "director": "Georgia Oakley",
+  "description": "Left destitute by ruthless family members, two sisters navigate scandal, heartbreak, and strict social etiquette while searching for their perfect romantic matches.",
+  "runtime": "132 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/hope": {
+  "director": "Na Hong-Jin",
+  "description": "In the remote South Korea village of Hope Harbor, police chief Bum-seok (Hwang Jung- min) and officer Sung-ae (Hoyeon) are called to find a mysterious creature that has wreaked havoc on the village. In the nearby forest, a coterie of hunters, including Sung- ki (Zo In-Sung) set out to track the beast and find themselves hunted instead. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+  "runtime": "157 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/avengers-endgame-encore": {
+  "director": "Anthony Russo, Joe Russo",
+  "description": "The grave course of events set in motion by Thanos that wiped out half the universe and fractured the Avengers ranks compels the remaining Avengers to take one final stand in Marvel Studios' grand conclusion to twenty-two films, \"Avengers: Endgame.\"",
+  "runtime": "183 min",
+  "format": ""
  }
 }
