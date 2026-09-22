@@ -556,5 +556,17 @@
   "description": "This award-winning biographical drama follows the famous jazz pianist and composer Bill Evans ( Anders Danielsen Lie ) through grief, love, genius and the call to music.",
   "runtime": "102 min",
   "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/sense-and-sensibility": {
+  "director": "Georgia Oakley",
+  "description": "An irresistible new take on Jane Austen ’s iconic Sense and Sensibility : a charming, witty and deeply relatable story of love and sisterhood, starring Daisy Edgar-Jones and Esmé Creed-Miles .",
+  "runtime": "132 min",
+  "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/remake": {
+  "director": "Ross McElwee",
+  "description": "In Remake , filmmaker Ross McElwee turns his lens on the passage of time and the uneasy space between documenting life and understanding it.",
+  "runtime": "106 min",
+  "format": ""
  }
 }
