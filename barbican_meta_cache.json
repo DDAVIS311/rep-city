@@ -568,5 +568,17 @@
   "description": "In Remake , filmmaker Ross McElwee turns his lens on the passage of time and the uneasy space between documenting life and understanding it.",
   "runtime": "106 min",
   "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/family-film-week-howls-moving-castle": {
+  "director": "Hayao Miyazaki",
+  "description": "Adapted from Dianna Wynne Jones’ magical novel, this Ghibli masterpiece follows a young girl’s transformation into an old woman by the Witch of the Waste.",
+  "runtime": "119 min",
+  "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/family-film-week-maya-give-me-a-title": {
+  "director": "Michel Gondry",
+  "description": "A gloriously zany and personal film from Michel Gondry told with DIY animation and heaps of charm.",
+  "runtime": "61 min",
+  "format": ""
  }
 }
