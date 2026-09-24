@@ -3198,45 +3198,6 @@
     "director": "John Wilson"
   },
   {
-    "title": "April X",
-    "date": "2026-09-24",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627828",
-    "city": "London",
-    "description": "When his twin sister April (Lilly Krug) goes missing, Bax (Connor Storrie) searches every corner of their futuristic, post-Soviet cityscape to find her, ultimately descending into madness.",
-    "runtime": "92 min",
-    "director": "K-Michel Parandi"
-  },
-  {
-    "title": "A Free Woman",
-    "date": "2026-09-24",
-    "time": "12:10 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/a-free-woman",
-    "city": "London",
-    "description": "On the cusp of marriage, Liana becomes convinced she shouldn't live a life in service of a man. Instead, she leaves for Amalfi, where she embarks on an affair. From there she makes for Paris, but each new adventure is compromised by some kind of emotional constraint, culminating in a final act of tragedy. Vittorio Cottafavi's remarkably modern exploration of female autonomy exhibits the melodramatic finesse of Douglas Sirk with a style reminiscent of Max Ophuls. A Free Woman has been newly restored by Radiance.",
-    "runtime": "93 min",
-    "director": "Vittorio Cottafavi"
-  },
-  {
-    "title": "Off-Circuit: UK PREMIERE Pin de Fartie + Q&A",
-    "date": "2026-09-24",
-    "time": "12:10 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "106 min",
-    "director": ""
-  },
-  {
     "title": "Arsa",
     "date": "2026-09-24",
     "time": "12:20 PM",
@@ -3248,19 +3209,6 @@
     "description": "Arsa is aged eighteen or so. She is beautiful, introverted and wild. She lives alone in a rundown hovel overlooking the sea, somewhere on the edge of an island. One day, three youngsters arrive on the island and rent a holiday home. All of a sudden, Arsa\u2019s world is invaded. Andrea, one of the boys, captivated by Arsa\u2019s enigmatic presence, tries to migrate into her world and discovers her shocking desire\u2026 Opens Fri, Sep 18. More showtimes to be announced.",
     "runtime": "94 min",
     "director": "MASBEDO"
-  },
-  {
-    "title": "The Dirties",
-    "date": "2026-09-24",
-    "time": "12:20 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627407",
-    "city": "London",
-    "description": "The line between reality and fiction starts to blur when two best friends start making a movie about getting revenge on bullies.",
-    "runtime": "83 min",
-    "director": "Matt Johnson"
   },
   {
     "title": "Resident Evil 35mm",
@@ -3367,19 +3315,6 @@
     "director": "Jane Schoenbrun"
   },
   {
-    "title": "Clash of the Titans",
-    "date": "2026-09-24",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31027",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Late Fame",
     "date": "2026-09-24",
     "time": "2:00 PM",
@@ -3404,6 +3339,19 @@
     "description": "Starring Juliette Binoche, Tom Courtenay and Anna Calder-Marshall, Queen at Sea received its world premiere in competition at the Berlin International Film Festival earlier this year, where it won both the Silver Bear Jury Prize and the Silver Bear for Best Supporting Performance for both Courtenay and Calder-Marshall. The film follows Amanda (Binoche) and her stepfather, Martin (Courtney), at odds over a moral quandary involving Amanda\u2019s mother, Leslie (Calder-Marshall). In the advanced stages of dementia, they quarrel over whether Leslie has lost all ability to make critical decisions in her own best interests, and, if so, who is responsible \u2013 a spouse, a child, an institution \u2013 for making such a determination? As Amanda and Martin are forced to make increasingly difficult choices, the repercussions spiral out of their control.",
     "runtime": "121 min",
     "director": "Lance Hammer"
+  },
+  {
+    "title": "Clash of the Titans",
+    "date": "2026-09-24",
+    "time": "2:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31027",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Arsa",
@@ -4160,19 +4108,6 @@
     "director": "Pedro Costa"
   },
   {
-    "title": "Brazil",
-    "date": "2026-09-24",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31032",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "LAH: The Last Responders & Blow Out (18)",
     "date": "2026-09-24",
     "time": "7:00 PM",
@@ -4196,6 +4131,19 @@
     "city": "NYC",
     "description": "The Very Eye of Night. 1959. USA. Directed by Maya Deren. 15 mins. 16mm. Bridges-Go-Round. 1959. USA. Directed by Shirley Clarke. 4 mins. 16mm. Eye Music in Red Major. 1961. USA. Directed by Marie Menken. 5 mins. Silent. 16mm. Ai (Love). 1962. Japan. Directed by Takahiko Iimura. 10 mins. 16mm. Award Presentation to Andy Warhol. 1964. USA. Directed by Jonas Mekas. 12 mins. 16mm. Little Stabs at Happiness. 1963. USA. Directed by Ken Jacobs. 15 mins. 16mm. Film in Which There Appear Edge Lettering, Sprocket Holes, Dirt Particles, Etc.. 1966. USA. Directed by Owen Land. 5 mins. 16mm. Tear/Or. 1967. USA. Directed by Saul Levine. 4 mins. Silent. 16mm. Beatles Electroniques. 1969. USA. Directed by Jud Yalkut and Nam June Paik. 3 mins. 16mm. Surface Tension. 1968. USA. Directed by Hollis Frampton. 10 mins. 16mm.",
     "runtime": "15 min",
+    "director": ""
+  },
+  {
+    "title": "Brazil",
+    "date": "2026-09-24",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31032",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
     "director": ""
   },
   {
@@ -4235,19 +4183,6 @@
     "description": "From the mind of visionary filmmaker Zach Cregger (Weapons, Barbarian) comes a thrilling \u2014and terrifying \u2014reinvention of the Resident Evil franchise. In an all-new story, Resident Evil follows\n\nBryan (Austin Abrams), a medical courier who unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.",
     "runtime": "94 min",
     "director": "",
-    "city": "LA"
-  },
-  {
-    "title": "Raising Victor Vargas",
-    "date": "2026-09-24",
-    "time": "7:30 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4510104/",
-    "description": "Vidiots is excited to welcome Melonie D\u00edaz for a special screening of the coming-of-age classic Raising Victor Vargas !",
-    "runtime": "88 min",
-    "director": "Peter Sollett",
     "city": "LA"
   },
   {
@@ -6386,7 +6321,7 @@
     "format": "DCP",
     "venue": "Electric Cinema Portobello",
     "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/75405",
+    "url": "https://www.electriccinema.co.uk/film/sense-and-sensibility-2/",
     "city": "London",
     "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood.\r\nThree sisters experience love and heartbreak after they're forced to leave their family estate with their widowed mother and move to a humble cottage...",
     "runtime": "131 min",
@@ -6523,19 +6458,6 @@
     "director": "Louis Paxton"
   },
   {
-    "title": "The Ninth Gate",
-    "date": "2026-09-25",
-    "time": "9:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30911",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Paper Tiger",
     "date": "2026-09-25",
     "time": "9:45 PM",
@@ -6547,6 +6469,19 @@
     "description": "Adam Driver, Miles Teller, and Scarlett Johansson star in James Gray\u2019s brilliant New York thriller, charting the tragic fallout after a family man is pulled into a shady scheme with Russian criminals by his former cop brother.",
     "runtime": "115 min",
     "director": "James Gray"
+  },
+  {
+    "title": "The Ninth Gate",
+    "date": "2026-09-25",
+    "time": "9:45 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30911",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "THE GOODBYE KISS",
@@ -6939,19 +6874,6 @@
     "director": "Georgia Oakley"
   },
   {
-    "title": "The Warriors",
-    "date": "2026-09-26",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30919",
-    "city": "NYC",
-    "description": "\u201cWaaarriors! Come out and play-ay!\u201d Falsely accused of responsibility for the assassination of New York\u2019s most powerful ganglord during a citywide summit in the Bronx\u2019s Van Cortlandt Park, Swan (Michael Beck) and his fellow Warriors now have to fight their way back, block by block and mano a mano, to the safe shores of their Coney Island turf. The film\u2019s knuckle-busting action choreography and its vision of NYC as a coliseum-like proving grounds for epic heroism\u2014its source, at a distance, is Xenophon\u2019s 4th century BC Anabasis\u2014are delectable, but its greatness lies in its attention to character, how it lets us see a crew of provincial Brooklynites gradually discovering they\u2019re the toughest dudes in town. Part of This Night Has Opened My Eyes",
-    "runtime": "93 min",
-    "director": "Walter Hill"
-  },
-  {
     "title": "The Transformers: The Movie: 40th Anniversary",
     "date": "2026-09-26",
     "time": "12:00 PM",
@@ -6976,6 +6898,19 @@
     "description": "With the nation of Panem in a full-scale war, Katniss confronts President Snow (Donald Sutherland) in the final showdown. Teamed with a group of her closest friends \u2014 including Gale (Liam Hemsworth), Finnick (Sam Claflin), and Peeta (Josh Hutcherson) \u2014 Katniss goes off on a mission with the unit from District 13 as they risk their lives to liberate the citizens of Panem, and stage an assassination attempt on President Snow (Sutherland), who has become increasingly obsessed with destroying her. The mortal traps, enemies, and moral choices that await Katniss will challenge her more than any arena she faced in The Hunger Games.",
     "runtime": "137 min",
     "director": "Francis Lawrence"
+  },
+  {
+    "title": "The Warriors",
+    "date": "2026-09-26",
+    "time": "12:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30919",
+    "city": "NYC",
+    "description": "\u201cWaaarriors! Come out and play-ay!\u201d Falsely accused of responsibility for the assassination of New York\u2019s most powerful ganglord during a citywide summit in the Bronx\u2019s Van Cortlandt Park, Swan (Michael Beck) and his fellow Warriors now have to fight their way back, block by block and mano a mano, to the safe shores of their Coney Island turf. The film\u2019s knuckle-busting action choreography and its vision of NYC as a coliseum-like proving grounds for epic heroism\u2014its source, at a distance, is Xenophon\u2019s 4th century BC Anabasis\u2014are delectable, but its greatness lies in its attention to character, how it lets us see a crew of provincial Brooklynites gradually discovering they\u2019re the toughest dudes in town. Part of This Night Has Opened My Eyes",
+    "runtime": "93 min",
+    "director": "Walter Hill"
   },
   {
     "title": "Off-Circuit: UK PREMIERE Pin de Fartie + Q&A",
@@ -7004,19 +6939,6 @@
     "director": ""
   },
   {
-    "title": "The Double",
-    "date": "2026-09-26",
-    "time": "12:15 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30920",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Program 1 The Hidden Dimension",
     "date": "2026-09-26",
     "time": "12:15 PM",
@@ -7041,6 +6963,19 @@
     "description": "The new adventure sees the residents of Mossy Bottom Farm looking forward to Halloween - until the clumsy Farmer trashes the Flock's beloved pumpkin patch. When Shaun turns mad scientist to fix the problem, things rapidly spiral out of control, leading to a wild beast roaming the woods.",
     "runtime": "80 min",
     "director": "Steve Cox, Matthew Walker"
+  },
+  {
+    "title": "The Double",
+    "date": "2026-09-26",
+    "time": "12:15 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30920",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "UNZIPPED",
@@ -7290,19 +7225,6 @@
     "director": "Louis Paxton"
   },
   {
-    "title": "The Blade",
-    "date": "2026-09-26",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30921",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Off-Circuit: The Seasons",
     "date": "2026-09-26",
     "time": "2:00 PM",
@@ -7342,6 +7264,19 @@
     "director": "Georgia Oakley"
   },
   {
+    "title": "The Blade",
+    "date": "2026-09-26",
+    "time": "2:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30921",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
     "title": "HER PRIVATE HELL",
     "date": "2026-09-26",
     "time": "2:10 PM",
@@ -7368,19 +7303,6 @@
     "director": "Douglas Keeve"
   },
   {
-    "title": "Iphigenia",
-    "date": "2026-09-26",
-    "time": "2:15 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30924",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
     "date": "2026-09-26",
     "time": "2:15 PM",
@@ -7392,6 +7314,19 @@
     "description": "The new adventure sees the residents of Mossy Bottom Farm looking forward to Halloween - until the clumsy Farmer trashes the Flock's beloved pumpkin patch. When Shaun turns mad scientist to fix the problem, things rapidly spiral out of control, leading to a wild beast roaming the woods.",
     "runtime": "80 min",
     "director": "Steve Cox, Matthew Walker"
+  },
+  {
+    "title": "Iphigenia",
+    "date": "2026-09-26",
+    "time": "2:15 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30924",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "THE SCOUT",
@@ -8083,19 +8018,6 @@
     "director": "Georgia Oakley"
   },
   {
-    "title": "Ryuichi Sakamoto: Diaries",
-    "date": "2026-09-26",
-    "time": "5:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30925",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Remake (15)",
     "date": "2026-09-26",
     "time": "5:45 PM",
@@ -8107,6 +8029,19 @@
     "description": "In Remake , filmmaker Ross McElwee turns his lens on the passage of time and the uneasy space between documenting life and understanding it.",
     "runtime": "106 min",
     "director": "Ross McElwee"
+  },
+  {
+    "title": "Ryuichi Sakamoto: Diaries",
+    "date": "2026-09-26",
+    "time": "5:45 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30925",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "MY BROTHER'S WEDDING",
@@ -8265,19 +8200,6 @@
     "director": "John Wilson"
   },
   {
-    "title": "Time and Tide",
-    "date": "2026-09-26",
-    "time": "6:20 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30930",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Remake",
     "date": "2026-09-26",
     "time": "6:20 PM",
@@ -8289,6 +8211,19 @@
     "description": "In Remake , filmmaker Ross McElwee turns his lens on the passage of time and the uneasy space between documenting life and understanding it. The film traces McElwee\u2019s relationship with his son Adrian, and the fragile bond the camera created between them while Adrian was alive, and now that he\u2019s gone. Drawing from decades of footage, some shot by Ross, some by Adrian, the film becomes a layered excavation of memory and image making. Threaded through is the ghost of another project: a stalled effort by Hollywood to fictionalize McElwee\u2019s 1986 classic, Sherman\u2019s March . What emerges is a work shaped by absence and propelled forward by a father\u2019s love for his son.",
     "runtime": "116 min",
     "director": "Ross McElwee"
+  },
+  {
+    "title": "Time and Tide",
+    "date": "2026-09-26",
+    "time": "6:20 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30930",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "THE SCOUT",
@@ -8502,7 +8437,7 @@
     "format": "35mm",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627426",
+    "url": "https://princecharlescinema.com/film/9811609/goodfellas",
     "city": "London",
     "description": "Young Henry Hill (Ray Liotta), with his friends Jimmy (Robert De Niro) and Tommy (Joe Pesci), grows up in the mob and works very hard to advance himself through the ranks. He enjoys his life of money and luxury, but is oblivious to the horror that he causes. A drug addiction and a few mistakes ultimately unravel his climb to the top. Based on the book \"Wiseguy\" by Nicholas Pileggi.",
     "runtime": "145 min",
@@ -8743,19 +8678,6 @@
     "director": "Georgia Oakley"
   },
   {
-    "title": "Alien: Resurrection",
-    "date": "2026-09-26",
-    "time": "8:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30929",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Sense And Sensibility",
     "date": "2026-09-26",
     "time": "8:45 PM",
@@ -8767,6 +8689,19 @@
     "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles. Sisters Elinor and Marianne Dashwood must leave their Sussex estate following the sudden loss of their wealthy father and are forced to move in with a distant relative. The two sisters attempt to find security and happiness whilst navigating their vastly different approaches to love.",
     "runtime": "132 min",
     "director": "Georgia Oakley"
+  },
+  {
+    "title": "Alien: Resurrection",
+    "date": "2026-09-26",
+    "time": "8:45 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30929",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "The History of Concrete",
@@ -9026,19 +8961,6 @@
     "director": "Bill Condon, Catherine Hardwicke, Chris Weitz, David Slade"
   },
   {
-    "title": "Rebels of the Neon God",
-    "date": "2026-09-26",
-    "time": "11:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30928",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Chow Yun-Fat-A-Thon",
     "date": "2026-09-26",
     "time": "11:00 PM",
@@ -9050,6 +8972,19 @@
     "description": "ALL NIGHTER : FAQs, HOUSE RULES & TIPS Celebrate one of Hong Kong cinema's greatest icons with five defining performances from Chow Yun-fat, the charismatic star whose effortless cool, emotional depth, and unforgettable screen presence helped redefine the modern action hero. Together, these genre-defining classics capture the style, heart, and kinetic energy that made him an international cinematic icon and continue to influence action filmmaking around the world. CHOW YUN FAT-A-THON line-up: A BETTER TOMORROW (1986): A reforming ex-gangster tries to reconcile with his estranged policeman brother, but the ties to his former gang are difficult to break. A BETTER TOMORROW II (1987): A restaurateur teams up with a police officer and his ex-con brother to avenge the death of a friend's daughter. CITY ON FIRE (1987): An undercover cop infiltrates a gang of thieves who plan to rob a jewellery store. THE KILLER (1989): A disillusioned assassin accepts one last hit in hopes of using his earnings to restore the vision of a singer he accidentally blinded. HARD BOILED (1992): A tough-as-nails cop teams up with an undercover agent to shut down a sinister mobster and his crew ------------------------- NO ADMISSIONS TO THE CINEMA AFTER MIDNIGHT! NO ALCOHOL PURCHASED FROM OUTSIDE IS PERMITTED IN THE BUILDING! AGE RESTRICTIONS: This event is strictly 18 +",
     "runtime": "540 min",
     "director": "John Woo, Ringo Lam"
+  },
+  {
+    "title": "Rebels of the Neon God",
+    "date": "2026-09-26",
+    "time": "11:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30928",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Mac and Me",
@@ -9260,32 +9195,6 @@
     "director": ""
   },
   {
-    "title": "Goodbye, Dragon Inn",
-    "date": "2026-09-27",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30932",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "The Little Mermaid",
-    "date": "2026-09-27",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30931",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Members' Screening: Queen at Sea (15)",
     "date": "2026-09-27",
     "time": "11:00 AM",
@@ -9310,6 +9219,32 @@
     "description": "Academy Award nominee John Lithgow stars in this big-hearted, big-footed family comedy. While returning from a trip to the woods, George\u2026",
     "runtime": "110 min",
     "director": "William Dear"
+  },
+  {
+    "title": "Goodbye, Dragon Inn",
+    "date": "2026-09-27",
+    "time": "11:00 AM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30932",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
+    "title": "The Little Mermaid",
+    "date": "2026-09-27",
+    "time": "11:00 AM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30931",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "2026 Sundance Festival Short Film Tour (Open Captioning)",
@@ -9585,19 +9520,6 @@
     "director": "Destin Daniel Cretton"
   },
   {
-    "title": "A Better Tomorrow III: Love and Death in Saigon",
-    "date": "2026-09-27",
-    "time": "12:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30933",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Shaun the Sheep: The Beast of Mossy Bottom",
     "date": "2026-09-27",
     "time": "12:45 PM",
@@ -9609,6 +9531,19 @@
     "description": "Shaun The Sheep: The Beast Of Mossy Bottom sees the residents of Mossy Bottom Farm looking forward to Halloween - until the clumsy Farmer trashes the Flock's beloved pumpkin patch! When Shaun turns mad scientist to fix the problem, things rapidly spiral out of control... With The Farmer missing and a wild beast roaming the woods of Mossingham, all the ingredients are in place for a monstrously fun family adventure. Warning: This film contains sequences with flashing or flickering lights that may affect individuals with photosensitivity. Viewer discretion is advised.",
     "runtime": "81 min",
     "director": "Steve Cox, Matthew Walker"
+  },
+  {
+    "title": "A Better Tomorrow III: Love and Death in Saigon",
+    "date": "2026-09-27",
+    "time": "12:45 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30933",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Pushing Hands",
@@ -10066,6 +10001,19 @@
     "director": "Ethan Coen, Joel Coen"
   },
   {
+    "title": "Coyote vs. Acme",
+    "date": "2026-09-27",
+    "time": "3:00 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/83435?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "A story set in the ACME warehouse, the manufacturer of anything and everything used by the Looney Tunes characters.",
+    "runtime": "103 min",
+    "director": "Dave Green"
+  },
+  {
     "title": "The Wedding Banquet",
     "date": "2026-09-27",
     "time": "3:00 PM",
@@ -10090,19 +10038,6 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "Coyote vs. Acme",
-    "date": "2026-09-27",
-    "time": "3:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83435?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A story set in the ACME warehouse, the manufacturer of anything and everything used by the Looney Tunes characters.",
-    "runtime": "103 min",
-    "director": "Dave Green"
   },
   {
     "title": "FILIPI\u00d1ANA",
@@ -10469,19 +10404,6 @@
     "director": "Christopher Nolan"
   },
   {
-    "title": "Ryuichi Sakamoto | Opus",
-    "date": "2026-09-27",
-    "time": "5:15 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30937",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Her Private Hell",
     "date": "2026-09-27",
     "time": "5:15 PM",
@@ -10519,6 +10441,19 @@
     "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
     "runtime": "106 min",
     "director": "Matt Johnson"
+  },
+  {
+    "title": "Ryuichi Sakamoto | Opus",
+    "date": "2026-09-27",
+    "time": "5:15 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30937",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Remake (15)",
@@ -10651,19 +10586,6 @@
     "director": "Charles Burnett"
   },
   {
-    "title": "Story of Mother",
-    "date": "2026-09-27",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30942",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Talk: Seeing Stars",
     "date": "2026-09-27",
     "time": "6:00 PM",
@@ -10714,6 +10636,19 @@
     "description": "After a harrowing plane crash, Special Forces officer James Belmont (Brad Pitt) and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements. From acclaimed filmmaker David Ayer, Heart of the Beast is an intense adventure thriller that explores the unbreakable bond between a man and his best friend as they face their greatest battle yet.",
     "runtime": "101 min",
     "director": "David Ayer"
+  },
+  {
+    "title": "Story of Mother",
+    "date": "2026-09-27",
+    "time": "6:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30942",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Take Me Home",
@@ -11090,32 +11025,6 @@
     "city": "LA"
   },
   {
-    "title": "Ryuichi Sakamoto: Coda",
-    "date": "2026-09-27",
-    "time": "8:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30941",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "Fireflies Press Presents: Morvern Callar",
-    "date": "2026-09-27",
-    "time": "8:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30938",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "NYFF Trivia Night",
     "date": "2026-09-27",
     "time": "8:00 PM",
@@ -11166,6 +11075,32 @@
     "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood.\r\nThree sisters experience love and heartbreak after they're forced to leave their family estate with their widowed mother and move to a humble cottage...",
     "runtime": "131 min",
     "director": "Georgia Oakley"
+  },
+  {
+    "title": "Ryuichi Sakamoto: Coda",
+    "date": "2026-09-27",
+    "time": "8:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30941",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
+    "title": "Fireflies Press Presents: Morvern Callar",
+    "date": "2026-09-27",
+    "time": "8:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30938",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "HER PRIVATE HELL",
@@ -11997,19 +11932,6 @@
     "director": "John Wilson"
   },
   {
-    "title": "Medea (1969)",
-    "date": "2026-09-28",
-    "time": "3:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31067",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Tony (15) (AD)",
     "date": "2026-09-28",
     "time": "3:45 PM",
@@ -12034,6 +11956,19 @@
     "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles. Sisters Elinor and Marianne Dashwood must leave their Sussex estate following the sudden loss of their wealthy father and are forced to move in with a distant relative. The two sisters attempt to find security and happiness whilst navigating their vastly different approaches to love.",
     "runtime": "132 min",
     "director": "Georgia Oakley"
+  },
+  {
+    "title": "Medea (1969)",
+    "date": "2026-09-28",
+    "time": "3:45 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31067",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Brazil",
@@ -12218,19 +12153,6 @@
     "director": "Georgia Oakley"
   },
   {
-    "title": "Women on the Verge of a Nervous Breakdown",
-    "date": "2026-09-28",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31069",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Heil Jupiter!",
     "date": "2026-09-28",
     "time": "6:00 PM",
@@ -12294,6 +12216,19 @@
     "description": "After a harrowing plane crash, Special Forces officer James Belmont (Brad Pitt) and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements. From acclaimed filmmaker David Ayer, Heart of the Beast is an intense adventure thriller that explores the unbreakable bond between a man and his best friend as they face their greatest battle yet.",
     "runtime": "101 min",
     "director": "David Ayer"
+  },
+  {
+    "title": "Women on the Verge of a Nervous Breakdown",
+    "date": "2026-09-28",
+    "time": "6:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31069",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Remake (15)",
@@ -12634,19 +12569,6 @@
     "director": "Anthony Russo, Joe Russo"
   },
   {
-    "title": "The Warriors",
-    "date": "2026-09-28",
-    "time": "8:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31070",
-    "city": "NYC",
-    "description": "\u201cWaaarriors! Come out and play-ay!\u201d Falsely accused of responsibility for the assassination of New York\u2019s most powerful ganglord during a citywide summit in the Bronx\u2019s Van Cortlandt Park, Swan (Michael Beck) and his fellow Warriors now have to fight their way back, block by block and mano a mano, to the safe shores of their Coney Island turf. The film\u2019s knuckle-busting action choreography and its vision of NYC as a coliseum-like proving grounds for epic heroism\u2014its source, at a distance, is Xenophon\u2019s 4th century BC Anabasis\u2014are delectable, but its greatness lies in its attention to character, how it lets us see a crew of provincial Brooklynites gradually discovering they\u2019re the toughest dudes in town. Part of This Night Has Opened My Eyes",
-    "runtime": "93 min",
-    "director": "Walter Hill"
-  },
-  {
     "title": "SENSE AND SENSIBILITY",
     "date": "2026-09-28",
     "time": "8:00 PM",
@@ -12671,6 +12593,19 @@
     "description": "In the remote South Korea village of Hope Harbor, police chief Bum-seok (Hwang Jung- min) and officer Sung-ae (Hoyeon) are called to find a mysterious creature that has wreaked havoc on the village. In the nearby forest, a coterie of hunters, including Sung- ki (Zo In-Sung) set out to track the beast and find themselves hunted instead. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "runtime": "157 min",
     "director": "Na Hong-Jin"
+  },
+  {
+    "title": "The Warriors",
+    "date": "2026-09-28",
+    "time": "8:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31070",
+    "city": "NYC",
+    "description": "\u201cWaaarriors! Come out and play-ay!\u201d Falsely accused of responsibility for the assassination of New York\u2019s most powerful ganglord during a citywide summit in the Bronx\u2019s Van Cortlandt Park, Swan (Michael Beck) and his fellow Warriors now have to fight their way back, block by block and mano a mano, to the safe shores of their Coney Island turf. The film\u2019s knuckle-busting action choreography and its vision of NYC as a coliseum-like proving grounds for epic heroism\u2014its source, at a distance, is Xenophon\u2019s 4th century BC Anabasis\u2014are delectable, but its greatness lies in its attention to character, how it lets us see a crew of provincial Brooklynites gradually discovering they\u2019re the toughest dudes in town. Part of This Night Has Opened My Eyes",
+    "runtime": "93 min",
+    "director": "Walter Hill"
   },
   {
     "title": "Tokyo Melody",
@@ -13541,19 +13476,6 @@
     "director": "Liz Sargent"
   },
   {
-    "title": "Stealing Beauty",
-    "date": "2026-09-29",
-    "time": "4:30 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31079",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Off-Circuit: The Seasons",
     "date": "2026-09-29",
     "time": "4:30 PM",
@@ -13578,6 +13500,19 @@
     "description": "",
     "runtime": "",
     "director": "Yuen Woo-ping"
+  },
+  {
+    "title": "Stealing Beauty",
+    "date": "2026-09-29",
+    "time": "4:30 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31079",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "The Incomer",
@@ -14890,19 +14825,6 @@
     "director": "John Wilson"
   },
   {
-    "title": "Solaris",
-    "date": "2026-09-30",
-    "time": "3:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31080",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Making Marie Antoinette",
     "date": "2026-09-30",
     "time": "3:45 PM",
@@ -14914,6 +14836,19 @@
     "description": "Sofia Coppola\u2019s dynamic craftsmanship in creating her personal vision for 2006\u2019s Marie Antoinette (NYFF44) is on full display in this video diary shot by her mother, Eleanor Coppola, on the film\u2019s set in Versailles in 2005. Preceded by Kleber Mendon\u00e7a Filho\u2019s South of Tehran.",
     "runtime": "86 min",
     "director": "Eleanor Coppola"
+  },
+  {
+    "title": "Solaris",
+    "date": "2026-09-30",
+    "time": "3:45 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31080",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Program 5: The Material Ghost",
@@ -14968,19 +14903,6 @@
     "director": "Ross McElwee"
   },
   {
-    "title": "2046",
-    "date": "2026-09-30",
-    "time": "4:30 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31085",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "My Wife Cries",
     "date": "2026-09-30",
     "time": "4:30 PM",
@@ -14992,6 +14914,19 @@
     "description": "Angela Schanelec\u2019s (Music, NYFF62) formally audacious portrait of contemporary anxieties around love, gender, and trauma concerns a withdrawn construction worker whose wife reveals a shocking truth, upending perceptions about their seemingly comfortable marriage.",
     "runtime": "93 min",
     "director": "Angela Schanelec"
+  },
+  {
+    "title": "2046",
+    "date": "2026-09-30",
+    "time": "4:30 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31085",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "The Incomer",
@@ -15371,19 +15306,6 @@
     "director": "Diego Soto"
   },
   {
-    "title": "Uncut Gems",
-    "date": "2026-09-30",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31081",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Just Like Weather",
     "date": "2026-09-30",
     "time": "7:00 PM",
@@ -15421,6 +15343,19 @@
     "description": "Blades of the Guardians (\u93e2\u4eba:\u98a8\u8d77\u5927\u6f20). 2026. China. Directed by Yuen Woo-ping. With Wu Jing, Nicholas Tse, Sun Yizhou, Chen Lijun, Tony Leung Ka Fai, Kara Wai, Jet Li. DCP courtesy Well Go USA Entertainment. In Mandarin; English subtitles. 130 min. Yuen Woo-ping\u2019s latest directorial effort is a sweeping wuxia epic set against the blazing expanse of the Taklamakan Desert, where a mercenary hired to escort a political fugitive finds himself caught between warring factions, relentless bounty hunters, and age-old rivals. Yuen turns the desert itself into a living combatant, pitting his warriors against the merciless terrain as much as one another. Every set piece is built on movement legibility and spatial clarity, delivering action of breathtaking scale without sacrificing precision. The ensemble spans generations screen royalty\u2014Jet Li, Tony Leung Ka-fai, and Kara Wai alongside contemporary powerhouses Wu Jing, Nicholas Tse, and Max Zhang\u2014all joined by a new generation of rising talent and performing actual combat following rigorous training in martial arts, weapons handling, horsemanship, and archery. The result is a relentless spectacle that reaffirms Yuen\u2019s enduring mastery of cinematic action.",
     "runtime": "130 min",
     "director": "Yuen Woo-ping"
+  },
+  {
+    "title": "Uncut Gems",
+    "date": "2026-09-30",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31081",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "The Incomer",
@@ -17107,19 +17042,6 @@
     "director": "James Gray"
   },
   {
-    "title": "Paprika",
-    "date": "2026-10-02",
-    "time": "1:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30974",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Edward Said: Between Worlds",
     "date": "2026-10-02",
     "time": "1:45 PM",
@@ -17131,6 +17053,19 @@
     "description": "The life and mind of Edward Said, a professor, author, and world-renowned advocate for the Palestinian cause, fuels Maiken Baird\u2019s rich, engrossing documentary, made up entirely of archival footage.",
     "runtime": "107 min",
     "director": "Maiken Baird"
+  },
+  {
+    "title": "Paprika",
+    "date": "2026-10-02",
+    "time": "1:45 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30974",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Friday the 13th Part VI: Jason Lives",
@@ -17380,19 +17315,6 @@
     "city": "LA"
   },
   {
-    "title": "O Brother, Where Art Thou?",
-    "date": "2026-10-02",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30981",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Digger (15) (AD)",
     "date": "2026-10-02",
     "time": "6:00 PM",
@@ -17443,6 +17365,19 @@
     "description": "The screening will be followed by a Q&A with Kenyan director/protagonist Bea Wangondu and protagonist Mr Mungai. While investigating a local\u2026",
     "runtime": "93 min",
     "director": "Bea Wangondu"
+  },
+  {
+    "title": "O Brother, Where Art Thou?",
+    "date": "2026-10-02",
+    "time": "6:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30981",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Behemoth!",
@@ -18108,32 +18043,6 @@
     "city": "LA"
   },
   {
-    "title": "Pushing Hands",
-    "date": "2026-10-03",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30987",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "The Beach",
-    "date": "2026-10-03",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30984",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Behemoth!",
     "date": "2026-10-03",
     "time": "12:00 PM",
@@ -18168,6 +18077,32 @@
     "venue_short": "Peckhamplex",
     "url": "https://ticketing.eu.veezi.com/purchase/82946?siteToken=f3d16dvfdem7nzemve42hxwj68",
     "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
+    "title": "Pushing Hands",
+    "date": "2026-10-03",
+    "time": "12:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30987",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
+    "title": "The Beach",
+    "date": "2026-10-03",
+    "time": "12:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30984",
+    "city": "NYC",
     "description": "",
     "runtime": "",
     "director": ""
@@ -18368,19 +18303,6 @@
     "director": "Daniel Poler"
   },
   {
-    "title": "Amour",
-    "date": "2026-10-03",
-    "time": "2:15 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30985",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "LoLaFF: Concepci\u00f3n",
     "date": "2026-10-03",
     "time": "2:15 PM",
@@ -18394,13 +18316,13 @@
     "director": ""
   },
   {
-    "title": "The Taking of Pelham One Two Three",
+    "title": "Amour",
     "date": "2026-10-03",
-    "time": "2:30 PM",
+    "time": "2:15 PM",
     "format": "DCP",
     "venue": "Metrograph",
     "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30986",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30985",
     "city": "NYC",
     "description": "",
     "runtime": "",
@@ -18428,6 +18350,19 @@
     "venue_short": "Barbican",
     "url": "https://www.barbican.org.uk/whats-on/cinema",
     "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
+    "title": "The Taking of Pelham One Two Three",
+    "date": "2026-10-03",
+    "time": "2:30 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30986",
+    "city": "NYC",
     "description": "",
     "runtime": "",
     "director": ""
@@ -18940,19 +18875,6 @@
     "city": "LA"
   },
   {
-    "title": "Medea (1969)",
-    "date": "2026-10-03",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30989",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "What Can't Be Mentioned",
     "date": "2026-10-03",
     "time": "7:00 PM",
@@ -18977,6 +18899,19 @@
     "description": "The Matrix Reloaded. 2003. USA. Written and directed by Lana and Lilly Wachowski. Fight choreography by Yuen Woo-ping. With Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving, Jada Pinkett Smith. 35mm. 136 min.",
     "runtime": "136 min",
     "director": "Lana and Lilly Wachowski"
+  },
+  {
+    "title": "Medea (1969)",
+    "date": "2026-10-03",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30989",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Possible Love",
@@ -19200,19 +19135,6 @@
     "director": "Beatrice Gibson"
   },
   {
-    "title": "Electra, My Love",
-    "date": "2026-10-03",
-    "time": "9:15 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30990",
-    "city": "NYC",
-    "description": "Jansc\u00f3\u2019s radically original, downright hypnotic retelling of the Ancient Greek myth against the backdrop of the puszta, Hungary\u2019s vast, muddy plains, is among the long-take master\u2019s most bravura stylistic performances, its 70-minute runtime made up of only twelve intricately composed shots. Reworking the tale of Electra and her ill use at the hands of Aegisthus\u2014the man who loved her mother and murdered her father 15 years ago\u2014Jansc\u00f3 produces a timeless meditation on tyranny and rebellion\u2014and a resounding call to resistance. Part of Classical Cinema",
-    "runtime": "71 min",
-    "director": "Mikl\u00f3s Jancs\u00f3"
-  },
-  {
     "title": "Club Kid",
     "date": "2026-10-03",
     "time": "9:15 PM",
@@ -19237,6 +19159,19 @@
     "description": "In his final film, Luchino Visconti offers a poison-pill variation on the theme that consumed his career\u2014the moral decay of the soul-sick aristocracy\u2014while achieving a masterful synthesis of stylistic splendor and emotional intensity.",
     "runtime": "129 min",
     "director": "Luchino Visconti"
+  },
+  {
+    "title": "Electra, My Love",
+    "date": "2026-10-03",
+    "time": "9:15 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30990",
+    "city": "NYC",
+    "description": "Jansc\u00f3\u2019s radically original, downright hypnotic retelling of the Ancient Greek myth against the backdrop of the puszta, Hungary\u2019s vast, muddy plains, is among the long-take master\u2019s most bravura stylistic performances, its 70-minute runtime made up of only twelve intricately composed shots. Reworking the tale of Electra and her ill use at the hands of Aegisthus\u2014the man who loved her mother and murdered her father 15 years ago\u2014Jansc\u00f3 produces a timeless meditation on tyranny and rebellion\u2014and a resounding call to resistance. Part of Classical Cinema",
+    "runtime": "71 min",
+    "director": "Mikl\u00f3s Jancs\u00f3"
   },
   {
     "title": "Filipi\u00f1ana",
@@ -19369,32 +19304,6 @@
     "city": "LA"
   },
   {
-    "title": "The Double",
-    "date": "2026-10-04",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30994",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "Small Change",
-    "date": "2026-10-04",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30993",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "NYFF64 Member Day",
     "date": "2026-10-04",
     "time": "11:00 AM",
@@ -19445,6 +19354,32 @@
     "description": "In New Orleans during the Jazz Age, a beautiful girl named Tiana (Anika Noni Rose) dreams of owning her own restaurant.\u2026",
     "runtime": "97 min",
     "director": "John Musker"
+  },
+  {
+    "title": "The Double",
+    "date": "2026-10-04",
+    "time": "11:00 AM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30994",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
+    "title": "Small Change",
+    "date": "2026-10-04",
+    "time": "11:00 AM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=30993",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Dao",
@@ -19590,19 +19525,6 @@
     "city": "LA"
   },
   {
-    "title": "Amour",
-    "date": "2026-10-04",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31002",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Digger",
     "date": "2026-10-04",
     "time": "1:00 PM",
@@ -19614,6 +19536,19 @@
     "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's saviour before the disaster he\u2019s unleashed destroys everything.",
     "runtime": "129 min",
     "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
+  },
+  {
+    "title": "Amour",
+    "date": "2026-10-04",
+    "time": "1:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31002",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "High and Low",
@@ -23919,6 +23854,19 @@
     "director": "Jesse Eisenberg"
   },
   {
+    "title": "Parent & Baby Screening: Digger (15) (AD)",
+    "date": "2026-10-10",
+    "time": "10:45 AM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
     "title": "The Little Vampire",
     "date": "2026-10-10",
     "time": "11:00 AM",
@@ -24387,19 +24335,6 @@
     "director": "Andrzej \u017bu\u0142awski"
   },
   {
-    "title": "Mermaids",
-    "date": "2026-10-10",
-    "time": "5:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31060",
-    "city": "NYC",
-    "description": "It\u2019s 1963, and different-drummer single mother Cher has decided to move from Oklahoma to smalltown Massachusetts, uprooting her two daughters, nine-year-old Kate and Catholicism-obsessed 15-year-old Rachel (Winona Ryder, who provides the narration). What follows includes JFK assassination trauma, a pregnancy scare, mother-daughter sexual competition, and one miraculous rescue, with devastating dynamic duo Cher and Ryder pushing one another to histrionic heights. Part of Winona Ryder Analogue Youth",
-    "runtime": "111 min",
-    "director": "Richard Benjamin"
-  },
-  {
     "title": "The Dreamed Adventure",
     "date": "2026-10-10",
     "time": "5:45 PM",
@@ -24424,6 +24359,19 @@
     "description": "After Anna (Isabelle Adjani) reveals to her husband, Mark (Sam Neill), that she is having an affair, she leaves him and their son. Mark is devastated, and seeks out Heinrich (Heinz Bennent), the man who cuckolded him, only to receive a beating. After a series of violent confrontations between Mark and Anna, Mark hires a private investigator to follow her. Anna descends into madness, and it's soon clear that she is hiding a much bigger secret -- one that is both inexplicable and shocking.",
     "runtime": "124 min",
     "director": "Andrzej Zulawski"
+  },
+  {
+    "title": "Mermaids",
+    "date": "2026-10-10",
+    "time": "5:45 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31060",
+    "city": "NYC",
+    "description": "It\u2019s 1963, and different-drummer single mother Cher has decided to move from Oklahoma to smalltown Massachusetts, uprooting her two daughters, nine-year-old Kate and Catholicism-obsessed 15-year-old Rachel (Winona Ryder, who provides the narration). What follows includes JFK assassination trauma, a pregnancy scare, mother-daughter sexual competition, and one miraculous rescue, with devastating dynamic duo Cher and Ryder pushing one another to histrionic heights. Part of Winona Ryder Analogue Youth",
+    "runtime": "111 min",
+    "director": "Richard Benjamin"
   },
   {
     "title": "SHARKY'S MACHINE",
@@ -24813,6 +24761,19 @@
     "director": "Tony Gilroy"
   },
   {
+    "title": "Members' Screening: Digger (15) (AD)",
+    "date": "2026-10-11",
+    "time": "11:00 AM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
     "title": "The Age of Innocence",
     "date": "2026-10-11",
     "time": "11:45 AM",
@@ -24824,19 +24785,6 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "Once Upon a Time in China",
-    "date": "2026-10-11",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31045",
-    "city": "NYC",
-    "description": "No one wields a \u2019Scope frame with quite the same flexibility and dynamism as Hark, and the spectacular, Sergio Leone\u2013inspired Once Upon a Time in China\u2014perhaps the crucial film of the 1990s wuxia revival\u2014shows Hark at his most flamboyant, keeping up with the human whirlwind that is Jet Li, here in the role of physician, martial artist, and 19th-century Cantonese folk hero Wong Fei-hung, who\u2019s pitted against unscrupulous gangsters, human traffickers from the West, and his inconvenient feelings for \u201c13th Aunt\u201d Rosamund Kwan. Showstopping set pieces come fast and furious en route to a shoot-the-works shipboard finale; a monumental work of kinetic cinema. Part of Don't Play with Fire: The Films of Tsui Hark",
-    "runtime": "134 min",
-    "director": "Tsui Hark"
   },
   {
     "title": "The Loneliest Man in Town",
@@ -24863,6 +24811,19 @@
     "description": "Two kids and a magical cat embark on a journey of self-discovery, in this coming-of-age fantasy masterpiece from legendary Studio Ghibli.",
     "runtime": "111 min",
     "director": "Yoshifumi Kond\u014d"
+  },
+  {
+    "title": "Once Upon a Time in China",
+    "date": "2026-10-11",
+    "time": "12:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31045",
+    "city": "NYC",
+    "description": "No one wields a \u2019Scope frame with quite the same flexibility and dynamism as Hark, and the spectacular, Sergio Leone\u2013inspired Once Upon a Time in China\u2014perhaps the crucial film of the 1990s wuxia revival\u2014shows Hark at his most flamboyant, keeping up with the human whirlwind that is Jet Li, here in the role of physician, martial artist, and 19th-century Cantonese folk hero Wong Fei-hung, who\u2019s pitted against unscrupulous gangsters, human traffickers from the West, and his inconvenient feelings for \u201c13th Aunt\u201d Rosamund Kwan. Showstopping set pieces come fast and furious en route to a shoot-the-works shipboard finale; a monumental work of kinetic cinema. Part of Don't Play with Fire: The Films of Tsui Hark",
+    "runtime": "134 min",
+    "director": "Tsui Hark"
   },
   {
     "title": "Red Rocks",
@@ -25047,19 +25008,6 @@
     "director": "Jean-Marie Straub, Dani\u00e8le Huillet"
   },
   {
-    "title": "Once Upon a Time in China II",
-    "date": "2026-10-11",
-    "time": "2:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31046",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Dao",
     "date": "2026-10-11",
     "time": "2:45 PM",
@@ -25071,6 +25019,19 @@
     "description": "French Senegalese filmmaker Alain Gomis\u2019s (F\u00e9licit\u00e9, NYFF55) ecstatic epic plunges headfirst into two separate yet intrinsically interconnected ceremonies\u2014a memorial in Guinea-Bissau and a wedding in Paris\u2014which Gomis cuts between with kinetic abandon.",
     "runtime": "192 min",
     "director": "Alain Gomis"
+  },
+  {
+    "title": "Once Upon a Time in China II",
+    "date": "2026-10-11",
+    "time": "2:45 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31046",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "WOMEN IN ANIMATION PGM 1: ANIMATED ANIMALS",
@@ -25627,6 +25588,19 @@
     "description": "The lives of two married couples from different social strata collide in Lee Chang-dong\u2019s brilliantly unfolding narrative about economic precarity, in which a laid-off factory worker and his wife become the camera subjects for a documentary filmmaker. Winner of the Silver Lion at the 2026 Venice Film Festival and South Korea\u2019s entry for Best International Feature Film at the 2027 Academy Awards.",
     "runtime": "164 min",
     "director": "Lee Chang-dong"
+  },
+  {
+    "title": "Parent & Baby Screening: Digger (15) (AD)",
+    "date": "2026-10-12",
+    "time": "10:45 AM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "SCC: Familiar Touch (12A) + Short",
@@ -27355,6 +27329,19 @@
     "director": "Dominik Moll"
   },
   {
+    "title": "LFF: Let Them Be Seen",
+    "date": "2026-10-16",
+    "time": "6:40 PM",
+    "format": "DCP",
+    "venue": "ICA",
+    "venue_short": "ICA",
+    "url": "https://www.ica.art/films",
+    "city": "London",
+    "description": "",
+    "runtime": "75 min",
+    "director": ""
+  },
+  {
     "title": "Minority Report",
     "date": "2026-10-16",
     "time": "6:40 PM",
@@ -27378,19 +27365,6 @@
     "city": "NYC",
     "description": "",
     "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "LFF: Let Them Be Seen",
-    "date": "2026-10-16",
-    "time": "6:40 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "75 min",
     "director": ""
   },
   {
@@ -27563,19 +27537,6 @@
     "director": ""
   },
   {
-    "title": "Almost Famous",
-    "date": "2026-10-16",
-    "time": "9:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31098",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Once Upon a Time in Harlem",
     "date": "2026-10-16",
     "time": "9:00 PM",
@@ -27587,6 +27548,19 @@
     "description": "In 1972, legendary filmmaker William Greaves gathered an extraordinary group of artists, writers, actors, musicians, and thinkers of the Harlem Renaissance. After more than 50 years, his son David Greaves has completed his breathtaking miracle of a movie.",
     "runtime": "100 min",
     "director": "William Greaves and David Greaves"
+  },
+  {
+    "title": "Almost Famous",
+    "date": "2026-10-16",
+    "time": "9:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31098",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "The Terminator",
@@ -27758,19 +27732,6 @@
     "city": "LA"
   },
   {
-    "title": "Okja",
-    "date": "2026-10-17",
-    "time": "12:00 PM",
-    "format": "4K DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31099",
-    "city": "NYC",
-    "description": "The titular beast is a gentle, lumbering, lovable \u201csuper pig\u201d created by big agribusiness, peacefully raised in the South Korean countryside by young Mija (Ahn Seo-hyun) before being spirited off to the US, sweeping both pet and owner into a conflict between animal rights activists and mercenary corporate forces. A dark science fiction fable, its impressive ensemble cast includes Tilda Swinton, Paul Dano, and Jake Gyllenhaal. \u201c[Okja] represents a departure toward a different type of image, a different texture and look: something very blue and metallic, with lots of compressed cityscapes and a bit of gold in the flesh tones\u2026 [Visual effects supervisor Erik de Boer] sat in with us [during the color grading] where we took every single shot of Okja in the film and treated each one individually for aspects of color and light.\u201d \u2014Darius Khondji Part of Radical Chiaroscuro: The Work of Darius Khondji",
-    "runtime": "120 min",
-    "director": "Bong Joon Ho"
-  },
-  {
     "title": "Scream",
     "date": "2026-10-17",
     "time": "12:00 PM",
@@ -27782,6 +27743,19 @@
     "description": "Wes Craven re-invented and revitalised the slasher-horror genre with this modern horror classic, which manages to be funny, clever and scary, as a fright-masked knife maniac stalks high-school students in middle-class suburbia. Craven is happy to provide both tension and self-parody as the body count mounts - but the victims aren't always the ones you'd expect.",
     "runtime": "111 min",
     "director": "Wes Craven"
+  },
+  {
+    "title": "Okja",
+    "date": "2026-10-17",
+    "time": "12:00 PM",
+    "format": "4K DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31099",
+    "city": "NYC",
+    "description": "The titular beast is a gentle, lumbering, lovable \u201csuper pig\u201d created by big agribusiness, peacefully raised in the South Korean countryside by young Mija (Ahn Seo-hyun) before being spirited off to the US, sweeping both pet and owner into a conflict between animal rights activists and mercenary corporate forces. A dark science fiction fable, its impressive ensemble cast includes Tilda Swinton, Paul Dano, and Jake Gyllenhaal. \u201c[Okja] represents a departure toward a different type of image, a different texture and look: something very blue and metallic, with lots of compressed cityscapes and a bit of gold in the flesh tones\u2026 [Visual effects supervisor Erik de Boer] sat in with us [during the color grading] where we took every single shot of Okja in the film and treated each one individually for aspects of color and light.\u201d \u2014Darius Khondji Part of Radical Chiaroscuro: The Work of Darius Khondji",
+    "runtime": "120 min",
+    "director": "Bong Joon Ho"
   },
   {
     "title": "Zvenygora",
@@ -28564,19 +28538,6 @@
     "city": "LA"
   },
   {
-    "title": "Autumn Sonata",
-    "date": "2026-10-18",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31108",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "My Neighbour Totoro [Dubbed]",
     "date": "2026-10-18",
     "time": "11:00 AM",
@@ -28588,6 +28549,19 @@
     "description": "From the legendary Studio Ghibli, creators of Spirited Away and Ponyo, and Academy Award-winning director Hayao Miyazaki, comes a classic tale of\u2026",
     "runtime": "86 min",
     "director": "Hayao Miyazaki"
+  },
+  {
+    "title": "Autumn Sonata",
+    "date": "2026-10-18",
+    "time": "11:00 AM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31108",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "The Aristocats",
@@ -28668,32 +28642,6 @@
     "city": "LA"
   },
   {
-    "title": "Little Women",
-    "date": "2026-10-18",
-    "time": "1:00 PM",
-    "format": "4K DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31115",
-    "city": "NYC",
-    "description": "Winona Ryder would receive an Academy Award nomination for Best Actress for her role as the headstrong, literary minded Jo March in Armstrong\u2019s perfectly enchanting adaptation of Louisa May Alcott\u2019s 1868 novel of the same name, about the travails of the March sisters of Concord, Massachusetts, and their various suitors. Made with sweet-spirited good humor and exacting attention to period detail, with Trini Alvarado, Samantha Mathis, Kirsten Dunst, and Claire Danes rounding out the March clan, and Eric Stoltz, Gabriel Byrne, and Christian Bale among the men drawn to the glow exuded by the March homestead. \u201cSolid, warming, bountiful, brimful of high spirits, a glowing treat that belongs at the top of any holiday movie shopping list.\u201d \u2014Boston Globe",
-    "runtime": "115 min",
-    "director": "Gillian Armstrong"
-  },
-  {
-    "title": "All the President's Men",
-    "date": "2026-10-18",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://metrograph.com/film/?vista_film_id=9999001169",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Once Upon a Time in Harlem",
     "date": "2026-10-18",
     "time": "1:00 PM",
@@ -28731,6 +28679,32 @@
     "description": "The live theater capture of the hit musical Hadestown, which won eight Tony Awards in 2019 including Best Musical and the 2020 Grammy Award for Best Musical Theater Album, featuring the five original principals of the Broadway company. The genre-defying new musical blends modern American folk music with New Orleans-inspired jazz to reimagine a sweeping ancient tale. Following two intertwining love stories \u2014 that of young dreamers Orpheus and Eurydice, and that of King Hades and his wife Persephone \u2014Hadestowninvites audiences on a hell-raising journey to the underworld and back.",
     "runtime": "142 min",
     "director": "Brett Sullivan"
+  },
+  {
+    "title": "Little Women",
+    "date": "2026-10-18",
+    "time": "1:00 PM",
+    "format": "4K DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31115",
+    "city": "NYC",
+    "description": "Winona Ryder would receive an Academy Award nomination for Best Actress for her role as the headstrong, literary minded Jo March in Armstrong\u2019s perfectly enchanting adaptation of Louisa May Alcott\u2019s 1868 novel of the same name, about the travails of the March sisters of Concord, Massachusetts, and their various suitors. Made with sweet-spirited good humor and exacting attention to period detail, with Trini Alvarado, Samantha Mathis, Kirsten Dunst, and Claire Danes rounding out the March clan, and Eric Stoltz, Gabriel Byrne, and Christian Bale among the men drawn to the glow exuded by the March homestead. \u201cSolid, warming, bountiful, brimful of high spirits, a glowing treat that belongs at the top of any holiday movie shopping list.\u201d \u2014Boston Globe",
+    "runtime": "115 min",
+    "director": "Gillian Armstrong"
+  },
+  {
+    "title": "All the President's Men",
+    "date": "2026-10-18",
+    "time": "1:00 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://metrograph.com/film/?vista_film_id=9999001169",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Once Upon a Time in Harlem",
@@ -28837,19 +28811,6 @@
     "director": ""
   },
   {
-    "title": "Art Cinema for Tots: How to Play a Film",
-    "date": "2026-10-18",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31114",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Once Upon a Time in Harlem",
     "date": "2026-10-18",
     "time": "3:30 PM",
@@ -28874,6 +28835,19 @@
     "description": "Ken Russell\u2019s infamous adaptation of Aldous Huxley\u2019s novel, about the apparent possession of a group of nuns after one (Vanessa Redgrave) accuses a priest (Oliver Reed) of collaborating with the devil, is at long last available in its full, uncensored splendor.",
     "runtime": "114 min",
     "director": "Ken Russell"
+  },
+  {
+    "title": "Art Cinema for Tots: How to Play a Film",
+    "date": "2026-10-18",
+    "time": "3:30 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31114",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Ken Russell's The Devils 35mm",
@@ -29045,19 +29019,6 @@
     "director": "William Greaves and David Greaves"
   },
   {
-    "title": "Paris Was a Woman",
-    "date": "2026-10-18",
-    "time": "6:45 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31112",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Once Upon a Time in Harlem",
     "date": "2026-10-18",
     "time": "6:45 PM",
@@ -29069,6 +29030,19 @@
     "description": "In 1972, legendary filmmaker William Greaves gathered an extraordinary group of artists, writers, actors, musicians, and thinkers of the Harlem Renaissance. After more than 50 years, his son David Greaves has completed his breathtaking miracle of a movie.",
     "runtime": "100 min",
     "director": "William Greaves and David Greaves"
+  },
+  {
+    "title": "Paris Was a Woman",
+    "date": "2026-10-18",
+    "time": "6:45 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31112",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Ivan",
@@ -29188,19 +29162,6 @@
     "director": "Arne Mattsson"
   },
   {
-    "title": "Once Upon a Time in China",
-    "date": "2026-10-18",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Metrograph",
-    "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31111",
-    "city": "NYC",
-    "description": "No one wields a \u2019Scope frame with quite the same flexibility and dynamism as Hark, and the spectacular, Sergio Leone\u2013inspired Once Upon a Time in China\u2014perhaps the crucial film of the 1990s wuxia revival\u2014shows Hark at his most flamboyant, keeping up with the human whirlwind that is Jet Li, here in the role of physician, martial artist, and 19th-century Cantonese folk hero Wong Fei-hung, who\u2019s pitted against unscrupulous gangsters, human traffickers from the West, and his inconvenient feelings for \u201c13th Aunt\u201d Rosamund Kwan. Showstopping set pieces come fast and furious en route to a shoot-the-works shipboard finale; a monumental work of kinetic cinema. Part of Don't Play with Fire: The Films of Tsui Hark",
-    "runtime": "134 min",
-    "director": "Tsui Hark"
-  },
-  {
     "title": "Once Upon a Time in Harlem",
     "date": "2026-10-18",
     "time": "8:30 PM",
@@ -29227,17 +29188,17 @@
     "director": "Ken Russell"
   },
   {
-    "title": "Poem of the Sea",
+    "title": "Once Upon a Time in China",
     "date": "2026-10-18",
-    "time": "8:45 PM",
+    "time": "8:30 PM",
     "format": "DCP",
     "venue": "Metrograph",
     "venue_short": "Metrograph",
-    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31065",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31111",
     "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
+    "description": "No one wields a \u2019Scope frame with quite the same flexibility and dynamism as Hark, and the spectacular, Sergio Leone\u2013inspired Once Upon a Time in China\u2014perhaps the crucial film of the 1990s wuxia revival\u2014shows Hark at his most flamboyant, keeping up with the human whirlwind that is Jet Li, here in the role of physician, martial artist, and 19th-century Cantonese folk hero Wong Fei-hung, who\u2019s pitted against unscrupulous gangsters, human traffickers from the West, and his inconvenient feelings for \u201c13th Aunt\u201d Rosamund Kwan. Showstopping set pieces come fast and furious en route to a shoot-the-works shipboard finale; a monumental work of kinetic cinema. Part of Don't Play with Fire: The Films of Tsui Hark",
+    "runtime": "134 min",
+    "director": "Tsui Hark"
   },
   {
     "title": "The Debut",
@@ -29251,6 +29212,19 @@
     "description": "Tickets Are Only Available via BFI London Film Festival Website from Tuesday 17 September 2026 10:00am: Click Here To Book For LFF 2026\u2019s curtain call, writer-director Jesse Eisenberg delivers a rapturous and raucously funny love letter to community theatre, featuring a luminous lead performance by Julianne Moore. Quiet housewife Mona has become a supporting role in her own life; her husband barely acknowledges her presence and their children are on the cusp of fleeing the nest. So when, on an impulse, she auditions for a local production of an original musical, Mona suddenly finds herself in the spotlight when she is cast in a leading role, as Miss Danielle. However, she is unprepared for the theatrical hurricane that is Jerry, her enigmatic director and the \u2018biggest name in New Jersey community theatre\u2019. As she continues to be creatively pushed by him, Mona finds herself going to extreme lengths to unlock her character. The Debut once again finds the perfect balance between humour and drama that Eisenberg delivered with his previous films A Real Pain (LFF 2024) and When You Finish Saving the World. It\u2019s both sparklingly witty and laugh-out-loud funny, while every scene works to build on the emotional undercurrents and heartbreaking revelations that make the characters so credible. This time, Eisenberg\u2019s talents even stretch to writing the songs for the fictional stage musical. Moore is in her element, giving one of her finest performances, while Paul Giamatti\u2019s Jerry continues his run from The Holdovers as the master of dramedy. Ultimately, The Debut is an elegant and intelligent coming-of-older-age story about how it\u2019s never too late to find our true selves, and the redemptive powers of community and art. Take your seats... It\u2019s showtime! This screening will be presented with Descriptive Subtitles and will have Audio Description available on request.",
     "runtime": "105 min",
     "director": "Jesse Eisenberg"
+  },
+  {
+    "title": "Poem of the Sea",
+    "date": "2026-10-18",
+    "time": "8:45 PM",
+    "format": "DCP",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31065",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Once Upon a Time in Harlem",
@@ -31489,7 +31463,7 @@
     "director": "Raja Gosnell"
   },
   {
-    "title": "DOC'N ROLL: NOFX: 40 YEARS OF FUCKIN\u2019 UP!",
+    "title": "DOC'N ROLL: NOFX: 40 YEARS OF F*N\u2019 UP!",
     "date": "2026-10-23",
     "time": "8:30 PM",
     "format": "DCP",
@@ -33003,7 +32977,7 @@
     "format": "DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627653",
+    "url": "https://princecharlescinema.com/film/31616661/the-cable-guy",
     "city": "London",
     "description": "* ON SALE 23rd SEP * Oddball cable installer Chip Douglas (Jim Carrey) attempts to strike up a friendship with customer Steven Kovacs (Matthew Broderick) by offering him premium channels at no cost. When Steven rebuffs Chip's frequent need for companionship, Chip goes from a mildly eccentric acquaintance to a full-fledged psycho stalker. Though it's increasingly apparent to Steven that the cable guy is dangerous, convincing his friends, family and the authorities of that is another matter entirely.",
     "runtime": "96 min",
@@ -39445,7 +39419,7 @@
     "director": "Ren\u00e9 Laloux"
   },
   {
-    "title": "The Last Waltz",
+    "title": "The Last Waltz - 50th Anniversary",
     "date": "2026-11-26",
     "time": "6:00 PM",
     "format": "DCP",
@@ -43473,18 +43447,5 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "You Can\u2019t Take It with You             / Mr. Deeds Goes to Town",
-    "date": "2027-09-23",
-    "time": "7:30 pm / 10:05 pm",
-    "format": "35mm",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.com/program/september-23-you-cant-take-it-with-you-mr-deeds-goes-to-town/",
-    "description": "Academy Award\u00ae winner James Stewart (1940 Best Actor, The Philadelphia Story and 1985 Honorary Oscar\u00ae), Jean Arthur, Academy Award\u00ae winner Lionel Barrymore (1931 Best Actor, A Free Soul ) and Edward Arnold star in this classic screwball comedy. Based on the phenomenally successful Kaufman-Hart play, You Can\u2019t Take It With You was directed by Frank Capra and won two Academy Awards\u00ae (1938 Best Picture, Best Director) and garnered five more nominations. It was Capra\u2019s third Oscar\u00ae for directing. Arthur stars as Alice Sycamore, the stable family member of an offbeat clan of free spirits who falls for Stewart, the down-to-earth son of a snooty, wealthy family. Amidst a backdrop of confusion, the two very different families rediscover the simple joys of life. (Sony Pictures)",
-    "runtime": "126 min",
-    "director": "Frank Capra",
-    "city": "LA"
   }
 ]
