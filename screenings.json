@@ -3523,19 +3523,6 @@
     "director": "Louis Paxton"
   },
   {
-    "title": "Abbott and Costello Meet Frankentstein",
-    "date": "2026-09-26",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/programs/detail/abbott-and-costello-meet-frankentstein-019fc898-4964-4e59-8126-55aef8ca9d4b",
-    "description": "Accessible screening On the last Saturday of every month, the museum's Family Matinee is an accessible screening where we offer open captioning, keep the theater dimly lit, and maintain a lower volume for viewers who are neurodiverse. A popular comedy team of the 1940s and 1950s, Bud Abbott and Lou Costello, goes up against Universal Studios' monsters in this zany spoof that inspired several creep-tastic sequels. After Dracula (Bela Lugosi) teams with scientist Dr. Sandra Mornay (Lenore Aubert) to hunt for a more sophisticated brain for Frankenstein\u2019s Monster (Glenn Strange), they settle on dim-witted but lovable Wilbur Grey, played by Costello. Thanks in part to memorable appearances by the Wolf Man (Lon Chaney Jr.), and Vincent Price voicing the Invisible Man, this horror comedy mashup manages to do justice to both horror and comedy genres\u2015a feat frequently attempted but rarely achieved.",
-    "runtime": "83 min",
-    "director": "Charles T. Barton PRODUCED BY: Robert Arthur",
-    "city": "LA"
-  },
-  {
     "title": "HOFFA in 70mm",
     "date": "2026-09-26",
     "time": "11:00 AM",
@@ -3677,19 +3664,6 @@
     "description": "\u201cIsaac Mizrahi as he conceived and contorted the way through to his fall 1994 show, [dashing] around a deserted SoHo with pal Sandra Bernhard; [meeting] with Naomi Campbell, Linda Evangelista, and baby Kate Moss for fittings; and [racing] uptown to an audience with Eartha Kitt... Hair-raising deadlines, delirious Bette Davis impressions, and the hostile but exhilarating act of executing a designer\u2019s vision come together in a work that set the bar for all fashion films after.\u201d \u2013 Vogue",
     "runtime": "73 min",
     "director": "Douglas Keeve"
-  },
-  {
-    "title": "Resident Evil 35mm",
-    "date": "2026-09-26",
-    "time": "1:00 PM",
-    "format": "35mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4133?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "description": "From the mind of visionary filmmaker Zach Cregger (Weapons, Barbarian) comes a thrilling \u2014and terrifying \u2014reinvention of the Resident Evil franchise. In an all-new story, Resident Evil follows\n\nBryan (Austin Abrams), a medical courier who unwittingly finds himself in an action-packed, non-stop race for survival as one fateful, horrifying night collapses around him in chaos.",
-    "runtime": "94 min",
-    "director": "",
-    "city": "LA"
   },
   {
     "title": "Beyond Shorts: Mind Games",
@@ -3861,29 +3835,16 @@
     "director": ""
   },
   {
-    "title": "Report to Mother",
+    "title": "YOU HAD TO BE THERE",
     "date": "2026-09-26",
     "time": "2:30 PM",
     "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84341/84377",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/you-had-to-be-there",
     "city": "NYC",
-    "description": "Indelibly capturing the political tumult of 1970s Kerala in stark black and white, and enduring as one of South Indian cinema\u2019s most essential works, John Abraham\u2019s Report to Mother follows a man\u2019s discovery of a dead body and his journey to notify the deceased\u2019s mother.",
-    "runtime": "115 min",
-    "director": "John Abraham"
-  },
-  {
-    "title": "Talk: Gray Scorsese",
-    "date": "2026-09-26",
-    "time": "2:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84477/84478",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
+    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
+    "runtime": "98 min",
     "director": ""
   },
   {
@@ -3898,19 +3859,6 @@
     "description": "In this recent documentary Scottish film-maker Mark Forbes explores the reality of working-class exclusion from Britain's film industry through 16 interviews with actors, screenwriters and cinematographers including Maxine Peake, Vicky McClure, Paul Laverty ( I, Daniel Blake ) and Rachel Clark ( Dun...",
     "runtime": "66 min",
     "director": "Mark Forbes"
-  },
-  {
-    "title": "YOU HAD TO BE THERE",
-    "date": "2026-09-26",
-    "time": "2:30 PM",
-    "format": "DCP",
-    "venue": "Film Forum",
-    "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/you-had-to-be-there",
-    "city": "NYC",
-    "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
-    "runtime": "98 min",
-    "director": ""
   },
   {
     "title": "FILIPI\u00d1ANA",
@@ -3950,32 +3898,6 @@
     "runtime": "",
     "director": "",
     "city": "LA"
-  },
-  {
-    "title": "A Day in the Life of Jo",
-    "date": "2026-09-26",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84255/84283",
-    "city": "NYC",
-    "description": "Contemporary suburban Athens becomes the site of astronomical, ethereal beauty in Greek filmmaker Jacqueline Lentzou\u2019s audacious film, which glances at the ephemerality of life with humor and poignancy as it charts a consequential day for 15-year-old Jo. Winner of Orizzonti Award for Best Director at the 2026 Venice Film Festival.",
-    "runtime": "88 min",
-    "director": "Jacqueline Lentzou"
-  },
-  {
-    "title": "NAZA",
-    "date": "2026-09-26",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84495/84497",
-    "city": "NYC",
-    "description": "Directed by Yuval Abraham and Rachel Szor, two of the co-directors of the 2024 Oscar-winning documentary No Other Land (NYFF62), NAZA reveals the systems behind Israel\u2019s bombing of Gaza and its mass killing of Palestinian civilians. Winner of Special Jury Prize at the 2026 Venice Film Festival.",
-    "runtime": "77 min",
-    "director": "Yuval Abraham and Rachel Szor"
   },
   {
     "title": "Knife: The Attempted Murder of Salman Rushdie",
@@ -4030,19 +3952,6 @@
     "city": "LA"
   },
   {
-    "title": "TONEY W. MERRITT PGM 3: LATER WORK",
-    "date": "2026-09-26",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "Anthology Film Archives",
-    "venue_short": "Anthology",
-    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61933",
-    "city": "NYC",
-    "description": "VISION QUESTS (2009, 15 min, digital) AT EDEN\u2019S HEART (2021, 3 min, digital) BLACK OAK FALLEN (2021, 9 min, digital) A FIRE\u2019S POEM (2022, 4 min, digital) APART \u2013 A PART (2024, 6.5 min, digital) THE BIRDS AND THE BEASTS (2025, 4 min, digital) SOUL \u2013 WHAT LIES WITHIN (2026, 5 min, digital) FRAGMENT #9 \u2013 ON THE ASYMMETRY OF BROKEN BRANCHES (2026, 1.5 min, digital) Total running time: ca. 55 min. Merritt will be here in person for a Q&A moderated by curator and scholar Maya Cade.",
-    "runtime": "55 min",
-    "director": ""
-  },
-  {
     "title": "UNZIPPED",
     "date": "2026-09-26",
     "time": "4:00 PM",
@@ -4054,6 +3963,19 @@
     "description": "\u201cIsaac Mizrahi as he conceived and contorted the way through to his fall 1994 show, [dashing] around a deserted SoHo with pal Sandra Bernhard; [meeting] with Naomi Campbell, Linda Evangelista, and baby Kate Moss for fittings; and [racing] uptown to an audience with Eartha Kitt... Hair-raising deadlines, delirious Bette Davis impressions, and the hostile but exhilarating act of executing a designer\u2019s vision come together in a work that set the bar for all fashion films after.\u201d \u2013 Vogue",
     "runtime": "73 min",
     "director": "Douglas Keeve"
+  },
+  {
+    "title": "TONEY W. MERRITT PGM 3: LATER WORK",
+    "date": "2026-09-26",
+    "time": "4:00 PM",
+    "format": "DCP",
+    "venue": "Anthology Film Archives",
+    "venue_short": "Anthology",
+    "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=09&year=2026#showing-61933",
+    "city": "NYC",
+    "description": "VISION QUESTS (2009, 15 min, digital) AT EDEN\u2019S HEART (2021, 3 min, digital) BLACK OAK FALLEN (2021, 9 min, digital) A FIRE\u2019S POEM (2022, 4 min, digital) APART \u2013 A PART (2024, 6.5 min, digital) THE BIRDS AND THE BEASTS (2025, 4 min, digital) SOUL \u2013 WHAT LIES WITHIN (2026, 5 min, digital) FRAGMENT #9 \u2013 ON THE ASYMMETRY OF BROKEN BRANCHES (2026, 1.5 min, digital) Total running time: ca. 55 min. Merritt will be here in person for a Q&A moderated by curator and scholar Maya Cade.",
+    "runtime": "55 min",
+    "director": ""
   },
   {
     "title": "Once Upon a Time in China (\u9ec3\u98db\u9d3b)",
@@ -4147,19 +4069,6 @@
     "director": "Rufus Butler Seder"
   },
   {
-    "title": "Everything Else Is Noise",
-    "date": "2026-09-26",
-    "time": "4:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84120/84177",
-    "city": "NYC",
-    "description": "A middle-aged composer allows her friend to use her apartment to film a television interview, opening up a quietly revealing space, in Nicol\u00e1s Pereda\u2019s feminist-minded domestic comedy, an expert blend of realism and subtle absurdity.",
-    "runtime": "70 min",
-    "director": "Nicol\u00e1s Pereda"
-  },
-  {
     "title": "New York No Story",
     "date": "2026-09-26",
     "time": "4:30 PM",
@@ -4225,19 +4134,6 @@
     "director": "Kiwi Chow"
   },
   {
-    "title": "Life of Jorge Luis Borges",
-    "date": "2026-09-26",
-    "time": "5:15 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84254/84280",
-    "city": "NYC",
-    "description": "Argentinean filmmaker Mariano Llin\u00e1s\u2019s (La Flor, NYFF56) sorta-documentary about the life of Jorge Luis Borges tells the entirety of his life story by rummaging through rediscovered documents, poems, drafts, sketches, manuscripts, and clippings.",
-    "runtime": "323 min",
-    "director": "Mariano Llin\u00e1s"
-  },
-  {
     "title": "HER PRIVATE HELL",
     "date": "2026-09-26",
     "time": "5:15 PM",
@@ -4249,19 +4145,6 @@
     "description": "From the revered filmmaker behind Drive and The Neon Demon  filmmaker Nicolas Winding Refn comes HER PRIVATE HELL , a hypnotic descent into a futuristic metropolis shrouded in mysterious pink mist. Rising movie star Elle searches for her missing father, while an American G. I. wanders the desolate s...",
     "runtime": "110 min",
     "director": "Nicolas Winding Refn"
-  },
-  {
-    "title": "Practical Magic 2",
-    "date": "2026-09-26",
-    "time": "5:30 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/film/practical-magic-2/",
-    "city": "London",
-    "description": "Return to a world steeped in moonlit mischief and powerful ancestral magic, as the Owens sisters must confront the dark curse that threatens to unravel their family once and for all in a must-see cinematic event of fun, magic and mayhem.",
-    "runtime": "130 min",
-    "director": "Susanne Bier"
   },
   {
     "title": "UNZIPPED",
@@ -4316,45 +4199,6 @@
     "director": ""
   },
   {
-    "title": "Godzilla Minus Zero",
-    "date": "2026-09-26",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84145/84421",
-    "city": "NYC",
-    "description": "An experience that demands the big screen, director Takashi Yamazaki\u2019s follow-up to his triumphant, Oscar-winning Godzilla Minus One is a supremely satisfying sequel with even more astounding effects choreography than its predecessor.",
-    "runtime": "135 min",
-    "director": "Takashi Yamazaki"
-  },
-  {
-    "title": "London",
-    "date": "2026-09-26",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84260/84299",
-    "city": "NYC",
-    "description": "Sebastian Brameshuber draws a delicate, perceptive portrait of the contemporary gig economy with the story of a good-natured yet solitary driver in his early seventies who shuttles back and forth between Vienna and Salzburg alongside strangers met via a ride-share app.",
-    "runtime": "122 min",
-    "director": "Sebastian Brameshuber"
-  },
-  {
-    "title": "Sense And Sensibility",
-    "date": "2026-09-26",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17888/",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles. Sisters Elinor and Marianne Dashwood must leave their Sussex estate following the sudden loss of their wealthy father and are forced to move in with a distant relative. The two sisters attempt to find security and happiness whilst navigating their vastly different approaches to love.",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
     "title": "Take Me Home",
     "date": "2026-09-26",
     "time": "6:15 PM",
@@ -4392,19 +4236,6 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "Bad Apples",
-    "date": "2026-09-26",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83392?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A struggling primary school teacher begins to make some questionable decisions after one of her students is injured.",
-    "runtime": "101 min",
-    "director": "Jonatan Etzler"
   },
   {
     "title": "THE SCOUT",
@@ -4454,19 +4285,6 @@
     "description": "This program includes James Richards\u2019s Fevers, Artavazd Pelechian\u2019s The End, Johann Lurf\u2019s Forever\u2026Forever, and the world premiere of Morgan Fisher\u2019s Screening Room. Note: Screening Room will be included only at screenings in the Walter Reade Theater.",
     "runtime": "67 min",
     "director": "James Richards, Artavazd Pelechian, Johann Lurf, Morgan Fisher"
-  },
-  {
-    "title": "Sense and Sensibility (U)",
-    "date": "2026-09-26",
-    "time": "6:45 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/sense-and-sensibility",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen \u2019s iconic Sense and Sensibility : a charming, witty and deeply relatable story of love and sisterhood, starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles .",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
   },
   {
     "title": "DRAG",
@@ -4599,32 +4417,6 @@
     "director": ""
   },
   {
-    "title": "Goodfellas",
-    "date": "2026-09-26",
-    "time": "7:40 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/film/9811609/goodfellas",
-    "city": "London",
-    "description": "Young Henry Hill (Ray Liotta), with his friends Jimmy (Robert De Niro) and Tommy (Joe Pesci), grows up in the mob and works very hard to advance himself through the ranks. He enjoys his life of money and luxury, but is oblivious to the horror that he causes. A drug addiction and a few mistakes ultimately unravel his climb to the top. Based on the book \"Wiseguy\" by Nicholas Pileggi.",
-    "runtime": "145 min",
-    "director": "Martin Scorsese"
-  },
-  {
-    "title": "Avengers: Endgame Encore",
-    "date": "2026-09-26",
-    "time": "7:45 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83393?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The grave course of events set in motion by Thanos that wiped out half the universe and fractured the Avengers ranks compels the remaining Avengers to take one final stand in Marvel Studios' grand conclusion to twenty-two films, \"Avengers: Endgame.\"",
-    "runtime": "183 min",
-    "director": "Anthony Russo, Joe Russo"
-  },
-  {
     "title": "FILIPI\u00d1ANA",
     "date": "2026-09-26",
     "time": "7:50 PM",
@@ -4677,19 +4469,6 @@
     "city": "LA"
   },
   {
-    "title": "Stop Making Sense",
-    "date": "2026-09-26",
-    "time": "8:00 PM",
-    "format": "4K DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627419",
-    "city": "London",
-    "description": "Stop Making Sense stars core band members David Byrne, Tina Weymouth, Chris Frantz, and Jerry Harrison along with Bernie Worrell, Alex Weir, Steve Scales, Lynn Mabry and Edna Holt. The live performance was shot over the course of three nights at Hollywood's Pantages Theater in December of 1983 and features Talking Heads' most memorable songs.",
-    "runtime": "87 min",
-    "director": "Jonathan Demme"
-  },
-  {
     "title": "SENSE AND SENSIBILITY",
     "date": "2026-09-26",
     "time": "8:00 PM",
@@ -4701,19 +4480,6 @@
     "description": "Director of Blue Jean , Georgia Oakley transports us in this charming, witty new adaptation of Jane Austen\u2019s beloved novel, starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles. Following the death of their father, sisters Elinor and Marianne Dashwood are forced to leave their family estate and begin a n...",
     "runtime": "132 min",
     "director": "Georgia Oakley"
-  },
-  {
-    "title": "Hope",
-    "date": "2026-09-26",
-    "time": "8:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83396?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "In the remote South Korea village of Hope Harbor, police chief Bum-seok (Hwang Jung- min) and officer Sung-ae (Hoyeon) are called to find a mysterious creature that has wreaked havoc on the village. In the nearby forest, a coterie of hunters, including Sung- ki (Zo In-Sung) set out to track the beast and find themselves hunted instead. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "runtime": "157 min",
-    "director": "Na Hong-Jin"
   },
   {
     "title": "The History of Concrete",
@@ -4742,58 +4508,6 @@
     "director": "Nicolas Winding Refn"
   },
   {
-    "title": "HKFF: Shades of Silk & Shorts + Q&A",
-    "date": "2026-09-26",
-    "time": "8:20 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "94 min",
-    "director": ""
-  },
-  {
-    "title": "Sense and Sensibility (U)",
-    "date": "2026-09-26",
-    "time": "8:20 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/sense-and-sensibility",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen \u2019s iconic Sense and Sensibility : a charming, witty and deeply relatable story of love and sisterhood, starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles .",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
-    "title": "Tony (15) (AD)",
-    "date": "2026-09-26",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/tony",
-    "city": "London",
-    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, carving out a slice of a summer that will shape the course of his life.",
-    "runtime": "106 min",
-    "director": "Matt Johnson"
-  },
-  {
-    "title": "Heart of the Beast",
-    "date": "2026-09-26",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83398?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "After a harrowing plane crash, Special Forces officer James Belmont (Brad Pitt) and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements. From acclaimed filmmaker David Ayer, Heart of the Beast is an intense adventure thriller that explores the unbreakable bond between a man and his best friend as they face their greatest battle yet.",
-    "runtime": "101 min",
-    "director": "David Ayer"
-  },
-  {
     "title": "Serpent's Path",
     "date": "2026-09-26",
     "time": "8:35 PM",
@@ -4820,45 +4534,6 @@
     "director": ""
   },
   {
-    "title": "Her Private Hell",
-    "date": "2026-09-26",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/her-private-hell",
-    "city": "London",
-    "description": "From filmmaker Nicolas Winding Refn ( Drive , Only God Forgives , The Neon Demon ), Her Private Hell is a hypnotic moodscape enshrined in pink mist. Set against a surrealist, futuristic metropolis, the story follows Elle (Sophie Thatcher), a rising movie star preparing to shoot a space odyssey alongside her ex-lover turned stepmother (Havana Rose Liu). Elsewhere in the haze, an American GI (Charles Melton) wanders the desolate streets on a desperate search for his daughter. As an enigmatic and sinister figure known only as the Leather Man stalks the city's shadows, their lives begin to converge, dissolving the boundaries between past and present, memory and fate. Driven by his trademark neon cinematography, striking atmospheric dread, and an intoxicating orchestral score by legendary composer Pino Donaggio, Her Private Hell is a breathtaking, kaleidoscopic experience designed to mesmerise and seduce.",
-    "runtime": "110 min",
-    "director": "Nicolas Winding Refn"
-  },
-  {
-    "title": "Sense and Sensibility",
-    "date": "2026-09-26",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83395?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Left destitute by ruthless family members, two sisters navigate scandal, heartbreak, and strict social etiquette while searching for their perfect romantic matches.",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
-    "title": "Sense And Sensibility",
-    "date": "2026-09-26",
-    "time": "8:45 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17889/",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles. Sisters Elinor and Marianne Dashwood must leave their Sussex estate following the sudden loss of their wealthy father and are forced to move in with a distant relative. The two sisters attempt to find security and happiness whilst navigating their vastly different approaches to love.",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
     "title": "Alien: Resurrection",
     "date": "2026-09-26",
     "time": "8:45 PM",
@@ -4883,19 +4558,6 @@
     "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
     "runtime": "101 min",
     "director": "John Wilson"
-  },
-  {
-    "title": "Bad Apples",
-    "date": "2026-09-26",
-    "time": "8:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83397?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A struggling primary school teacher begins to make some questionable decisions after one of her students is injured.",
-    "runtime": "101 min",
-    "director": "Jonatan Etzler"
   },
   {
     "title": "SCREAMPLAY",
@@ -4934,58 +4596,6 @@
     "director": "Ken Russell"
   },
   {
-    "title": "Her Private Hell",
-    "date": "2026-09-26",
-    "time": "9:00 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17890/",
-    "city": "London",
-    "description": "A young woman searches for her father, and an American soldier goes on a quest to rescue his daughter, while a mysterious mist engulfs a futuristic city in this sci-fi drama. Warning: This film contains sequences with flashing or flickering lights that may affect individuals with photosensitivity. Viewer discretion is advised.",
-    "runtime": "110 min",
-    "director": "Nicolas Winding Refn"
-  },
-  {
-    "title": "Resident Evil",
-    "date": "2026-09-26",
-    "time": "9:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83394?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "In this sci-fi horror action reboot, a hapless medical courier fights for his life amid an outbreak of a deadly mutagenic virus in an isolated mountain town.",
-    "runtime": "94 min",
-    "director": "Zach Cregger"
-  },
-  {
-    "title": "Sense and Sensibility",
-    "date": "2026-09-26",
-    "time": "9:00 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/film/sense-and-sensibility-2/",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood.\r\nThree sisters experience love and heartbreak after they're forced to leave their family estate with their widowed mother and move to a humble cottage...",
-    "runtime": "131 min",
-    "director": "Georgia Oakley"
-  },
-  {
-    "title": "Misty Green",
-    "date": "2026-09-26",
-    "time": "9:15 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84130/84404",
-    "city": "NYC",
-    "description": "In the star-making performance at the center of Chris Rock\u2019s L.A. odyssey, Rosalind Eleazar plays a former actress struggling to make ends meet in an unforgiving Hollywood. The marvelous supporting cast includes Rock, Adam Driver, Daniel Kaluuya, Anna Kendrick, and more.",
-    "runtime": "103 min",
-    "director": "Chris Rock"
-  },
-  {
     "title": "UNZIPPED",
     "date": "2026-09-26",
     "time": "9:15 PM",
@@ -5010,6 +4620,19 @@
     "description": "The 1972 Toronto production of the musical Godspell featured an eye-popping cast of future comedy titans: Martin Short, Eugene Levy, Andrea Martin, Gilda Radner, Dave Thomas\u2014with Victor Garber as a hippie Jesus and Paul Shaffer as musical director. YOU HAD TO BE THERE features interviews with all surviving members, hilariously recounting a production that changed the course of comedy in North America. \u201cJoyous... the 1972 Godspell planted seeds that would grow into a tree of many branches\u2014one branch being SNL, another SCTV, another being comedies like BEST IN SHOW.\u201d \u2014 Matthew Carey, Deadline",
     "runtime": "98 min",
     "director": ""
+  },
+  {
+    "title": "Misty Green",
+    "date": "2026-09-26",
+    "time": "9:15 PM",
+    "format": "DCP",
+    "venue": "Film at Lincoln Center",
+    "venue_short": "FilmLinc",
+    "url": "https://purchase.filmlinc.org/84130/84404",
+    "city": "NYC",
+    "description": "In the star-making performance at the center of Chris Rock\u2019s L.A. odyssey, Rosalind Eleazar plays a former actress struggling to make ends meet in an unforgiving Hollywood. The marvelous supporting cast includes Rock, Adam Driver, Daniel Kaluuya, Anna Kendrick, and more.",
+    "runtime": "103 min",
+    "director": "Chris Rock"
   },
   {
     "title": "Steel Magnolias",
@@ -5088,32 +4711,6 @@
     "runtime": "80 min",
     "director": "Rebekah McKendry",
     "city": "LA"
-  },
-  {
-    "title": "The Twilight Saga",
-    "date": "2026-09-26",
-    "time": "10:30 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627244",
-    "city": "London",
-    "description": "ALL NIGHTER : FAQs, HOUSE RULES & TIPS TWILIGHT : High-school student Bella Swan (Kristen Stewart), always a bit of a misfit, doesn't expect life to change much when she moves from sunny Arizona to rainy Washington state. Then she meets Edward Cullen (Robert Pattinson), a handsome but mysterious teen whose eyes seem to peer directly into her soul. Edward is a vampire whose family does not drink blood, and Bella, far from being frightened, enters into a dangerous romance with her immortal soulmate. THE TWILIGHT SAGA : NEW MOON : Bella Swan is on the cusp of her 18th birthday and blissfully happy with her undead beau Edward Cullen. While celebrating her birthday with Edward's family of `vegetarian' vampires, a frightening incident convinces Edward that he's simply too dangerous to be around his sweetheart. He decides to leave the town of Forks in order to ensure her safety - leaving her behind, angry and depressed. THE TWILIGHT SAGA : ECLIPSE : Danger once again surrounds Bella (Kristen Stewart), as a string of mysterious killings terrorizes Seattle and a malicious vampire continues her infernal quest for revenge. Amid the tumult, Bella must choose between her love for Edward (Robert Pattinson) and her friendship with Jacob (Taylor Lautner), knowing that her decision may ignite the long-simmering feud between vampire and werewolf. THE TWILIGHT SAGA : BREAKING DAWN - Part One : At last, Bella (Kristen Stewart) and Edward (Robert Pattinson) are getting married. When Jacob (Taylor Lautner) finds out that Bella wants to spend her honeymoon as a human, he is horrified -- for Edward's passion could accidentally kill her. Bella does indeed survive her honeymoon, but a new complication arises when she discovers that she's pregnant -- and the child is growing at an alarming rate. The pregnancy sets the wolves against Bella and Edward, but Jacob vows to protect his friend. THE TWILIGHT SAGA : BREAKING DAWN - Part Two : Bella (Kristen Stewart) awakes -- as a vampire -- from her life-threatening labor, and her newborn daughter, Renesmee, proves to be very special indeed. While Bella adjusts to her new state of being, Renesmee experiences accelerated growth. When the Volturi learn of the baby's existence, they declare her to be an abomination and sentence the Cullens to death. Bella, Edward (Robert Pattinson) and the rest of the clan seek help from allies around the world to protect their family. ------------------------------------------------------------------------- NO ADMISSIONS TO THE CINEMA AFTER MIDNIGHT NO ALCOHOL PURCHASED FROM OUTSIDE IS PERMITTED IN THE BUILDING! AGE RESTRICTONS : This is strictly a 16+ event. Due to the event running through the night, anyone under the age 18 must be accompanied by a parent or guardian [aged 18+] for the full duration of the marathon.",
-    "runtime": "655 min",
-    "director": "Bill Condon, Catherine Hardwicke, Chris Weitz, David Slade"
-  },
-  {
-    "title": "Chow Yun-Fat-A-Thon",
-    "date": "2026-09-26",
-    "time": "11:00 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627243",
-    "city": "London",
-    "description": "ALL NIGHTER : FAQs, HOUSE RULES & TIPS Celebrate one of Hong Kong cinema's greatest icons with five defining performances from Chow Yun-fat, the charismatic star whose effortless cool, emotional depth, and unforgettable screen presence helped redefine the modern action hero. Together, these genre-defining classics capture the style, heart, and kinetic energy that made him an international cinematic icon and continue to influence action filmmaking around the world. CHOW YUN FAT-A-THON line-up: A BETTER TOMORROW (1986): A reforming ex-gangster tries to reconcile with his estranged policeman brother, but the ties to his former gang are difficult to break. A BETTER TOMORROW II (1987): A restaurateur teams up with a police officer and his ex-con brother to avenge the death of a friend's daughter. CITY ON FIRE (1987): An undercover cop infiltrates a gang of thieves who plan to rob a jewellery store. THE KILLER (1989): A disillusioned assassin accepts one last hit in hopes of using his earnings to restore the vision of a singer he accidentally blinded. HARD BOILED (1992): A tough-as-nails cop teams up with an undercover agent to shut down a sinister mobster and his crew ------------------------- NO ADMISSIONS TO THE CINEMA AFTER MIDNIGHT! NO ALCOHOL PURCHASED FROM OUTSIDE IS PERMITTED IN THE BUILDING! AGE RESTRICTIONS: This event is strictly 18 +",
-    "runtime": "540 min",
-    "director": "John Woo, Ringo Lam"
   },
   {
     "title": "Rebels of the Neon God",
@@ -5231,19 +4828,6 @@
     "runtime": "84 min",
     "director": "",
     "city": "LA"
-  },
-  {
-    "title": "The History of Concrete",
-    "date": "2026-09-26",
-    "time": "6 PM",
-    "format": "DCP",
-    "venue": "Low Cinema",
-    "venue_short": "LowCinema",
-    "url": "https://lowcinema.com/checkout/352f1a05-3495-4159-8eea-5eea2767edd1/",
-    "city": "NYC",
-    "description": "A filmmaker applies lessons from a Hallmark movie writing workshop to pitch a documentary about concrete.",
-    "runtime": "100 min",
-    "director": "John Wilson"
   },
   {
     "title": "Godzilla, Mothra and King Ghidorah: Giant Monsters All Out Attack             / Godzilla 2000",
@@ -6357,7 +5941,7 @@
     "format": "DCP",
     "venue": "Electric Cinema Portobello",
     "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/film/practical-magic-2/",
+    "url": "https://www.electriccinema.co.uk/tickets/75931",
     "city": "London",
     "description": "Return to a world steeped in moonlit mischief and powerful ancestral magic, as the Owens sisters must confront the dark curse that threatens to unravel their family once and for all in a must-see cinematic event of fun, magic and mayhem.",
     "runtime": "130 min",
@@ -13018,6 +12602,19 @@
     "director": "Yuval Abraham, Rachel Szor"
   },
   {
+    "title": "H\u00e4xan",
+    "date": "2026-10-01",
+    "time": "8:00 PM",
+    "format": "DVD",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4174?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "",
+    "runtime": "",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "Hope",
     "date": "2026-10-01",
     "time": "8:00 PM",
@@ -13629,7 +13226,7 @@
     "title": "Paper Tiger",
     "date": "2026-10-02",
     "time": "1:15 PM",
-    "format": "35mm, DCP",
+    "format": "DCP",
     "venue": "Film at Lincoln Center",
     "venue_short": "FilmLinc",
     "url": "https://purchase.filmlinc.org/84135/84528",
@@ -16401,7 +15998,7 @@
     "format": "35mm",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627531",
+    "url": "https://princecharlescinema.com/film/1865452/barry-lyndon",
     "city": "London",
     "description": "Stanley Kubrick bent the conventions of the historical drama to his own will in this dazzling vision of a pitiless aristocracy, adapted from a novel by William Makepeace Thackeray. In picaresque detail, Barry Lyndon chronicles the adventures of an incorrigible trickster (Ryan O\u2019Neal) whose opportunism takes him from an Irish farm to the battlefields of the Seven Years\u2019 War and the parlours of high society. For the most sumptuously crafted film of his career, Kubrick recreated the decadent surfaces and intricate social codes of the period, evoking the light and texture of eighteenth-century painting with the help of pioneering cinematographic techniques and lavish costume and production design, all of which earned Academy Awards. The result is a masterpiece\u2014a sardonic, devastating portrait of a vanishing world whose opulence conceals the moral vacancy at its heart. Please Note: The film will be presented with a brief 5-10min intermission.",
     "runtime": "195 min",
@@ -24868,7 +24465,7 @@
     "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4092?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "description": "An enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, THE DEVILS is a prescient epic of obsession and corruption - and a defining work of art from seminal filmmaker Ken Russell. Fully restored and presented uncut and unfiltered as Russell always envisioned, the film screens from a stunning, brand new 35mm print.",
     "runtime": "114 min",
     "director": "",
