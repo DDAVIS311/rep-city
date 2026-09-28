@@ -418,5 +418,23 @@
   "description": "Celebrate Doctor Who Day with an exclusive big-screen event marking 20 years of the Tenth Doctor and Rose Tyler. For the first time ever in cinemas, the acclaimed two-part adventure The Impossible Planet and The Satan Pit have been specially re-edited into a single movie-length presentation, created exclusively for theatrical audiences. Join the Doctor (David Tennant) and Rose (Billie Piper) as they travel to Sanctuary Base 6, a remote outpost perched on a planet orbiting a black hole. When an ancient force awakens beneath the surface, the crew find themselves trapped in a battle against an evil older than time itself. This special Doctor Who Day screening also includes exclusive bonus material, featuring previously unseen content and a brand-new interview with a special guest, reflecting on the making of one of the most celebrated stories of the modern era – from encounters with the Ood to facing the terrifying Beast, alongside behind-the-scenes memories from the set.",
   "runtime": "120 min",
   "format": ""
+ },
+ "https://www.peckhamplex.london/film/verity": {
+  "director": "Michael Showalter",
+  "description": "Struggling writer Lowen Ashleigh is hired as a ghostwriter for renowned author Verity Crawford under mysterious circumstances, but her assignment takes a dark turn after discovering chilling autobiographical notes. Faced with a series of deadly family secrets, Lowen struggles to separate fiction from reality, while also blurring the lines with Verity’s husband, Jeremy.",
+  "runtime": "117 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/digger": {
+  "director": "Alejandro González Iñárritu",
+  "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's saviour before the disaster he’s unleashed destroys everything.",
+  "runtime": "129 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/girls-like-girls": {
+  "director": "Hayley Kiyoko",
+  "description": "Based on writer/director Hayley Kiyoko's hit single and best-selling novel of the same name and featuring all-new music from Kiyoko, GIRLS LIKE GIRLS is a heartfelt coming-of-age story set over the course of one sun-drenched summer, where new-girl-in-town Coley falls in love for the first time while learning to accept herself along the way.",
+  "runtime": "95 min",
+  "format": ""
  }
 }
