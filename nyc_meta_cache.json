@@ -487,6 +487,11 @@
 "director": "",
 "runtime": ""
 },
+"https://lowcinema.com/movie/niu-lai-on-vhs/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
 "https://lowcinema.com/movie/notes-on-breakcore-x-bass-boss/": {
 "description": "Dir. Bertram K\u00f6nighofer & David Kleinl, 2006, Austria, German/English w/ subtitles, 31 min.",
 "director": "",
@@ -3075,6 +3080,12 @@
 "director": "Brock Bodell",
 "format": "",
 "runtime": "91 min"
+},
+"https://www.ifccenter.com/films/hereditary-x-monstrous-bitch/": {
+"description": "",
+"director": "Ari Aster",
+"format": "DCP",
+"runtime": "127 min"
 },
 "https://www.ifccenter.com/films/how-to-divorce-during-the-war/": {
 "description": "",
