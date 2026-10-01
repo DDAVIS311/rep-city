@@ -87,6 +87,12 @@
 "format": "DCP",
 "runtime": "155 min"
 },
+"https://filmforum.org/film/danton-wajda-100": {
+"description": "Based on The Danton Affair, a 1930s play that Wajda directed on stage in 1975, this boisterous and lavish French production starring Gerard Depardieu and scripted by Jean-Claude Carriere, may have seemed like a break from contemporary Polish politics. But Depardieu\u2019s Danton, an earthy, plain-spoken man of the people, was widely seen as a representation of Polish solidarity leader Lech Walesa, and Wojciech Pszoniak\u2019s reserved, cerebral Robespierre, was seen as the iron-fisted military general and Polish president Wojciech Jaruzelski. The film\u2019s politics have been widely debated, but the movie, a rare Wajda production made outside of his own country, was a hit of the 1983 New York Film Festival and an arthouse success.",
+"director": "Andrzej Wajda",
+"format": "DCP",
+"runtime": ""
+},
 "https://filmforum.org/film/death-wish-nyc-in-transit": {
 "description": "When his wife is brutally murdered, \u201crespectable citizen\u201d Charles Bronson slowly sheds his liberal ways and takes to dispensing \u201cvengeance\u201d on an Upper West Side gone mad with crime. \u201cAudience manipulation at its zenith. Chilling but irresistible; a bastardization of the Brian Garfield novel, in which vigilantism as a deterrent to crime is not a solution but another problem.\u201d",
 "director": "Michael Winner",
@@ -167,6 +173,12 @@
 },
 "https://filmforum.org/film/katyn-wajda-100": {
 "description": "In 1940, a year after the Nazi invasion of Poland, Soviet forces secretly murdered more than 15,000 Polish officers, intellectuals, and professionals over a three-day period. Stalin\u2019s purpose was to destroy elements of the population who might resist post-war Soviet control. Andrzej Wajda\u2019s father was among the victims, and the Soviet role in the massacre was hidden for decades. Wajda\u2019s unflinching, epic film dramatizes the human story, of both perpetrators and victims. The film was a massive box office success in Poland, provoking a mix of catharsis and controversy. And it was an Oscar\u00ae nominee for Best Foreign Language Film.",
+"director": "Andrzej Wajda",
+"format": "DCP",
+"runtime": ""
+},
+"https://filmforum.org/film/korczak-wajda-100": {
+"description": "Janusz Korczak was a renowned doctor, teacher, and author who ran a Jewish orphanage in the Warsaw Ghetto, and ultimately sacrificed his life to stay with them until his deportation to Treblinka. With a bracingly unsentimental script by Agnieszka Holland, and stunning black-and-white cinematography by Robby M\u00fcller intercut with actual archival footage, Wajda recreates life in the ghetto in vivid detail. Wajda fought for years to get this film made, claiming \u201cJewish themes in Polish culture have been virtually banned for twenty years.\u201d",
 "director": "Andrzej Wajda",
 "format": "DCP",
 "runtime": ""
@@ -3440,6 +3452,12 @@
 "format": "DCP",
 "runtime": "87 min"
 },
+"https://www.ifccenter.com/films/the-boy-friend/": {
+"description": "",
+"director": "Ken Russell",
+"format": "",
+"runtime": "140 min"
+},
 "https://www.ifccenter.com/films/the-departed/": {
 "description": "Martin Scorsese directs an all-star cast in this action-packed thriller set in Boston, where a long-simmering hostility between the police department and an Irish-American gang led by Costello (Jack Nicholson) is primed to explode. The fuse is lit when a gangster (Matt Damon) is chosen to infiltrate the police force\u2013and a young cop (Leonardo DiCaprio) goes undercover within the gang. Now, when the two moles uncover each other\u2019s identity, the battle begins.?",
 "director": "Martin Scorsese",
@@ -3548,6 +3566,12 @@
 "format": "DCP",
 "runtime": "109 min"
 },
+"https://www.ifccenter.com/films/tommy/": {
+"description": "After a series of traumatic childhood events, a psychosomatically deaf, dumb and blind boy becomes a master pinball player and the object of a religious cult.",
+"director": "Ken Russell",
+"format": "DCP",
+"runtime": "111 min"
+},
 "https://www.ifccenter.com/films/train-to-busan-2/": {
 "description": "Yeon Sang-ho\u2019s global phenomenon TRAIN TO BUSAN arrives back in theaters to celebrate its 10th Anniversary. What begins as a simple birthday trip for a father and daughter turns into a high-octane fight for survival when a zombie outbreak ravages South Korea. Trapped on a speeding train, they must navigate a landscape of terror to reach safety. Experience the relentless action and heart-wrenching drama on the big screen like never before.",
 "director": "Yeon Sang-Ho",
@@ -3590,10 +3614,22 @@
 "format": "DCP",
 "runtime": "87 min"
 },
+"https://www.ifccenter.com/films/whore/": {
+"description": "This searing melodrama investigates the life of a prostitute in a pseudo-documentary style. The life of a hooker isn\u2019t easy\u2026",
+"director": "Ken Russell",
+"format": "",
+"runtime": "85 min"
+},
 "https://www.ifccenter.com/films/wild-inside/": {
 "description": "Join educator and wildlife rehabilitator Suzanne Highland for a post screening Birdwatching Tour of the West Village after the 4pm screenings on 8/1 and 8/2! the path runs from the IFC to Hudson River Park with a pit stop in Washington Square Park. Bring binoculars if you have them! About WILD INSIDE: A Eurasian Eagle-Owl named Flaco escapes from the Central Park Zoo and sets off on a magical odyssey through the island of Manhattan. Flaco overcomes his years of captivity and lack of survival skills to answer the call of the wild \u2013 and discovers he was wild inside all along.",
 "director": "Penny Lane",
 "format": "DCP",
 "runtime": "96 min"
+},
+"https://www.ifccenter.com/films/women-in-love/": {
+"description": "",
+"director": "Ken Russell",
+"format": "DCP",
+"runtime": "132 min"
 }
 }
