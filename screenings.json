@@ -2411,11 +2411,11 @@
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
-    "url": "https://filmforum.org/film/a-generation-wajda-100-andrzej-wajda-100",
+    "url": "https://filmforum.org/film/a-generation-wajda-100",
     "city": "NYC",
-    "description": "",
+    "description": "Breaking free from the rigid aesthetics of Stalin-mandated socialist realism, Wajda introduced a dynamic, morally complex new approach to filmmaking that reflected the experiences of a young generation shaped by the war. In his bold debut film, the first in his \u201cWar Trilogy,\u201d Wajda dramatized the Warsaw Ghetto Uprising with an expressionistic style that evokes American film noir. A delinquent teen who heroically joins the Resistance\u2014partly inspired by his love for one of the movement\u2019s leaders\u2014is the ostensible protagonist, but the more fascinating character is the reluctant and tortured Jasio (Tadeusz \u0141omnicki). One critic wrote, \u201cIt\u2019s a fair guess that the inner world to which Wajda personally felt most attuned was that of Jasio Krone\u2014edgy, troubled, bewildered, switching from one extreme to the other.\u201d",
     "runtime": "",
-    "director": ""
+    "director": "Andrzej Wajda"
   },
   {
     "title": "YOU HAD TO BE THERE",
@@ -3419,32 +3419,6 @@
     "director": "Douglas Keeve"
   },
   {
-    "title": "Digger",
-    "date": "2026-10-02",
-    "time": "10:20 AM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17941/",
-    "city": "London",
-    "description": "Academy Award-winning filmmaker Alejandro G. I\u00f1\u00e1rritu returns with his original film Digger, starring Tom Cruise. The most powerful man in the world (Cruise) embarks on a frantic mission to prove he is humanity\u2019s savior before the disaster he\u2019s unleashed destroys everything. This wildly hilarious satire was shot entirely in VistaVision.",
-    "runtime": "129 min",
-    "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
-  },
-  {
-    "title": "Sense And Sensibility",
-    "date": "2026-10-02",
-    "time": "10:40 AM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17942/",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles. Sisters Elinor and Marianne Dashwood must leave their Sussex estate following the sudden loss of their wealthy father and are forced to move in with a distant relative. The two sisters attempt to find security and happiness whilst navigating their vastly different approaches to love.",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
     "title": "Naza",
     "date": "2026-10-02",
     "time": "10:45 AM",
@@ -3562,45 +3536,6 @@
     "director": "Andrzej Wajda"
   },
   {
-    "title": "Off-Circuit: UK PREMIERE Pin de Fartie",
-    "date": "2026-10-02",
-    "time": "12:15 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/pin-de-fartie",
-    "city": "London",
-    "description": "The latest production from boundlessly imaginative Argentine collective El Pampero Cine sees successive pairs of characters bid farewell: a mother and her son, a caretaker and her charge, two actors endlessly rehearsing a scene that will never be performed. A playful spin on theatrical adaptation, Alejo Moguillansky's new film is a delightfully imaginative take on Samuel Beckett's Fin de Partie , punctuated by music, tennis, and another exceptional turn by Laura Paredes. The UK Premiere screening on the 4 September will be followed by an in-person Q&A with Alejo Moguillansky.",
-    "runtime": "106 min",
-    "director": "Alejo Moguillansky"
-  },
-  {
-    "title": "Off-Circuit: UK PREMIERE The Day She Returns",
-    "date": "2026-10-02",
-    "time": "12:15 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/the-day-she-returns",
-    "city": "London",
-    "description": "The Day She Returns follows actress Bae Jeongsu (Song Sunmi), who, having stepped back from acting after marriage and a subsequent divorce, returns to the profession with a role in an independent film. As the film\u2019s release approaches, she takes part in a series of press interviews. A subtle meditation on memory and performance, Hong Sangsoo's latest film unfolds through a series of increasingly intimate conversations, as he continues his exploration of the boundaries between lived experience and artistic creation.",
-    "runtime": "84 min",
-    "director": "Hong Sangsoo"
-  },
-  {
-    "title": "The Shining [UK Version]",
-    "date": "2026-10-02",
-    "time": "12:15 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627477",
-    "city": "London",
-    "description": "Jack Torrance (Jack Nicholson) becomes winter caretaker at the isolated Overlook Hotel in Colorado, hoping to cure his writer's block. He settles in along with his wife, Wendy (Shelley Duvall), and his son, Danny (Danny Lloyd), who is plagued by psychic premonitions. As Jack's writing goes nowhere and Danny's visions become more disturbing, Jack discovers the hotel's dark secrets and begins to unravel into a homicidal maniac hell-bent on terrorizing his family.",
-    "runtime": "119 min",
-    "director": "Stanley Kubrick"
-  },
-  {
     "title": "Your Mother Your Mother Your Mother 35mm",
     "date": "2026-10-02",
     "time": "12:30 PM",
@@ -3638,19 +3573,6 @@
     "description": "Vienna meets the Mississippi Delta in Tizza Covi and Rainer Frimmel\u2019s delightful and poignant portrait of Austria\u2019s preeminent blues musician, Al Cook, who discovers that he must evacuate his beloved apartment, set for demolition.",
     "runtime": "86 min",
     "director": "Tizza Covi and Rainer Frimmel"
-  },
-  {
-    "title": "The Blair Witch Project",
-    "date": "2026-10-02",
-    "time": "12:30 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627526",
-    "city": "London",
-    "description": "Found video footage tells the tale of three film students (Heather Donahue, Joshua Leonard, Michael C. Williams) who've traveled to a small town to collect documentary footage about the Blair Witch, a legendary local murderer. Over the course of several days, the students interview townspeople and gather clues to support the tale's veracity. But the project takes a frightening turn when the students lose their way in the woods and begin hearing horrific noises.",
-    "runtime": "81 min",
-    "director": "Daniel Myrick, Eduardo S\u00e1nchez"
   },
   {
     "title": "The History of Concrete",
@@ -3692,19 +3614,6 @@
     "director": ""
   },
   {
-    "title": "Sense And Sensibility",
-    "date": "2026-10-02",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17943/",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles. Sisters Elinor and Marianne Dashwood must leave their Sussex estate following the sudden loss of their wealthy father and are forced to move in with a distant relative. The two sisters attempt to find security and happiness whilst navigating their vastly different approaches to love.",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
     "title": "Free Leonard Peltier",
     "date": "2026-10-02",
     "time": "1:15 PM",
@@ -3742,19 +3651,6 @@
     "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
     "runtime": "101 min",
     "director": "John Wilson"
-  },
-  {
-    "title": "Digger",
-    "date": "2026-10-02",
-    "time": "1:20 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17944/",
-    "city": "London",
-    "description": "Academy Award-winning filmmaker Alejandro G. I\u00f1\u00e1rritu returns with his original film Digger, starring Tom Cruise. The most powerful man in the world (Cruise) embarks on a frantic mission to prove he is humanity\u2019s savior before the disaster he\u2019s unleashed destroys everything. This wildly hilarious satire was shot entirely in VistaVision.",
-    "runtime": "129 min",
-    "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
   },
   {
     "title": "Paprika",
@@ -3835,32 +3731,6 @@
     "director": "Elizabeth Lennard"
   },
   {
-    "title": "Late Fame",
-    "date": "2026-10-02",
-    "time": "2:15 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/late-fame",
-    "city": "London",
-    "description": "Willem Defoe plays Ed Saxberger, a forgotten New York poet, who works in the post office. After an eager and flattering young admirer appears on his doorstep, Saxberger is beckoned into a coterie of twentysomething admirers who anoint him as a rediscovered genius. Intoxicated by the attention \u2014 and by the alluring presence of Gloria, the group\u2019s \u201ctragic heroine\u201d \u2014 Saxberger gradually reckons with the authenticity of his newfound poetic circle. Kent Jones's thoughtful, witty film is a wistful yet unromantic look at a lost idea of downtown New York.",
-    "runtime": "97 min",
-    "director": "Kent Jones"
-  },
-  {
-    "title": "Queen at Sea",
-    "date": "2026-10-02",
-    "time": "2:15 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/queen-at-sea",
-    "city": "London",
-    "description": "Starring Juliette Binoche, Tom Courtenay and Anna Calder-Marshall, Queen at Sea received its world premiere in competition at the Berlin International Film Festival earlier this year, where it won both the Silver Bear Jury Prize and the Silver Bear for Best Supporting Performance for both Courtenay and Calder-Marshall. The film follows Amanda (Binoche) and her stepfather, Martin (Courtney), at odds over a moral quandary involving Amanda\u2019s mother, Leslie (Calder-Marshall). In the advanced stages of dementia, they quarrel over whether Leslie has lost all ability to make critical decisions in her own best interests, and, if so, who is responsible \u2013 a spouse, a child, an institution \u2013 for making such a determination? As Amanda and Martin are forced to make increasingly difficult choices, the repercussions spiral out of their control.",
-    "runtime": "121 min",
-    "director": "Lance Hammer"
-  },
-  {
     "title": "The History of Concrete",
     "date": "2026-10-02",
     "time": "2:20 PM",
@@ -3913,32 +3783,6 @@
     "city": "LA"
   },
   {
-    "title": "Sense and Sensibility",
-    "date": "2026-10-02",
-    "time": "2:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83536?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Left destitute by ruthless family members, two sisters navigate scandal, heartbreak, and strict social etiquette while searching for their perfect romantic matches.",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
-    "title": "Yi Yi",
-    "date": "2026-10-02",
-    "time": "2:35 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627525",
-    "city": "London",
-    "description": "The extraordinary, internationally embraced Yi Yi (A One and a Two . . .), directed by the late Taiwanese master Edward Yang, follows a middle-class family in Taipei over the course of one year, beginning with a wedding and ending with a funeral. Whether chronicling middle-age father NJ\u2019s tentative flirtations with an old flame or precocious young son Yang-Yang\u2019s attempts at capturing reality with his beloved camera, the filmmaker deftly imbues every gorgeous frame with a compassionate clarity. Warm, sprawling, and dazzling, this intimate epic is one of the undisputed masterworks of the new century. 4K digital restoration carried out by Pony Canyon Inc., with analog and digital processes provided by Imagica Entertainment Media Services, Inc.",
-    "runtime": "173 min",
-    "director": "Edward Yang"
-  },
-  {
     "title": "Begotten",
     "date": "2026-10-02",
     "time": "2:45 PM",
@@ -3950,19 +3794,6 @@
     "description": "BEGOTTEN has no characters in the ordinary sense. Its final credits name three principal figures: God Killing Himself. Mother Earth. Son of Earth \u2013 Flesh on Bone. The entire film is what those names do to each other and to the earth. God Killing Himself tears open his body and dies. Mother Earth rises from what remains and takes his seed into herself. She gives birth to Son of Earth Flesh on Bone. He is cast into a barren world, seized by the Nomads, tortured, killed, and briefly returned to life by his mother.The Nomads destroy her too. The Robed Figures gather what remains of mother and son, grind their bodies down, and return them to the soil. The ground flowers.",
     "runtime": "72 min",
     "director": "E. Elias Merhige"
-  },
-  {
-    "title": "Digger",
-    "date": "2026-10-02",
-    "time": "2:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83538?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's saviour before the disaster he\u2019s unleashed destroys everything.",
-    "runtime": "129 min",
-    "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
   },
   {
     "title": "The Unknown",
@@ -3978,19 +3809,6 @@
     "director": "Arthur Harari"
   },
   {
-    "title": "Digger (15) (AD)",
-    "date": "2026-10-02",
-    "time": "3:10 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/digger",
-    "city": "London",
-    "description": "Academy Award-winning filmmaker Alejandro G I\u00f1\u00e1rritu ( Birdman ) returns with his original feature starring Tom Cruise as the most powerful man in the world.",
-    "runtime": "129 min",
-    "director": "Alejandro G I\u00f1\u00e1rritu"
-  },
-  {
     "title": "Naza",
     "date": "2026-10-02",
     "time": "3:15 PM",
@@ -4002,32 +3820,6 @@
     "description": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel\u2019s calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them. We made this film out of a sense of obligation to use our position as Israeli filmmakers and journalists to examine the systems behind the mass killing of Palestinian civilians for which our country is responsible. While filming members of Israel\u2019s military on rooftops at night in Tel Aviv over the past three years, we found ourselves asking the very questions that were asked by our grandparents\u2019 generation and throughout the 20th century: how does one group of people allow the total dehumanization of another? What do the inner workings of such a system look like? Many of the revelations in the film were published almost immediately as we learned of them, in the months following the October 7th attacks, by The Guardian (one of NAZA \u2019s producers), in collaboration with reporting partners +972 Magazine and Local Call. The film lets us explore something deeper than we could in our investigative journalism alone: not only the words being said but also those that are not said, the silence. It is up to all of us to break that silence. \u2014 Yuval Abraham and Rachel Szor",
     "runtime": "80 min",
     "director": "Yuval Abraham, Rachel Szor"
-  },
-  {
-    "title": "Alien (Theatrical Cut)",
-    "date": "2026-10-02",
-    "time": "3:15 PM",
-    "format": "4K DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628466",
-    "city": "London",
-    "description": "In deep space, the crew of the commercial starship Nostromo is awakened from their cryo-sleep capsules halfway through their journey home to investigate a distress call from an alien vessel. The terror begins when the crew encounters a nest of eggs inside the alien ship. An organism from inside an egg leaps out and attaches itself to one of the crew, causing him to fall into a coma.",
-    "runtime": "117 min",
-    "director": "Ridley Scott"
-  },
-  {
-    "title": "Verity",
-    "date": "2026-10-02",
-    "time": "3:15 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83537?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Struggling writer Lowen Ashleigh is hired as a ghostwriter for renowned author Verity Crawford under mysterious circumstances, but her assignment takes a dark turn after discovering chilling autobiographical notes. Faced with a series of deadly family secrets, Lowen struggles to separate fiction from reality, while also blurring the lines with Verity\u2019s husband, Jeremy.",
-    "runtime": "117 min",
-    "director": "Michael Showalter"
   },
   {
     "title": "Sense and Sensibility (U)",
@@ -4067,19 +3859,6 @@
     "description": "A struggling primary school teacher begins to make some questionable decisions after one of her students is injured.",
     "runtime": "101 min",
     "director": "Jonatan Etzler"
-  },
-  {
-    "title": "Terminator 2: Judgment Day",
-    "date": "2026-10-02",
-    "time": "3:45 pm",
-    "format": "35mm",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4672311/",
-    "description": "One bad-ass mother of a sequel! The Governator is back and this time, he\u2019s the good robot, sent from the future to protect John and Sarah Connor (Edward Furlong, Linda Hamilton) from an even deadlier terminator unit through the malls, warehouses, and dry riverbeds of early \u201990s Los Angeles. A riotous good time for all, with pioneering special effects, and a timely message on Artificial Intelligence gone deadly, don\u2019t miss this all-time banger on our big screen in glorious celluloid!",
-    "runtime": "137 min",
-    "director": "James Cameron",
-    "city": "LA"
   },
   {
     "title": "The Last First: Winter K2",
@@ -4758,19 +4537,6 @@
     "director": "Anah\u00ed Berneri"
   },
   {
-    "title": "Creepshow",
-    "date": "2026-10-02",
-    "time": "7:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4672309/",
-    "description": "Horror titans Stephen King and George Romero team up for the ultimate 80s horror anthology just in time to give you the creeps for the whole month of October! Five grisly tales from a 1950s-style comic, including a murdered father rising from beyond, a bizarre meteor, a vengeful husband, a mysterious crate\u2019s occupant, and a plague of cockroaches. With a dynamo cast, fabulous practical effects, chills, laughs, and Stephen King in his most viral acting role, there\u2019s a reason Creepshow has remained a Halloween staple for nearly 45 years!",
-    "runtime": "120 min",
-    "director": "George A. Romero",
-    "city": "LA"
-  },
-  {
     "title": "PAN'S LABYRINTH",
     "date": "2026-10-02",
     "time": "7:00 PM",
@@ -5063,7 +4829,7 @@
     "format": "35mm",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628005",
+    "url": "https://princecharlescinema.com/film/2666403/mulholland-dr",
     "city": "London",
     "description": "A dark-haired woman (Laura Elena Harring) is left amnesiac after a car crash. She wanders the streets of Los Angeles in a daze before taking refuge in an apartment. There she is discovered by Betty (Naomi Watts), a wholesome Midwestern blonde who has come to the City of Angels seeking fame as an actress. Together, the two attempt to solve the mystery of Rita's true identity. The story is set in a dream-like Los Angeles, spoilt neither by traffic jams nor smog.",
     "runtime": "147 min",
@@ -5349,7 +5115,7 @@
     "format": "DCP",
     "venue": "Electric Cinema Portobello",
     "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/76156",
+    "url": "https://www.electriccinema.co.uk/film/digger/",
     "city": "London",
     "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's saviour before the disaster he\u2019s unleashed destroys everything.",
     "runtime": "129 min",
@@ -5460,19 +5226,6 @@
     "director": "Louis Paxton"
   },
   {
-    "title": "Train to Busan",
-    "date": "2026-10-02",
-    "time": "9:45 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4677540/",
-    "description": "One of the most well-rounded of all zombie flicks, Train to Busan is a genre-bending high-octane undead thrill ride with a supersized heart, realistic characters, and a delicious spread of social commentary. When a zombie virus pushes Korea into a state of emergency, those trapped on an express train to Busan must fight for their own survival. This tasty treat is screening one night only, so get your fill while you can!",
-    "runtime": "118 min",
-    "director": "Yeon Sang-ho",
-    "city": "LA"
-  },
-  {
     "title": "Naza",
     "date": "2026-10-02",
     "time": "9:50 PM",
@@ -5484,19 +5237,6 @@
     "description": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel\u2019s calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them. We made this film out of a sense of obligation to use our position as Israeli filmmakers and journalists to examine the systems behind the mass killing of Palestinian civilians for which our country is responsible. While filming members of Israel\u2019s military on rooftops at night in Tel Aviv over the past three years, we found ourselves asking the very questions that were asked by our grandparents\u2019 generation and throughout the 20th century: how does one group of people allow the total dehumanization of another? What do the inner workings of such a system look like? Many of the revelations in the film were published almost immediately as we learned of them, in the months following the October 7th attacks, by The Guardian (one of NAZA \u2019s producers), in collaboration with reporting partners +972 Magazine and Local Call. The film lets us explore something deeper than we could in our investigative journalism alone: not only the words being said but also those that are not said, the silence. It is up to all of us to break that silence. \u2014 Yuval Abraham and Rachel Szor",
     "runtime": "80 min",
     "director": "Yuval Abraham, Rachel Szor"
-  },
-  {
-    "title": "If I Go Will They Miss Me",
-    "date": "2026-10-02",
-    "time": "10:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4677600/",
-    "description": "Join us in the microcinema for Walter Thompson-Hern\u00e1ndez\u2019s breathtaking father-son story about imagination, family, and the grace we extend to the people we love. In the Watts neighborhood of Los Angeles, twelve-year-old Lil Ant sees the world and his father the way all children should \u2014 full of myth, wonder, and unwavering belief.",
-    "runtime": "95 min",
-    "director": "Walter Thompson-Hern\u00e1ndez",
-    "city": "LA"
   },
   {
     "title": "HINTER",
@@ -7239,19 +6979,6 @@
     "description": "Academy Award-winning filmmaker Alejandro G. I\u00f1\u00e1rritu returns with his original film Digger, starring Tom Cruise. The most powerful man in the world (Cruise) embarks on a frantic mission to prove he is humanity\u2019s savior before the disaster he\u2019s unleashed destroys everything. This wildly hilarious satire was shot entirely in VistaVision.",
     "runtime": "129 min",
     "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
-  },
-  {
-    "title": "If I Go Will They Miss Me",
-    "date": "2026-10-03",
-    "time": "6:30 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4677613/",
-    "description": "Join us in the microcinema for Walter Thompson-Hern\u00e1ndez\u2019s breathtaking father-son story about imagination, family, and the grace we extend to the people we love. In the Watts neighborhood of Los Angeles, twelve-year-old Lil Ant sees the world and his father the way all children should \u2014 full of myth, wonder, and unwavering belief.",
-    "runtime": "95 min",
-    "director": "Walter Thompson-Hern\u00e1ndez",
-    "city": "LA"
   },
   {
     "title": "Escape From New York with Escape from LA",
@@ -9202,19 +8929,6 @@
     "description": "Struggling writer Lowen Ashleigh is hired as a ghostwriter for renowned author Verity Crawford under mysterious circumstances, but her assignment takes a dark turn after discovering chilling autobiographical notes. Faced with a series of deadly family secrets, Lowen struggles to separate fiction from reality, while also blurring the lines with Verity\u2019s husband, Jeremy.",
     "runtime": "117 min",
     "director": "Michael Showalter"
-  },
-  {
-    "title": "If I Go Will They Miss Me",
-    "date": "2026-10-04",
-    "time": "3:30 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4677630/",
-    "description": "Join us in the microcinema for Walter Thompson-Hern\u00e1ndez\u2019s breathtaking father-son story about imagination, family, and the grace we extend to the people we love. In the Watts neighborhood of Los Angeles, twelve-year-old Lil Ant sees the world and his father the way all children should \u2014 full of myth, wonder, and unwavering belief.",
-    "runtime": "95 min",
-    "director": "Walter Thompson-Hern\u00e1ndez",
-    "city": "LA"
   },
   {
     "title": "THE WEDDING",
@@ -14844,19 +14558,6 @@
     "description": "Based on writer/director Hayley Kiyoko's hit single and best-selling novel of the same name and featuring all-new music from Kiyoko, GIRLS LIKE GIRLS is a heartfelt coming-of-age story set over the course of one sun-drenched summer, where new-girl-in-town Coley falls in love for the first time while learning to accept herself along the way.",
     "runtime": "95 min",
     "director": "Hayley Kiyoko"
-  },
-  {
-    "title": "If I Go Will They Miss Me",
-    "date": "2026-10-07",
-    "time": "7:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4706316/",
-    "description": "Join us in the microcinema for Walter Thompson-Hern\u00e1ndez\u2019s breathtaking father-son story about imagination, family, and the grace we extend to the people we love. In the Watts neighborhood of Los Angeles, twelve-year-old Lil Ant sees the world and his father the way all children should \u2014 full of myth, wonder, and unwavering belief.",
-    "runtime": "95 min",
-    "director": "Walter Thompson-Hern\u00e1ndez",
-    "city": "LA"
   },
   {
     "title": "TAKE ME HOME",
@@ -26283,7 +25984,7 @@
     "format": "DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627524",
+    "url": "https://princecharlescinema.com/film/31617405/backrooms-everything-must-go-edition-with-bonus-footage",
     "city": "London",
     "description": "A strange doorway appears in the basement of a furniture showroom.",
     "runtime": "126 min",
@@ -31626,7 +31327,7 @@
     "format": "35mm",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628204",
+    "url": "https://princecharlescinema.com/film/31617501/ken-russells-the-devils-the-directors-cut",
     "city": "London",
     "description": "Censored for over half a century, Ken Russell\u2019s film returns in a landmark director\u2019s cut reconstruction that reveals the full power of his original vision. Inspired by the true story of 17th-century priest Urbain Grandier, accused of bewitching a convent of nuns, The Devils lays bare the collusion of church and state through a searing vision of religious persecution, collective hysteria and institutional corruption. The restoration many believed would never happen reaffirms Russell\u2019s incendiary masterpiece as among the most overwhelming and uncompromising achievements in British cinema. Assembled from original camera negative, this 4k restoration is Ken Russell\u2019s 2004 preferred edit. Picture and sound restoration by Warner Bros. Post Production Creative Services, Water Tower Color and Warner Bros. Sound. Following the sold-out LFF performance on 12th October, Ken Russell's THE DEVILS will screen daily from 30th October. Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital.",
     "runtime": "114 min",
@@ -32777,6 +32478,19 @@
     "director": ""
   },
   {
+    "title": "Pushkin House: Dead Mountaineer\u2019s Hotel",
+    "date": "2026-11-06",
+    "time": "8:40 PM",
+    "format": "DCP",
+    "venue": "ICA",
+    "venue_short": "ICA",
+    "url": "https://www.ica.art/films",
+    "city": "London",
+    "description": "",
+    "runtime": "83 min",
+    "director": ""
+  },
+  {
     "title": "Akira",
     "date": "2026-11-06",
     "time": "8:45 PM",
@@ -33204,6 +32918,19 @@
     "description": "",
     "runtime": "110 min",
     "director": ""
+  },
+  {
+    "title": "Dead Souls + Alex Cox Q&A",
+    "date": "2026-11-08",
+    "time": "8:00 PM",
+    "format": "DCP",
+    "venue": "Prince Charles Cinema",
+    "venue_short": "PCC",
+    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628519",
+    "city": "London",
+    "description": "On Sunday 8th November, we will be joined by Director Alex Cox for a Live Post-Film Q&A For his directorial swan song, Alex Cox (Repo Man, Straight to Hell) stars in this frontier fable of American Greed, playing the mysterious drifter Strindler as he scours the West for the names of dead Mexican labourers. In this loose adaptation of Nikolai Gogol's 1842 novel Dead Souls, Strindler - or is it Swindler? - raises eyebrows when he offers to pay a pretty penny to add to his list of names. Wandering affably from saloon to ranch, Strindler exercises the old adage that money talks - but sometimes too loudly. Between the town drunk, hot-headed cowherds and local outlaws, Strindler soon finds himself tangled up in his own tall tales. Pistol duels and crooked officials abound, and Spaghetti Western legend Gianni Garko (If You Meet Sartana Pray For Your Death) claims a co-writer credit. But Cox's idiosyncrasy stands out as the film veers tonally through the picaresque, dark satire and other unexpected twists. Dead Souls is a meditative Western that takes place at the borderlands of the American nightmare: where fortunes rest on a dirty deal and legacies are built on blood and gold.",
+    "runtime": "88 min",
+    "director": "Alex Cox"
   },
   {
     "title": "Ken Russell's The Devils: The Director's Cut",
@@ -33971,6 +33698,19 @@
     "description": "Directed by visionary science-fiction animator Rene\u0301 Laloux (Fantastic Planet) and designed by the legendary Jean Giraud (a.k.a. M\u0153bius) The Time Masters is a visually fantastic foray into existentialist space adventure. After his parents are killed on the dangerous planet Perdide, young Piel (voiced by Fre\u0301de\u0301ric Legros) survives by maintaining radio contact with Jaffar (Jean Valmont), a pilot transporting the exiled Prince Matton (Yves-Marie Maurin) and Princess Belle (Monique Thierry) from their former kingdom. Jaffar seeks the help of Silbad (Michel Elias), a cheerful old-timer who knows how to circumvent Perdide\u2019s hazards, including brain-devouring insects and watery graves. Along the way, Jaffar and company encounter a pair of impish homunculi stowaways, identity-less angels controlled by an amorphous hive mind, and the Masters of Time, mysterious beings who can bend reality and perhaps reveal to the heroes their secret origins and destinies. Restored in 4K in 2023 at the initiative of CITE FILMS in collaboration with the Fondazione Cineteca di Bologna and with the support of the CNC",
     "runtime": "79 min",
     "director": "Ren\u00e9 Laloux"
+  },
+  {
+    "title": "Pushkin House: Hard to Be a God",
+    "date": "2026-11-13",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "ICA",
+    "venue_short": "ICA",
+    "url": "https://www.ica.art/films",
+    "city": "London",
+    "description": "",
+    "runtime": "177 min",
+    "director": ""
   },
   {
     "title": "LPFF 2026: Opening Night - Who is Still Alive (15*) + ScreenTalk",
@@ -35052,6 +34792,19 @@
     "director": "Ken Russell"
   },
   {
+    "title": "The Third Man",
+    "date": "2026-11-18",
+    "time": "12:25 PM",
+    "format": "DCP",
+    "venue": "Prince Charles Cinema",
+    "venue_short": "PCC",
+    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628522",
+    "city": "London",
+    "description": "Set in postwar Vienna, Austria, \"The Third Man\" stars Joseph Cotten as Holly Martins, a writer of pulp Westerns, who arrives penniless as a guest of his childhood chum Harry Lime (Orson Welles), only to find him dead. Martins develops a conspiracy theory after learning of a \"third man\" present at the time of Harry's death, running into interference from British officer Maj. Calloway (Trevor Howard) and falling head-over-heels for Harry's grief-stricken lover, Anna (Alida Valli).",
+    "runtime": "104 min",
+    "director": "Carol Reed"
+  },
+  {
     "title": "No Country For Old Men",
     "date": "2026-11-18",
     "time": "12:40 PM",
@@ -35063,19 +34816,6 @@
     "description": "While out hunting, Llewelyn Moss (Josh Brolin) finds the grisly aftermath of a drug deal. Though he knows better, he cannot resist the cash left behind and takes it with him. The hunter becomes the hunted when a merciless killer named Chigurh (Javier Bardem) picks up his trail. Also looking for Moss is Sheriff Bell (Tommy Lee Jones), an aging lawman who reflects on a changing world and a dark secret of his own, as he tries to find and protect Moss.",
     "runtime": "122 min",
     "director": "Ethan Coen, Joel Coen"
-  },
-  {
-    "title": "Out of the Past",
-    "date": "2026-11-18",
-    "time": "12:55 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628340",
-    "city": "London",
-    "description": "A private eye escapes his past to run a gas station in a small town, but his past catches up with him. Now he must return to the big city world of danger, corruption, double crosses, and duplicitous dames.",
-    "runtime": "97 min",
-    "director": "Jacques Tourneur"
   },
   {
     "title": "Bitter Christmas",
@@ -37455,6 +37195,19 @@
     "description": "Sonic Cinema and the Japan Foundation present the films of Montreal-based artist Da\u00efchi Sa\u00efto, projected from his personal 35mm prints. A rare encounter with a singular voice in artisanal film practice, this programme highlights Sa\u00efto\u2019s skill in bridging metaphysical concepts with sensory experience. Originally from Japan, Da\u00efchi Sa\u00efto makes films of intense beauty and power, grounded in abstract approaches to landscape, rhythm, and perception. Produced through expressive use of optical manipulation and painstaking frame-by-frame photochemical treatments, the films in this programme carry a tactile and elemental intensity, teasing out the sensual poetry of the natural world and human subjectivity. Drawing on Sa\u00efto's studies in philosophy, literature, and the languages of Hindi and Sanskrit, as much as the language of cinema, these are films built on a poetic dialogue of sound and image. Guided by the expressive improvised soundtracks of Malcolm Goldstein and Jason Sharp, we'll traverse exterior and interior landscapes, from the darkened primordial deserts of Sa\u00efto's most recent film earthearthearth (2021), through the stained glass forest of Trees of Syntax , Leaves of Axis (2009), before the torrent of memories and cool mountain vistas carries us away in Engram of Returning (2015). Da\u00efchi will join us in person for a Q&A with series curator Oliver Dickens following the screening. Programme earthearthearth , Canada 2021, 30 min., 35mm Trees of Syntax, Leaves of Axis , Canada 2009, 10 min., 35mm Engram of Returning , Canada, Japan 2015, 18\u201930 min., 35mm Programmed by Oliver Dickens for Sonic Cinema, presented in partnership with the Japan Foundation.",
     "runtime": "75 min",
     "director": ""
+  },
+  {
+    "title": "SCREAMPLAY + DIRECTOR/STAR RUFUS BUTLER SEDER Q&A",
+    "date": "2026-11-28",
+    "time": "6:00 PM",
+    "format": "Digital",
+    "venue": "The Nickel Cinema",
+    "venue_short": "Nickel",
+    "url": "https://thenickel.co.uk/screening/865",
+    "city": "London",
+    "description": "\"...takes HOLLYWOOD by the throat and STRANGLES it!\"\nEdgar Allan (Rufus B. Seder) is an aspiring screenwriter who has just come to Hollywood to make it in the movies... only to wind up working as the janitor at a fleabag apartment complex run by the greasy ex-boxer Martin (George Kuchar) instead. When Edgar begins channeling his frustrations with his kooky neighbors into fodder for his latest screenplay, the vivid murder scenes he writes begin to happen for real. As the bodies begin to pile up and the line between reality and fiction become increasingly blurred, Edgar, who is convinced that the only way to be a real writer is to suffer, is slowly driven mad.\nInventively produced using a host of early cinematic techniques and featuring a memorable performance by underground film legend George Kuchar, Rufus Butler Seder's Screamplay is a singularly charming tribute to Old Hollywood and a marvel of low-budget but high-concept filmmaking.",
+    "runtime": "91 min",
+    "director": "Rufus Butler Seder"
   },
   {
     "title": "The Holiday",
