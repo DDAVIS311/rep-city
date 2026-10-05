@@ -442,5 +442,29 @@
   "description": "In this romantic thriller, a young actor begins rehearsals at a haunted theatre and catches the attention of the resident ghost.",
   "runtime": "93 min",
   "format": ""
+ },
+ "https://www.peckhamplex.london/film/the-uprising": {
+  "director": "Paul Greengrass",
+  "description": "Andrew Garfield stars as the legendary leader of a ferocious rebellion against the tyranny of King Richard II. As war burns across England, he forms an army of the people to face the King’s might in a fight for justice and survival.",
+  "runtime": "128 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/the-lost-children-of-tuam": {
+  "director": "Frank Berry",
+  "description": "In rural Ireland, amateur historian Catherine Corless begins researching a former institution for unmarried mothers and their children, uncovering a shocking hidden history of loss. Based on the true story, and featuring a powerful performance from Monica Dolan, THE LOST CHILDREN OF TUAM is a deeply moving portrait of one woman’s fight for justice.",
+  "runtime": "84 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/the-social-reckoning": {
+  "director": "Aaron Sorkin",
+  "description": "Explores Facebook's internal practices, spread of false information, impact on teen mental health, and connection to January 6 Capitol events.",
+  "runtime": "112 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/avengers-doomsday": {
+  "director": "",
+  "description": "In “Avengers: Doomsday,” beloved heroes from three distinct universes will be set on a deadly collision course and face an existential threat unlike anything they’ve ever encountered.",
+  "runtime": "165 min",
+  "format": ""
  }
 }
