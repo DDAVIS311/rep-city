@@ -2964,19 +2964,6 @@
     "director": "Douglas Keeve"
   },
   {
-    "title": "Sense And Sensibility",
-    "date": "2026-10-06",
-    "time": "10:15 AM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17977/",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles. Sisters Elinor and Marianne Dashwood must leave their Sussex estate following the sudden loss of their wealthy father and are forced to move in with a distant relative. The two sisters attempt to find security and happiness whilst navigating their vastly different approaches to love.",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
     "title": "The Last First: Winter K2",
     "date": "2026-10-06",
     "time": "10:40 AM",
@@ -3016,19 +3003,6 @@
     "director": "Jesse Short Bull, David France"
   },
   {
-    "title": "Cotton Queen",
-    "date": "2026-10-06",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17978/",
-    "city": "London",
-    "description": "In this Arabic-language drama, a teenage girl's life in a Sudanese village is disrupted when a wealthy businessman arrives with plans to genetically engineer the local cotton crops.",
-    "runtime": "94 min",
-    "director": "Suzannah Mirghani"
-  },
-  {
     "title": "Flesh Impact",
     "date": "2026-10-06",
     "time": "11:05 AM",
@@ -3040,19 +3014,6 @@
     "description": "A 100-year-old woman arrives unannounced to audition for a Broadway play. Standing alone on stage, she begins to reveal strange truths about a life in the public eye and a woman the world thought it knew.",
     "runtime": "21 min",
     "director": "Maggie Gyllenhaal"
-  },
-  {
-    "title": "Behemoth!",
-    "date": "2026-10-06",
-    "time": "11:45 AM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84111/84466",
-    "city": "NYC",
-    "description": "An American drama of uncommon intelligence, humor, and grace, the latest from writer-director Tony Gilroy (Michael Clayton) stars Pedro Pascal in a career-best performance as a cellist picking up the pieces of a fractured life.",
-    "runtime": "127 min",
-    "director": "Tony Gilroy"
   },
   {
     "title": "The History of Concrete",
@@ -3081,45 +3042,6 @@
     "director": "Louis Paxton"
   },
   {
-    "title": "L'Innocente",
-    "date": "2026-10-06",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84336/84358",
-    "city": "NYC",
-    "description": "In his final film, Luchino Visconti offers a poison-pill variation on the theme that consumed his career\u2014the moral decay of the soul-sick aristocracy\u2014while achieving a masterful synthesis of stylistic splendor and emotional intensity.",
-    "runtime": "129 min",
-    "director": "Luchino Visconti"
-  },
-  {
-    "title": "LolaFF: A Bright Future",
-    "date": "2026-10-06",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "98 min",
-    "director": ""
-  },
-  {
-    "title": "Off-Circuit: UK PREMIERE The Day She Returns",
-    "date": "2026-10-06",
-    "time": "12:10 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/the-day-she-returns",
-    "city": "London",
-    "description": "The Day She Returns follows actress Bae Jeongsu (Song Sunmi), who, having stepped back from acting after marriage and a subsequent divorce, returns to the profession with a role in an independent film. As the film\u2019s release approaches, she takes part in a series of press interviews. A subtle meditation on memory and performance, Hong Sangsoo's latest film unfolds through a series of increasingly intimate conversations, as he continues his exploration of the boundaries between lived experience and artistic creation.",
-    "runtime": "84 min",
-    "director": "Hong Sangsoo"
-  },
-  {
     "title": "THE SCOUT",
     "date": "2026-10-06",
     "time": "12:15 PM",
@@ -3139,7 +3061,7 @@
     "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4110?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "description": "Latif is a devoutly religious hitman who struggles to balance work, faith, and fatherhood. When his wife dies, he embarks on a desperate journey across Houston in search of breast milk for his infant daughter, all while dodging sex traffickers, an evangelical militia, and his own demons.",
     "runtime": "111 min",
     "director": "",
@@ -3159,32 +3081,6 @@
     "director": "Douglas Keeve"
   },
   {
-    "title": "Gone to Earth",
-    "date": "2026-10-06",
-    "time": "12:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84333/84834",
-    "city": "NYC",
-    "description": "Jennifer Jones gives a career-best performance in Michael Powell and Emeric Pressburger\u2019s glorious tribute to the otherworldly landscapes where Powell\u2019s father grew up, in the first complete restoration of the original version of Gone to Earth.",
-    "runtime": "111 min",
-    "director": "Michael Powell and Emeric Pressburger"
-  },
-  {
-    "title": "Hellraiser",
-    "date": "2026-10-06",
-    "time": "12:30 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627542",
-    "city": "London",
-    "description": "Sexual deviant Frank (Sean Chapman) inadvertently opens a portal to hell when he tinkers with a box he bought while abroad. The act unleashes gruesome beings called Cenobites, who tear Frank's body apart. When Frank's brother (Andrew Robinson) and his wife, Julia (Clare Higgins), move into Frank's old house, they accidentally bring what is left of Frank back to life. Frank then convinces Julia, his one-time lover, to lure men back to the house so he can use their blood to reconstruct himself.",
-    "runtime": "94 min",
-    "director": "Clive Barker"
-  },
-  {
     "title": "The History of Concrete",
     "date": "2026-10-06",
     "time": "12:40 PM",
@@ -3196,19 +3092,6 @@
     "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
     "runtime": "101 min",
     "director": "John Wilson"
-  },
-  {
-    "title": "Manhunter : The Final Cut",
-    "date": "2026-10-06",
-    "time": "12:45 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627543",
-    "city": "London",
-    "description": "A retired criminal profiler (William Petersen) reluctantly returns to the FBI to help track down a serial killer of families and is forced to consult an expert\u2014the imprisoned Dr. Hannibal Lecktor (Brian Cox in a subtly chilling performance). The third feature written and directed by Michael Mann is a gripping adaptation of the first of Thomas Harris\u2019s four novels featuring the iconic murderer, and benefits from the filmmaker\u2019s typically striking visuals as well as a top-notch supporting cast , including Tom Noonan as the hunted killer, and three-time Oscar nominee Joan Allen (The Contender, 2000) as his blind love interest. -- This new 4K Final Cut, overseen by Mann, enhances the film\u2019s depth, visual clarity and sound, offering audiences the ultimate immersive version. Shot in 1985, MANHUNTER was on a frontier in both its subject matter and film form, initiating an impressive list of subsequent films and series. \u201c40 years ago \u2013 though armed with Thomas Harris\u2019 excellent novel, \u201cRed Dragon\u201d \u2013 its subject matter, the profiling of serial killers, as well as being shocking and raw, was unknown. When adapting, I wanted to make its storytelling deliver audiences into a certain state of threat and emotional engagement. Integral to that was the visualization and use of music with lyrics sometimes working like a libretto. We have carefully remastered the film to try to evoke that mood and intensity, heightened with audio sourced from the original 5.1 35mm analog masters. This latest iteration is that version of the film with which I\u2019m most satisfied.\u201d said director Michael Mann. Under the guidance of Mann, this 4K scan of the original 35mm negative \u2013 with a few shots from an interpositive - was conformed and digitally restored at L\u2019Immagine Ritrovata in Bologna. Both the theatrical version and the UHD HDR & SDR video color gradings were performed by Stefan Sonnenfeld at Company 3 in Los Angeles with the director. Sound restoration was done at Audio Mechanics from an original 35mm magnetic 6-track printmaster to release a new 5.1 mix by Luke Schwartzweller at Fox . Technical coordination and deliveries were managed by L\u2019Immagine Ritrovata . This project was supervised by Becca Mann and STUDIOCANAL team, Jean-Pierre Boiget and Delphine Roussel . For Michael Mann, the process is about renewing the film\u2019s immediacy for contemporary audiences: \u201cIf the picture was left the way it was, it would be interesting, but you\u2019d feel some distance \u2026you\u2019d be observing it somewhat. I\u2019m more interested in its original intent impacting you the same way it may have in 1986\u2026that is, to bring you into it again in the original way.\u201d As a film distinguished by its striking visual style, including Colleen Attwood\u2019s costume design, Academy Award- winner Mel Bourne\u2019s art direction, Dante Spinotti\u2019s lighting, Mann worked with his long-time collaborator, Stefan Sonnenfeld (Company 3), to develop a new color grade for \u2018The Final Cut\u2019 that engages a contemporary audience while honoring the film\u2019s lasting legacy. \u201cA good example is the use of primaries and secondaries in combinations that don\u2019t occur in nature for an unsettling ambiance or the use of blue for night-time imagery. We\u2019ve changed values subtly sometimes, but significantly, to enhance the impact without changing the dramatic intent of the film,\u201d said Stefan Sonnenfeld. He adds: \u201cMichael\u2026 wants you to understand the story and the mood and the environment\u2026 and then asks you to interpret that in colour\u2026 He also tells you what emotion he\u2019s trying to evoke from the scene.\u201d The new version also introduces an HDR presentation, offering an intensified new experience. \u201cSo that nobody\u2019s ever seen the movie like that,\u201d noted Sonnenfeld.",
-    "runtime": "119 min",
-    "director": "Michael Mann"
   },
   {
     "title": "Naza",
@@ -3250,45 +3133,6 @@
     "director": "Andrzej Wajda"
   },
   {
-    "title": "Tender Loving Care",
-    "date": "2026-10-06",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84138/84217",
-    "city": "NYC",
-    "description": "Mike Leigh\u2019s portrayal of overwhelmed, resilient lives in post-Brexit England should be received as one of his signature works, a film with a leveling sense of humor about the difficulty of asking for\u2014and accepting\u2014help in a world that continually lets us down.",
-    "runtime": "107 min",
-    "director": "Mike Leigh"
-  },
-  {
-    "title": "Digger",
-    "date": "2026-10-06",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17979/",
-    "city": "London",
-    "description": "Academy Award-winning filmmaker Alejandro G. I\u00f1\u00e1rritu returns with his original film Digger, starring Tom Cruise. The most powerful man in the world (Cruise) embarks on a frantic mission to prove he is humanity\u2019s savior before the disaster he\u2019s unleashed destroys everything. This wildly hilarious satire was shot entirely in VistaVision.",
-    "runtime": "129 min",
-    "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
-  },
-  {
-    "title": "Cotton Queen",
-    "date": "2026-10-06",
-    "time": "1:25 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17980/",
-    "city": "London",
-    "description": "In this Arabic-language drama, a teenage girl's life in a Sudanese village is disrupted when a wealthy businessman arrives with plans to genetically engineer the local cotton crops.",
-    "runtime": "94 min",
-    "director": "Suzannah Mirghani"
-  },
-  {
     "title": "Free Leonard Peltier",
     "date": "2026-10-06",
     "time": "1:45 PM",
@@ -3313,45 +3157,6 @@
     "runtime": "79 min",
     "director": "",
     "city": "LA"
-  },
-  {
-    "title": "LoLaFF: Cartas a mis padres muertos",
-    "date": "2026-10-06",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "106 min",
-    "director": ""
-  },
-  {
-    "title": "Off-Circuit: The Seasons",
-    "date": "2026-10-06",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/off-circuit-the-seasons",
-    "city": "London",
-    "description": "Weaving accounts of rural workers and field notes of a couple of archaeologists, amateur footage and scientific drawings, legends, poems and songs, Maureen Fazendeiro's The Seasons is a journey through the real history and the tales of a region in southern Portugal, Alentejo, and a portrait of the people who have lived there.",
-    "runtime": "82 min",
-    "director": "Maureen Fazendeiro"
-  },
-  {
-    "title": "Digger",
-    "date": "2026-10-06",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/77138",
-    "city": "London",
-    "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's saviour before the disaster he\u2019s unleashed destroys everything.",
-    "runtime": "129 min",
-    "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
   },
   {
     "title": "UNZIPPED",
@@ -3393,19 +3198,6 @@
     "director": ""
   },
   {
-    "title": "Artificial",
-    "date": "2026-10-06",
-    "time": "2:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84564/84566",
-    "city": "NYC",
-    "description": "Anchored by brilliant lead performances by Andrew Garfield and Yura Borisov, Luca Guadagnino\u2019s thrilling, funny, and very human drama propels audiences through the two decades of machine learning research that have brought us to our current AI crisis point.",
-    "runtime": "140 min",
-    "director": "Luca Guadagnino"
-  },
-  {
     "title": "Begotten",
     "date": "2026-10-06",
     "time": "2:45 PM",
@@ -3417,32 +3209,6 @@
     "description": "BEGOTTEN has no characters in the ordinary sense. Its final credits name three principal figures: God Killing Himself. Mother Earth. Son of Earth \u2013 Flesh on Bone. The entire film is what those names do to each other and to the earth. God Killing Himself tears open his body and dies. Mother Earth rises from what remains and takes his seed into herself. She gives birth to Son of Earth Flesh on Bone. He is cast into a barren world, seized by the Nomads, tortured, killed, and briefly returned to life by his mother.The Nomads destroy her too. The Robed Figures gather what remains of mother and son, grind their bodies down, and return them to the soil. The ground flowers.",
     "runtime": "72 min",
     "director": "E. Elias Merhige"
-  },
-  {
-    "title": "What Can't Be Mentioned",
-    "date": "2026-10-06",
-    "time": "3:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84266/84317",
-    "city": "NYC",
-    "description": "Jackie (Tallie Medel) is a social worker in training picking at the knots of her own unresolved issues in microbudget maestro Dan Sallitt\u2019s sequel to his notorious-yet-gentle 2012 taboo-buster The Unspeakable Act. Preceded by Nathan Silver\u2019s Sounds From Home.",
-    "runtime": "61 min",
-    "director": "Dan Sallitt"
-  },
-  {
-    "title": "Possession",
-    "date": "2026-10-06",
-    "time": "3:00 PM",
-    "format": "4K DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627541",
-    "city": "London",
-    "description": "After Anna (Isabelle Adjani) reveals to her husband, Mark (Sam Neill), that she is having an affair, she leaves him and their son. Mark is devastated, and seeks out Heinrich (Heinz Bennent), the man who cuckolded him, only to receive a beating. After a series of violent confrontations between Mark and Anna, Mark hires a private investigator to follow her. Anna descends into madness, and it's soon clear that she is hiding a much bigger secret -- one that is both inexplicable and shocking.",
-    "runtime": "124 min",
-    "director": "Andrzej Zulawski"
   },
   {
     "title": "Naza",
@@ -3471,32 +3237,6 @@
     "director": "Sandra Wollner"
   },
   {
-    "title": "The Silence of the Lambs",
-    "date": "2026-10-06",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627544",
-    "city": "London",
-    "description": "Jodie Foster stars as Clarice Starling, a top student at the FBI's training academy. Jack Crawford (Scott Glenn) wants Clarice to interview Dr. Hannibal Lecter (Anthony Hopkins), a brilliant psychiatrist who is also a violent psychopath, serving life behind bars for various acts of murder and cannibalism. Crawford believes that Lecter may have insight into a case and that Starling, as an attractive young woman, may be just the bait to draw him out.",
-    "runtime": "119 min",
-    "director": "Jonathan Demme"
-  },
-  {
-    "title": "Digger",
-    "date": "2026-10-06",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17981/",
-    "city": "London",
-    "description": "Academy Award-winning filmmaker Alejandro G. I\u00f1\u00e1rritu returns with his original film Digger, starring Tom Cruise. The most powerful man in the world (Cruise) embarks on a frantic mission to prove he is humanity\u2019s savior before the disaster he\u2019s unleashed destroys everything. This wildly hilarious satire was shot entirely in VistaVision.",
-    "runtime": "129 min",
-    "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
-  },
-  {
     "title": "KORCZAK",
     "date": "2026-10-06",
     "time": "3:40 PM",
@@ -3521,19 +3261,6 @@
     "description": "The last work of a master filmmaker who died far too young, the gentle, restrained, and terribly humane Yi Yi observes the interplay between three generations of an upper middle-class Taipei family. Comic when dealing in the foibles of its excellent ensemble cast and the mores of the urban bourgeoise, yet also possessed throughout by an air of unmistakable melancholy and lingering regret at missed opportunities, this feeling made all the deeper when one considers the great films Yang might still have produced. A work of epic length that avoids even a hint of bombast, dedicated instead to working its way into the hidden, niche spaces of everyday people\u2019s emotional lives, it\u2019s a film as rich and as sad as life itself. Part of Ji\u0101: Histories of Home",
     "runtime": "173 min",
     "director": "Edward Yang"
-  },
-  {
-    "title": "Sense And Sensibility",
-    "date": "2026-10-06",
-    "time": "3:40 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17982/",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles. Sisters Elinor and Marianne Dashwood must leave their Sussex estate following the sudden loss of their wealthy father and are forced to move in with a distant relative. The two sisters attempt to find security and happiness whilst navigating their vastly different approaches to love.",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
   },
   {
     "title": "The Last First: Winter K2",
@@ -3640,19 +3367,6 @@
     "director": ""
   },
   {
-    "title": "LolaFF: Memories of Underdevelopment",
-    "date": "2026-10-06",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "97 min",
-    "director": ""
-  },
-  {
     "title": "Iphigenia",
     "date": "2026-10-06",
     "time": "4:20 PM",
@@ -3677,19 +3391,6 @@
     "description": "Director Gonz\u00e1lez-Nasser spent six years working as a location scout. In this luminous directorial debut, she brings us into a day in the life of a young scout tasked with finding the perfect interiors for a television pilot. Sof\u00eda (Mimi Davila) moves in and out of other people\u2019s intimate spaces and quotidian lives, tweaking her personality just enough to connect while struggling to find balance between her professional and personal worlds. With a mounting stack of parking tickets and the impertinent commentaries of her crew, she faces a series of small-yet-paralyzing obstacles that render her day increasingly exhausting. Through a constellation of quiet but poignant vignettes, the film offers an original view into the invisible labor of TV production, unfolding as an alternative symphony of a New York grappling with gentrification and a growing erosion of empathy.",
     "runtime": "89 min",
     "director": ""
-  },
-  {
-    "title": "Barrio Triste",
-    "date": "2026-10-06",
-    "time": "4:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/barrio-triste",
-    "city": "London",
-    "description": "In an impoverished neighborhood of 1980s Medell\u00edn, a group of disaffected teens steal a TV reporter\u2019s camera to document their lives. Piercing the derelict landscape\u2019s oppressive atmosphere with disarming reflections on dreams and death, their understanding of reality and hope begins to erode as reports of mysterious lights falling from the sky coincide with temporal and spatial distortions. In his striking feature debut, long-time Bad Bunny collaborator Stillz captures an intimate, formally daring portrait of Colombia's forgotten youth. Barrio Triste is heightened by a restless, intense debut score from Arca, whose fluid soundscapes anchor the film's vision. Navigating the thin line between desperation and the supernatural, Stillz delivers a beautiful, unclassifiable piece of contemporary cinema.",
-    "runtime": "88 min",
-    "director": "Stillz"
   },
   {
     "title": "The Miracle Fighters (\u5947\u9580\u9041\u7532)",
@@ -3770,32 +3471,6 @@
     "director": "Pedro Almod\u00f3var"
   },
   {
-    "title": "Sense and Sensibility",
-    "date": "2026-10-06",
-    "time": "5:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83604?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Left destitute by ruthless family members, two sisters navigate scandal, heartbreak, and strict social etiquette while searching for their perfect romantic matches.",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
-    "title": "Sense and Sensibility",
-    "date": "2026-10-06",
-    "time": "5:30 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/77136",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood.\r\nThree sisters experience love and heartbreak after they're forced to leave their family estate with their widowed mother and move to a humble cottage...",
-    "runtime": "131 min",
-    "director": "Georgia Oakley"
-  },
-  {
     "title": "UNZIPPED",
     "date": "2026-10-06",
     "time": "5:45 PM",
@@ -3807,19 +3482,6 @@
     "description": "\u201cIsaac Mizrahi as he conceived and contorted the way through to his fall 1994 show, [dashing] around a deserted SoHo with pal Sandra Bernhard; [meeting] with Naomi Campbell, Linda Evangelista, and baby Kate Moss for fittings; and [racing] uptown to an audience with Eartha Kitt... Hair-raising deadlines, delirious Bette Davis impressions, and the hostile but exhilarating act of executing a designer\u2019s vision come together in a work that set the bar for all fashion films after.\u201d \u2013 Vogue",
     "runtime": "73 min",
     "director": "Douglas Keeve"
-  },
-  {
-    "title": "Digger",
-    "date": "2026-10-06",
-    "time": "5:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83605?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's saviour before the disaster he\u2019s unleashed destroys everything.",
-    "runtime": "129 min",
-    "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
   },
   {
     "title": "Naza",
@@ -3874,45 +3536,6 @@
     "director": ""
   },
   {
-    "title": "Sense and Sensibility (U) (AD)",
-    "date": "2026-10-06",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/sense-and-sensibility",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen \u2019s iconic Sense and Sensibility : a charming, witty and deeply relatable story of love and sisterhood, starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles .",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
-    "title": "Obsession (2026)",
-    "date": "2026-10-06",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627484",
-    "city": "London",
-    "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-    "runtime": "108 min",
-    "director": "Curry Barker"
-  },
-  {
-    "title": "Verity",
-    "date": "2026-10-06",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83603?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Struggling writer Lowen Ashleigh is hired as a ghostwriter for renowned author Verity Crawford under mysterious circumstances, but her assignment takes a dark turn after discovering chilling autobiographical notes. Faced with a series of deadly family secrets, Lowen struggles to separate fiction from reality, while also blurring the lines with Verity\u2019s husband, Jeremy.",
-    "runtime": "117 min",
-    "director": "Michael Showalter"
-  },
-  {
     "title": "The Ear",
     "date": "2026-10-06",
     "time": "6:00 PM",
@@ -3924,19 +3547,6 @@
     "description": "Our screening on Tuesday 6 October will be introduced Daniela Richterov\u00e1, Senior Lecturer in Intelligence Studies at the Department of War\u2026",
     "runtime": "95 min",
     "director": "Karel Kachy\u0148a"
-  },
-  {
-    "title": "Digger (15) (AD)",
-    "date": "2026-10-06",
-    "time": "6:05 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/digger",
-    "city": "London",
-    "description": "Academy Award-winning filmmaker Alejandro G I\u00f1\u00e1rritu ( Birdman ) returns with his original feature starring Tom Cruise as the most powerful man in the world.",
-    "runtime": "129 min",
-    "director": "Alejandro G I\u00f1\u00e1rritu"
   },
   {
     "title": "YOU HAD TO BE THERE",
@@ -3963,19 +3573,6 @@
     "description": "Based on The Danton Affair, a 1930s play that Wajda directed on stage in 1975, this boisterous and lavish French production starring Gerard Depardieu and scripted by Jean-Claude Carriere, may have seemed like a break from contemporary Polish politics. But Depardieu\u2019s Danton, an earthy, plain-spoken man of the people, was widely seen as a representation of Polish solidarity leader Lech Walesa, and Wojciech Pszoniak\u2019s reserved, cerebral Robespierre, was seen as the iron-fisted military general and Polish president Wojciech Jaruzelski. The film\u2019s politics have been widely debated, but the movie, a rare Wajda production made outside of his own country, was a hit of the 1983 New York Film Festival and an arthouse success.",
     "runtime": "",
     "director": "Andrzej Wajda"
-  },
-  {
-    "title": "Tony (15) (AD)",
-    "date": "2026-10-06",
-    "time": "6:10 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/tony",
-    "city": "London",
-    "description": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, carving out a slice of a summer that will shape the course of his life.",
-    "runtime": "106 min",
-    "director": "Matt Johnson"
   },
   {
     "title": "Fjord",
@@ -4017,58 +3614,6 @@
     "director": "Isabelle Stever"
   },
   {
-    "title": "Sense And Sensibility",
-    "date": "2026-10-06",
-    "time": "6:15 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17983/",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles. Sisters Elinor and Marianne Dashwood must leave their Sussex estate following the sudden loss of their wealthy father and are forced to move in with a distant relative. The two sisters attempt to find security and happiness whilst navigating their vastly different approaches to love.",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
-    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "date": "2026-10-06",
-    "time": "6:15 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83606?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The new adventure sees the residents of Mossy Bottom Farm looking forward to Halloween - until the clumsy Farmer trashes the Flock's beloved pumpkin patch. When Shaun turns mad scientist to fix the problem, things rapidly spiral out of control, leading to a wild beast roaming the woods.",
-    "runtime": "80 min",
-    "director": "Steve Cox, Matthew Walker"
-  },
-  {
-    "title": "Irreversible",
-    "date": "2026-10-06",
-    "time": "6:20 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627545",
-    "city": "London",
-    "description": "A woman's lover and her ex-boyfriend take justice into their own hands after she becomes the victim of a rapist. Because some acts can't be undone. Because man is an animal. Because the desire for vengeance is a natural impulse. Because most crimes remain unpunished.",
-    "runtime": "97 min",
-    "director": "Gaspar No\u00e9"
-  },
-  {
-    "title": "Digger",
-    "date": "2026-10-06",
-    "time": "6:20 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/17984/",
-    "city": "London",
-    "description": "Academy Award-winning filmmaker Alejandro G. I\u00f1\u00e1rritu returns with his original film Digger, starring Tom Cruise. The most powerful man in the world (Cruise) embarks on a frantic mission to prove he is humanity\u2019s savior before the disaster he\u2019s unleashed destroys everything. This wildly hilarious satire was shot entirely in VistaVision.",
-    "runtime": "129 min",
-    "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
-  },
-  {
     "title": "THE SCOUT",
     "date": "2026-10-06",
     "time": "6:30 PM",
@@ -4095,32 +3640,6 @@
     "director": ""
   },
   {
-    "title": "FEMALE PRISONER #701: SCORPION",
-    "date": "2026-10-06",
-    "time": "6:30 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/739",
-    "city": "London",
-    "description": "Betrayed by the corrupt narcotics officer she loved and brutalised inside a women\u2019s prison, Nami Matsushima survives by becoming something colder, quieter and infinitely more dangerous: Scorpion. Her captors can humiliate her, starve her and bury her underground - but they cannot extinguish her appetite for revenge.\nMeiko Kaji\u2019s implacable stare anchors Shunya It\u014d\u2019s explosive first Scorpion film, a ferocious pulp nightmare transformed by pop-art colour, expressionist sets and eruptions of surreal violence.",
-    "runtime": "87 min",
-    "director": "Shunya It\u014d"
-  },
-  {
-    "title": "Heart of the Beast",
-    "date": "2026-10-06",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83608?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "After a harrowing plane crash, Special Forces officer James Belmont (Brad Pitt) and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements. From acclaimed filmmaker David Ayer, Heart of the Beast is an intense adventure thriller that explores the unbreakable bond between a man and his best friend as they face their greatest battle yet.",
-    "runtime": "101 min",
-    "director": "David Ayer"
-  },
-  {
     "title": "Free Leonard Peltier",
     "date": "2026-10-06",
     "time": "6:35 PM",
@@ -4132,32 +3651,6 @@
     "description": "Sun, Oct 4: Q &A w/ dirs. Jesse Short Bull and David France after 1:15 show!",
     "runtime": "110 min",
     "director": "Jesse Short Bull, David France"
-  },
-  {
-    "title": "Cotton Queen",
-    "date": "2026-10-06",
-    "time": "6:40 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/cotton-queen",
-    "city": "London",
-    "description": "In a cotton-farming village in Sudan, teenage Nafisa is raised on heroic tales of battling British colonisers told by her grandmother, the village matriarch Al-Sit. But when a young businessman arrives from abroad with a new development plan and genetically engineered cotton, Nafisa becomes the centre of a power play to determine the future of the village. Awakening to her own strength, Nafisa sets out to save the cotton fields \u2013 and herself. Neither she nor her community will ever be the same again.",
-    "runtime": "94 min",
-    "director": "Suzannah Mirghani"
-  },
-  {
-    "title": "Girls Like Girls",
-    "date": "2026-10-06",
-    "time": "6:40 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83607?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Based on writer/director Hayley Kiyoko's hit single and best-selling novel of the same name and featuring all-new music from Kiyoko, GIRLS LIKE GIRLS is a heartfelt coming-of-age story set over the course of one sun-drenched summer, where new-girl-in-town Coley falls in love for the first time while learning to accept herself along the way.",
-    "runtime": "95 min",
-    "director": "Hayley Kiyoko"
   },
   {
     "title": "MOMMY IS COMING",
@@ -4522,6 +4015,19 @@
     "description": "Academy Award-winning filmmaker Alejandro G I\u00f1\u00e1rritu ( Birdman ) returns with his original feature starring Tom Cruise as the most powerful man in the world.",
     "runtime": "129 min",
     "director": "Alejandro G I\u00f1\u00e1rritu"
+  },
+  {
+    "title": "Knife: The Attempted Murder of Salman Rushdie (15) (AD)",
+    "date": "2026-10-06",
+    "time": "8:45 PM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/knife-the-attempted-murder-of-salman-rushdie",
+    "city": "London",
+    "description": "Whilst recovering in hospital from a devastating assassination attempt, renowned author Salman Rushdie looks back at his life and career, in this deeply personal documentary.",
+    "runtime": "107 min",
+    "director": "Alex Gibney"
   },
   {
     "title": "FEMALE PRISONER SCORPION: JAILHOUSE 41",
@@ -5700,7 +5206,7 @@
     "format": "DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627547",
+    "url": "https://princecharlescinema.com/film/31617164/mystery-horror-movie",
     "city": "London",
     "description": "HorrOctober invades our Mystery Movie strand this October! We'll be serving up four Mystery Horror Movies over four weeks! That is the only hint we will give you! No other hints. No clues. No refunds! You can find a list of every MYSTERY MOVIE we have ever screened HERE ; if a film is on this list, it is not eligible for future Mystery Movie screenings! --- Content Advice : As these films are a mystery, we aren't able to provide specific ratings / guidance on the film's content. We strongly advise that you take this into consideration before purchasing a ticket.",
     "runtime": "95 min",
@@ -6355,6 +5861,19 @@
     "description": "A Thai family accompanies its ailing matriarch on a pilgrimage to nine separate Buddhist temples all in one day in this contemplative spiritual journey from Apichatpong Weerasethakul\u2019s longtime assistant director, Sompot Chidgasornpongse. Thailand\u2019s entry for Best International Feature Film at the 2027 Academy Awards.",
     "runtime": "140 min",
     "director": "Sompot Chidgasornpongse"
+  },
+  {
+    "title": "Knife: The Attempted Murder of Salman Rushdie (15) (AD)",
+    "date": "2026-10-07",
+    "time": "9:00 PM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/knife-the-attempted-murder-of-salman-rushdie",
+    "city": "London",
+    "description": "Whilst recovering in hospital from a devastating assassination attempt, renowned author Salman Rushdie looks back at his life and career, in this deeply personal documentary.",
+    "runtime": "107 min",
+    "director": "Alex Gibney"
   },
   {
     "title": "Suspiria [1977]",
@@ -7377,7 +6896,7 @@
     "format": "DCP",
     "venue": "Electric Cinema Portobello",
     "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/77140",
+    "url": "https://www.electriccinema.co.uk/film/sense-and-sensibility-2/",
     "city": "London",
     "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood.\r\nThree sisters experience love and heartbreak after they're forced to leave their family estate with their widowed mother and move to a humble cottage...",
     "runtime": "131 min",
@@ -7525,6 +7044,19 @@
     "description": "Academy Award-winning filmmaker Alejandro G I\u00f1\u00e1rritu ( Birdman ) returns with his original feature starring Tom Cruise as the most powerful man in the world.",
     "runtime": "129 min",
     "director": "Alejandro G I\u00f1\u00e1rritu"
+  },
+  {
+    "title": "Knife: The Attempted Murder of Salman Rushdie (15) (AD)",
+    "date": "2026-10-08",
+    "time": "6:10 PM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/2026/event/knife-the-attempted-murder-of-salman-rushdie",
+    "city": "London",
+    "description": "Whilst recovering in hospital from a devastating assassination attempt, renowned author Salman Rushdie looks back at his life and career, in this deeply personal documentary.",
+    "runtime": "107 min",
+    "director": "Alex Gibney"
   },
   {
     "title": "The Day She Returns",
@@ -8996,6 +8528,19 @@
     "director": "Aaron Sorkin"
   },
   {
+    "title": "Your Mother Your Mother Your Mother 35mm",
+    "date": "2026-10-09",
+    "time": "3:30 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4206?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Latif is a devoutly religious hitman who struggles to balance work, faith, and fatherhood. When his wife dies, he embarks on a desperate journey across Houston in search of breast milk for his infant daughter, all while dodging sex traffickers, an evangelical militia, and his own demons.",
+    "runtime": "111 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "The Man I Love",
     "date": "2026-10-09",
     "time": "3:30 PM",
@@ -9839,6 +9384,19 @@
     "description": "It felt inevitable that Wajda would make a film dramatizing the incredible life of Lech Wa\u0142\u0119sa, who rose from being a shipyard electrician and participant in the 1970 strikes at Gdansk to the leader of the Solidarity Movement a decade later, and then the country\u2019s president and a Nobel Peace Prize winner. Walesa\u2019s story, and the rousing film that Wajda made, is the perfect conclusion to the trilogy including MAN OF MARBLE and MAN OF IRON, which seem now to foreshadow Wa\u0142\u0119sa\u2019s rise. True to form, Wajda avoids cliches and gives us an unvarnished, complex portrait, brilliantly interweaving dramatic scenes with documentary footage.",
     "runtime": "",
     "director": "Andrzej Wajda"
+  },
+  {
+    "title": "Your Mother Your Mother Your Mother 35mm",
+    "date": "2026-10-09",
+    "time": "7:30 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4207?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Latif is a devoutly religious hitman who struggles to balance work, faith, and fatherhood. When his wife dies, he embarks on a desperate journey across Houston in search of breast milk for his infant daughter, all while dodging sex traffickers, an evangelical militia, and his own demons.",
+    "runtime": "111 min",
+    "director": "",
+    "city": "LA"
   },
   {
     "title": "The Wicker Man",
@@ -11063,6 +10621,19 @@
     "director": "Rob Savage"
   },
   {
+    "title": "Your Mother Your Mother Your Mother 35mm",
+    "date": "2026-10-10",
+    "time": "1:15 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4212?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Latif is a devoutly religious hitman who struggles to balance work, faith, and fatherhood. When his wife dies, he embarks on a desperate journey across Houston in search of breast milk for his infant daughter, all while dodging sex traffickers, an evangelical militia, and his own demons.",
+    "runtime": "111 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "The Only Living Pickpocket",
     "date": "2026-10-10",
     "time": "1:15 PM",
@@ -11635,6 +11206,19 @@
     "director": "Steve Cox, Matthew Walker"
   },
   {
+    "title": "Your Mother Your Mother Your Mother 35mm",
+    "date": "2026-10-10",
+    "time": "4:15 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4214?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Latif is a devoutly religious hitman who struggles to balance work, faith, and fatherhood. When his wife dies, he embarks on a desperate journey across Houston in search of breast milk for his infant daughter, all while dodging sex traffickers, an evangelical militia, and his own demons.",
+    "runtime": "111 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "Bird in Hand",
     "date": "2026-10-10",
     "time": "4:15 pm",
@@ -12192,6 +11776,19 @@
     "description": "D\u2019est (From the East). 1993. Belgium/France. Directed by Chantal Akerman. 2K restoration by the Royal Film Archive of Belgium \u2014 CINEMATEK and Fondation Chantal Akerman; DCP courtesy Icarus Films. No dialogue. 115 min. Filmed from East Germany to Moscow between the summer and deep winter of 1993, Chantal Akerman\u2019s dispatch from the newly collapsed Soviet Union captures \u201ceverything that touched me\u201d through deliberately paced tracking shots, circular pans, and domestic scenes. A travelogue through landscapes and overcrowded urban centers\u2014whose interminable tableaux of train and bus queues become a sobering metaphor of historic upheaval\u2014D\u2019est chronicles everyday Poles, Ukrainians, Germans, and Russians staring down an uncertain future. Claire Atherton recalls editing this landmark film: \u201cIt was like a composition, both in the musical and visual sense. We were sculpting in time and space, looking for the right rhythm. We were editing in the same way Chantal had shot the film, following our intuition, without trying to understand. We said simple things to each other about color, clashes, ruptures, night and day, exterior and interior, violence, softness, the sound of footsteps in the snow or of tires screeching on icy roads\u2026. Words only appeared a year later, like echoes to the images, when we were editing the installation D\u2019est, au bord de la fiction (1995). These words became those of the installation\u2019s 25th screen, spoken by Chantal: \u2018Yesterday, today, and tomorrow, there were, there will be, there are at this very moment, / people whom history, which no longer even has a capital H, whom history has struck down.\u2019\u201d",
     "runtime": "115 min",
     "director": "Chantal Akerman"
+  },
+  {
+    "title": "Your Mother Your Mother Your Mother 35mm",
+    "date": "2026-10-10",
+    "time": "7:30 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4215?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Latif is a devoutly religious hitman who struggles to balance work, faith, and fatherhood. When his wife dies, he embarks on a desperate journey across Houston in search of breast milk for his infant daughter, all while dodging sex traffickers, an evangelical militia, and his own demons.",
+    "runtime": "111 min",
+    "director": "",
+    "city": "LA"
   },
   {
     "title": "House",
@@ -13361,6 +12958,19 @@
     "director": "Joanna Natasegara"
   },
   {
+    "title": "Your Mother Your Mother Your Mother 35mm",
+    "date": "2026-10-11",
+    "time": "1:15 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4213?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Latif is a devoutly religious hitman who struggles to balance work, faith, and fatherhood. When his wife dies, he embarks on a desperate journey across Houston in search of breast milk for his infant daughter, all while dodging sex traffickers, an evangelical militia, and his own demons.",
+    "runtime": "111 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "Andr\u00e9 Leon Talley: Style is Forever",
     "date": "2026-10-11",
     "time": "1:15 PM",
@@ -13998,6 +13608,19 @@
     "director": "Steve Cox, Matthew Walker"
   },
   {
+    "title": "Your Mother Your Mother Your Mother 35mm",
+    "date": "2026-10-11",
+    "time": "4:15 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4216?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Latif is a devoutly religious hitman who struggles to balance work, faith, and fatherhood. When his wife dies, he embarks on a desperate journey across Houston in search of breast milk for his infant daughter, all while dodging sex traffickers, an evangelical militia, and his own demons.",
+    "runtime": "111 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "Digger",
     "date": "2026-10-11",
     "time": "4:15 PM",
@@ -14581,6 +14204,19 @@
     "description": "A mob enforcer (Lee Byung-hun, No Other Choice) with a sterling record of loyal service finds himself fighting for his life after sparing the life of his boss\u2019s straying mistress (Shin Min-a) in Kim\u2019s drum-tight neo-noir thriller, unusually grounded by both emotional stakes and a sense of real physical danger in the action set pieces, choreographed for the widescreen with much panache. Jang\u2019s second collaboration with Kim, after The Foul King, earned him and collaborator (and Peach Present collective bandmate) Dalparan Best Music honors from the Busan Film Critics Association, responding to the composers\u2019 sophisticated melange of samba, flamenco, solo cello, and electronic elements. Part of Composed by Jang Young Gyu",
     "runtime": "119 min",
     "director": "Kim Jee-woon"
+  },
+  {
+    "title": "Your Mother Your Mother Your Mother 35mm",
+    "date": "2026-10-11",
+    "time": "7:30 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4217?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Latif is a devoutly religious hitman who struggles to balance work, faith, and fatherhood. When his wife dies, he embarks on a desperate journey across Houston in search of breast milk for his infant daughter, all while dodging sex traffickers, an evangelical militia, and his own demons.",
+    "runtime": "111 min",
+    "director": "",
+    "city": "LA"
   },
   {
     "title": "Prince of Darkness",
@@ -15646,6 +15282,19 @@
     "director": "Aaron Sorkin"
   },
   {
+    "title": "Your Mother Your Mother Your Mother 35mm",
+    "date": "2026-10-12",
+    "time": "3:30 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4208?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Latif is a devoutly religious hitman who struggles to balance work, faith, and fatherhood. When his wife dies, he embarks on a desperate journey across Houston in search of breast milk for his infant daughter, all while dodging sex traffickers, an evangelical militia, and his own demons.",
+    "runtime": "111 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "Ryuichi Sakamoto: Coda",
     "date": "2026-10-12",
     "time": "3:30 PM",
@@ -16203,6 +15852,19 @@
     "description": "This shorts program includes the world premiere of J. Wortham\u2019s The People\u2019s Beach, Heather Landsman\u2019s ee, the world premiere of Eliza Barry Callahan\u2019s The House Call, Fanny Texier\u2019s A Woman\u2019s Place Is Everywhere, and the world premiere of Charlotte Wells\u2019s New York Never Let Me Down.",
     "runtime": "80 min",
     "director": "J. Wortham, Heather Landsman, Eliza Barry Callahan, Fanny Texier, Charlotte Wells"
+  },
+  {
+    "title": "Your Mother Your Mother Your Mother 35mm",
+    "date": "2026-10-12",
+    "time": "7:30 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4209?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Latif is a devoutly religious hitman who struggles to balance work, faith, and fatherhood. When his wife dies, he embarks on a desperate journey across Houston in search of breast milk for his infant daughter, all while dodging sex traffickers, an evangelical militia, and his own demons.",
+    "runtime": "111 min",
+    "director": "",
+    "city": "LA"
   },
   {
     "title": "Powwow People",
@@ -17671,6 +17333,19 @@
     "director": "Tobe Hooper"
   },
   {
+    "title": "Your Mother Your Mother Your Mother 35mm",
+    "date": "2026-10-14",
+    "time": "3:30 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4220?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Latif is a devoutly religious hitman who struggles to balance work, faith, and fatherhood. When his wife dies, he embarks on a desperate journey across Houston in search of breast milk for his infant daughter, all while dodging sex traffickers, an evangelical militia, and his own demons.",
+    "runtime": "111 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "Barrio Triste",
     "date": "2026-10-14",
     "time": "4:30 PM",
@@ -17929,6 +17604,19 @@
     "description": "Lotte Reiniger GALATHEA (1935, 11 min, 35mm-to-DCP) Jack Kinney THE STORY OF MENSTRUATION (1946, 10 min, 16mm. Conceptual design by Sylvia Holland.) Allan Crick THE FIGUREHEAD (1952, 7.5 min, 35mm-to-DCP. Co-written and co-produced by Joy Batchelor.) Alexander Alexeieff, Irmgard Messant-Serelle, Claire Parker, and Georges Violet PURE BEAUT\u00c9 (1954, 1 min, 35mm-to-DCP) Clorinda Warny PETIT BONHEUR (1972, 8 min, 35mm-to-DCP) Faith Hubley W.O.W. (WOMEN OF THE WORLD) (1975, 10 min, 35mm) Eugene Fedorenko EVERY CHILD (1979, 6 min, 35mm-to-DCP. Animator: Rose Newlove.) Caroline Leaf ENTRE DEUX SOEURS (1990, 10 min, 35mm-to-DCP) Signe Baumane BIRTH (2009, 11 min, DCP) Total running time: ca. 80 min.",
     "runtime": "80 min",
     "director": ""
+  },
+  {
+    "title": "Your Mother Your Mother Your Mother 35mm",
+    "date": "2026-10-14",
+    "time": "7:30 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4221?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Latif is a devoutly religious hitman who struggles to balance work, faith, and fatherhood. When his wife dies, he embarks on a desperate journey across Houston in search of breast milk for his infant daughter, all while dodging sex traffickers, an evangelical militia, and his own demons.",
+    "runtime": "111 min",
+    "director": "",
+    "city": "LA"
   },
   {
     "title": "Candyman",
@@ -18230,6 +17918,19 @@
     "director": "Michael Mann"
   },
   {
+    "title": "Your Mother Your Mother Your Mother 35mm",
+    "date": "2026-10-15",
+    "time": "2:00 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4218?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Latif is a devoutly religious hitman who struggles to balance work, faith, and fatherhood. When his wife dies, he embarks on a desperate journey across Houston in search of breast milk for his infant daughter, all while dodging sex traffickers, an evangelical militia, and his own demons.",
+    "runtime": "111 min",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "The Unknown",
     "date": "2026-10-15",
     "time": "2:55 PM",
@@ -18319,6 +18020,19 @@
     "description": "Our screening on Wednesday 9 September will be introduced by the close friend of Ji\u0159\u00ed Menzel: film critic, broadcaster, and lecturer\u2026",
     "runtime": "93 min",
     "director": "Ji\u0159\u00ed Menzel"
+  },
+  {
+    "title": "Your Mother Your Mother Your Mother 35mm",
+    "date": "2026-10-15",
+    "time": "5:00 PM",
+    "format": "35mm",
+    "venue": "Vista Theater",
+    "venue_short": "Vista",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4219?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "description": "Latif is a devoutly religious hitman who struggles to balance work, faith, and fatherhood. When his wife dies, he embarks on a desperate journey across Houston in search of breast milk for his infant daughter, all while dodging sex traffickers, an evangelical militia, and his own demons.",
+    "runtime": "111 min",
+    "director": "",
+    "city": "LA"
   },
   {
     "title": "The Uprising",
@@ -19088,17 +18802,17 @@
     "director": ""
   },
   {
-    "title": "The Others",
+    "title": "Alien (Theatrical Cut)",
     "date": "2026-10-16",
     "time": "3:05 PM",
     "format": "DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627585",
+    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628523",
     "city": "London",
-    "description": "Academy Award\u00ae winner Nicole Kidman (Best Actress, The Hours, 2003) delivers an unforgettable performance in this gothic supernatural thriller. In 1945, Grace (Kidman) and her two children wait for her husband's return from the war, living an unusually isolated existence behind the locked doors and drawn curtains of a secluded mansion in Jersey. Three mysterious new servants arrive and it becomes chillingly clear that there is far more to this house than can be seen, and Grace finds herself in a terrifying fight to save her children and preserve her sanity. Acclaimed by critics, the unpredictable twists and turns of this compelling psychological horror classic will keep you on the edge of your seat.",
-    "runtime": "104 min",
-    "director": "Alejandro Amen\u00e1bar"
+    "description": "In deep space, the crew of the commercial starship Nostromo is awakened from their cryo-sleep capsules halfway through their journey home to investigate a distress call from an alien vessel. The terror begins when the crew encounters a nest of eggs inside the alien ship. An organism from inside an egg leaps out and attaches itself to one of the crew, causing him to fall into a coma.",
+    "runtime": "117 min",
+    "director": "Ridley Scott"
   },
   {
     "title": "Once Upon a Time in Harlem",
@@ -21987,6 +21701,19 @@
     "director": "David Lynch"
   },
   {
+    "title": "Pink Palace: J.G.Ballard\u2019s CRASH",
+    "date": "2026-10-19",
+    "time": "8:40 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951414.TcsSection_94575",
+    "city": "London",
+    "description": "Ban this perverted filth! Was the headline when David Cronenberg adapted J.G. Ballard\u2019s classic underground novel in 1996, and Westminster Council banned it from screening in central London, even though the film had been given an 18 cert from the BBFC.  This is deeply unsettling psychological cinema...",
+    "runtime": "100 min",
+    "director": "David Cronenberg"
+  },
+  {
     "title": "SHOGUN ASSASSIN",
     "date": "2026-10-19",
     "time": "8:45 PM",
@@ -23703,7 +23430,7 @@
     "director": "Alfred Hitchcock"
   },
   {
-    "title": "Rob Zombie's Halloween (2007)",
+    "title": "Rob Zombie's Halloween (2007) \u2022 Director's Cut",
     "date": "2026-10-23",
     "time": "12:45 PM",
     "format": "DCP",
@@ -23712,7 +23439,7 @@
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627622",
     "city": "London",
     "description": "After being committed for 15 years, Michael Myers, now a grown man and still very dangerous, escapes from the mental institution and immediately returns to Haddonfield to find his baby sister, Laurie.",
-    "runtime": "110 min",
+    "runtime": "121 min",
     "director": "Rob Zombie"
   },
   {
@@ -23807,7 +23534,7 @@
     "director": "Stanley Kubrick"
   },
   {
-    "title": "Rob Zombie's Halloween II (2009)",
+    "title": "Rob Zombie's Halloween II (2009) \u2022 Director's Cut",
     "date": "2026-10-23",
     "time": "3:30 PM",
     "format": "DCP",
@@ -23816,7 +23543,7 @@
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627628",
     "city": "London",
     "description": "Laurie Strode struggles to come to terms with her brother Michael's deadly return to Haddonfield, Illinois; meanwhile, Michael prepares for another reunion with his sister.",
-    "runtime": "105 min",
+    "runtime": "119 min",
     "director": "Rob Zombie"
   },
   {
@@ -24011,6 +23738,19 @@
     "url": "https://purchase.filmlinc.org/84774/84778",
     "city": "NYC",
     "description": "Oscar-nominated director Pawe\u0142 Pawlikowski (Cold War, NYFF56) won Best Director at Cannes for his most potent film yet, following novelist Thomas Mann (Hanns Zischler) and his daughter Erika Mann (Sandra H\u00fcller) on a road trip across Germany in the aftermath of World War II. Poland\u2019s entry for Best International Feature Film at the 2027 Academy Awards.",
+    "runtime": "82 min",
+    "director": "Pawe\u0142 Pawlikowski"
+  },
+  {
+    "title": "FATHERLAND",
+    "date": "2026-10-23",
+    "time": "6:30 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951348.TcsSection_936",
+    "city": "London",
+    "description": "At the height of the Cold War, the writer Thomas Mann and his daughter\u2014actress, writer, and rally driver\u2014Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
     "runtime": "82 min",
     "director": "Pawe\u0142 Pawlikowski"
   },
@@ -24260,6 +24000,19 @@
     "description": "After a terrified toy salesman is mysteriously attacked and brought to the hospital clutching the year's most popular Halloween mask, Dr. Daniel Challis sets out to investigate the strange events and finds himself thrust into a nightmarish conspiracy.",
     "runtime": "98 min",
     "director": "Tommy Lee Wallace"
+  },
+  {
+    "title": "FATHERLAND",
+    "date": "2026-10-23",
+    "time": "8:50 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951353.TcsSection_1299",
+    "city": "London",
+    "description": "At the height of the Cold War, the writer Thomas Mann and his daughter\u2014actress, writer, and rally driver\u2014Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
+    "runtime": "82 min",
+    "director": "Pawe\u0142 Pawlikowski"
   },
   {
     "title": "MYSTERY EROTIC HORROR",
@@ -24730,6 +24483,19 @@
     "director": "Jane Schoenbrun"
   },
   {
+    "title": "FATHERLAND",
+    "date": "2026-10-24",
+    "time": "3:30 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951355.TcsSection_1299",
+    "city": "London",
+    "description": "At the height of the Cold War, the writer Thomas Mann and his daughter\u2014actress, writer, and rally driver\u2014Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
+    "runtime": "82 min",
+    "director": "Pawe\u0142 Pawlikowski"
+  },
+  {
     "title": "The Nightmare Before Christmas",
     "date": "2026-10-24",
     "time": "4:00 pm",
@@ -24977,6 +24743,19 @@
     "city": "LA"
   },
   {
+    "title": "FATHERLAND",
+    "date": "2026-10-24",
+    "time": "6:30 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951357.TcsSection_936",
+    "city": "London",
+    "description": "At the height of the Cold War, the writer Thomas Mann and his daughter\u2014actress, writer, and rally driver\u2014Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
+    "runtime": "82 min",
+    "director": "Pawe\u0142 Pawlikowski"
+  },
+  {
     "title": "Once Upon a Time in... Hollywood (70mm)",
     "date": "2026-10-24",
     "time": "7:00 PM",
@@ -25209,6 +24988,19 @@
     "description": "The Best Summer plunges audiences into the 1995 Summersault tour, as Beastie Boys, Sonic Youth, Foo Fighters, Pavement, Rancid, The Amps and Bikini Kill travel across Australia and Southeast Asia.  Shot entirely on Tamra Davis\u2019s handheld camera, the film captures explosive performances alongside can...",
     "runtime": "84 min",
     "director": "Tamara Davis"
+  },
+  {
+    "title": "FATHERLAND",
+    "date": "2026-10-24",
+    "time": "8:50 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951359.TcsSection_1299",
+    "city": "London",
+    "description": "At the height of the Cold War, the writer Thomas Mann and his daughter\u2014actress, writer, and rally driver\u2014Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
+    "runtime": "82 min",
+    "director": "Pawe\u0142 Pawlikowski"
   },
   {
     "title": "REFLECTIONS OF EVIL",
@@ -25666,6 +25458,19 @@
     "director": "John Carpenter"
   },
   {
+    "title": "FATHERLAND",
+    "date": "2026-10-25",
+    "time": "3:30 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951365.TcsSection_1299",
+    "city": "London",
+    "description": "At the height of the Cold War, the writer Thomas Mann and his daughter\u2014actress, writer, and rally driver\u2014Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
+    "runtime": "82 min",
+    "director": "Pawe\u0142 Pawlikowski"
+  },
+  {
     "title": "Girl, Interrupted",
     "date": "2026-10-25",
     "time": "3:35 PM",
@@ -25846,6 +25651,19 @@
     "description": "",
     "runtime": "",
     "director": ""
+  },
+  {
+    "title": "FATHERLAND",
+    "date": "2026-10-25",
+    "time": "5:30 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951367.TcsSection_1299",
+    "city": "London",
+    "description": "At the height of the Cold War, the writer Thomas Mann and his daughter\u2014actress, writer, and rally driver\u2014Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
+    "runtime": "82 min",
+    "director": "Pawe\u0142 Pawlikowski"
   },
   {
     "title": "Nosferatu with Live Score",
@@ -26054,6 +25872,19 @@
     "description": "AZUL is a documentary about the poetic soul of Nicaragua. Twenty-four poems interweave with interviews to create a narrative of Nicaragua\u2019s poetry and the historical contexts and individuals who formed it. With poems from the creator of Modernismo, Rub\u00e9n Dar\u00edo, to Ernesto Cardenal, Carlos Rigby, and Gioconda Belli, to people reciting spontaneously in the street and soldiers workshopping poems on the frontlines, AZUL reveals a nation alive with the creative spirit and a profound belief in poetry as a crucible for change and expression. Originally filmed during the height of the Contra War, the film has been restored digitally. Preceded by: Richard Levine AFTER BASH\u014c 2026, 8 min, DCP Twenty haikus by Bob Holman \u2013 written while he was following \u201cA Narrow Path Into the Interior,\u201d the walk that Japan\u2019s National Poet, Matsuo Bash\u014d, took in 1689 \u2013 are the starting point of this animated collaboration by filmmaker Richard Levine, musician Phillip Johnston, and poet Bob Holman. The poems originally appeared in The New Yorker magazine. Followed by a Q&A with co-producer and editor Joanna Kiernan!",
     "runtime": "104 min",
     "director": "Roland Legiardi-Laura"
+  },
+  {
+    "title": "FATHERLAND",
+    "date": "2026-10-25",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951369.TcsSection_936",
+    "city": "London",
+    "description": "At the height of the Cold War, the writer Thomas Mann and his daughter\u2014actress, writer, and rally driver\u2014Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
+    "runtime": "82 min",
+    "director": "Pawe\u0142 Pawlikowski"
   },
   {
     "title": "Possible Love",
@@ -26390,6 +26221,19 @@
     "url": "https://purchase.filmlinc.org/84774/84793",
     "city": "NYC",
     "description": "Oscar-nominated director Pawe\u0142 Pawlikowski (Cold War, NYFF56) won Best Director at Cannes for his most potent film yet, following novelist Thomas Mann (Hanns Zischler) and his daughter Erika Mann (Sandra H\u00fcller) on a road trip across Germany in the aftermath of World War II. Poland\u2019s entry for Best International Feature Film at the 2027 Academy Awards.",
+    "runtime": "82 min",
+    "director": "Pawe\u0142 Pawlikowski"
+  },
+  {
+    "title": "FATHERLAND",
+    "date": "2026-10-26",
+    "time": "6:30 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951371.TcsSection_936",
+    "city": "London",
+    "description": "At the height of the Cold War, the writer Thomas Mann and his daughter\u2014actress, writer, and rally driver\u2014Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
     "runtime": "82 min",
     "director": "Pawe\u0142 Pawlikowski"
   },
@@ -28734,6 +28578,19 @@
     "director": ""
   },
   {
+    "title": "Saturday Afternoon Cartoons: Time for Halloween",
+    "date": "2026-10-31",
+    "time": "12:00 PM",
+    "format": "16mm",
+    "venue": "Metrograph",
+    "venue_short": "Metrograph",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31238",
+    "city": "NYC",
+    "description": "Saturday Afternoon Cartoons is New York City\u2019s prime theatrical showcase of early and classic animated cartoons, shown in vintage 16mm film prints from the personal archives of historian Tommy Jos\u00e9 Stathes. Beginning more than 25 years ago as a casual effort to find and see early cartoons that were unavailable on home video, Stathes\u2019s collection has grown to become one of the largest of its kind. It includes many titles and \u2018orphan films\u2019 that are difficult to access or view elsewhere. Stathes joins Metrograph at the end of October with Time For Halloween, a spooky selection of vintage family-friendly animated shorts to usher in the holiday. Come enjoy a crop of musically inclined skeletons enjoying a midnight graveyard dance; a human artist innocently 'haunting' his cartoon canine companion for a laugh; a little boy telling his younger brother a ghost story by the fireplace; a famous flapper hosting a Halloween house party; and other amusing tales. Spanning the 1920s through the \u201950s, this assortment showcases classic characters such as Casper the Friendly Ghost, Popeye, Betty Boop, and others. Featuring introduction and Q&A with Stathes on Saturday, October 31st Part of Screen Time at Metrograph",
+    "runtime": "60 min",
+    "director": "Multiple Dirs"
+  },
+  {
     "title": "The Shining [UK Version]",
     "date": "2026-10-31",
     "time": "12:05 PM",
@@ -30250,7 +30107,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628231",
     "city": "London",
-    "description": "Don't miss our fan favourite MYSTERY MOVIE screenings! On a near weekly basis we will serve up a random mystery movie, with No Clues and No Hints as to what they will be. In 2026, we'll be presenting these as STAFF CURATED selections each and every week by our lovely Front of House, Duty Manager, and Projection Team! You can find the schedule below: --- Wed 16th September - Sarah's Pick (122 minutes) Wed 30th September - Fil's Pick (80 minutes) \"The first film I ever ushered at the Prince Charles Cinema\" You can find a list of every MYSTERY MOVIE we have ever screened HERE ; if a film is on this list, it is not eligible for future Mystery Movie screenings! --- Content Advice : As these films are a mystery, we aren't able to provide specific ratings / guidance on the film's content. We strongly advise that you take this into consideration before purchasing a ticket.",
+    "description": "Don't miss our fan favourite MYSTERY MOVIE screenings! On a near weekly basis we will serve up a random mystery movie, with No Clues and No Hints as to what they will be. In 2026, we'll be presenting these as STAFF CURATED selections each and every week by our lovely Front of House, Duty Manager, and Projection Team! You can find the schedule below: --- You can find a list of every MYSTERY MOVIE we have ever screened HERE ; if a film is on this list, it is not eligible for future Mystery Movie screenings! --- Content Advice : As these films are a mystery, we aren't able to provide specific ratings / guidance on the film's content. We strongly advise that you take this into consideration before purchasing a ticket.",
     "runtime": "92 min",
     "director": "Who Knows?"
   },
@@ -30310,7 +30167,7 @@
     "title": "Taste of Cherry",
     "date": "2026-11-05",
     "time": "11:45 AM",
-    "format": "35mm",
+    "format": "DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628237",
@@ -30370,6 +30227,19 @@
     "description": "Four corrupted fascist libertines round up 9 teenage boys and girls and subject them to 120 days of sadistic physical, mental and sexual torture.",
     "runtime": "117 min",
     "director": "Pier Paolo Pasolini"
+  },
+  {
+    "title": "THE MUSICAL",
+    "date": "2026-11-05",
+    "time": "6:30 PM",
+    "format": "DCP",
+    "venue": "Los Feliz Theatre",
+    "venue_short": "LosFeliz",
+    "url": "https://www.americancinematheque.com/now-showing/the-musical-11-05-2026/",
+    "description": "The PROOF Film Festival is thrilled to announce to screen THE MUSICAL, the feature length version of the 2024 PROOF Film Festival audience award winner. Starring Will Brill, Rob Lowe and Gillian Jacobs, we are so proud of filmmaker Giselle Bonilla and screenwriter & producer Alexander Heller as they bring this hilarious feature that began as a short to the masses.",
+    "runtime": "87 min",
+    "director": "Giselle Bonilla",
+    "city": "LA"
   },
   {
     "title": "LIVE WIRE",
@@ -30474,6 +30344,19 @@
     "description": "In a future British dystopian society, a shadowy freedom fighter, known only by the alias of \"V\", plots to overthrow the tyrannical government - with the help of a young woman.",
     "runtime": "132 min",
     "director": "James McTeigue"
+  },
+  {
+    "title": "MOTHERWITCH",
+    "date": "2026-11-05",
+    "time": "10:00 PM",
+    "format": "DCP",
+    "venue": "Los Feliz Theatre",
+    "venue_short": "LosFeliz",
+    "url": "https://www.americancinematheque.com/now-showing/motherwitch-11-05-2026/",
+    "description": "Eleni, a painter in Cyprus in 1882, reaches into the shadows to resurrect her lost children, but instead summons the ancient Kalikantzari of Cypriot lore. She must now confront the storm of her grief and anger, and lift the curse.",
+    "runtime": "104 min",
+    "director": "Minos Papas",
+    "city": "LA"
   },
   {
     "title": "Eternal Sunshine of the Spotless Mind",
@@ -30879,6 +30762,32 @@
     "director": "Michel Gondry"
   },
   {
+    "title": "Next/Gen Champions Roundtable",
+    "date": "2026-11-08",
+    "time": "12:00 PM",
+    "format": "DCP",
+    "venue": "Egyptian Theatre",
+    "venue_short": "Egyptian",
+    "url": "https://www.americancinematheque.com/now-showing/nextgen-champions-roundtable-11-08-2026/",
+    "description": "The American Cinematheque is a member-donor-volunteer supported 501(c)(3) non-profit arts organization whose mission is to celebrate the experience of cinema.",
+    "runtime": "",
+    "director": "",
+    "city": "LA"
+  },
+  {
+    "title": "Vendor Hangout Day 2",
+    "date": "2026-11-08",
+    "time": "12:00 PM",
+    "format": "DCP",
+    "venue": "Egyptian Theatre",
+    "venue_short": "Egyptian",
+    "url": "https://www.americancinematheque.com/now-showing/vendor-hangout-day-2-11-08-2026/",
+    "description": "The American Cinematheque is a member-donor-volunteer supported 501(c)(3) non-profit arts organization whose mission is to celebrate the experience of cinema.",
+    "runtime": "",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "Whisper of the Heart",
     "date": "2026-11-08",
     "time": "12:00 PM",
@@ -30931,6 +30840,19 @@
     "director": "Ken Russell"
   },
   {
+    "title": "Next Steps: From a Short to a Feature",
+    "date": "2026-11-08",
+    "time": "2:30 PM",
+    "format": "DCP",
+    "venue": "Egyptian Theatre",
+    "venue_short": "Egyptian",
+    "url": "https://www.americancinematheque.com/now-showing/next-steps-from-a-short-to-a-feature-11-08-2026/",
+    "description": "The American Cinematheque is a member-donor-volunteer supported 501(c)(3) non-profit arts organization whose mission is to celebrate the experience of cinema.",
+    "runtime": "",
+    "director": "",
+    "city": "LA"
+  },
+  {
     "title": "All That Jazz",
     "date": "2026-11-08",
     "time": "2:45 PM",
@@ -30954,6 +30876,19 @@
     "description": "Wannabe celeb Roxie Hart murders her lover and is sent to jail, only to discover that a tabloid scandal may be her best route to true stardom in this stylish and lively version of the stage musical. Rob Marshall, making his feature directing debut, pays due homage to the distinctive style of Bob Fosse\u2019s original Broadway production while bringing his own energetic approach to the material, which features such classic Kander and Ebb songs as \u201cAll That Jazz,\u201d \u201cCell Block Tango,\u201d and \u201cMister Cellophane.\u201d The first movie musical to win Best Picture in the 34 years since Oliver! (1968), it received 13 nominations and also won for Costume Design, Film Editing, Sound, Catherine Zeta-Jones\u2019s commanding performance as Roxie\u2019s frenemy Velma Kelly. Production designer John Myhre and set decorator Gordon Sim also won for their Art Direction, featuring just the right blend of fantasy and reality.",
     "runtime": "113 min",
     "director": "Rob Marshall",
+    "city": "LA"
+  },
+  {
+    "title": "2026 PROOF Film Festival Award Show Ticket Bundle",
+    "date": "2026-11-08",
+    "time": "5:00 PM",
+    "format": "DCP",
+    "venue": "Egyptian Theatre",
+    "venue_short": "Egyptian",
+    "url": "https://www.americancinematheque.com/now-showing/2026-proof-film-festival-award-show-ticket-pack-11-08-2026/",
+    "description": "The American Cinematheque is a member-donor-volunteer supported 501(c)(3) non-profit arts organization whose mission is to celebrate the experience of cinema.",
+    "runtime": "",
+    "director": "",
     "city": "LA"
   },
   {
@@ -31537,7 +31472,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628318",
     "city": "London",
-    "description": "Don't miss our fan favourite MYSTERY MOVIE screenings! On a near weekly basis we will serve up a random mystery movie, with No Clues and No Hints as to what they will be. In 2026, we'll be presenting these as STAFF CURATED selections each and every week by our lovely Front of House, Duty Manager, and Projection Team! You can find the schedule below: --- Wed 16th September - Sarah's Pick (122 minutes) Wed 30th September - Fil's Pick (80 minutes) \"The first film I ever ushered at the Prince Charles Cinema\" You can find a list of every MYSTERY MOVIE we have ever screened HERE ; if a film is on this list, it is not eligible for future Mystery Movie screenings! --- Content Advice : As these films are a mystery, we aren't able to provide specific ratings / guidance on the film's content. We strongly advise that you take this into consideration before purchasing a ticket.",
+    "description": "Don't miss our fan favourite MYSTERY MOVIE screenings! On a near weekly basis we will serve up a random mystery movie, with No Clues and No Hints as to what they will be. In 2026, we'll be presenting these as STAFF CURATED selections each and every week by our lovely Front of House, Duty Manager, and Projection Team! You can find the schedule below: --- You can find a list of every MYSTERY MOVIE we have ever screened HERE ; if a film is on this list, it is not eligible for future Mystery Movie screenings! --- Content Advice : As these films are a mystery, we aren't able to provide specific ratings / guidance on the film's content. We strongly advise that you take this into consideration before purchasing a ticket.",
     "runtime": "92 min",
     "director": "Who Knows?"
   },
@@ -31711,17 +31646,17 @@
     "director": "Sidney Lumet"
   },
   {
-    "title": "Ricochet",
+    "title": "Master and Commander : The Far Side of the World",
     "date": "2026-11-13",
-    "time": "12:45 PM",
-    "format": "DCP",
+    "time": "12:30 PM",
+    "format": "35mm",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628329",
+    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628528",
     "city": "London",
-    "description": "Nick Styles, a rookie cop, sends Earl Blake, a psychotic hitman, to prison. Years later, Blake escapes prison with a well-calculated plan to seek revenge on Styles.",
-    "runtime": "102 min",
-    "director": "Russell Mulcahy"
+    "description": "During the Napoleonic Wars, a brash British captain pushes his ship and crew to their limits in pursuit of a formidable French war vessel around South America.",
+    "runtime": "138 min",
+    "director": "Peter Weir"
   },
   {
     "title": "Bitter Christmas",
@@ -31750,19 +31685,6 @@
     "director": "Jean-Pierre Jeunet"
   },
   {
-    "title": "Ken Russell's The Devils: The Director's Cut",
-    "date": "2026-11-13",
-    "time": "3:25 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628269",
-    "city": "London",
-    "description": "Censored for over half a century, Ken Russell\u2019s film returns in a landmark director\u2019s cut reconstruction that reveals the full power of his original vision. Inspired by the true story of 17th-century priest Urbain Grandier, accused of bewitching a convent of nuns, The Devils lays bare the collusion of church and state through a searing vision of religious persecution, collective hysteria and institutional corruption. The restoration many believed would never happen reaffirms Russell\u2019s incendiary masterpiece as among the most overwhelming and uncompromising achievements in British cinema. Assembled from original camera negative, this 4k restoration is Ken Russell\u2019s 2004 preferred edit. Picture and sound restoration by Warner Bros. Post Production Creative Services, Water Tower Color and Warner Bros. Sound. Following the sold-out LFF performance on 12th October, Ken Russell's THE DEVILS will screen daily from 30th October. Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital.",
-    "runtime": "114 min",
-    "director": "Ken Russell"
-  },
-  {
     "title": "Some Like It Hot",
     "date": "2026-11-13",
     "time": "3:30 PM",
@@ -31774,6 +31696,19 @@
     "runtime": "121 min",
     "director": "Billy Wilder PRODUCED BY: Billy Wilder",
     "city": "LA"
+  },
+  {
+    "title": "Ken Russell's The Devils: The Director's Cut",
+    "date": "2026-11-13",
+    "time": "3:30 PM",
+    "format": "DCP",
+    "venue": "Prince Charles Cinema",
+    "venue_short": "PCC",
+    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628269",
+    "city": "London",
+    "description": "Censored for over half a century, Ken Russell\u2019s film returns in a landmark director\u2019s cut reconstruction that reveals the full power of his original vision. Inspired by the true story of 17th-century priest Urbain Grandier, accused of bewitching a convent of nuns, The Devils lays bare the collusion of church and state through a searing vision of religious persecution, collective hysteria and institutional corruption. The restoration many believed would never happen reaffirms Russell\u2019s incendiary masterpiece as among the most overwhelming and uncompromising achievements in British cinema. Assembled from original camera negative, this 4k restoration is Ken Russell\u2019s 2004 preferred edit. Picture and sound restoration by Warner Bros. Post Production Creative Services, Water Tower Color and Warner Bros. Sound. Following the sold-out LFF performance on 12th October, Ken Russell's THE DEVILS will screen daily from 30th October. Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital.",
+    "runtime": "114 min",
+    "director": "Ken Russell"
   },
   {
     "title": "Bitter Christmas",
@@ -33149,7 +33084,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628379",
     "city": "London",
-    "description": "Don't miss our fan favourite MYSTERY MOVIE screenings! On a near weekly basis we will serve up a random mystery movie, with No Clues and No Hints as to what they will be. In 2026, we'll be presenting these as STAFF CURATED selections each and every week by our lovely Front of House, Duty Manager, and Projection Team! You can find the schedule below: --- Wed 16th September - Sarah's Pick (122 minutes) Wed 30th September - Fil's Pick (80 minutes) \"The first film I ever ushered at the Prince Charles Cinema\" You can find a list of every MYSTERY MOVIE we have ever screened HERE ; if a film is on this list, it is not eligible for future Mystery Movie screenings! --- Content Advice : As these films are a mystery, we aren't able to provide specific ratings / guidance on the film's content. We strongly advise that you take this into consideration before purchasing a ticket.",
+    "description": "Don't miss our fan favourite MYSTERY MOVIE screenings! On a near weekly basis we will serve up a random mystery movie, with No Clues and No Hints as to what they will be. In 2026, we'll be presenting these as STAFF CURATED selections each and every week by our lovely Front of House, Duty Manager, and Projection Team! You can find the schedule below: --- You can find a list of every MYSTERY MOVIE we have ever screened HERE ; if a film is on this list, it is not eligible for future Mystery Movie screenings! --- Content Advice : As these films are a mystery, we aren't able to provide specific ratings / guidance on the film's content. We strongly advise that you take this into consideration before purchasing a ticket.",
     "runtime": "92 min",
     "director": "Who Knows?"
   },
@@ -33976,7 +33911,7 @@
     "title": "Insomnia",
     "date": "2026-11-22",
     "time": "2:30 PM",
-    "format": "35mm",
+    "format": "DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627910",
@@ -34493,17 +34428,17 @@
     "director": "Martin Scorsese"
   },
   {
-    "title": "Dirty Rotten Scoundrels",
+    "title": "There Will Be Blood",
     "date": "2026-11-24",
-    "time": "2:40 PM",
-    "format": "DCP",
+    "time": "2:45 PM",
+    "format": "35mm",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628401",
+    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628529",
     "city": "London",
-    "description": "Two con men try to settle their rivalry by betting on who can swindle a young American heiress out of fifty thousand dollars first.",
-    "runtime": "110 min",
-    "director": "Frank Oz"
+    "description": "Ruthless silver miner, turned oil prospector, Daniel Plainview moves to oil-rich California. Using his adopted son HW to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainviews motives and intentions, starting a slow-burning feud that threatens both their lives.",
+    "runtime": "158 min",
+    "director": "Paul Thomas Anderson"
   },
   {
     "title": "CAMERON WINTER AT CARNEGIE HALL",
@@ -34904,7 +34839,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628403",
     "city": "London",
-    "description": "Don't miss our fan favourite MYSTERY MOVIE screenings! On a near weekly basis we will serve up a random mystery movie, with No Clues and No Hints as to what they will be. In 2026, we'll be presenting these as STAFF CURATED selections each and every week by our lovely Front of House, Duty Manager, and Projection Team! You can find the schedule below: --- Wed 16th September - Sarah's Pick (122 minutes) Wed 30th September - Fil's Pick (80 minutes) \"The first film I ever ushered at the Prince Charles Cinema\" You can find a list of every MYSTERY MOVIE we have ever screened HERE ; if a film is on this list, it is not eligible for future Mystery Movie screenings! --- Content Advice : As these films are a mystery, we aren't able to provide specific ratings / guidance on the film's content. We strongly advise that you take this into consideration before purchasing a ticket.",
+    "description": "Don't miss our fan favourite MYSTERY MOVIE screenings! On a near weekly basis we will serve up a random mystery movie, with No Clues and No Hints as to what they will be. In 2026, we'll be presenting these as STAFF CURATED selections each and every week by our lovely Front of House, Duty Manager, and Projection Team! You can find the schedule below: --- You can find a list of every MYSTERY MOVIE we have ever screened HERE ; if a film is on this list, it is not eligible for future Mystery Movie screenings! --- Content Advice : As these films are a mystery, we aren't able to provide specific ratings / guidance on the film's content. We strongly advise that you take this into consideration before purchasing a ticket.",
     "runtime": "92 min",
     "director": "Who Knows?"
   },
@@ -35663,17 +35598,17 @@
     "city": "LA"
   },
   {
-    "title": "Love Actually",
+    "title": "Master and Commander : The Far Side of the World",
     "date": "2026-11-29",
     "time": "8:15 PM",
     "format": "35mm",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627874",
+    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628526",
     "city": "London",
-    "description": "Nine intertwined stories examine the complexities of the one emotion that connects us all: love. Among the characters explored are David (Hugh Grant), the handsome newly elected British prime minister who falls for a young junior staffer (Martine McCutcheon), Sarah (Laura Linney), a graphic designer whose devotion to her mentally ill brother complicates her love life, and Harry (Alan Rickman), a married man tempted by his attractive new secretary.",
-    "runtime": "135 min",
-    "director": "Richard Curtis"
+    "description": "During the Napoleonic Wars, a brash British captain pushes his ship and crew to their limits in pursuit of a formidable French war vessel around South America.",
+    "runtime": "138 min",
+    "director": "Peter Weir"
   },
   {
     "title": "The Umbrellas of Cherbourg [Les parapluies de Cherbourg]",
@@ -36560,17 +36495,17 @@
     "director": ""
   },
   {
-    "title": "The Long Kiss Goodnight",
+    "title": "Brazil",
     "date": "2026-12-06",
     "time": "8:10 PM",
     "format": "DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628046",
+    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628527",
     "city": "London",
-    "description": "Samantha Caine is a small-town schoolteacher and mom with no memory of her life before washing up on a beach eight years ago. After a car accident and a violent home invasion trigger flashes of her past, she discovers she used to be a deadly CIA assassin. Teaming up with a wisecracking private investigator, Samantha must return to her old ways to take down the people who tried to erase her.",
-    "runtime": "121 min",
-    "director": "Renny Harlin"
+    "description": "Low-level bureaucrat Sam Lowry escapes the monotony of his day-to-day life through a recurring daydream of himself as a virtuous hero saving a beautiful damsel. Investigating a case that led to the wrongful arrest and eventual death of an innocent man instead of wanted terrorist Harry Tuttle, he meets the woman from his daydream, and in trying to help her gets caught in a web of mistaken identities, mindless bureaucracy and lies.",
+    "runtime": "142 min",
+    "director": "Terry Gilliam"
   },
   {
     "title": "The Apartment",
@@ -37179,7 +37114,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628076",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -37192,7 +37127,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627522",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -37283,7 +37218,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628111",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -37348,7 +37283,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628087",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -37491,7 +37426,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628096",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -37530,7 +37465,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628097",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -37569,7 +37504,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628098",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -37647,7 +37582,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628099",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -37699,7 +37634,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628121",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -37725,7 +37660,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628113",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -37829,7 +37764,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628122",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -37907,7 +37842,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628126",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -38011,7 +37946,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628136",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -38115,7 +38050,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628130",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -38193,7 +38128,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628146",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -38232,7 +38167,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628141",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -38297,7 +38232,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628142",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -38362,7 +38297,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628143",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -38466,7 +38401,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628164",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -38544,7 +38479,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628163",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -38622,7 +38557,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628183",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -38674,7 +38609,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628182",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -38726,7 +38661,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628180",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -38817,7 +38752,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628181",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -38869,7 +38804,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628179",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -38947,7 +38882,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628178",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -39090,7 +39025,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628177",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
@@ -39129,7 +39064,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628421",
     "city": "London",
-    "description": "Screenings from both 35mm and Digital. 35mm performances will be noted next to the time. If there is no note next to the time, the performance is Digital. Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
+    "description": "Beset with personal and professional problems, George Bailey finds his previously happy life falling apart around him on Christmas Eve. Seeing no way out, George considers suicide from the edge of a bridge \u00ad but Clarence, his guardian angel, intervenes and shows George what his beloved hometown of Bedford Falls would be like without him.",
     "runtime": "130 min",
     "director": "Frank Capra"
   },
