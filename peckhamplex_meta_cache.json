@@ -466,5 +466,29 @@
   "description": "In “Avengers: Doomsday,” beloved heroes from three distinct universes will be set on a deadly collision course and face an existential threat unlike anything they’ve ever encountered.",
   "runtime": "165 min",
   "format": ""
+ },
+ "https://www.peckhamplex.london/film/street-fighter": {
+  "director": "Kitao Sakurai",
+  "description": "Set in 1993, estranged Street Fighters Ryu (Andrew Koji) and Ken Masters (Noah Centineo) are thrown back into combat when the mysterious Chun-Li (Callina Liang) recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don’t, it’s GAME OVER!",
+  "runtime": "120 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/forgotten-island": {
+  "director": "Joel Crawford, Januel Mercado",
+  "description": "When two best friends are sucked through a magical portal they find themselves menaced by a dangerous creature and in danger of losing the memories that bond them together.",
+  "runtime": "109 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/whalefall": {
+  "director": "Brian Duffield",
+  "description": "A scuba diver in search of his deceased father's remains gets swallowed by an 80-foot, 60-ton sperm whale and has only one hour to escape before his oxygen runs out. After giving up on life, the young man is surprised to find a reason to live in the most dangerous and unlikely of places.",
+  "runtime": "106 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/tad-and-the-magic-lamp": {
+  "director": "Enrique Gato",
+  "description": "A family of archeologists find a magic lamp that sends them back in time in this animated fantasy comedy adventure.",
+  "runtime": "94 min",
+  "format": ""
  }
 }
