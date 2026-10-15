@@ -3302,19 +3302,6 @@
     "director": ""
   },
   {
-    "title": "Sense And Sensibility",
-    "date": "2026-10-15",
-    "time": "10:30 AM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18059/",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles. Sisters Elinor and Marianne Dashwood must leave their Sussex estate following the sudden loss of their wealthy father and are forced to move in with a distant relative. The two sisters attempt to find security and happiness whilst navigating their vastly different approaches to love.",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
     "title": "Naza",
     "date": "2026-10-15",
     "time": "10:35 AM",
@@ -3354,19 +3341,6 @@
     "director": "Robert Rodriguez"
   },
   {
-    "title": "Extra Geography",
-    "date": "2026-10-15",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18060/",
-    "city": "London",
-    "description": "Set in an English boarding school, Extra Geography follows two teenage girls as they grapple with all the challenges of girlhood: friendship, boys, studies, growing up and their summer project, \"to fall in love\".",
-    "runtime": "94 min",
-    "director": "Molly Manners"
-  },
-  {
     "title": "The History of Concrete",
     "date": "2026-10-15",
     "time": "11:15 AM",
@@ -3391,19 +3365,6 @@
     "description": "Tue, Oct 6: Sneak preview + Q&A with director Cristian Mungiu and co-star Sebastian Stan after the 6:15 show! Tues, Oct 6: Extended intro with director Cristian Mungiu and co-star Sebastian Stan at the 8:15 show! From two-time Palme d\u2019Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close-knit, coastal town. Their teenage children form a fast bond with a neighboring family as unease begins to simmer around their rigid beliefs. When allegations of abuse emerge, they are forced to confront a system of judgment that blurs the line between concern and prejudice.",
     "runtime": "146 min",
     "director": "Cristian Mungiu"
-  },
-  {
-    "title": "The Story of Documentary Film (The 1990s)",
-    "date": "2026-10-15",
-    "time": "12:10 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://whatson.bfi.org.uk/lff/Online/article/story-of-documentary-film-lff26",
-    "city": "London",
-    "description": "Tickets Are Only Available via BFI London Film Festival Website from Tuesday 17 September 2026 10:00am: Click Here To Book This fascinating chapter from Mark Cousins\u2019 epic essay on the history of documentary chronicles a decade of formal reinvention and mainstream success. Cousins, the creator of the groundbreaking The Story of Film: A New Generation and Women Make Film, trains his distinctive film-historian lens on the evolution of documentary. The result is a rich tapestry of landmark works and underappreciated gems. In this illuminating chapter, he guides us through the 1990s, a decade of filmmakers exploring bodies, spirituality, labour, war and politics, against the backdrop of rising commercial interest in the form.",
-    "runtime": "120 min",
-    "director": "Mark Cousins"
   },
   {
     "title": "ONCE UPON A TIME IN HARLEM",
@@ -3445,32 +3406,6 @@
     "director": "Yuval Abraham, Rachel Szor"
   },
   {
-    "title": "Birth",
-    "date": "2026-10-15",
-    "time": "12:30 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627580",
-    "city": "London",
-    "description": "It took Anna (Nicole Kidman) 10 years to recover from the death of her husband, Sean, but now she's on the verge of marrying her boyfriend, Joseph (Danny Huston), and finally moving on. However, on the night of her engagement party, a young boy named Sean (Cameron Bright) turns up, saying he is her dead husband reincarnated. At first she ignores the child, but his knowledge of her former husband's life is uncanny, leading her to believe that he might be telling the truth.",
-    "runtime": "100 min",
-    "director": "Jonathan Glazer"
-  },
-  {
-    "title": "Queen at Sea",
-    "date": "2026-10-15",
-    "time": "12:45 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/queen-at-sea",
-    "city": "London",
-    "description": "Starring Juliette Binoche, Tom Courtenay and Anna Calder-Marshall, Queen at Sea received its world premiere in competition at the Berlin International Film Festival earlier this year, where it won both the Silver Bear Jury Prize and the Silver Bear for Best Supporting Performance for both Courtenay and Calder-Marshall. The film follows Amanda (Binoche) and her stepfather, Martin (Courtney), at odds over a moral quandary involving Amanda\u2019s mother, Leslie (Calder-Marshall). In the advanced stages of dementia, they quarrel over whether Leslie has lost all ability to make critical decisions in her own best interests, and, if so, who is responsible \u2013 a spouse, a child, an institution \u2013 for making such a determination? As Amanda and Martin are forced to make increasingly difficult choices, the repercussions spiral out of their control.",
-    "runtime": "121 min",
-    "director": "Lance Hammer"
-  },
-  {
     "title": "The History of Concrete",
     "date": "2026-10-15",
     "time": "12:55 PM",
@@ -3495,19 +3430,6 @@
     "description": "In 1940, a year after the Nazi invasion of Poland, Soviet forces secretly murdered more than 15,000 Polish officers, intellectuals, and professionals over a three-day period. Stalin\u2019s purpose was to destroy elements of the population who might resist post-war Soviet control. Andrzej Wajda\u2019s father was among the victims, and the Soviet role in the massacre was hidden for decades. Wajda\u2019s unflinching, epic film dramatizes the human story, of both perpetrators and victims. The film was a massive box office success in Poland, provoking a mix of catharsis and controversy. And it was an Oscar\u00ae nominee for Best Foreign Language Film.",
     "runtime": "",
     "director": "Andrzej Wajda"
-  },
-  {
-    "title": "Manhunter (4K Restoration)",
-    "date": "2026-10-15",
-    "time": "1:00 PM",
-    "format": "4K",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/manhunter-4k-restoration",
-    "city": "London",
-    "description": "In celebration of the 40th anniversary of Michael Mann\u2019s Manhunter , Mann\u2019s final cut of the film returns in a newly restored 4K version. FBI criminal profiler Will Graham is called out of early retirement to assist on a deadly case involving a murderer known as the \u201cTooth Fairy.\u201d After enlisting the help of imprisoned serial killer Dr. Hannibal Lecktor, Graham and the FBI are soon entangled in a menacing cat-and-mouse game.",
-    "runtime": "120 min",
-    "director": "Michael Mann"
   },
   {
     "title": "The Disciple",
@@ -4160,19 +4082,6 @@
     "director": "Bertrand Usclat and Martin Darondeau"
   },
   {
-    "title": "Outpost",
-    "date": "2026-10-15",
-    "time": "7:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4679430/",
-    "description": "Join us in the microcinema for Joe Lo Truglio\u2019s nail-biting nightmare of the darkness that lurks in the woods and inside us. In his directorial debut feature, veteran comedian and actor Joe Lo Truglio displays his darker side with this satisfying slow burn of isolation, PTSD, and pyschosis. After a violent attack, a woman searches for strength in the solitude of a lookout job, but is overwhelmed by something darker. With a phenomenal cast and a slow and steadily unhinged descent into madness and feminine rage, culminating in a gory and hallucinatory climax, you won\u2019t want to skip this trip to the nature\u2026of revenge!",
-    "runtime": "84 min",
-    "director": "Joe Lo Truglio",
-    "city": "LA"
-  },
-  {
     "title": "The Greg Proops Film Club Presents LET'S SCARE JESSICA TO DEATH",
     "date": "2026-10-15",
     "time": "7:00 PM",
@@ -4262,19 +4171,6 @@
     "description": "When Russia shuts down all independent media, a group of young dissident journalists must flee Moscow so they can keep reporting and not go to prison. In her riveting follow-up to last year\u2019s awards-sweeping MY UNDESIRABLE FRIENDS \u2014 LAST AIR IN MOSCOW, Julia Loktev follows these courageous, sharply funny women (and a few men) as they fan out across a dozen countries, to Istanbul, Tbilisi, Prague, Vienna, Amsterdam, New York, and beyond. Over the course of four years, they continue to report the truth to Russians from exile, covering their country\u2019s war crimes, even as they face death threats and are declared extremists and terrorists\u2014as they find new meanings of family, friendship, love, and home far from the country to which they may never return.\u202f(Viewers can follow EXILE without first seeing LAST AIR IN MOSCOW.)",
     "runtime": "355 min",
     "director": ""
-  },
-  {
-    "title": "The Witches of Eastwick",
-    "date": "2026-10-15",
-    "time": "7:30 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4672364/",
-    "description": "Have a hell of a good time with Jack Nicholson, Michelle Pfeiffer, Susan Sarandon, and of course Cher in this devilishly sexy comedy based on the John Updike novel. Three single women in a picturesque Rhode Island village have their wishes granted \u2014 at a cost \u2014 when a mysterious and flamboyant man arrives in their lives and promises to grant them supernatural powers even as he charms each of them with his own. Now that they have their own powers, it\u2019s time to turn the tables on their sinister seducer. With an iconic cast, fiercely funny dialogue, and tons of witchy fun, you\u2019ll want to gather up your coven and get ready for all the sexy and savage sorcery!",
-    "runtime": "118 min",
-    "director": "George Miller",
-    "city": "LA"
   },
   {
     "title": "NARROW ROOMS: LES FANT\u00d4MES DU HARD + FISTULE",
@@ -4480,7 +4376,7 @@
     "venue_short": "PCC",
     "url": "https://whatson.bfi.org.uk/lff/Online/article/history-of-concrete-lff26",
     "city": "London",
-    "description": "Tickets Are Only Available via BFI London Film Festival Website from Tuesday 17 September 2026 10:00am: Click Here To Book Having attended a Hallmark movie workshop, John Wilson applies his learnings to a documentary about concrete, albeit with a dryly funny and deceptively understated tone. After finding himself with too much time on his hands, documentarian Wilson attends a workshop on how to make Hallmark romcoms. It inspires him to apply the formula to a film investigating the story of concrete. Infused with Wilson\u2019s trademark curiosity and wit, the film project introduces him to a variety of unusual people and places. The result is a wry and humane meditation on the modern world. These screenings will be presented with Descriptive Subtitles.",
+    "description": "LFF Tickets Are Only Available via BFI London Film Festival Website: Click Here To Book Our Preview Screening on Saturday 26th December go on sale to PCC Members for 48hrs on 16th October 13:00, and will go on sale to everyone on 18th October 13:00. Having attended a Hallmark movie workshop, John Wilson applies his learnings to a documentary about concrete, albeit with a dryly funny and deceptively understated tone. After finding himself with too much time on his hands, documentarian Wilson attends a workshop on how to make Hallmark romcoms. It inspires him to apply the formula to a film investigating the story of concrete. Infused with Wilson\u2019s trademark curiosity and wit, the film project introduces him to a variety of unusual people and places. The result is a wry and humane meditation on the modern world.",
     "runtime": "101 min",
     "director": "John Wilson"
   },
@@ -8879,19 +8775,6 @@
     "director": "Ken Russell"
   },
   {
-    "title": "Outpost",
-    "date": "2026-10-17",
-    "time": "9:45 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4735498/",
-    "description": "Join us in the microcinema for Joe Lo Truglio\u2019s nail-biting nightmare of the darkness that lurks in the woods and inside us. In his directorial debut feature, veteran comedian and actor Joe Lo Truglio displays his darker side with this satisfying slow burn of isolation, PTSD, and pyschosis. After a violent attack, a woman searches for strength in the solitude of a lookout job, but is overwhelmed by something darker. With a phenomenal cast and a slow and steadily unhinged descent into madness and feminine rage, culminating in a gory and hallucinatory climax, you won\u2019t want to skip this trip to the nature\u2026of revenge!",
-    "runtime": "84 min",
-    "director": "Joe Lo Truglio",
-    "city": "LA"
-  },
-  {
     "title": "The History of Concrete",
     "date": "2026-10-17",
     "time": "9:45 PM",
@@ -9834,7 +9717,7 @@
     "format": "DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627592",
+    "url": "https://princecharlescinema.com/film/2631783/the-thing",
     "city": "London",
     "description": "In remote Antarctica, a group of American research scientists are disturbed at their base camp by a helicopter shooting at a sled dog. When they take in the dog, it brutally attacks both human beings and canines in the camp and they discover that the beast can assume the shape of its victims. A resourceful helicopter pilot (Kurt Russell) and the camp doctor (Richard Dysart) lead the camp crew in a desperate, gory battle against the vicious creature before it picks them all off, one by one.",
     "runtime": "108 min",
@@ -17147,6 +17030,19 @@
     "director": "Tommy Lee Wallace"
   },
   {
+    "title": "Klara and the Sun",
+    "date": "2026-10-23",
+    "time": "8:45 PM",
+    "format": "DCP",
+    "venue": "Electric Cinema Portobello",
+    "venue_short": "Electric",
+    "url": "https://www.electriccinema.co.uk/tickets/79900",
+    "city": "London",
+    "description": "Based on the bestselling novel from Nobel Prize-winner Kazuo Ishiguro and written and directed by Academy-Award\u00ae winner Taika Waititi (Jojo Rabbit), Klara and the Sun introduces audiences to Klara (Jenna Ortega), an Artificial Friend who wants nothing more than to find the perfect home. When Klara meets Josie (Mia Tharia), each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother (Amy Adams) and \r\nthey\u2019ve suffered great loss, but Klara\u2019s innocent wonder and unwavering loyalty begin to heal the family and bring light \r\nto Josie\u2019s complicated world.",
+    "runtime": "116 min",
+    "director": "Taika Waititi"
+  },
+  {
     "title": "FATHERLAND",
     "date": "2026-10-23",
     "time": "8:50 PM",
@@ -17524,6 +17420,19 @@
     "director": ""
   },
   {
+    "title": "Klara and the Sun",
+    "date": "2026-10-24",
+    "time": "1:30 PM",
+    "format": "DCP",
+    "venue": "Electric Cinema Portobello",
+    "venue_short": "Electric",
+    "url": "https://www.electriccinema.co.uk/tickets/79901",
+    "city": "London",
+    "description": "Based on the bestselling novel from Nobel Prize-winner Kazuo Ishiguro and written and directed by Academy-Award\u00ae winner Taika Waititi (Jojo Rabbit), Klara and the Sun introduces audiences to Klara (Jenna Ortega), an Artificial Friend who wants nothing more than to find the perfect home. When Klara meets Josie (Mia Tharia), each immediately senses a kindred spirit in the other. Josie has a fraught relationship with her mother (Amy Adams) and \r\nthey\u2019ve suffered great loss, but Klara\u2019s innocent wonder and unwavering loyalty begin to heal the family and bring light \r\nto Josie\u2019s complicated world.",
+    "runtime": "116 min",
+    "director": "Taika Waititi"
+  },
+  {
     "title": "The Cat and the Canary (1939)",
     "date": "2026-10-24",
     "time": "2:00 pm",
@@ -17654,19 +17563,6 @@
     "director": "Jane Schoenbrun"
   },
   {
-    "title": "FATHERLAND",
-    "date": "2026-10-24",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951355.TcsSection_1299",
-    "city": "London",
-    "description": "At the height of the Cold War, the writer Thomas Mann and his daughter\u2014actress, writer, and rally driver\u2014Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
-    "runtime": "82 min",
-    "director": "Pawe\u0142 Pawlikowski"
-  },
-  {
     "title": "Something Special (Willy/Milly)",
     "date": "2026-10-24",
     "time": "3:30 PM",
@@ -17793,6 +17689,19 @@
     "url": "https://purchase.filmlinc.org/84774/84782",
     "city": "NYC",
     "description": "Oscar-nominated director Pawe\u0142 Pawlikowski (Cold War, NYFF56) won Best Director at Cannes for his most potent film yet, following novelist Thomas Mann (Hanns Zischler) and his daughter Erika Mann (Sandra H\u00fcller) on a road trip across Germany in the aftermath of World War II. Poland\u2019s entry for Best International Feature Film at the 2027 Academy Awards.",
+    "runtime": "82 min",
+    "director": "Pawe\u0142 Pawlikowski"
+  },
+  {
+    "title": "FATHERLAND",
+    "date": "2026-10-24",
+    "time": "4:30 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951355.TcsSection_1299",
+    "city": "London",
+    "description": "At the height of the Cold War, the writer Thomas Mann and his daughter\u2014actress, writer, and rally driver\u2014Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
     "runtime": "82 min",
     "director": "Pawe\u0142 Pawlikowski"
   },
@@ -18733,19 +18642,6 @@
     "director": "John Carpenter"
   },
   {
-    "title": "FATHERLAND",
-    "date": "2026-10-25",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951365.TcsSection_1299",
-    "city": "London",
-    "description": "At the height of the Cold War, the writer Thomas Mann and his daughter\u2014actress, writer, and rally driver\u2014Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
-    "runtime": "82 min",
-    "director": "Pawe\u0142 Pawlikowski"
-  },
-  {
     "title": "Girl, Interrupted",
     "date": "2026-10-25",
     "time": "3:35 PM",
@@ -18863,6 +18759,19 @@
     "director": "Lee Chang-dong"
   },
   {
+    "title": "FATHERLAND",
+    "date": "2026-10-25",
+    "time": "4:20 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951365.TcsSection_1299",
+    "city": "London",
+    "description": "At the height of the Cold War, the writer Thomas Mann and his daughter\u2014actress, writer, and rally driver\u2014Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
+    "runtime": "82 min",
+    "director": "Pawe\u0142 Pawlikowski"
+  },
+  {
     "title": "Colony",
     "date": "2026-10-25",
     "time": "4:30 pm",
@@ -18954,19 +18863,6 @@
     "director": ""
   },
   {
-    "title": "FATHERLAND",
-    "date": "2026-10-25",
-    "time": "5:30 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951367.TcsSection_1299",
-    "city": "London",
-    "description": "At the height of the Cold War, the writer Thomas Mann and his daughter\u2014actress, writer, and rally driver\u2014Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
-    "runtime": "82 min",
-    "director": "Pawe\u0142 Pawlikowski"
-  },
-  {
     "title": "Nosferatu with Live Score",
     "date": "2026-10-25",
     "time": "5:45 PM",
@@ -19030,6 +18926,19 @@
     "description": "Homer with a ball-peen hammer. Kidnapped and stuffed in a hole without explanation for 15 years of solitary confinement, when Oh Dae-su (Choi Min-sik) is suddenly let loose on the streets, he\u2019s stone-cold pissed off and very, very dangerous. Winner of the Grand Prix at Cannes and an international pop phenomenon, Oldboy was a revenge thriller unlike any that had come before, featuring passages of pure bravura filmmaking (that one-shot hallway donnybrook!) and surreal sicko humor that\u2019ll put you off of sushi for a while. \u201cPut together with brutally uncompromising style [and] the cold-steel edge of a knife against your throat. A dark and thrillingly horrible adventure into the realms of the unthinkable.\u201d \u2014The Guardian Part of Classical Cinema",
     "runtime": "120 min",
     "director": "Park Chan-wook"
+  },
+  {
+    "title": "FATHERLAND",
+    "date": "2026-10-25",
+    "time": "6:20 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2951367.TcsSection_1299",
+    "city": "London",
+    "description": "At the height of the Cold War, the writer Thomas Mann and his daughter\u2014actress, writer, and rally driver\u2014Erika embark on a road trip in a black Buick cruiser across a divided Germany in ruins, traveling from the Allied-occupied city of Frankfurt to Soviet-controlled Weimar.",
+    "runtime": "82 min",
+    "director": "Pawe\u0142 Pawlikowski"
   },
   {
     "title": "Teenage Sex and Death at Camp Miasma",
@@ -20200,6 +20109,19 @@
     "description": "The lives of two married couples from different social strata collide in Lee Chang-dong\u2019s brilliantly unfolding narrative about economic precarity, in which a laid-off factory worker and his wife become the camera subjects for a documentary filmmaker. Winner of the Silver Lion at the 2026 Venice Film Festival and South Korea\u2019s entry for Best International Feature Film at the 2027 Academy Awards.",
     "runtime": "164 min",
     "director": "Lee Chang-dong"
+  },
+  {
+    "title": "Preview: Wild Horse Nine (15) + Screen Talk",
+    "date": "2026-10-27",
+    "time": "8:10 PM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "VIOLENCE VOYAGER",
@@ -22600,7 +22522,7 @@
     "format": "35mm",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627689",
+    "url": "https://princecharlescinema.com/film/17198086/scream",
     "city": "London",
     "description": "Wes Craven re-invented and revitalised the slasher-horror genre with this modern horror classic, which manages to be funny, clever and scary, as a fright-masked knife maniac stalks high-school students in middle-class suburbia. Craven is happy to provide both tension and self-parody as the body count mounts - but the victims aren't always the ones you'd expect.",
     "runtime": "111 min",
@@ -28127,7 +28049,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628378",
     "city": "London",
-    "description": "Music Video Preservation Society, the big screen celebration of the art and cultural impact of music videos returns to the big screen at the Prince Charles Cinema on Wednesday November 18th, with special guest, filmmaker Tim Pope (director of classic videos for The Cure, Neil Young, The The, Bowie, etc).",
+    "description": "We are delighted to announce a very exciting edition of Music Video Preservation Society at the Prince Charles Cinema - with one of the most brilliant music video directors of all time: the one and only Tim Pope. Tim is among the most significant figures in the history of music videos, a pioneer in establishing its potential as an artform. He directed videos of boundless imagination, spirit and wit in service of the musicians and music he loves. And what a list of artists he\u2019s worked with. From blagging his way into the just-emerging music video industry to direct promos for Soft Cell in the early 80s he blazed a trail with the likes of David Bowie, The The, Neil Young, Queen, Style Council, Talk Talk and, of course, The Cure - the band he is most closely associated with, for whom he has made by his own calculation, over 30 videos and several concert films. Tim has now written about his fascinating (and often hilarious) adventures making pop videos in the 80s, 90s and beyond - plus a nightmarish brush with Hollywood making \u2018The Crow 2\u2019 for Harvey Weinstein - in his brilliant memoir \u2018I Shoot Rock Stars\u2019, published in August and now a Sunday Times bestseller. And on November 18th, Tim is coming to The PCC to tell some stories from the book and more, in conversation with MVPS host David Knight - and he will also present a selection of his greatest music videos, now remastered back to their original glory, on the big screen. There will be classics, there will be surprises, there will be laughs, maybe a few tears... Will we be showing Tim's notorious video for Sex Dwarf? We're not saying until we have consulted our lawyers. But rest assured, this meeting of Music Video Preservation Society is going to be awesome. Tickets on sale now at the box office.",
     "runtime": "135 min",
     "director": ""
   },
@@ -35256,35 +35178,35 @@
     "director": "Alexander Payne"
   },
   {
-    "title": "Amelie - 25th Anniversary",
+    "title": "The History of Concrete",
     "date": "2026-12-26",
     "time": "5:00 PM",
+    "format": "DCP",
+    "venue": "Prince Charles Cinema",
+    "venue_short": "PCC",
+    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628569",
+    "city": "London",
+    "description": "LFF Tickets Are Only Available via BFI London Film Festival Website: Click Here To Book Our Preview Screening on Saturday 26th December go on sale to PCC Members for 48hrs on 16th October 13:00, and will go on sale to everyone on 18th October 13:00. Having attended a Hallmark movie workshop, John Wilson applies his learnings to a documentary about concrete, albeit with a dryly funny and deceptively understated tone. After finding himself with too much time on his hands, documentarian Wilson attends a workshop on how to make Hallmark romcoms. It inspires him to apply the formula to a film investigating the story of concrete. Infused with Wilson\u2019s trademark curiosity and wit, the film project introduces him to a variety of unusual people and places. The result is a wry and humane meditation on the modern world.",
+    "runtime": "101 min",
+    "director": "John Wilson"
+  },
+  {
+    "title": "Amelie - 25th Anniversary",
+    "date": "2026-12-26",
+    "time": "5:15 PM",
     "format": "35mm",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628422",
+    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628568",
     "city": "London",
     "description": "23-year-old Am\u00e9lie is lonely. After an isolating childhood, she moves to Paris and becomes a waitress at the Caf\u00e9 des Deux Moulins, a bar restaurant filled with a colourful cast of diners and employees. One night, Am\u00e9lie happens across a box of treasures hidden in her apartment, left by a little boy in the Fifties, that changes the course of her life. Henceforth, she dedicates herself to giving back to her community, tracking down the owner of these keepsakes, consoling a widowed neighbour and befriending a reclusive artist. When completing these good deeds, she crosses paths with Nino, a photobooth collagist who shares her oddball sensibilities. She quickly falls in love with him.",
     "runtime": "123 min",
     "director": "Jean-Pierre Jeunet"
   },
   {
-    "title": "The Royal Tenenbaums",
-    "date": "2026-12-26",
-    "time": "5:20 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628533",
-    "city": "London",
-    "description": "Royal Tenenbaum and his wife Etheline had three children and then they separated. All three children are extraordinary --- all geniuses. Virtually all memory of the brilliance of the young Tenenbaums was subsequently erased by two decades of betrayal, failure, and disaster. Most of this was generally considered to be their father's fault. \"The Royal Tenenbaums\" is the story of the family's sudden, unexpected reunion one recent winter.",
-    "runtime": "110 min",
-    "director": "Wes Anderson"
-  },
-  {
     "title": "Heat",
     "date": "2026-12-26",
-    "time": "7:50 PM",
+    "time": "7:45 PM",
     "format": "35mm",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
@@ -36049,6 +35971,32 @@
     "director": "John G. Avildsen"
   },
   {
+    "title": "Dire Duplicity",
+    "date": "2027-01-08",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Prince Charles Cinema",
+    "venue_short": "PCC",
+    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628570",
+    "city": "London",
+    "description": "A tormented secret agent with emotional and psychological problems attempts to stop an international cyber attack. This dark emotional mystery intensifies as he is betrayed by those he trusts and loves.",
+    "runtime": "93 min",
+    "director": "Neil Breen"
+  },
+  {
+    "title": "Dire Duplicity",
+    "date": "2027-01-14",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Prince Charles Cinema",
+    "venue_short": "PCC",
+    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628571",
+    "city": "London",
+    "description": "A tormented secret agent with emotional and psychological problems attempts to stop an international cyber attack. This dark emotional mystery intensifies as he is betrayed by those he trusts and loves.",
+    "runtime": "93 min",
+    "director": "Neil Breen"
+  },
+  {
     "title": "The Films of Matt Johnson Marathon",
     "date": "2027-01-30",
     "time": "11:15 PM",
@@ -36242,18 +36190,5 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "Who Killed Teddy Bear?             / In the Cut",
-    "date": "2027-10-14",
-    "time": "7:30 pm / 9:35 pm",
-    "format": "35mm",
-    "venue": "New Beverly Cinema",
-    "venue_short": "NewBev",
-    "url": "https://thenewbev.com/program/october-14-who-killed-teddy-bear-in-the-cut/",
-    "description": "An unforgettable descent into sleazy mid-60s NYC, Who Killed Teddy Bear? is a staggering psycho-sexual thriller determined to smash every previously untouchable Hollywood taboo in the rulebook. Juliet Prowse plays a discotheque DJ on the receiving end of a series of increasingly obscene phone calls. As violence from the mysterious stalker tumbles into real life, who could be the madman responsible: the nightclub manager with sapphic desires (Elaine Stritch), the creepy cop with a damaged past (Jan Murray), or the club\u2019s shy busboy hiding dark family secrets (Sal Mineo)? Teddy Bear is ripe for rediscovery, raw and unflinching, with a charged Mineo at his fiery best.",
-    "runtime": "94 min",
-    "director": "Joseph Cates",
-    "city": "LA"
   }
 ]
