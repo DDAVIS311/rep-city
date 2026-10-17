@@ -3796,19 +3796,6 @@
     "director": "James Cameron"
   },
   {
-    "title": "Abbott and Costello Meet Frankenstein",
-    "date": "2026-10-17",
-    "time": "10:00 AM",
-    "format": "35mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "description": "The Wolf Man tries to warn a dimwitted porter that Dracula wants his brain for Frankenstein monster's body.The Wolf Man tries to warn a dimwitted porter that Dracula wants his brain for Frankenstein monster's body.",
-    "runtime": "83 min",
-    "director": "",
-    "city": "LA"
-  },
-  {
     "title": "The Devils",
     "date": "2026-10-17",
     "time": "10:35 AM",
@@ -4017,19 +4004,6 @@
     "director": "John Wilson"
   },
   {
-    "title": "Ken Russell's The Devils 35mm",
-    "date": "2026-10-17",
-    "time": "1:00 PM",
-    "format": "35mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "description": "An enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, THE DEVILS is a prescient epic of obsession and corruption - and a defining work of art from seminal filmmaker Ken Russell. Fully restored and presented uncut and unfiltered as Russell always envisioned, the film screens from a stunning, brand new 35mm print.",
-    "runtime": "114 min",
-    "director": "",
-    "city": "LA"
-  },
-  {
     "title": "SPANNING TIME",
     "date": "2026-10-17",
     "time": "1:00 PM",
@@ -4043,32 +4017,6 @@
     "city": "LA"
   },
   {
-    "title": "Once Upon a Time in Harlem",
-    "date": "2026-10-17",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84703/84709",
-    "city": "NYC",
-    "description": "In 1972, legendary filmmaker William Greaves gathered an extraordinary group of artists, writers, actors, musicians, and thinkers of the Harlem Renaissance. After more than 50 years, his son David Greaves has completed his breathtaking miracle of a movie.",
-    "runtime": "100 min",
-    "director": "William Greaves and David Greaves"
-  },
-  {
-    "title": "The Devils",
-    "date": "2026-10-17",
-    "time": "1:00 PM",
-    "format": "35mm",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84474/84683",
-    "city": "NYC",
-    "description": "Ken Russell\u2019s infamous adaptation of Aldous Huxley\u2019s book, about the apparent possession of a group of nuns after one (Vanessa Redgrave) accuses a priest (Oliver Reed) of collaborating with the devil, is at long last available in its full, uncensored splendor.",
-    "runtime": "114 min",
-    "director": "Ken Russell"
-  },
-  {
     "title": "The Devils",
     "date": "2026-10-17",
     "time": "1:20 PM",
@@ -4080,19 +4028,6 @@
     "description": "All screenings on a new 35mm print of the 4K restoration of the film. An enduring, singular masterpiece of cinema starring Academy Award-winner Vanessa Redgrave and Oliver Reed, KEN RUSSELL\u2019S THE DEVILS is a prescient epic of obsession and corruption \u2013 and a defining work of art from seminal filmmaker Ken Russell. Assembled from the original camera negative, this new 4K restoration presents Ken Russell\u2019s definitive vision of The Devils by referencing the edit he privately constructed in 2004. The film\u2019s sound has been remastered from original English Composite 35mm Mag Film, transferred at 96kHz, plus other original film elements in selected spots as needed. The Picture and Sound restoration was performed by Warner Bros. Post Production Creative Services, Water Tower Color, and Warner Bros. Sound.",
     "runtime": "114 min",
     "director": "Ken Russell"
-  },
-  {
-    "title": "Once Upon a Time in Harlem",
-    "date": "2026-10-17",
-    "time": "1:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84703/84737",
-    "city": "NYC",
-    "description": "In 1972, legendary filmmaker William Greaves gathered an extraordinary group of artists, writers, actors, musicians, and thinkers of the Harlem Renaissance. After more than 50 years, his son David Greaves has completed his breathtaking miracle of a movie.",
-    "runtime": "100 min",
-    "director": "William Greaves and David Greaves"
   },
   {
     "title": "The History of Concrete",
@@ -4238,58 +4173,6 @@
     "director": "Yuval Abraham, Rachel Szor"
   },
   {
-    "title": "Once Upon a Time in Harlem",
-    "date": "2026-10-17",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84703/84710",
-    "city": "NYC",
-    "description": "In 1972, legendary filmmaker William Greaves gathered an extraordinary group of artists, writers, actors, musicians, and thinkers of the Harlem Renaissance. After more than 50 years, his son David Greaves has completed his breathtaking miracle of a movie.",
-    "runtime": "100 min",
-    "director": "William Greaves and David Greaves"
-  },
-  {
-    "title": "The Devils",
-    "date": "2026-10-17",
-    "time": "3:30 PM",
-    "format": "35mm",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84474/84684",
-    "city": "NYC",
-    "description": "Ken Russell\u2019s infamous adaptation of Aldous Huxley\u2019s book, about the apparent possession of a group of nuns after one (Vanessa Redgrave) accuses a priest (Oliver Reed) of collaborating with the devil, is at long last available in its full, uncensored splendor.",
-    "runtime": "114 min",
-    "director": "Ken Russell"
-  },
-  {
-    "title": "Hell House",
-    "date": "2026-10-17",
-    "time": "3:45 PM",
-    "format": "DCP",
-    "venue": "Low Cinema",
-    "venue_short": "LowCinema",
-    "url": "https://lowcinema.com/checkout/7fe53675-58ae-4cc8-9f50-eecb3b79a224/",
-    "city": "NYC",
-    "description": "This church wants to scare the hell out of you . . . literally. HELL HOUSE is a fly-on-the-wall documentary that follows the Trinity Assembly of God Church in Dallas, TX as they build a haunted house for the Y2K Halloween season. But instead of Draculas and Freddy Kruegers, the church recreates scenes that graphically depict modern-day \"evils\" such as botched abortions, fatal drunk driving crashes, and drug-induced suicides. Shot on gorgeous 16mm film stock by director George Ratliff and friends, this is an outrageous, enthralling, and poignant v\u00e9rit\u00e9 window into the creative effort and religious zeal behind this over-the-top event. Newly restored from the original 16mm camera negative, HELL HOUSE is a new favorite obsession for fans of AMERICAN MOVIE and MISTER ORGAN.",
-    "runtime": "85 min",
-    "director": ""
-  },
-  {
-    "title": "THE SOCIAL RECKONING",
-    "date": "2026-10-17",
-    "time": "3:45 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2968369.TcsSection_1299",
-    "city": "London",
-    "description": "A companion piece to the hit film The Social Network, Sorkin\u2019s original screenplay is based on the events that gave rise to the Wall Street Journal\u2019s shocking expos\u00e9 The Facebook Files. The film is inspired by the true story of how Frances Haugen (Madison), a young Facebook engineer, enlists the hel...",
-    "runtime": "112 min",
-    "director": "Aaron Sorkin"
-  },
-  {
     "title": "Fjord",
     "date": "2026-10-17",
     "time": "3:50 PM",
@@ -4340,32 +4223,6 @@
     "description": "When Russia shuts down all independent media, a group of young dissident journalists must flee Moscow so they can keep reporting and not go to prison. In her riveting follow-up to last year\u2019s awards-sweeping MY UNDESIRABLE FRIENDS \u2014 LAST AIR IN MOSCOW, Julia Loktev follows these courageous, sharply funny women (and a few men) as they fan out across a dozen countries, to Istanbul, Tbilisi, Prague, Vienna, Amsterdam, New York, and beyond. Over the course of four years, they continue to report the truth to Russians from exile, covering their country\u2019s war crimes, even as they face death threats and are declared extremists and terrorists\u2014as they find new meanings of family, friendship, love, and home far from the country to which they may never return.\u202f(Viewers can follow EXILE without first seeing LAST AIR IN MOSCOW.)",
     "runtime": "355 min",
     "director": ""
-  },
-  {
-    "title": "Once Upon a Time in Harlem",
-    "date": "2026-10-17",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84703/84738",
-    "city": "NYC",
-    "description": "In 1972, legendary filmmaker William Greaves gathered an extraordinary group of artists, writers, actors, musicians, and thinkers of the Harlem Renaissance. After more than 50 years, his son David Greaves has completed his breathtaking miracle of a movie.",
-    "runtime": "100 min",
-    "director": "William Greaves and David Greaves"
-  },
-  {
-    "title": "NAZA",
-    "date": "2026-10-17",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2968367.TcsSection_936",
-    "city": "London",
-    "description": "\"We made this film out of a sense of obligation to use our position as Israelis to examine the systems behind the mass killing of Palestinian civilians for which our country is responsible. While filming over the past three years, we found ourselves asking the question that was asked by our grandpar...",
-    "runtime": "80 min",
-    "director": "Yuval Abraham & Rachel Szor"
   },
   {
     "title": "Le jour o\u00f9\u2026 (The Day When)",
@@ -4511,19 +4368,6 @@
     "director": ""
   },
   {
-    "title": "Verity",
-    "date": "2026-10-17",
-    "time": "5:45 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/film/verity/",
-    "city": "London",
-    "description": "Adapted from Colleen Hoover's best-selling novel, this seductive, psychological thriller follows renowned author Verity Crawford (Anne Hathaway) and Lowen Ashleigh (Dakota Johnson), a struggling writer who relocates to the remote Crawford estate to ghostwrite for Verity. After Lowen uncovers what appears to be Verity's chilling autobiographical notes, she wrestles with the disturbing and twisted confessions about Verity\u2019s husband Jeremy (Josh Hartnett), and finds it hard to separate fiction from reality, manipulation from attraction, and opportunity from obsession.",
-    "runtime": "117 min",
-    "director": "Michael Showalter"
-  },
-  {
     "title": "ASHES & DIAMONDS",
     "date": "2026-10-17",
     "time": "5:50 PM",
@@ -4535,19 +4379,6 @@
     "description": "In the spring of 1945, weary and disillusioned by the war against the Nazis that has just ended, uncertain about a future under Communist rule, two resistance fighters are under orders to assassinate the incoming district leader. One of the fighters, the brooding Maciek, played by Zbigniew Cybulski (often called \u201cthe Polish James Dean\u201d), falls in love with a local barmaid, and is suddenly torn about how to move forward. As Wajda said about ASHES AND DIAMONDS, almost universally regarded as his masterpiece, \u201cI have tried to reveal to movie audiences the complicated and difficult world of a generation to which I myself belong.\u201d This anguished, romantic, and deeply personal film is an all-time favorite of both Francis Ford Coppola and Martin Scorsese, who placed it as #3 on his top ten list for Sight and Sound.",
     "runtime": "",
     "director": "Andrzej Wajda"
-  },
-  {
-    "title": "Whalefall",
-    "date": "2026-10-17",
-    "time": "5:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83836?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A scuba diver in search of his deceased father's remains gets swallowed by an 80-foot, 60-ton sperm whale and has only one hour to escape before his oxygen runs out. After giving up on life, the young man is surprised to find a reason to live in the most dangerous and unlikely of places.",
-    "runtime": "106 min",
-    "director": "Brian Duffield"
   },
   {
     "title": "ONCE UPON A TIME IN HARLEM",
@@ -4589,71 +4420,6 @@
     "director": "Ken Russell"
   },
   {
-    "title": "JAPANESE FILM CLUB: TOKYO SONATA",
-    "date": "2026-10-17",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://japanesefilm.club/tokyo-sonata-rio-cinema-dalston-2026-10-17-1745",
-    "city": "London",
-    "description": "The winds of change blow through an ordinary Tokyo family as they grapple with unemployment, alienation, mistrust and a growing lack of communication. When salaryman Ryuhei unexpectedly loses his job to outsourcing, he decides to conceal the truth from his family and continues leaving home every mor...",
-    "runtime": "120 min",
-    "director": "Kiyoshi Kurosawa"
-  },
-  {
-    "title": "Sense and Sensibility",
-    "date": "2026-10-17",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83834?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Left destitute by ruthless family members, two sisters navigate scandal, heartbreak, and strict social etiquette while searching for their perfect romantic matches.",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
-    "title": "The Social Reckoning (15) (AD)",
-    "date": "2026-10-17",
-    "time": "6:10 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/parent-baby-screening-the-social-reckoning",
-    "city": "London",
-    "description": "In this companion piece to The Social Network , screenwriter Aaron Sorkin returns to the Metaverse with a tale of the whistleblower who started the social media reckoning we're seeing play out today.",
-    "runtime": "112 min",
-    "director": "Aaron Sorkin"
-  },
-  {
-    "title": "Street Fighter",
-    "date": "2026-10-17",
-    "time": "6:10 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83832?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Set in 1993, estranged Street Fighters Ryu (Andrew Koji) and Ken Masters (Noah Centineo) are thrown back into combat when the mysterious Chun-Li (Callina Liang) recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don\u2019t, it\u2019s GAME OVER!",
-    "runtime": "120 min",
-    "director": "Kitao Sakurai"
-  },
-  {
-    "title": "Sense And Sensibility",
-    "date": "2026-10-17",
-    "time": "6:15 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18089/",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles. Sisters Elinor and Marianne Dashwood must leave their Sussex estate following the sudden loss of their wealthy father and are forced to move in with a distant relative. The two sisters attempt to find security and happiness whilst navigating their vastly different approaches to love.",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
     "title": "The History of Concrete",
     "date": "2026-10-17",
     "time": "6:20 PM",
@@ -4665,32 +4431,6 @@
     "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
     "runtime": "101 min",
     "director": "John Wilson"
-  },
-  {
-    "title": "LFF: Cadences of Resistance",
-    "date": "2026-10-17",
-    "time": "6:20 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "76 min",
-    "director": ""
-  },
-  {
-    "title": "NAZA",
-    "date": "2026-10-17",
-    "time": "6:20 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2949511.TcsSection_1299",
-    "city": "London",
-    "description": "\"We made this film out of a sense of obligation to use our position as Israelis to examine the systems behind the mass killing of Palestinian civilians for which our country is responsible. While filming over the past three years, we found ourselves asking the question that was asked by our grandpar...",
-    "runtime": "80 min",
-    "director": "Yuval Abraham & Rachel Szor"
   },
   {
     "title": "Once Upon a Time in Harlem",
@@ -4706,32 +4446,6 @@
     "director": "William Greaves and David Greaves"
   },
   {
-    "title": "Case 137",
-    "date": "2026-10-17",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/case-137",
-    "city": "London",
-    "description": "Set against the backdrop of mass protests in Paris, Case 137 follows St\u00e9phanie, a meticulous internal affairs investigator working on the case of a teenager severely wounded by police fire. As she searches for the truth her inquiry collides with institutional resistance and pressure mounts as the case takes a personal turn when she discovers the victim is from her hometown.",
-    "runtime": "115 min",
-    "director": "Dominik Moll"
-  },
-  {
-    "title": "NAZA (15)",
-    "date": "2026-10-17",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/naza",
-    "city": "London",
-    "description": "Cloaked in darkness on the rooftops of Tel Aviv, Israeli journalist Yuval Abraham conducts shattering one-on-one interviews with Israeli soldiers and intelligence personnel.",
-    "runtime": "80 min",
-    "director": "Yuval Abraham, Rachel Szor"
-  },
-  {
     "title": "Also Known as Jihadi",
     "date": "2026-10-17",
     "time": "6:30 PM",
@@ -4743,32 +4457,6 @@
     "description": "",
     "runtime": "",
     "director": "\u00c9ric Baudelaire"
-  },
-  {
-    "title": "The Lost Children of Tuam",
-    "date": "2026-10-17",
-    "time": "6:40 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83837?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "In rural Ireland, amateur historian Catherine Corless begins researching a former institution for unmarried mothers and their children, uncovering a shocking hidden history of loss. Based on the true story, and featuring a powerful performance from Monica Dolan, THE LOST CHILDREN OF TUAM is a deeply moving portrait of one woman\u2019s fight for justice.",
-    "runtime": "84 min",
-    "director": "Frank Berry"
-  },
-  {
-    "title": "Extra Geography",
-    "date": "2026-10-17",
-    "time": "6:45 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18090/",
-    "city": "London",
-    "description": "Set in an English boarding school, Extra Geography follows two teenage girls as they grapple with all the challenges of girlhood: friendship, boys, studies, growing up and their summer project, \"to fall in love\".",
-    "runtime": "94 min",
-    "director": "Molly Manners"
   },
   {
     "title": "The Devils",
@@ -4862,19 +4550,6 @@
     "director": ""
   },
   {
-    "title": "FRANKENHOOKER",
-    "date": "2026-10-17",
-    "time": "7:05 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/753",
-    "city": "London",
-    "description": "When a freak lawnmower accident reduces his fianc\u00e9e Elizabeth to a collection of salvageable parts, amateur scientist Jeffrey Franken refuses to let death end their engagement. His plan is simple: find the perfect replacement body, assemble it piece by piece and bring Elizabeth back with a bolt of homemade electricity. Unfortunately, his search takes him into Times Square\u2019s sex trade, and the resurrected woman who emerges has inherited more than one set of memories.\nFrank Henenlotter\u2019s delirious reworking of Frankenstein is a neon-pink mixture of gross-out horror, gutter comedy and unexpectedly tender romance. Patty Mullen\u2019s electrically twitching performance is one of cult cinema\u2019s great comic creations, while the film\u2019s exploding bodies and handmade effects push bad taste into gleeful cartoon abstraction. Beneath the sleaze lies a warped warning about possession, reconstruction and the male urge to build the perfect woman.",
-    "runtime": "84 min",
-    "director": "Frank Henenlotter"
-  },
-  {
     "title": "The Great Experiment",
     "date": "2026-10-17",
     "time": "7:15 PM",
@@ -4907,7 +4582,7 @@
     "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "url": "https://ticketing.uswest.veezi.com/purchase/4094?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "description": "An enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, THE DEVILS is a prescient epic of obsession and corruption - and a defining work of art from seminal filmmaker Ken Russell. Fully restored and presented uncut and unfiltered as Russell always envisioned, the film screens from a stunning, brand new 35mm print.",
     "runtime": "114 min",
     "director": "",
@@ -4966,19 +4641,6 @@
     "director": "Andrzej Wajda"
   },
   {
-    "title": "Scream 4",
-    "date": "2026-10-17",
-    "time": "8:10 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627590",
-    "city": "London",
-    "description": "Fifteen years after the original Woodsboro murders, Sidney Prescott returns home to promote her new book about surviving trauma, only for a new Ghostface killer to emerge, targeting a new group of teens.",
-    "runtime": "111 min",
-    "director": "Wes Craven"
-  },
-  {
     "title": "ONCE UPON A TIME IN HARLEM",
     "date": "2026-10-17",
     "time": "8:15 PM",
@@ -5003,32 +4665,6 @@
     "description": "This church wants to scare the hell out of you . . . literally. HELL HOUSE is a fly-on-the-wall documentary that follows the Trinity Assembly of God Church in Dallas, TX as they build a haunted house for the Y2K Halloween season. But instead of Draculas and Freddy Kruegers, the church recreates scenes that graphically depict modern-day \"evils\" such as botched abortions, fatal drunk driving crashes, and drug-induced suicides. Shot on gorgeous 16mm film stock by director George Ratliff and friends, this is an outrageous, enthralling, and poignant v\u00e9rit\u00e9 window into the creative effort and religious zeal behind this over-the-top event. Newly restored from the original 16mm camera negative, HELL HOUSE is a new favorite obsession for fans of AMERICAN MOVIE and MISTER ORGAN.",
     "runtime": "85 min",
     "director": ""
-  },
-  {
-    "title": "Forgotten Island",
-    "date": "2026-10-17",
-    "time": "8:15 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83839?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "When two best friends are sucked through a magical portal they find themselves menaced by a dangerous creature and in danger of losing the memories that bond them together.",
-    "runtime": "109 min",
-    "director": "Joel Crawford, Januel Mercado"
-  },
-  {
-    "title": "THE SOCIAL RECKONING",
-    "date": "2026-10-17",
-    "time": "8:20 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2968371.TcsSection_1299",
-    "city": "London",
-    "description": "A companion piece to the hit film The Social Network, Sorkin\u2019s original screenplay is based on the events that gave rise to the Wall Street Journal\u2019s shocking expos\u00e9 The Facebook Files. The film is inspired by the true story of how Frances Haugen (Madison), a young Facebook engineer, enlists the hel...",
-    "runtime": "112 min",
-    "director": "Aaron Sorkin"
   },
   {
     "title": "Broadcast News",
@@ -5070,97 +4706,6 @@
     "director": "Ken Russell"
   },
   {
-    "title": "Digger (15) (AD)",
-    "date": "2026-10-17",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/digger",
-    "city": "London",
-    "description": "Academy Award-winning filmmaker Alejandro G I\u00f1\u00e1rritu ( Birdman ) returns with his original feature starring Tom Cruise as the most powerful man in the world.",
-    "runtime": "129 min",
-    "director": "Alejandro G I\u00f1\u00e1rritu"
-  },
-  {
-    "title": "The Face of Horror",
-    "date": "2026-10-17",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://whatson.bfi.org.uk/lff/Online/article/face-of-horror-lff26",
-    "city": "London",
-    "description": "Tickets Are Only Available via BFI London Film Festival Website from Tuesday 17 September 2026 10:00am: Click Here To Book In this stunning, blood-soaked homage to Technicolor horror films, a woman in medieval England rises from the grave to wreak revenge on her husband. Returning as a ghost after a cruel betrayal results in her death, Eleanor and her sister deliver bloody vengeance on the man who took her life and murdered their father. Anna Biller, writer-director of The Love Witch, here delivers a rich visual feast. Gloriously shot on 35mm, this supernatural Gothic melodrama vibrantly brings 14th-century England to life.",
-    "runtime": "120 min",
-    "director": "Anna Biller"
-  },
-  {
-    "title": "Whalefall",
-    "date": "2026-10-17",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83840?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A scuba diver in search of his deceased father's remains gets swallowed by an 80-foot, 60-ton sperm whale and has only one hour to escape before his oxygen runs out. After giving up on life, the young man is surprised to find a reason to live in the most dangerous and unlikely of places.",
-    "runtime": "106 min",
-    "director": "Brian Duffield"
-  },
-  {
-    "title": "LFF: Act 3",
-    "date": "2026-10-17",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "83 min",
-    "director": ""
-  },
-  {
-    "title": "The Social Reckoning (15) (AD)",
-    "date": "2026-10-17",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/parent-baby-screening-the-social-reckoning",
-    "city": "London",
-    "description": "In this companion piece to The Social Network , screenwriter Aaron Sorkin returns to the Metaverse with a tale of the whistleblower who started the social media reckoning we're seeing play out today.",
-    "runtime": "112 min",
-    "director": "Aaron Sorkin"
-  },
-  {
-    "title": "MY FATHER'S SHADOW",
-    "date": "2026-10-17",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "Rio Cinema",
-    "venue_short": "Rio",
-    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_2958911.TcsSection_936",
-    "city": "London",
-    "description": "Nigeria, 1993: Kid brothers Remi (Chibuike Marvelous Egbo) and Akin (Godwin Chimerie Egbo) get to spend an unexpected gift of a day with their estranged father Folarin (Sope Dirisu). Together, they voyage into Lagos for the first time, the boys taking in both the colossal city and the hoops Folarin ...",
-    "runtime": "93 min",
-    "director": "Akinola Davies Jr."
-  },
-  {
-    "title": "The Uprising",
-    "date": "2026-10-17",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83838?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Andrew Garfield stars as the legendary leader of a ferocious rebellion against the tyranny of King Richard II. As war burns across England, he forms an army of the people to face the King\u2019s might in a fight for justice and survival.",
-    "runtime": "128 min",
-    "director": "Paul Greengrass"
-  },
-  {
     "title": "Fjord",
     "date": "2026-10-17",
     "time": "8:45 PM",
@@ -5185,84 +4730,6 @@
     "description": "In 1972, legendary filmmaker William Greaves gathered an extraordinary group of artists, writers, actors, musicians, and thinkers of the Harlem Renaissance. After more than 50 years, his son David Greaves has completed his breathtaking miracle of a movie.",
     "runtime": "100 min",
     "director": "William Greaves and David Greaves"
-  },
-  {
-    "title": "By Design",
-    "date": "2026-10-17",
-    "time": "8:45 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/by-design",
-    "city": "London",
-    "description": "Upon seeing a gorgeous chair in a showroom, Camille (Juliette Lewis) realises that she truly envies the life of this perfect piece of furniture. If only she could be someone\u2019s favourite thing. When she and the chair swap forms, Camille learns that she is better liked as an inanimate object than she was as a person: her mother (Betty Buckley) finds her to be a better listener, and her best friends (Samantha Mathis and Robin Tunney) enjoy a newfound, friction-free rapport. As the chair, Camille is unable to speak or move and winds up in the hands of Olivier (Mamoudou Athie), a minimalist bachelor who gradually becomes romantically fixated on his elegant new possession. Narrated by Melanie Griffith, this modern fable celebrates the messiness of female interiority with deadpan humour, surrealist flourishes, and interpretative dance numbers. An absurdist spin on the body-swap comedy, By Design is a bold new work from singular filmmaker Amanda Kramer.",
-    "runtime": "91 min",
-    "director": "Amanda Kramer"
-  },
-  {
-    "title": "Sense and Sensibility (U) (AD)",
-    "date": "2026-10-17",
-    "time": "8:45 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/sense-and-sensibility",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen \u2019s iconic Sense and Sensibility : a charming, witty and deeply relatable story of love and sisterhood, starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles .",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
-    "title": "NAZA",
-    "date": "2026-10-17",
-    "time": "8:50 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18091/",
-    "city": "London",
-    "description": "Shot at night on the rooftops of Tel Aviv, the film reveals in detail the systems behind Israel\u2019s calculated mass killing of Palestinian civilians in Gaza.",
-    "runtime": "77 min",
-    "director": "Yuval Abraham, Rachel Szor"
-  },
-  {
-    "title": "Street Fighter",
-    "date": "2026-10-17",
-    "time": "8:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83841?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Set in 1993, estranged Street Fighters Ryu (Andrew Koji) and Ken Masters (Noah Centineo) are thrown back into combat when the mysterious Chun-Li (Callina Liang) recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don\u2019t, it\u2019s GAME OVER!",
-    "runtime": "120 min",
-    "director": "Kitao Sakurai"
-  },
-  {
-    "title": "Case 137",
-    "date": "2026-10-17",
-    "time": "9:00 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18092/",
-    "city": "London",
-    "description": "Case 137 is seemingly just another case for St\u00e9phanie, an investigator at the IGPN, the police of the police. But an unexpected element will trouble St\u00e9phanie and transform case 137 into something more than a simple number.",
-    "runtime": "116 min",
-    "director": "Dominik Moll"
-  },
-  {
-    "title": "The Social Reckoning",
-    "date": "2026-10-17",
-    "time": "9:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83842?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Explores Facebook's internal practices, spread of false information, impact on teen mental health, and connection to January 6 Capitol events.",
-    "runtime": "112 min",
-    "director": "Aaron Sorkin"
   },
   {
     "title": "The Social Reckoning",
@@ -5291,19 +4758,6 @@
     "director": "Lars Von Trier"
   },
   {
-    "title": "Resident Evil",
-    "date": "2026-10-17",
-    "time": "9:10 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83843?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "In this sci-fi horror action reboot, a hapless medical courier fights for his life amid an outbreak of a deadly mutagenic virus in an isolated mountain town.",
-    "runtime": "94 min",
-    "director": "Zach Cregger"
-  },
-  {
     "title": "ONCE UPON A TIME IN HARLEM",
     "date": "2026-10-17",
     "time": "9:15 PM",
@@ -5328,19 +4782,6 @@
     "description": "In 1972, legendary filmmaker William Greaves gathered an extraordinary group of artists, writers, actors, musicians, and thinkers of the Harlem Renaissance. After more than 50 years, his son David Greaves has completed his breathtaking miracle of a movie.",
     "runtime": "100 min",
     "director": "William Greaves and David Greaves"
-  },
-  {
-    "title": "THE CODE + DIRECTOR EUGENE KOTLYARENKO Q&A",
-    "date": "2026-10-17",
-    "time": "9:15 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/866",
-    "city": "London",
-    "description": "Celine and Jay have a problem: they can\u2019t have sex, they can\u2019t trust each other and neither of them can stop filming. When Celine begins making a documentary about love under lockdown, Jay becomes convinced that the whole thing is an elaborate trap designed to get him cancelled. He responds by rigging their desert hideaway with hidden cameras, beginning a surveillance arms race in which every confession, argument and attempted seduction becomes potential evidence.\nEugene Kotlyarenko, director of SPREE and WOBBLE PALACE, constructs a deranged romantic comedy from iPhones, webcams, spy cameras, pornography, reality television and more than 70 recording devices. Dasha Nekrasova and Peter Vack are perfectly matched as two terminally online narcissists trying to revive their relationship through mutually assured documentation.\nWith director Eugene Kotlyarenko on stage for a live interrogation.",
-    "runtime": "100 min",
-    "director": "Eugene Kotlyarenko"
   },
   {
     "title": "The Great Experiment",
@@ -6636,7 +6077,7 @@
     "format": "DCP",
     "venue": "Electric Cinema Portobello",
     "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/79285",
+    "url": "https://www.electriccinema.co.uk/film/the-social-reckoning/",
     "city": "London",
     "description": "A companion piece to the hit film The Social Network, Sorkin\u2019s original screenplay is based on the events that gave rise to the Wall Street Journal\u2019s shocking expos\u00e9 The Facebook Files. The film is inspired by the true story of how Frances Haugen (Madison), a young Facebook engineer, enlists the help of Jeff Horwitz (White), a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network\u2019s most guarded secrets.",
     "runtime": "112 min",
@@ -10029,7 +9470,7 @@
     "format": "35mm",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627603",
+    "url": "https://princecharlescinema.com/film/1578578/seven",
     "city": "London",
     "description": "GLUTTONY. GREED. SLOTH. WRATH. PRIDE. LUST. ENVY. Two cops (Brad Pitt and Morgan Freeman) track a brilliant and elusive killer who orchestrates a string of horrific murders, each kill targeting a practitioner of one of the Seven Deadly Sins. Gwyneth Paltrow also stars in this acclaimed thriller set in a dour, drizzly city sick with pain and blight. David Fincher (Fight Club, Zodiac, The Curious Case of Benjamin Button) guides the action - physical, mental and spiritual - with a sure understanding of what terrifies us, right up to a stunning denouement that will rip the scar tissue off the most hardened soul. The 4K restoration of \u201cSe7en\u201d was completed at Warner Bros. Discovery\u2019s Motion Picture Imaging and sourced from the original camera negative. The restoration was overseen by David Fincher.",
     "runtime": "127 min",
@@ -14956,7 +14397,7 @@
     "format": "Digital",
     "venue": "Vista Theater",
     "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4199?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "description": "V/H/S/MIXTAPE cranks the franchise's signature found-footage horror up to eleven with an electrifying new anthology where music and sound become the source of terror. United by a theme that explores the power of music, rhythm, and audio to haunt, possess, transform, and destroy, the film blends cosmic horror, psychological suspense, outrageous splatter, and groundbreaking practical effects into one unforgettable mixtape of nightmares.",
     "runtime": "98 min",
     "director": "",
@@ -28114,7 +27555,7 @@
     "venue_short": "Anthology",
     "url": "https://www.anthologyfilmarchives.org/film_screenings/calendar?view=list&month=11&year=2026#showing-62300",
     "city": "NYC",
-    "description": "This program gathers portrait studies by Stan Brakhage, Amy Halpern, Ernst Schmidt Jr., S. Pearl Sharp, Stuart Sherman, Joan Logue, Friedl vom Gr\u00f6ller, and Everlane Mor\u00e3es, with the subjects encompassing poets, artists, filmmakers, scholars, domestic workers, and fishermen. Stan Brakhage TWO: CREELEY/MCCLURE (1965, 3 min, 16mm, silent) Amy Halpern JANE, LOOKING (2020, 2 min, 16mm, silent) Ernst Schmidt Jr. THE ACT OF THINKING / DENKAKT (1968, 3 min, 16mm) S. Pearl Sharp BACK INSIDE HERSELF (1984/2009, 4.5 min, 16mm-to-digital. Courtesy of the artist and Cinenova Distribution.) Stuart Sherman MR. ASHLEY PROPOSES (PORTRAIT OF GEORGE) (1985, 1.5 min, 16mm, silent) Joan Logue VIDEO PORTRAITS: NEW ENGLAND FISHERMEN (1985, 15 min, video) Friedl vom Gr\u00f6ller GRAF ZOKAN (FRANZ WEST) (1969, 4 min, 16mm, silent) Friedl vom Gr\u00f6ller LISA (2001, 3 min, 16mm, silent) Friedl vom Gr\u00f6ller ADAMA DIOUF (2014, 3 min, 16mm, silent) Friedl vom Gr\u00f6ller JELENA (2024, 3 min, 16mm) Everlane Mor\u00e3es AURORA (2019, 15 min, digital) Jeff Weber KARL KELS (2025, 1 min, 35mm, silent) Jeff Weber MICHELE (2025, 2 min, 35mm, silent) Total running time: ca. 65 min.",
+    "description": "This program gathers portrait studies by Stan Brakhage, Amy Halpern, Ernst Schmidt Jr., S. Pearl Sharp, Stuart Sherman, Joan Logue, Friedl vom Gr\u00f6ller, and Everlane Mor\u00e3es, with the subjects encompassing poets, artists, filmmakers, scholars, domestic workers, and fishermen. Stan Brakhage TWO: CREELEY/MCCLURE (1965, 3 min, 16mm, silent) Amy Halpern JANE, LOOKING (2020, 2 min, 16mm, silent) Ernst Schmidt Jr. THE ACT OF THINKING / DENKAKT (1968, 3 min, 16mm) S. Pearl Sharp BACK INSIDE HERSELF (1984/2009, 4.5 min, 16mm-to-digital. Courtesy of the artist and Cinenova Distribution.) Stuart Sherman MR. ASHLEY PROPOSES (PORTRAIT OF GEORGE) (1985, 1.5 min, 16mm-to-digital, silent) Joan Logue VIDEO PORTRAITS: NEW ENGLAND FISHERMEN (1985, 15 min, video) Friedl vom Gr\u00f6ller GRAF ZOKAN (FRANZ WEST) (1969, 4 min, 16mm, silent) Friedl vom Gr\u00f6ller LISA (2001, 3 min, 16mm, silent) Friedl vom Gr\u00f6ller ADAMA DIOUF (2014, 3 min, 16mm, silent) Friedl vom Gr\u00f6ller JELENA (2024, 3 min, 16mm) Everlane Mor\u00e3es AURORA (2019, 15 min, digital) Jeff Weber KARL KELS (2025, 1 min, 35mm, silent) Jeff Weber MICHELE (2025, 2 min, 35mm, silent) Total running time: ca. 65 min.",
     "runtime": "65 min",
     "director": ""
   },
@@ -30660,7 +30101,7 @@
     "format": "DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/film/2690/singalonga-rocky-horror-picture-show",
+    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31625930",
     "city": "London",
     "description": "The Campest Cult Classic of all time gets the Singalonga treatment it\u2019s been SCREAMING for! Featuring the film, starring Tim Curry, Susan Sarandon, Meatloaf and Richard O\u2019Brien, it\u2019s the most outrageous, riotous, kitsch, wonderful romp ever. If you\u2019ve done The Time Warp before, you\u2019ll never have done it quite like this! The evening begins with your host leading a vocal warm-up before they show you how to use your free interactive props bag. Fancy dress is not obligatory but highly recommended! Please Note : The 15 rating we have placed upon this screening is due to the Adult content of the hosted pre-show which may not be suitable for those under 15. Please Note : This is a screening of the movie not a live stage show. Also this screening may contain sudden loud noises and flashing lights. For Sing-a-long-a Grease, Rocky Horror, Dirty Dancing and The Greatest Showman at the Prince Charles Cinema, London we can offer a discount for groups of 10+. Simply get in touch with us via email at [email protected] before buying so we can arrange!",
     "runtime": "100 min",
