@@ -3802,7 +3802,7 @@
     "format": "35mm",
     "venue": "Vista Theater",
     "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4156?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
+    "url": "https://ticketing.uswest.veezi.com/sessions/?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
     "description": "The Wolf Man tries to warn a dimwitted porter that Dracula wants his brain for Frankenstein monster's body.The Wolf Man tries to warn a dimwitted porter that Dracula wants his brain for Frankenstein monster's body.",
     "runtime": "83 min",
     "director": "",
@@ -3885,32 +3885,6 @@
     "description": "From the legendary Studio Ghibli, creators of Spirited Away and Ponyo, and Academy Award-winning director Hayao Miyazaki, comes a classic tale of\u2026",
     "runtime": "86 min",
     "director": "Hayao Miyazaki"
-  },
-  {
-    "title": "The Social Reckoning",
-    "date": "2026-10-17",
-    "time": "11:30 AM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/film/the-social-reckoning/",
-    "city": "London",
-    "description": "A companion piece to the hit film The Social Network, Sorkin\u2019s original screenplay is based on the events that gave rise to the Wall Street Journal\u2019s shocking expos\u00e9 The Facebook Files. The film is inspired by the true story of how Frances Haugen (Madison), a young Facebook engineer, enlists the help of Jeff Horwitz (White), a Wall Street Journal reporter, to go on a dangerous journey that ends up blowing the whistle on the social network\u2019s most guarded secrets.",
-    "runtime": "112 min",
-    "director": "Aaron Sorkin"
-  },
-  {
-    "title": "Extra Geography",
-    "date": "2026-10-17",
-    "time": "11:45 AM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18084/",
-    "city": "London",
-    "description": "Set in an English boarding school, Extra Geography follows two teenage girls as they grapple with all the challenges of girlhood: friendship, boys, studies, growing up and their summer project, \"to fall in love\".",
-    "runtime": "94 min",
-    "director": "Molly Manners"
   },
   {
     "title": "DOUBLE INDEMNITY",
@@ -4121,19 +4095,6 @@
     "director": "William Greaves and David Greaves"
   },
   {
-    "title": "LFF: Josephine",
-    "date": "2026-10-17",
-    "time": "1:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "119 min",
-    "director": ""
-  },
-  {
     "title": "The History of Concrete",
     "date": "2026-10-17",
     "time": "1:35 PM",
@@ -4145,19 +4106,6 @@
     "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
     "runtime": "101 min",
     "director": "John Wilson"
-  },
-  {
-    "title": "Tad and the Magic Lamp",
-    "date": "2026-10-17",
-    "time": "1:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83829?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A family of archeologists find a magic lamp that sends them back in time in this animated fantasy comedy adventure.",
-    "runtime": "94 min",
-    "director": "Enrique Gato"
   },
   {
     "title": "Something Wicked This Way Comes",
@@ -4186,58 +4134,6 @@
     "city": "LA"
   },
   {
-    "title": "Kaiju: King Kong Vs Godzilla - DUBBED (12A*) + intro",
-    "date": "2026-10-17",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/cinema",
-    "city": "London",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "NAZA (15)",
-    "date": "2026-10-17",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/naza",
-    "city": "London",
-    "description": "Cloaked in darkness on the rooftops of Tel Aviv, Israeli journalist Yuval Abraham conducts shattering one-on-one interviews with Israeli soldiers and intelligence personnel.",
-    "runtime": "80 min",
-    "director": "Yuval Abraham, Rachel Szor"
-  },
-  {
-    "title": "NAZA",
-    "date": "2026-10-17",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18137/",
-    "city": "London",
-    "description": "Shot at night on the rooftops of Tel Aviv, the film reveals in detail the systems behind Israel\u2019s calculated mass killing of Palestinian civilians in Gaza.",
-    "runtime": "77 min",
-    "director": "Yuval Abraham, Rachel Szor"
-  },
-  {
-    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "date": "2026-10-17",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83830?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The new adventure sees the residents of Mossy Bottom Farm looking forward to Halloween - until the clumsy Farmer trashes the Flock's beloved pumpkin patch. When Shaun turns mad scientist to fix the problem, things rapidly spiral out of control, leading to a wild beast roaming the woods.",
-    "runtime": "80 min",
-    "director": "Steve Cox, Matthew Walker"
-  },
-  {
     "title": "THE SCOUT",
     "date": "2026-10-17",
     "time": "2:10 PM",
@@ -4251,19 +4147,6 @@
     "director": ""
   },
   {
-    "title": "Nadja",
-    "date": "2026-10-17",
-    "time": "2:20 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/nadja",
-    "city": "London",
-    "description": "In 1993, invited by David Lynch to come up with a low-budget genre movie, Michael Almereyda ( Tesla , Experimenter , Hamlet ) came up with a moody, postmodern reimagining of the Dracula myth which draws inspiration from Dracula\u2019s Daughter (1936) and Andr\u00e9 Breton\u2019s surrealist novel Nadja . The film follows estranged vampire twins Nadja (Elina L\u00f6wensohn) and Edgar (a young Jared Harris) as they reunite following their father\u2019s death by the flamboyantly unhinged Dr. Van Helsing, played with relish by Peter Fonda. The film\u2019s striking visuals combine high-contrast black-and-white 35mm cinematography with the hallucinatory grain of Pixelvision video is now newly restored in 4K.",
-    "runtime": "93 min",
-    "director": "Michael Almereyda"
-  },
-  {
     "title": "ONCE UPON A TIME IN HARLEM",
     "date": "2026-10-17",
     "time": "2:30 PM",
@@ -4275,19 +4158,6 @@
     "description": "August 1972: A reunion of Harlem Renaissance luminaries is held at Duke Ellington\u2019s St. Nicholas Ave. townhouse. Though many of these figures haven\u2019t seen each other in 50 years, sharp memories, vigorous debates, and unsettled scores soon flow through this stunner of a cocktail party, which features (among others): artists Romare Bearden, Aaron Douglas, and Richard Bruce Nugent; composer Eubie Blake; poet Arna Bontemps; photographer James Van Der Zee; and activists Richard B. Moore and Louise Patterson. After organizing and shooting this extraordinary gathering, filmmaker William Greaves (SYMBIOPSYCHOTAXIPLASM: TAKE ONE) was unable to complete the film before his death in 2014. One of the cameramen that day was his son David, who expertly reshaped this never-before-seen, newly-restored footage into \u201ca film for the ages\u2026one of the greatest cinematic works of creative nonfiction that I\u2019ve ever seen.\u201d \u2013 Richard Brody,\u202fThe New Yorker",
     "runtime": "100 min",
     "director": ""
-  },
-  {
-    "title": "Sense and Sensibility",
-    "date": "2026-10-17",
-    "time": "2:30 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/film/sense-and-sensibility-2/",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood.\r\nThree sisters experience love and heartbreak after they're forced to leave their family estate with their widowed mother and move to a humble cottage...",
-    "runtime": "131 min",
-    "director": "Georgia Oakley"
   },
   {
     "title": "Paris Was a Woman",
@@ -4316,19 +4186,6 @@
     "director": "Yuval Abraham, Rachel Szor"
   },
   {
-    "title": "Scream 2",
-    "date": "2026-10-17",
-    "time": "2:35 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627588",
-    "city": "London",
-    "description": "Sydney (Neve Campbell) and tabloid reporter Gale Weathers (Courteney Cox) survived the events of the first \"Scream,\" but their nightmare isn't over. When two college students are murdered at a sneak preview of \"Stab,\" a movie based on the events from the first film, it's clear a copycat killer is on the loose. Sydney and Gail, as well as fellow survivors Deputy Dewey (David Arquette) and Randy (Jamie Kennedy) have to find out who is behind this new murder spree, before they all end up dead.",
-    "runtime": "122 min",
-    "director": "Wes Craven"
-  },
-  {
     "title": "Aerograd",
     "date": "2026-10-17",
     "time": "2:40 PM",
@@ -4340,19 +4197,6 @@
     "description": "Set in the Soviet Far East in the not-too-distant future, Dovzhenko\u2019s film takes its title from a fictitious Siberian city that, as home to a strategically vital airfield, is targeted for conquest by the duplicitous forces of the Japanese Empire. A vision of technological utopianism and natural splendor, composed with dash and dynamism by cinematographer Eduard Tiss\u00e9\u2014a regular Eisenstein collaborator\u2014in which the forces of the Revolution must contend with samurai saboteurs, counterrevolutionary kulaks, and rabble-rousing \u201cOld Believer\u201d Christians, pushing Soviet civilization into the wilds of the Pacific coast. Part spy thriller, part full-throated agitprop, part pantheistic bliss-out, and pure Dovzhenko. 35mm print courtesy of the Filmoteka Narodowa, Warsaw Part of Oleksandr Dovzhenko: Earth and Empire",
     "runtime": "87 min",
     "director": "Oleksandr Dovzhenko"
-  },
-  {
-    "title": "Sense and Sensibility (U) (AD)",
-    "date": "2026-10-17",
-    "time": "2:45 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/sense-and-sensibility",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen \u2019s iconic Sense and Sensibility : a charming, witty and deeply relatable story of love and sisterhood, starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles .",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
   },
   {
     "title": "MAN OF IRON",
@@ -4368,45 +4212,6 @@
     "director": "Andrzej Wajda"
   },
   {
-    "title": "Forgotten Island",
-    "date": "2026-10-17",
-    "time": "2:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83827?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "When two best friends are sucked through a magical portal they find themselves menaced by a dangerous creature and in danger of losing the memories that bond them together.",
-    "runtime": "109 min",
-    "director": "Joel Crawford, Januel Mercado"
-  },
-  {
-    "title": "Paper Tiger",
-    "date": "2026-10-17",
-    "time": "3:00 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://whatson.bfi.org.uk/lff/Online/article/paper-tiger-lff26",
-    "city": "London",
-    "description": "Tickets Are Only Available via BFI London Film Festival Website from Tuesday 17 September 2026 10:00am: Click Here To Book James Gray goes back to his roots with this tense and atmospheric thriller, set in 1980s New York, which finds two brothers becoming embroiled with the Russian mafia. Irwin Pearl (Miles Teller, on top form) is an engineer and family man living in Queens. When his brother, a showboating ex-police officer (a magnetic Adam Driver), enlists him for a high paying job, things rapidly take a turn for the worse. Channelling the spirit of Sidney Lumet and Michael Mann, Gray\u2019s own, distinctive directorial style is on full display in this instant classic of American crime cinema.",
-    "runtime": "114 min",
-    "director": "James Gray"
-  },
-  {
-    "title": "Coyote vs. Acme",
-    "date": "2026-10-17",
-    "time": "3:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83822?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A story set in the ACME warehouse, the manufacturer of anything and everything used by the Looney Tunes characters.",
-    "runtime": "103 min",
-    "director": "Dave Green"
-  },
-  {
     "title": "The Firemen's Ball",
     "date": "2026-10-17",
     "time": "3:00 PM",
@@ -4418,32 +4223,6 @@
     "description": "Our screening on Saturday 10 October will be introduced by Czech film expert Peter Hames and followed by a discussion group\u2026",
     "runtime": "73 min",
     "director": "Milos Forman"
-  },
-  {
-    "title": "Whalefall",
-    "date": "2026-10-17",
-    "time": "3:10 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83825?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A scuba diver in search of his deceased father's remains gets swallowed by an 80-foot, 60-ton sperm whale and has only one hour to escape before his oxygen runs out. After giving up on life, the young man is surprised to find a reason to live in the most dangerous and unlikely of places.",
-    "runtime": "106 min",
-    "director": "Brian Duffield"
-  },
-  {
-    "title": "Street Fighter",
-    "date": "2026-10-17",
-    "time": "3:20 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83826?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Set in 1993, estranged Street Fighters Ryu (Andrew Koji) and Ken Masters (Noah Centineo) are thrown back into combat when the mysterious Chun-Li (Callina Liang) recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don\u2019t, it\u2019s GAME OVER!",
-    "runtime": "120 min",
-    "director": "Kitao Sakurai"
   },
   {
     "title": "Naza",
@@ -4498,19 +4277,6 @@
     "director": ""
   },
   {
-    "title": "Deadline",
-    "date": "2026-10-17",
-    "time": "3:45 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18087/",
-    "city": "London",
-    "description": "An anonymous suicide notice at a prestigious private high school force staff and students to confront the pressures of academic achievement, family expectations, and the school system itself.",
-    "runtime": "117 min",
-    "director": "Kiwi Chow"
-  },
-  {
     "title": "THE SOCIAL RECKONING",
     "date": "2026-10-17",
     "time": "3:45 PM",
@@ -4535,19 +4301,6 @@
     "description": "Tue, Oct 6: Sneak preview + Q&A with director Cristian Mungiu and co-star Sebastian Stan after the 6:15 show! Tues, Oct 6: Extended intro with director Cristian Mungiu and co-star Sebastian Stan at the 8:15 show! From two-time Palme d\u2019Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close-knit, coastal town. Their teenage children form a fast bond with a neighboring family as unease begins to simmer around their rigid beliefs. When allegations of abuse emerge, they are forced to confront a system of judgment that blurs the line between concern and prejudice.",
     "runtime": "146 min",
     "director": "Cristian Mungiu"
-  },
-  {
-    "title": "Verity",
-    "date": "2026-10-17",
-    "time": "3:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83835?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Struggling writer Lowen Ashleigh is hired as a ghostwriter for renowned author Verity Crawford under mysterious circumstances, but her assignment takes a dark turn after discovering chilling autobiographical notes. Faced with a series of deadly family secrets, Lowen struggles to separate fiction from reality, while also blurring the lines with Verity\u2019s husband, Jeremy.",
-    "runtime": "117 min",
-    "director": "Michael Showalter"
   },
   {
     "title": "The History of Concrete",
@@ -4602,45 +4355,6 @@
     "director": "William Greaves and David Greaves"
   },
   {
-    "title": "Kaiju: King Kong Escapes DUBBED (PG) + intro",
-    "date": "2026-10-17",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/cinema",
-    "city": "London",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "The Social Reckoning (15) (AD)",
-    "date": "2026-10-17",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/parent-baby-screening-the-social-reckoning",
-    "city": "London",
-    "description": "In this companion piece to The Social Network , screenwriter Aaron Sorkin returns to the Metaverse with a tale of the whistleblower who started the social media reckoning we're seeing play out today.",
-    "runtime": "112 min",
-    "director": "Aaron Sorkin"
-  },
-  {
-    "title": "Digger",
-    "date": "2026-10-17",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18088/",
-    "city": "London",
-    "description": "Academy Award-winning filmmaker Alejandro G. I\u00f1\u00e1rritu returns with his original film Digger, starring Tom Cruise. The most powerful man in the world (Cruise) embarks on a frantic mission to prove he is humanity\u2019s savior before the disaster he\u2019s unleashed destroys everything. This wildly hilarious satire was shot entirely in VistaVision.",
-    "runtime": "129 min",
-    "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
-  },
-  {
     "title": "NAZA",
     "date": "2026-10-17",
     "time": "4:00 PM",
@@ -4652,19 +4366,6 @@
     "description": "\"We made this film out of a sense of obligation to use our position as Israelis to examine the systems behind the mass killing of Palestinian civilians for which our country is responsible. While filming over the past three years, we found ourselves asking the question that was asked by our grandpar...",
     "runtime": "80 min",
     "director": "Yuval Abraham & Rachel Szor"
-  },
-  {
-    "title": "Tad and the Magic Lamp",
-    "date": "2026-10-17",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83831?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A family of archeologists find a magic lamp that sends them back in time in this animated fantasy comedy adventure.",
-    "runtime": "94 min",
-    "director": "Enrique Gato"
   },
   {
     "title": "Le jour o\u00f9\u2026 (The Day When)",
@@ -4719,45 +4420,6 @@
     "director": "Douglas Keeve"
   },
   {
-    "title": "LFF: Ghazal-e Sorkh + Shab-Nameh: Women of Iran's Forgotten Left",
-    "date": "2026-10-17",
-    "time": "4:15 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "61 min",
-    "director": ""
-  },
-  {
-    "title": "Naza",
-    "date": "2026-10-17",
-    "time": "4:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/naza",
-    "city": "London",
-    "description": "Directed by Yuval Abraham and Rachel Szor, two of the co-directors of the 2024 Oscar-winning documentary No Other Land , Naza reveals the systems behind Israel\u2019s bombing of Gaza and its mass killing of Palestinian civilians. Winner of Special Jury Prize at the 2026 Venice Film Festival.",
-    "runtime": "80 min",
-    "director": "Yuval Abraham"
-  },
-  {
-    "title": "IN THE REALM OF THE SENSES",
-    "date": "2026-10-17",
-    "time": "4:30 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/714",
-    "city": "London",
-    "description": "In 1930s Tokyo, former geisha Sada Abe begins an affair with Kichizo, the married proprietor of the inn where she works. Withdrawing from the world into rented rooms, the pair surrender themselves to an increasingly intense cycle of sex, jealousy and experimentation. Their mutual obsession gradually consumes every other part of their lives, carrying them towards an infamous and violent conclusion.\nBased on the true story of Sada Abe, Nagisa Oshima\u2019s IN THE REALM OF THE SENSES became an international sensation through its unprecedented combination of arthouse filmmaking and unsimulated sex. Produced as a French-Japanese collaboration to escape Japan\u2019s censorship laws, the film was seized, banned and cut in numerous countries, while Oshima faced an obscenity trial at home. Fifty years later, it remains one of cinema\u2019s most beautiful, confrontational and genuinely erotic studies of desire taken to its absolute limit.",
-    "runtime": "102 min",
-    "director": "Nagisa Oshima"
-  },
-  {
     "title": "The History of Concrete",
     "date": "2026-10-17",
     "time": "4:35 PM",
@@ -4810,19 +4472,6 @@
     "director": "Carlos Saura"
   },
   {
-    "title": "Forgotten Island",
-    "date": "2026-10-17",
-    "time": "5:20 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83844?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "When two best friends are sucked through a magical portal they find themselves menaced by a dangerous creature and in danger of losing the memories that bond them together.",
-    "runtime": "109 min",
-    "director": "Joel Crawford, Januel Mercado"
-  },
-  {
     "title": "EC: STRIKE",
     "date": "2026-10-17",
     "time": "5:30 PM",
@@ -4836,19 +4485,6 @@
     "director": "Sergei Eisenstein"
   },
   {
-    "title": "Scream 3",
-    "date": "2026-10-17",
-    "time": "5:30 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627589",
-    "city": "London",
-    "description": "As bodies begin dropping around the set of 'STAB 3', a movie sequel based on the gruesome Woodsboro killings, Sidney Prescott and the other survivors are once again drawn into a game of a horror movie mayhem.",
-    "runtime": "117 min",
-    "director": "Wes Craven"
-  },
-  {
     "title": "Naza",
     "date": "2026-10-17",
     "time": "5:35 PM",
@@ -4860,45 +4496,6 @@
     "description": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel\u2019s calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them. We made this film out of a sense of obligation to use our position as Israeli filmmakers and journalists to examine the systems behind the mass killing of Palestinian civilians for which our country is responsible. While filming members of Israel\u2019s military on rooftops at night in Tel Aviv over the past three years, we found ourselves asking the very questions that were asked by our grandparents\u2019 generation and throughout the 20th century: how does one group of people allow the total dehumanization of another? What do the inner workings of such a system look like? Many of the revelations in the film were published almost immediately as we learned of them, in the months following the October 7th attacks, by The Guardian (one of NAZA \u2019s producers), in collaboration with reporting partners +972 Magazine and Local Call. The film lets us explore something deeper than we could in our investigative journalism alone: not only the words being said but also those that are not said, the silence. It is up to all of us to break that silence. \u2014 Yuval Abraham and Rachel Szor",
     "runtime": "80 min",
     "director": "Yuval Abraham, Rachel Szor"
-  },
-  {
-    "title": "Sense and Sensibility (U) (AD)",
-    "date": "2026-10-17",
-    "time": "5:35 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/sense-and-sensibility",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen \u2019s iconic Sense and Sensibility : a charming, witty and deeply relatable story of love and sisterhood, starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles .",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
-    "title": "Look Back",
-    "date": "2026-10-17",
-    "time": "5:40 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://whatson.bfi.org.uk/lff/Online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=16502BF8-16E5-47A9-B9C3-2926A0E722BF&BOparam::WScontent::loadArticle::",
-    "city": "London",
-    "description": "Tickets Are Only Available via BFI London Film Festival Website from Thursday 1 October 2026 10:00am: Click Here To Book Spanning more than a decade, Hirokazu Koreeda\u2019s tender coming-of-age story follows two girls who bond over their passion for and dream of becoming manga artists. Aspiring manga artist Fujino meets Kymoto, a shy admirer of her work. Seemingly opposites, they create the perfect team with their shared love of the form. But as their work draws praise and attention, they find themselves confronted with decisions that threaten their artistic collaboration. Koreeda\u2019s striking love letter to friendship and the creative process offers keen insight into the craft. Content Warning: Contains scenes of graphic violence or injury.",
-    "runtime": "100 min",
-    "director": "Hirokazu Kore-eda"
-  },
-  {
-    "title": "Digger",
-    "date": "2026-10-17",
-    "time": "5:40 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83833?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's saviour before the disaster he\u2019s unleashed destroys everything.",
-    "runtime": "129 min",
-    "director": "Alejandro Gonz\u00e1lez I\u00f1\u00e1rritu"
   },
   {
     "title": "MULTI-MEDIA RESOURCE CENTER PGM 3: GAY LIBERATION ON 16MM",
@@ -13037,19 +12634,6 @@
     "description": "Tue, Oct 6: Sneak preview + Q&A with director Cristian Mungiu and co-star Sebastian Stan after the 6:15 show! Tues, Oct 6: Extended intro with director Cristian Mungiu and co-star Sebastian Stan at the 8:15 show! From two-time Palme d\u2019Or winner Cristian Mungiu, a Norwegian woman and her devout Romanian husband relocate with their five children to a remote, close-knit, coastal town. Their teenage children form a fast bond with a neighboring family as unease begins to simmer around their rigid beliefs. When allegations of abuse emerge, they are forced to confront a system of judgment that blurs the line between concern and prejudice.",
     "runtime": "146 min",
     "director": "Cristian Mungiu"
-  },
-  {
-    "title": "The Oldest Person in the World",
-    "date": "2026-10-22",
-    "time": "7:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4703150/",
-    "description": "Join us in the microcinema for an-all-too-human triumph of documentary filmmaking, Sam Greene\u2019s profound and entertaining affirmation of life, The Oldest Person in the World. Green creates a decade-long odyssey chronicling the ever-changing record holders of the title of oldest person alive. As the title inevitably passes from one supercentenarian to the next, acclaimed filmmaker Sam Green traverses the globe to meet each new record holder, his personal fascination with what the title means becoming entangled with events and milestones in his own life. What begins as a portrait of longevity becomes a poignant meditation on the passage of time, the randomness of fate and the joy and profound human experience of being alive.",
-    "runtime": "87 min",
-    "director": "Sam Green",
-    "city": "LA"
   },
   {
     "title": "DOLEMITE IS MY NAME",
@@ -35189,6 +34773,45 @@
     "description": "A tormented secret agent with emotional and psychological problems attempts to stop an international cyber attack. This dark emotional mystery intensifies as he is betrayed by those he trusts and loves.",
     "runtime": "93 min",
     "director": "Neil Breen"
+  },
+  {
+    "title": "FFC: Ponyo (U)",
+    "date": "2027-01-16",
+    "time": "11:00 AM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
+    "title": "FFC: Forgotten Island (PG)",
+    "date": "2027-01-23",
+    "time": "11:00 AM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
+    "title": "FFC: Kensuke's Kingdom (PG)",
+    "date": "2027-01-30",
+    "time": "11:00 AM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "The Films of Matt Johnson Marathon",
