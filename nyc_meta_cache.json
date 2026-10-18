@@ -872,6 +872,11 @@
 "format": "DCP",
 "runtime": "102 min"
 },
+"https://metrograph.com/film/9999000730-the-general/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
 "https://metrograph.com/film/9999000735-chungking-express/": {
 "description": "A hot-shot to the heart, pop masterpiece Chungking Express tells the stories of two lovelorn cops (Takeshi Kaneshiro and Tony Leung) and the women who baffle them (Brigitte Lin and Faye Wong, who contributes a Cantopop cover of The Cranberries\u2019 \u201cDreams\u201d), its bifurcated structure suggesting the A- and B-sides of a 45. Wong\u2019s international breakthrough introduced new audiences to his rich, sensorial brand of filmmaking, inviting one to disappear into, sink into, live inside, a voluptuary world bigger and brighter than our own\u2014but just as heartbreaking. Part of Like the Wind: Lensed by Christopher Doyle",
 "director": "Wong Kar-wai",
@@ -924,6 +929,11 @@
 "director": "Francis Ford Coppola",
 "format": "35mm",
 "runtime": "128 min"
+},
+"https://metrograph.com/film/9999001208-lost-highway/": {
+"description": "",
+"director": "",
+"runtime": ""
 },
 "https://metrograph.com/film/9999001213-edward-scissorhands/": {
 "description": "",
@@ -1001,6 +1011,16 @@
 "director": "Bong Joon Ho",
 "format": "4K DCP",
 "runtime": "120 min"
+},
+"https://metrograph.com/film/9999001825-spellbound/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999001925-asako-i-ii/": {
+"description": "",
+"director": "",
+"runtime": ""
 },
 "https://metrograph.com/film/9999001984-night-on-earth/": {
 "description": "Jarmusch\u2019s career-long fascination with at-home-in-the-world wanderers finds its perfect expression in this anthology piece with a Tom Waits soundtrack and Independent Spirit Award-winning cinematography by Elmes, set simultaneously in five different cabs in five different cities around the world. In Los Angeles casting agent Gena Rowlands cross-examines driver Winona Ryder, Isaach De Bankol\u00e9 drives a mysterious young blind woman through Paris, and the backseat operates everywhere as an analyst\u2019s sofa, loneliness and urban anomie proving to know no national bounds. \u201cMr. Jarmusch again demonstrates his mastery of comedy of the oblique.\u201d\u2014The New York Times Part of Winona Ryder Analogue Youth",
@@ -1091,11 +1111,26 @@
 "format": "35mm",
 "runtime": "88 min"
 },
+"https://metrograph.com/film/9999003128-the-housemaid/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999003167-suzhou-river/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
 "https://metrograph.com/film/9999003243-ryuichi-sakamoto-coda/": {
 "description": "A precious glimpse into the creative process of the late synth-pop star, film composer, and activist Ryuichi Sakamoto, Schible\u2019s deeply affecting film picks up with its introspective subject as he returns to music-making after having been diagnosed with cancer, channeling his new awareness of his mortality into his latest work. Part of Sakamoto on Screen Portraits of an Artist",
 "director": "Stephen Nomura Schible",
 "format": "DCP",
 "runtime": "100 min"
+},
+"https://metrograph.com/film/9999003255-the-brood/": {
+"description": "",
+"director": "",
+"runtime": ""
 },
 "https://metrograph.com/film/9999003314-stealing-beauty/": {
 "description": "After the death of her poet mother, 19-year-old American Lucy (Liv Tyler) travels to a Tuscan villa near Siena owned by family friends in hopes of exploring her family\u2019s history and reuniting with her first kiss, though soon finds herself contending with a crowded field of would-be suitors. Working in his native Italy for the first time in 15 years, and in his only collaboration with DP Darius Khondji, Bertolucci creates a film of warm, mellow light; lyrical grace notes; and exquisite performances from Tyler, Joseph Fiennes, Jeremy Irons, Rachel Weisz, and others. Part of Radical Chiaroscuro: The Work of Darius Khondji",
@@ -1226,6 +1261,16 @@
 "director": "Tsui Hark",
 "format": "DCP",
 "runtime": "134 min"
+},
+"https://metrograph.com/film/9999004476-chinese-roulette/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999004546-earth-dakhabrakha-score/": {
+"description": "",
+"director": "",
+"runtime": ""
 },
 "https://metrograph.com/film/9999004546-earth/": {
 "description": "Dovzhenko\u2019s final silent feature, which depicts a clash between reactionary landowning peasants and modernizing paupers bringing the first tractor to their corner of the Ukrainian countryside, has by now spawned nearly a century of debate: is it a propagandist paean to the collectivization project in Stalin\u2019s first Five-Year Plan, which would have catastrophic results in the Ukrainian Famine of 1932-33, or, as certain Soviet censors suspected, an on-the-sly celebration of a Ukrainian folk culture grounded in an ancient connection between the peasants and the soil they\u2019ve so long tilled, threatened with impending erasure? What is not up for question is that Earth is among the greatest of films from the silent film canon, its distinct synthesis of Eisenstein, Pudovkin, and Vertov making it something like a summation of what had come before it, while its lyric ode to the natural world and those that live with it in harmony blazes a trail for the Ukrainian Poetic Cinema of the future to follow. 35mm print courtesy of the Filmoteka Narodowa, Warsaw Live musical accompaniment by Fima Chupakhin, piano & synths, and Julian Kytasty, bandura & vocals on Saturday, October 10th Part of Oleksandr Dovzhenko: Earth and Empire",
@@ -1668,6 +1713,46 @@
 "director": "Noah Segan",
 "format": "DCP",
 "runtime": "88 min"
+},
+"https://metrograph.com/film/9999005068-zi/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005069-detour/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005071-after-winter-comes-spring/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005072-the-woman-in-the-window/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005073-tenebrae/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005074-fireflies-press-presents-hermia-helena/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005075-je-taime-je-taime/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005076-columbus/": {
+"description": "",
+"director": "",
+"runtime": ""
 },
 "https://metrograph.com/film/?vista_film_id=9999000006": {
 "description": "",
