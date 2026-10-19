@@ -508,5 +508,35 @@
   "description": "Filmed live at the specially designed Starlight Auditorium at Troubadour Wembley Park Theatre, ANDREW LLOYD WEBBER'S STARLIGHT EXPRESS - LIVE ON STAGE will immerse audiences in a world of speed, song and storytelling as an incredible cast of 40 whizz across the screen, performing some of musical theatre’s most beloved songs. As a child’s train set magically comes to life and the engines race to become the fastest in the world, Rusty the steam train has little hope of winning until he is inspired by the legend of the ‘Starlight Express’. A show seen around the world by over 30 million people, and with music by Andrew Lloyd Webber and lyrics by Richard Stilgoe, ANDREW LLOYD WEBBER'S STARLIGHT EXPRESS - LIVE ON STAGE is an electrifying experience for all ages.",
   "runtime": "120 min",
   "format": ""
+ },
+ "https://www.peckhamplex.london/film/clayface": {
+  "director": "Mike Flanagan",
+  "description": "A shape-shifting creature made of magical clay haunts Gotham City, alternating between villain and ally of Batman. Multiple tragic figures have taken on the Clayface mantle over the years.",
+  "runtime": "108 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/monster-mia": {
+  "director": "Verena Fels",
+  "description": "All her life, Mia (12) has not only felt out of place in her town, she has felt out of place in her own family. Her twin sister, Marie, is the picture-perfect Primrose girl – permanently dressed in pink and puppy obsessed. Mia, on the other hand, loves skateboarding, quirky clothes, and her scruffy pet rat, Quentin. After one too many problems at school, the Primrose headmistress transfers Mia to the mysterious Rotwood Academy to work on her behavior. Rotwood is nothing like Primrose. It’s dark, bat-infested, and it gives Mia the creeps. The place looks more like a castle than a school. And that’s not even the craziest part. At Rotwood, the students are... monsters! This must be a mistake. Monsters and humans do NOT get along. Mia can’t let anyone at Rotwood know she’s a human or she could be in serious trouble. Her only option is to convince everyone that she’s a monster, too until she can get the heck out of that creepy school. As time goes on, Mia begins to realize that her monster classmates aren’t so different from her former human classmates. She even finds some friends who take her under their wing. Paprika is a vampire and Oskar is a... well, Oskar’s head keeps fall- ing off. Mia has finally found a place where she belongs. But things aren’t all sunshine and roses at her new monster school. Vice Principal Van Vlad has a particular disdain for humans and Mia has a feeling he’s plotting something dreadful.",
+  "runtime": "82 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/ghosts-the-possession-of-button-house": {
+  "director": "Simon Hynd",
+  "description": "Three friends attempt to communicate with the spirits occupying a haunted house, and become embroiled in a supernatural adventure.",
+  "runtime": "97 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/wildwood": {
+  "director": "Travis Knight",
+  "description": "The Portland-set story follows Prue McKeel, who enters an enchanted wonderland when her baby brother Mac is taken by a murder of crows into the forest’s depths.",
+  "runtime": "132 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/disney-junior-cinema-club-2026": {
+  "director": "",
+  "description": "Packed with fun for preschoolers and their grown-ups, this interactive big-screen experience brings together some favourite Disney Junior stories from Mickey Mouse Clubhouse+, Minnie's Bow-Toons: Pet Hotel, Marvel's Iron Man and His Awesome Friends, Sofia the First: Royal Magic and Toy Story Toons, in a fun-filled extravaganza! Expect sing-alongs, dance moments, exciting games and magical surprises, where audience participation is a must.",
+  "runtime": "80 min",
+  "format": ""
  }
 }
