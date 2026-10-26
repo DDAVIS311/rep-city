@@ -694,5 +694,17 @@
   "description": "Cloaked in darkness on the rooftops of Tel Aviv, Israeli journalist Yuval Abraham conducts shattering one-on-one interviews with Israeli soldiers and intelligence personnel.",
   "runtime": "80 min",
   "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/wild-horse-nine": {
+  "director": "Martin McDonagh",
+  "description": "Two eccentric CIA agents ( John Malkovich and Sam Rockwell ) await orders on Easter Island, on the cusp of yet another military coup in Martin McDonagh 's latest dark comedy.",
+  "runtime": "118 min",
+  "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/cinema-restored-ander-yul": {
+  "director": "Ana Díez",
+  "description": "Ana Díez’s rarely screened debut explores a turbulent period in Spanish and Basque history through two old friends, one returning to a home he no longer recognises, the other who never left.",
+  "runtime": "94 min",
+  "format": ""
  }
 }
