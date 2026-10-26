@@ -568,5 +568,29 @@
   "description": "The fierce and funny five-star play returns to the big screen. Sam Mendes (The Lehman Trilogy) directs Mark Gatiss in an Olivier Award-winning performance as John Gielgud. 1964: Richard Burton (Johnny Flynn), newly married to Elizabeth Taylor (Tuppence Middleton), is set to play the title role in an experimental new Broadway production of Hamlet under Gielgud’s exacting direction. But as rehearsals progress, two ages of theatre collide and the collaboration between actor and director soon threatens to unravel. From multi-award-winning writer Jack Thorne (Adolescence), this acclaimed production was filmed live during its sold-out London run in 2023.",
   "runtime": "180 min",
   "format": ""
+ },
+ "https://www.peckhamplex.london/film/wicker": {
+  "director": "Alex Huston Fischer, Eleanor Wilson",
+  "description": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbors, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
+  "runtime": "105 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/arnie-barney": {
+  "director": "Sean Heuston",
+  "description": "In the midst of a severe drought during the hottest summer the meadow has ever faced, streams are drying up, grass is brittle, and the once-bustling insect metropolis teeters on the brink of chaos. For the ants in Captain Pantz’s platoon, the mission is clear: find water and save the community. But there’s one unexpected twist - the hilariously inept Arnie and Barney have decided to tackle the problem themselves. Determined to find water for the meadow and impress their captain, they abandon their post to seek a water source. But what begins as a simple quest quickly spirals into a grand adventure, when the pair encounter a crafty caterpillar mob boss hoarding stolen water, and Hypnita, a scheming mosquito with hypnotic eyes and a thirst for control. As the stakes rise, Arnie and Barney mount a daring rescue to free their platoon from the villains’ grip and restore water to the meadow, hoping that with a mix of luck, chaos, and well-meaning blunders, they can save the day and become the heroes they always dreamed they’d be.",
+  "runtime": "77 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/in-the-shadows": {
+  "director": "Anthony Wonke",
+  "description": "IN THE SHADOWS is based on the truly inspirational story of Ramla Ali, a Somali refugee who, without her family’s knowledge, became the first Somali British Boxing Champion. Presented by @civicstudios and Affine Films, IN THE SHADOWS is directed by double Emmy and triple BAFTA-winning director Anthony Wonke and written by Ursula Rani Sarma. BAFTA-winning Jasmine Jobson plays the lead role of Ramla Ali, with Finn Cole as her husband, Richard Moore, and Gershwyn Eustache Jnr as Clinton, Ramla’s coach. Other key Somali cast members include Hodan Yusuf, Suhayla Ahmed, Roda Asha Aden, Mustafa Aden, Moe Hashim and Samater Ahmed.",
+  "runtime": "117 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/godzilla-minus-zero": {
+  "director": "Takashi Yamazaki",
+  "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+  "runtime": "135 min",
+  "format": ""
  }
 }
