@@ -1420,6 +1420,11 @@
 "format": "DCP",
 "runtime": "103 min"
 },
+"https://metrograph.com/film/9999003805-sibyl/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
 "https://metrograph.com/film/9999003820-hugo-3d-screening/": {
 "description": "",
 "director": "",
@@ -1471,6 +1476,11 @@
 "director": "Alfred Hitchcock",
 "format": "4K DCP",
 "runtime": "99 min"
+},
+"https://metrograph.com/film/9999004248-benedetta/": {
+"description": "",
+"director": "",
+"runtime": ""
 },
 "https://metrograph.com/film/9999004396-2046/": {
 "description": "A sort-of sequel to Wong\u2019s Days of Being Wild and In the Mood for Love, the \u201960s-set 2046 revisits Tony Leung Chiu-wai\u2019s Chow, now a suave science-fiction writer, to chronicle his various affairs with women (including Faye Wong, Zhang Ziyi, and Gong Li), acting as distractions now that his true love, Mrs. Chen (Maggie Cheung, seen in flashback), has disappeared. Intercutting scenes from Chow\u2019s footloose life\u2014several of these taking place on subsequent Christmas Eves\u2014with scenes from his novel-in-progress, set in the titular year, it\u2019s a film of voluptuous melancholy. Part of Like the Wind: Lensed by Christopher Doyle",
@@ -2011,7 +2021,17 @@
 "director": "",
 "runtime": ""
 },
+"https://metrograph.com/film/9999005080-members-only-preview-all-of-a-sudden/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
 "https://metrograph.com/film/9999005081-playback/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005082-in-bed-with-victoria/": {
 "description": "",
 "director": "",
 "runtime": ""
@@ -2062,6 +2082,11 @@
 "runtime": ""
 },
 "https://metrograph.com/film/9999005093-memento/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005094-other-peoples-children/": {
 "description": "",
 "director": "",
 "runtime": ""
