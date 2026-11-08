@@ -4017,32 +4017,6 @@
     "director": ""
   },
   {
-    "title": "Desert Gold",
-    "date": "2026-11-08",
-    "time": "10:00 AM",
-    "format": "35mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4257?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "description": "Chet Kasedon is after the Indians hidden gold mine but Chief Moya will not reveal it's location. He has also hired mining engineers Gale and Mortimer to locate the mine. When Gale sees Kasedon's cruelty to Moya, he switches sides.",
-    "runtime": "58 min",
-    "director": "",
-    "city": "LA"
-  },
-  {
-    "title": "NAZA",
-    "date": "2026-11-08",
-    "time": "10:15 AM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18319/",
-    "city": "London",
-    "description": "NAZA (15) is the new release from Yuval Abraham & Rachel Szor, directors of the acclaimed No Other Land. Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians. A Guardian produced documentary, NAZA (15) premiered at Venice Film Festival, taking home the Special Jury Prize after receiving the longest ovation in the event\u2019s history. Its title comes from an acronym used euphemistically by Israeli intelligence to denote expected civilian casualties in an airstrike.",
-    "runtime": "77 min",
-    "director": "Yuval Abraham, Rachel Szor"
-  },
-  {
     "title": "Birds of War",
     "date": "2026-11-08",
     "time": "10:35 AM",
@@ -4108,19 +4082,6 @@
     "director": "Sam Yates"
   },
   {
-    "title": "Members' Screening: La Bola Negra (15) (AD)",
-    "date": "2026-11-08",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/la-bola-negra",
-    "city": "London",
-    "description": "A genre-defying queer epic spanning generations, inspired by the legacy of beloved Spanish poet and playwright Federico Garc\u00eda Lorca.",
-    "runtime": "155 min",
-    "director": "Javier Ambrossi, Javier Calvo"
-  },
-  {
     "title": "Maya, Give Me a Title",
     "date": "2026-11-08",
     "time": "11:00 AM",
@@ -4145,19 +4106,6 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "Kubo and the Two Strings",
-    "date": "2026-11-08",
-    "time": "12:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4823334/",
-    "description": "Vidiots and LAIKA invite you to a special free screening of the heroic animated adventure Kubo and the Two Strings !",
-    "runtime": "102 min",
-    "director": "Travis Knight",
-    "city": "LA"
   },
   {
     "title": "Next/Gen Champions Roundtable",
@@ -4186,32 +4134,6 @@
     "city": "LA"
   },
   {
-    "title": "Relaxed Screening: Sense and Sensibility (U)",
-    "date": "2026-11-08",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/relaxed-screening-sense-and-sensibility",
-    "city": "London",
-    "description": "An irresistible new take on Jane Austen \u2019s iconic Sense and Sensibility : a charming, witty and deeply relatable story of love and sisterhood, starring Daisy Edgar-Jones and Esm\u00e9 Creed-Miles .",
-    "runtime": "132 min",
-    "director": "Georgia Oakley"
-  },
-  {
-    "title": "Whisper of the Heart",
-    "date": "2026-11-08",
-    "time": "12:00 PM",
-    "format": "4K DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628250",
-    "city": "London",
-    "description": "Discover the brilliance of this heartwarming coming-of-age classic from the legendary Studio Ghibli, creators of My Neighbour Totoro and the Academy Award\u00ae-winning Spirited Away. A chance encounter with a mysterious cat sends Shizuku, a girl with her head in the clouds, on a quest for her true talent. Together with Seiji, a boy determined to follow his dreams, and enchanted by The Baron, an antique cat figurine who guides her to listen to the whispers of her heart, Shizuku embarks on a life-changing adventure that takes her beyond the boundaries of her imagination. Based on a screenplay and storyboards from Hayao Miyazaki, WHISPER OF THE HEART is a precious gem in the Studio Ghibli catalogue, directed by veteran animator Yoshifumi Kondo.",
-    "runtime": "111 min",
-    "director": "Yoshifumi Kond\u00f4"
-  },
-  {
     "title": "The General",
     "date": "2026-11-08",
     "time": "12:00 PM",
@@ -4223,45 +4145,6 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "Possible Love",
-    "date": "2026-11-08",
-    "time": "12:15 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84810/85092",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "The 7th Voyage of Sinbad",
-    "date": "2026-11-08",
-    "time": "12:15 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627894",
-    "city": "London",
-    "description": "When a princess is shrunken by an evil wizard, Sinbad must undertake a quest to an island of monsters to cure her and prevent a war.",
-    "runtime": "88 min",
-    "director": "Nathan Juran"
-  },
-  {
-    "title": "NAZA",
-    "date": "2026-11-08",
-    "time": "12:15 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18320/",
-    "city": "London",
-    "description": "NAZA (15) is the new release from Yuval Abraham & Rachel Szor, directors of the acclaimed No Other Land. Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians. A Guardian produced documentary, NAZA (15) premiered at Venice Film Festival, taking home the Special Jury Prize after receiving the longest ovation in the event\u2019s history. Its title comes from an acronym used euphemistically by Israeli intelligence to denote expected civilian casualties in an airstrike.",
-    "runtime": "77 min",
-    "director": "Yuval Abraham, Rachel Szor"
   },
   {
     "title": "Birds of War",
@@ -4277,19 +4160,6 @@
     "director": "Janay Boulos, Abd Alkader Habak"
   },
   {
-    "title": "Forgotten Island",
-    "date": "2026-11-08",
-    "time": "12:20 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84354?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "When two best friends are sucked through a magical portal they find themselves menaced by a dangerous creature and in danger of losing the memories that bond them together.",
-    "runtime": "109 min",
-    "director": "Joel Crawford, Januel Mercado"
-  },
-  {
     "title": "On The Road",
     "date": "2026-11-08",
     "time": "12:30 PM",
@@ -4301,45 +4171,6 @@
     "description": "\u2018Veneno\u2019, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets \u2018Mu\u00f1eco\u2019, a hard-edged driver who keeps to himself. He convinces Mu\u00f1eco to take him deep into the hyper-masculine world of long-haul trucking across the north of Mexico. As they travel together and an unexpected intimacy builds between them, shadows from Veneno\u2019s past resurface, putting both their lives at risk. Regular engagement begins Wed, Oct 28 \u2013 showtimes to be announced.",
     "runtime": "103 min",
     "director": "David Pablos"
-  },
-  {
-    "title": "Fatherland",
-    "date": "2026-11-08",
-    "time": "12:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84774/85134",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "Monster Mia",
-    "date": "2026-11-08",
-    "time": "12:40 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84356?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "All her life, Mia (12) has not only felt out of place in her town, she has felt out of place in her own family. Her twin sister, Marie, is the picture-perfect Primrose girl \u2013 permanently dressed in pink and puppy obsessed. Mia, on the other hand, loves skateboarding, quirky clothes, and her scruffy pet rat, Quentin. After one too many problems at school, the Primrose headmistress transfers Mia to the mysterious Rotwood Academy to work on her behavior. Rotwood is nothing like Primrose. It\u2019s dark, bat-infested, and it gives Mia the creeps. The place looks more like a castle than a school. And that\u2019s not even the craziest part. At Rotwood, the students are... monsters! This must be a mistake. Monsters and humans do NOT get along. Mia can\u2019t let anyone at Rotwood know she\u2019s a human or she could be in serious trouble. Her only option is to convince everyone that she\u2019s a monster, too until she can get the heck out of that creepy school. As time goes on, Mia begins to realize that her monster classmates aren\u2019t so different from her former human classmates. She even finds some friends who take her under their wing. Paprika is a vampire and Oskar is a... well, Oskar\u2019s head keeps fall- ing off. Mia has finally found a place where she belongs. But things aren\u2019t all sunshine and roses at her new monster school. Vice Principal Van Vlad has a particular disdain for humans and Mia has a feeling he\u2019s plotting something dreadful.",
-    "runtime": "82 min",
-    "director": "Verena Fels"
-  },
-  {
-    "title": "Double Indemnity",
-    "date": "2026-11-08",
-    "time": "1:00 pm",
-    "format": "35mm",
-    "venue": "Brain Dead Studios",
-    "venue_short": "BrainDead",
-    "url": "https://studios.wearebraindead.com/purchase/1452387/",
-    "description": "All time noir hits hard on the Los Angeles streets with incredible sunglasses. Murder is a tough business, and guess what! nothing goes well. A milestone film, get into it.",
-    "runtime": "107 min",
-    "director": "Billy Wilder",
-    "city": "LA"
   },
   {
     "title": "Simon Raymonde Presents DEAD MEN DON'T WEAR PLAID",
@@ -4368,32 +4199,6 @@
     "director": "Ron Howard"
   },
   {
-    "title": "Once Upon a Time in Harlem",
-    "date": "2026-11-08",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84703/85106",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "Tad and the Magic Lamp",
-    "date": "2026-11-08",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84352?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A family of archeologists find a magic lamp that sends them back in time in this animated fantasy comedy adventure.",
-    "runtime": "94 min",
-    "director": "Enrique Gato"
-  },
-  {
     "title": "The Spy Who Came in from theCold",
     "date": "2026-11-08",
     "time": "1:00 PM",
@@ -4418,58 +4223,6 @@
     "description": "",
     "runtime": "120 min",
     "director": "Alex Thompson, Kelly O'Sullivan"
-  },
-  {
-    "title": "Ghosts: The Possession of Button House",
-    "date": "2026-11-08",
-    "time": "1:15 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84357?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Three friends attempt to communicate with the spirits occupying a haunted house, and become embroiled in a supernatural adventure.",
-    "runtime": "97 min",
-    "director": "Simon Hynd"
-  },
-  {
-    "title": "The Devils",
-    "date": "2026-11-08",
-    "time": "1:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/the-devils",
-    "city": "London",
-    "description": "Censored for more than half a century, Ken Russell\u2019s visionary masterpiece returns to the big screen fully restored in 4K and cut to Russell\u2019s direction \u2013 the first publicly released version of the film as intended by the filmmaker. Unveiled at the 79th Cannes Film Festival, the definitive version arrives 55 years after the film\u2019s original release. An enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, Ken Russell\u2019s The Devils is a prescient epic of obsession and corruption. Inspired by the true story of 17th-century priest Urbain Grandier, accused of bewitching a convent of nuns, the film lays bare the collusion of church and state through a searing vision of religious persecution, collective hysteria and institutional corruption. In addition to powerhouse performances from Reed and Redgrave, Ken Russell\u2019s The Devils showcases the stunning work of artists at the peak of their craft: Academy Award-winning cinematographer David Watkin ( Out of Africa , Chariots of Fire ); editor Michael Bradsell ( Local Hero , Jabberwocky ); and visual artist Derek Jarman ( Jubilee , Caravaggio ), whose work as production designer marked his feature film debut.",
-    "runtime": "107 min",
-    "director": "Ken Russell"
-  },
-  {
-    "title": "George Michael: The Faith Tour",
-    "date": "2026-11-08",
-    "time": "1:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84143?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Shot at the iconic Palais Omnisports de Paris-Bercy during the European leg of the Faith Tour in 1988, the film captures a turning point that transformed George Michael from a global superstar into a singular, era-defining artist, whose influence continues to reverberate across music, fashion, and culture today. George Michael: The Faith Tour invites audiences to experience the tour as it was meant to be seen and heard. Directed by longtime collaborators Andy Morahan and David Austin, this once lost film has been meticulously restored and remastered, revealing George\u2019s original vision with breathtaking clarity and power. The result is an intimate yet explosive glimpse of an artist in complete command of his voice and stagecraft. A triumph in archival filmmaking, the film transforms footage assembled from a 14-camera shoot captured on 35mm film over two nights, into an extraordinary cinematic event. George Michael: The Faith Tour is a celebration of ambition and fearless artistry at its peak, and a moment when the then 24-year-old George Michael changed the course of his career. This global theatrical event invites audiences to rediscover the power and joy of George Michael in full flight. George Michael: The Faith Tour will open with an original short film by Mary McCartney, titled \u2018Finding Faith\u2019, offering an intimate introduction contextualising the tour\u2019s cultural significance, through a sensitive and cinematic lens. In George\u2019s own words, the film features voiceover from an unheard interview alongside unseen images captured by legendary American photographer Herb Ritts, and behind-the-scenes footage of the Faith music video.",
-    "runtime": "113 min",
-    "director": "David Austin, Andrew Morahan"
-  },
-  {
-    "title": "Wicker",
-    "date": "2026-11-08",
-    "time": "1:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84355?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbors, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "runtime": "105 min",
-    "director": "Alex Huston Fischer, Eleanor Wilson"
   },
   {
     "title": "Mat\u00edas Pi\u00f1eiro presents Hermia & Helena",
@@ -4524,32 +4277,6 @@
     "director": "Lee Chang-dong"
   },
   {
-    "title": "Imamura: Profound Desires of the Gods",
-    "date": "2026-11-08",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/imamura-profound-desires-of-the-gods",
-    "city": "London",
-    "description": "Set on the fictional island of Kurage which, as an islander sings throughout the film, is said to have been forged by discarded objects thrown by incestuous brother and sister gods, Imamura\u2019s final fiction film for almost a decade builds upon many of the obsessions that characterised his work throughout the 60s, namely the clash between the primitive and the civilized. At the heart of the film sits both the Futori family, outcast from the rest of the islands inhabitants due a variety of indiscretions, ranging from incest to infidelity, improper fishing practices to mental instability, and Kariya, a Tokyo engineer sent to the island to oversee the opening of a Sugar manufacturing facility. From its lush tropical forests to its shining turquoise seas, all captured in mesmerising technicolor, Kurage appears to be an island paradise. However under its paradisiacal surface Kariya quickly discovers that the island is not only teeming with the animals and insects Imamura regularly trains his camera upon - but also with deep rooted superstitions, privation, and duplicities. Despite his attempts to complete his work, Kariya finds himself engulfed by the primal urges of the Futori family, and as the months pass under the beating sun, he slowly finds himself drawn into their way of life. Profound Desires of the Gods expands the obsessions that had animated the first decade of Imamura\u2019s work to his largest canvas yet and in the island of Kurage (Okinawa in reality) he finds the means to examine the entire strata of a society from its messy familial dramas to its political machinations. However, the film is by no means an exercise in intellectual study, whilst Imamura\u2019s famous anthropological outlook is ever-present, its blood, flesh, and feeling that sits at its heart. A history of Japan made myth, Imamura traces the evolution of a nation from the agrarian to the industrial, the primitive to the modern, but all the while taking great pains to remind us that no matter how things change our foundations are as desirous and ritualistic as ever.",
-    "runtime": "172 min",
-    "director": "Sh\u014dhei Imamura"
-  },
-  {
-    "title": "Wild Horse Nine",
-    "date": "2026-11-08",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/film/wild-horse-nine/",
-    "city": "London",
-    "description": "Set in 1973, during the US\u2019s attempt to overthrow the Chilean government, a hitman for the US government with connections to the JFK assassination suddenly realizes that his own people have put a hit on him to cover up the mess.",
-    "runtime": "117 min",
-    "director": "Martin McDonagh"
-  },
-  {
     "title": "Le Corset (Iron Boy)",
     "date": "2026-11-08",
     "time": "2:00 PM",
@@ -4589,32 +4316,6 @@
     "director": "Yuval Abraham, Rachel Szor"
   },
   {
-    "title": "Wild Horse Nine",
-    "date": "2026-11-08",
-    "time": "2:15 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18321/",
-    "city": "London",
-    "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone's trip to this remote paradise sideways.",
-    "runtime": "117 min",
-    "director": "Martin McDonagh"
-  },
-  {
-    "title": "La Bola Negra (15) (AD)",
-    "date": "2026-11-08",
-    "time": "2:20 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/la-bola-negra",
-    "city": "London",
-    "description": "A genre-defying queer epic spanning generations, inspired by the legacy of beloved Spanish poet and playwright Federico Garc\u00eda Lorca.",
-    "runtime": "155 min",
-    "director": "Javier Ambrossi, Javier Calvo"
-  },
-  {
     "title": "Soul Patrol",
     "date": "2026-11-08",
     "time": "2:25 PM",
@@ -4626,19 +4327,6 @@
     "description": "DOC NYC SELECTS, the in-person, ongoing screening series that serves as an extension of DOC NYC\u2019s annual fall festival, returns for a one-night-only final 2026 event on September 15th at IFC Center with the NYC PREMIERE of the Sundance-winning film SOUL PATROL. SOUL PATROL uncovers a hidden chapter of American military history by focusing on the Vietnam War\u2019s first Black special ops team, an elite unit operating deep behind enemy lines. With unprecedented access to this once-secretive group of African-American veterans, director J.M. Harper reconstructs their journey with an immediacy rarely seen in Vietnam War storytelling, using raw Super 8 footage, photographs, and audio recordings from their personal archives. Opening on the war\u2019s 50th anniversary, the surviving members reunite in a hotel that becomes a surreal liminal space, where memory, brotherhood, and unresolved trauma collide. As the men reflect on their experiences, the film interrogates the contradictions of fighting for freedom abroad while facing inequality at home. Winner of the Directing Award for U.S. Documentary at the Sundance Film Festival, Soul Patrol is not just a war story, but a reckoning \u2013 an intimate portrait of survival, memory, and the enduring cost of war on those asked to fight it. The screening will be followed by an on-stage conversation with filmmaker J.M. Harper.",
     "runtime": "100 min",
     "director": "J.M. Harper"
-  },
-  {
-    "title": "Ken Russell's The Devils: The Director's Cut",
-    "date": "2026-11-08",
-    "time": "2:25 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/film/31617501/ken-russells-the-devils-the-directors-cut",
-    "city": "London",
-    "description": "Censored for over half a century, Ken Russell\u2019s film returns in a landmark director\u2019s cut reconstruction that reveals the full power of his original vision. Inspired by the true story of 17th-century priest Urbain Grandier, accused of bewitching a convent of nuns, The Devils lays bare the collusion of church and state through a searing vision of religious persecution, collective hysteria and institutional corruption. The restoration many believed would never happen reaffirms Russell\u2019s incendiary masterpiece as among the most overwhelming and uncompromising achievements in British cinema. Assembled from original camera negative, this 4k restoration is Ken Russell\u2019s 2004 preferred edit. Picture and sound restoration by Warner Bros. Post Production Creative Services, Water Tower Color and Warner Bros. Sound.",
-    "runtime": "114 min",
-    "director": "Ken Russell"
   },
   {
     "title": "Next Steps: From a Short to a Feature",
@@ -4665,71 +4353,6 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "TENTACLES",
-    "date": "2026-11-08",
-    "time": "2:30 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/809",
-    "city": "London",
-    "description": "Something enormous is stirring beneath the California surf. As swimmers and sailors vanish, a reporter and a marine expert uncover a threat with eight arms, an appetite for tourists and no respect for the summer season.\nJohn Huston, Shelley Winters and Henry Fonda lend improbable Hollywood grandeur to this gloriously wayward Italian creature feature. Ovidio G. Assonitis answers JAWS with a giant octopus, sunlit coastal menace and Stelvio Cipriani\u2019s irresistible score: aquatic exploitation with a cast far too distinguished to stay safely on shore.",
-    "runtime": "104 min",
-    "director": "Ovidio G. Assonitis"
-  },
-  {
-    "title": "Godzilla Minus Zero",
-    "date": "2026-11-08",
-    "time": "2:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84363?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-    "runtime": "135 min",
-    "director": "Takashi Yamazaki"
-  },
-  {
-    "title": "Wild Horse Nine (15) (AD)",
-    "date": "2026-11-08",
-    "time": "2:40 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/wild-horse-nine",
-    "city": "London",
-    "description": "Two eccentric CIA agents ( John Malkovich and Sam Rockwell ) await orders on Easter Island, on the cusp of yet another military coup in Martin McDonagh 's latest dark comedy.",
-    "runtime": "118 min",
-    "director": "Martin McDonagh"
-  },
-  {
-    "title": "All That Jazz",
-    "date": "2026-11-08",
-    "time": "2:45 PM",
-    "format": "4K DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628292",
-    "city": "London",
-    "description": "When he is not planning for his upcoming stage musical or working on his Hollywood film, choreographer/director Joe Gideon (Roy Scheider) is popping pills and sleeping with a seemingly endless line of women. The physical and mental stress begins to take a toll on the ragged perfectionist. Soon, he must decide whether or not his non-stop work schedule and hedonistic lifestyle are worth risking his life. The film is a semi-autobiographical tale written and directed by the legendary Bob Fosse.",
-    "runtime": "122 min",
-    "director": "Bob Fosse"
-  },
-  {
-    "title": "I Play Rocky",
-    "date": "2026-11-08",
-    "time": "2:45 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84359?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A struggling actor with a partially paralyzed face and a speech impediment writes a script that a big movie studio wants to buy, but he refuses to sell it unless he gets to play the lead. Turning down an offer of life-changing money, he instead works for pennies to get the movie made with himself in the starring role. The movie becomes the biggest box office hit of 1976, notching ten Oscar nominations and winning Best Picture. The true story of the making of the iconic movie Rocky.",
-    "runtime": "128 min",
-    "director": "Peter Farrelly"
   },
   {
     "title": "Chicago",
@@ -4771,19 +4394,6 @@
     "city": "LA"
   },
   {
-    "title": "Brick",
-    "date": "2026-11-08",
-    "time": "3:30 pm",
-    "format": "DCP",
-    "venue": "Brain Dead Studios",
-    "venue_short": "BrainDead",
-    "url": "https://studios.wearebraindead.com/purchase/1452388/",
-    "description": "For those who prefer their \u201cdark\u201d and \u201cbroody\u201d with a side of milk and cookies, BRICK is the first\u00a0 neo-noir whodunit from writer-director and KNIVES OUT mastermind, Rian Johnson. Joseph Gordon Levitt is Brendan Frye, a loner and high-school Sam Spade, who knows all the angles but can\u2019t make sense of the picture when his ex-girlfriend is found dead. In his search for the truth, he\u2019ll wind his way through cliques he previously avoided to trade barbs with cheerleaders who give a \u201cD\u201d for danger on the way to uncover the mysterious \u201cPin.\u201d Featuring a veritable who\u2019s who of \u201800s Hollywood, including Lukas Haas, Nora Zehetner, Emilie de Ravin and Megan Goode, BRICK is as much a hard-boiled pulp homage as it is a BUGSY MALONE for the \u201cForever 21\u201d-set.",
-    "runtime": "110 min",
-    "director": "Rian Johnson",
-    "city": "LA"
-  },
-  {
     "title": "THE BATTLE OF TUNTENHAUS",
     "date": "2026-11-08",
     "time": "3:30 PM",
@@ -4810,32 +4420,6 @@
     "director": ""
   },
   {
-    "title": "Fatherland (12A) (AD)",
-    "date": "2026-11-08",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/fatherland",
-    "city": "London",
-    "description": "In post-war Germany, a father and daughter navigate political tensions and personal tragedies on an emotional road trip.",
-    "runtime": "82 min",
-    "director": "Pawe\u0142 Pawlikowski"
-  },
-  {
-    "title": "Onwards and Sideways",
-    "date": "2026-11-08",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84360?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Tony Evans is deputy head of a primary school. Emma Kent is a musician and composer, and single mother of two daughters. Neither knows the other. until a startling encounter changes the course of their lives. On the same morning, these two are simultaneously confronted with a diagnosis of Parkinson\u2019s Disease. This film is the story of Tony and Emma - a friendship which unfolds unexpectedly. A story of humour and emotion, of challenge and bravado, of music and dance - transcending the assumptions of a little understood condition, and triumphing over the odds to find joy, release and love. A powerful, life-affirming British drama from Academy Award-nominated Director John Madden (Shakespeare in Love, The Best Exotic Marigold Hotel), Onwards and Sideways stars BAFTA Award-winner Rhys Ifans (Inheritance, House of the Dragon), Academy Award-nominee Laura Linney (Ozark, Love Actually), Monica Dolan (Mr Bates vs The Post Office, Sherwood), and Rory Kinnear (The Diplomat, The Lord of the Rings: Rings of Power).",
-    "runtime": "115 min",
-    "director": "John Madden"
-  },
-  {
     "title": "Trauma Or, Monsters All (Open Captioning)",
     "date": "2026-11-08",
     "time": "3:35 PM",
@@ -4847,32 +4431,6 @@
     "description": "Please note that there are additional showtimes of TRAUMA OR, MONSTERS ALL that screen without open captions (on-screen display of dialogue and sounds). For those showtimes, click here. Following HABIT, DEPRAVED and BLACKOUT, this final creature feature from indie horror legend Fessenden centers around a writer who, while investigating her town\u2019s dark past, stirs up fears about lurking monsters. \u201c Trauma came about very organically. The concept was to take the monsters we\u2019ve come to know intimately from three previous films and to observe them from the outside. So I chose a new protagonist. This raised questions of how we see, judge, and talk about each other and so it became my meditation on identity politics. Intentionally or not my movies have become a chronicle of American dysfunction as seen through the lens of gothic horror.\u201d \u2013 Larry Fessenden, director Additional showtimes for Nov 4 \u2013 10 to be announced.",
     "runtime": "119 min",
     "director": "Larry Fessenden"
-  },
-  {
-    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "date": "2026-11-08",
-    "time": "3:40 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84430?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The new adventure sees the residents of Mossy Bottom Farm looking forward to Halloween - until the clumsy Farmer trashes the Flock's beloved pumpkin patch. When Shaun turns mad scientist to fix the problem, things rapidly spiral out of control, leading to a wild beast roaming the woods.",
-    "runtime": "80 min",
-    "director": "Steve Cox, Matthew Walker"
-  },
-  {
-    "title": "Ghosts: The Possession of Button House",
-    "date": "2026-11-08",
-    "time": "3:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84361?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Three friends attempt to communicate with the spirits occupying a haunted house, and become embroiled in a supernatural adventure.",
-    "runtime": "97 min",
-    "director": "Simon Hynd"
   },
   {
     "title": "HER WEDDING NIGHT",
@@ -4899,32 +4457,6 @@
     "description": "Please note that there are additional showtimes of MOUSE that screen without open captions (on-screen display of dialogue and sounds). For those showtimes, click here . It\u2019s 2002, and best friends Minnie and Callie are heading into their senior year of high school, with Minnie long living in the protective shadow of the charismatic and admired Callie. When their friendship is suddenly upended at the start of the summer, Minnie struggles to define her own identity and forms a complicated relationship with Callie\u2019s poised, attentive mother, pulling her further from her own chaotic home.",
     "runtime": "120 min",
     "director": "Alex Thompson, Kelly O'Sullivan"
-  },
-  {
-    "title": "Raise the Red Lantern",
-    "date": "2026-11-08",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/raise-the-red-lantern",
-    "city": "London",
-    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father's death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Zhang Yimou\u2019s masterpiece Raise the Red Lantern has been fully restored in 4K.",
-    "runtime": "125 min",
-    "director": "Zhang Yimou"
-  },
-  {
-    "title": "Wicker",
-    "date": "2026-11-08",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84362?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbors, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "runtime": "105 min",
-    "director": "Alex Huston Fischer, Eleanor Wilson"
   },
   {
     "title": "Bridge of Spies",
@@ -4992,19 +4524,6 @@
     "director": ""
   },
   {
-    "title": "La Bola Negra",
-    "date": "2026-11-08",
-    "time": "4:30 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18322/",
-    "city": "London",
-    "description": "Explores what it means to be gay throughout different eras, focusing on \"three existences\" that are connected through themes of sexuality, desire, pain, and inheritance.",
-    "runtime": "159 min",
-    "director": "Javier Calvo, Javier Ambrossi"
-  },
-  {
     "title": "WILD HORSE NINE",
     "date": "2026-11-08",
     "time": "4:30 PM",
@@ -5057,19 +4576,6 @@
     "director": ""
   },
   {
-    "title": "Primetime",
-    "date": "2026-11-08",
-    "time": "5:00 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18323/",
-    "city": "London",
-    "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-    "runtime": "109 min",
-    "director": "Lance Oppenheim"
-  },
-  {
     "title": "Women and the World: DOVZHENKO. FIRST LOOK",
     "date": "2026-11-08",
     "time": "5:00 PM",
@@ -5081,19 +4587,6 @@
     "description": "Odesa, 1926. As Ukrainian cinema begins to find its voice, young artist Oleksandr Dovzhenko arrives in the city to make his first film. Dreaming of cinema as an art form rather than a tool of propaganda, Dovzhenko soon finds himself in conflict with a system determined to control artistic expression...",
     "runtime": "100 min",
     "director": "Kostiantyn Konovalov"
-  },
-  {
-    "title": "Wicker",
-    "date": "2026-11-08",
-    "time": "5:00 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/83034",
-    "city": "London",
-    "description": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbors, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "runtime": "105 min",
-    "director": "Alex Huston Fischer \u2022 Eleanor Wilson"
   },
   {
     "title": "Das getr\u00e4umte Abenteuer (The DreamedAdventure)",
@@ -5109,110 +4602,6 @@
     "director": "Valeska Grisebach"
   },
   {
-    "title": "One Flew Over The Cuckoo's Nest",
-    "date": "2026-11-08",
-    "time": "5:10 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/film/2187938/one-flew-over-the-cuckoos-nest",
-    "city": "London",
-    "description": "Adapted from Ken Kesey\u2019s novel, the film centres on Randle McMurphy (Nicholson), a convict who simulates mental illness in the hope that a transfer to psychiatric hospital might ensure his early release. But he hasn\u2019t bargained for the rigid regimen of Nurse Ratched (Louise Fletcher, also superb), who dislikes his disruptive \u2014 though he\u2019d say liberating \u2014 effect on the ward. Inspired casting (Danny DeVito, Brad Dourif and Christopher Lloyd are among the patients) and Forman\u2019s naturalistic direction lend authenticity to the proceedings, so that the film succeeds both as anti-authoritarian parable and as an affecting reminder of the psychiatric practices of the past.",
-    "runtime": "134 min",
-    "director": "Milos Forman"
-  },
-  {
-    "title": "Wild Horse Nine (15) (AD)",
-    "date": "2026-11-08",
-    "time": "5:15 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/wild-horse-nine",
-    "city": "London",
-    "description": "Two eccentric CIA agents ( John Malkovich and Sam Rockwell ) await orders on Easter Island, on the cusp of yet another military coup in Martin McDonagh 's latest dark comedy.",
-    "runtime": "118 min",
-    "director": "Martin McDonagh"
-  },
-  {
-    "title": "Wildwood",
-    "date": "2026-11-08",
-    "time": "5:20 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84358?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Portland-set story follows Prue McKeel, who enters an enchanted wonderland when her baby brother Mac is taken by a murder of crows into the forest\u2019s depths.",
-    "runtime": "132 min",
-    "director": "Travis Knight"
-  },
-  {
-    "title": "Doc'n'Roll FF: You Fuckers Figure It Out: A Jason Molina Story + Q&A",
-    "date": "2026-11-08",
-    "time": "5:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "92 min",
-    "director": ""
-  },
-  {
-    "title": "Primetime (15) (AD)",
-    "date": "2026-11-08",
-    "time": "5:30 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/primetime",
-    "city": "London",
-    "description": "A triumphantly unsettling Robert Pattinson embodies Chris Hansen, host of the 2000s hit To Catch a Predator who sets out to make television history.",
-    "runtime": "109 min",
-    "director": "Lance Oppenheim"
-  },
-  {
-    "title": "Fallen Angels",
-    "date": "2026-11-08",
-    "time": "5:30 PM",
-    "format": "4K DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628293",
-    "city": "London",
-    "description": "An assassin goes through obstacles as he attempts to escape his violent lifestyle despite the opposition of his partner, who is secretly attracted to him.",
-    "runtime": "99 min",
-    "director": "Wong Kar Wai"
-  },
-  {
-    "title": "THE RED QUEEN KILLS SEVEN TIMES",
-    "date": "2026-11-08",
-    "time": "5:30 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/810",
-    "city": "London",
-    "description": "A family curse says the Red Queen returns every hundred years to take seven lives. When a crimson-cloaked killer begins stalking the people around a fashion-house heiress, old rivalries and a disputed inheritance make the legend horribly useful.\nBarbara Bouchet and Marina Malfatti lead Emilio P. Miraglia\u2019s sumptuous collision of Gothic mystery and couture-world giallo. Bruno Nicolai\u2019s score slips beneath images of castles, cameras and lethal elegance. Every gorgeous surface conceals another motive in a whodunit dressed to kill.",
-    "runtime": "98 min",
-    "director": "Emilio P. Miraglia"
-  },
-  {
-    "title": "Godzilla Minus Zero",
-    "date": "2026-11-08",
-    "time": "5:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84369?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-    "runtime": "135 min",
-    "director": "Takashi Yamazaki"
-  },
-  {
     "title": "Naza",
     "date": "2026-11-08",
     "time": "5:35 PM",
@@ -5224,32 +4613,6 @@
     "description": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel\u2019s calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them. We made this film out of a sense of obligation to use our position as Israeli filmmakers and journalists to examine the systems behind the mass killing of Palestinian civilians for which our country is responsible. While filming members of Israel\u2019s military on rooftops at night in Tel Aviv over the past three years, we found ourselves asking the very questions that were asked by our grandparents\u2019 generation and throughout the 20th century: how does one group of people allow the total dehumanization of another? What do the inner workings of such a system look like? Many of the revelations in the film were published almost immediately as we learned of them, in the months following the October 7th attacks, by The Guardian (one of NAZA \u2019s producers), in collaboration with reporting partners +972 Magazine and Local Call. The film lets us explore something deeper than we could in our investigative journalism alone: not only the words being said but also those that are not said, the silence. It is up to all of us to break that silence. \u2014 Yuval Abraham and Rachel Szor",
     "runtime": "80 min",
     "director": "Yuval Abraham, Rachel Szor"
-  },
-  {
-    "title": "NAZA (15)",
-    "date": "2026-11-08",
-    "time": "5:35 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/naza",
-    "city": "London",
-    "description": "Cloaked in darkness on the rooftops of Tel Aviv, Israeli journalist Yuval Abraham conducts shattering one-on-one interviews with Israeli soldiers and intelligence personnel.",
-    "runtime": "80 min",
-    "director": "Yuval Abraham, Rachel Szor"
-  },
-  {
-    "title": "I Play Rocky",
-    "date": "2026-11-08",
-    "time": "5:45 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84364?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A struggling actor with a partially paralyzed face and a speech impediment writes a script that a big movie studio wants to buy, but he refuses to sell it unless he gets to play the lead. Turning down an offer of life-changing money, he instead works for pennies to get the movie made with himself in the starring role. The movie becomes the biggest box office hit of 1976, notching ten Oscar nominations and winning Best Picture. The true story of the making of the iconic movie Rocky.",
-    "runtime": "128 min",
-    "director": "Peter Farrelly"
   },
   {
     "title": "The Gorgon",
@@ -5265,19 +4628,6 @@
     "director": "Terence Fisher"
   },
   {
-    "title": "Nirvanna: the Band the Show the Movie the Commentary Track the Screening",
-    "date": "2026-11-08",
-    "time": "6:00 pm",
-    "format": "DCP",
-    "venue": "Brain Dead Studios",
-    "venue_short": "BrainDead",
-    "url": "https://dice.fm/partner/tickets/event/vvpp2g-nirvanna-the-band-the-show-the-movie-the-commentary-track-screening-8th-nov-brain-dead-studios-los-angeles-tickets?dice_id=10914216&dice_channel=web&dice_tags=organic&dice_campaign=Brain+Dead+Amusements+LLC&dice_feature=mio_marketing&_branch_match_id=1644066407311623944&utm_source=web&utm_campaign=Brain+Dead+Amusements+LLC&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1fdLTDNNM01OMkw2MLSvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQCHAyYEOwAAAA%3D%3D",
-    "description": "Come experience a screening of Matt Johnson, Jay McCarrol and Production Team\u2019s Commentary Track over the film for the real fedora heads",
-    "runtime": "100 min",
-    "director": "Matt Johnson",
-    "city": "LA"
-  },
-  {
     "title": "Once Upon a Time in Harlem",
     "date": "2026-11-08",
     "time": "6:00 PM",
@@ -5291,19 +4641,6 @@
     "director": ""
   },
   {
-    "title": "Onwards and Sideways",
-    "date": "2026-11-08",
-    "time": "6:10 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84367?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Tony Evans is deputy head of a primary school. Emma Kent is a musician and composer, and single mother of two daughters. Neither knows the other. until a startling encounter changes the course of their lives. On the same morning, these two are simultaneously confronted with a diagnosis of Parkinson\u2019s Disease. This film is the story of Tony and Emma - a friendship which unfolds unexpectedly. A story of humour and emotion, of challenge and bravado, of music and dance - transcending the assumptions of a little understood condition, and triumphing over the odds to find joy, release and love. A powerful, life-affirming British drama from Academy Award-nominated Director John Madden (Shakespeare in Love, The Best Exotic Marigold Hotel), Onwards and Sideways stars BAFTA Award-winner Rhys Ifans (Inheritance, House of the Dragon), Academy Award-nominee Laura Linney (Ozark, Love Actually), Monica Dolan (Mr Bates vs The Post Office, Sherwood), and Rory Kinnear (The Diplomat, The Lord of the Rings: Rings of Power).",
-    "runtime": "115 min",
-    "director": "John Madden"
-  },
-  {
     "title": "Everytime",
     "date": "2026-11-08",
     "time": "6:15 PM",
@@ -5315,19 +4652,6 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "Ghosts: The Possession of Button House",
-    "date": "2026-11-08",
-    "time": "6:20 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84366?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Three friends attempt to communicate with the spirits occupying a haunted house, and become embroiled in a supernatural adventure.",
-    "runtime": "97 min",
-    "director": "Simon Hynd"
   },
   {
     "title": "What\u2019s Up, Doc? (IB Tech Print)",
@@ -5367,19 +4691,6 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "Wicker",
-    "date": "2026-11-08",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84368?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbors, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "runtime": "105 min",
-    "director": "Alex Huston Fischer, Eleanor Wilson"
   },
   {
     "title": "Avedon (Open Captioning)",
@@ -5661,7 +4972,7 @@
     "format": "DCP",
     "venue": "Electric Cinema Portobello",
     "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/82971",
+    "url": "https://www.electriccinema.co.uk/film/wild-horse-nine/",
     "city": "London",
     "description": "Set in 1973, during the US\u2019s attempt to overthrow the Chilean government, a hitman for the US government with connections to the JFK assassination suddenly realizes that his own people have put a hit on him to cover up the mess.",
     "runtime": "117 min",
@@ -5718,19 +5029,6 @@
     "description": "Their marriage is already a war zone. Picking up a stranger gives it an armed third party. A bitter couple\u2019s journey across the American West becomes a savage contest over stolen money, control and who will get out alive.\nFranco Nero, Corinne Cl\u00e9ry and David Hess form a combustible triangle in Pasquale Festa Campanile\u2019s sun-baked road thriller. Ennio Morricone\u2019s score gives the landscape a seductive pulse while the cramped caravan becomes increasingly poisonous. An exploitation film whose most uncomfortable idea is that the stranger may not be the only monster aboard.",
     "runtime": "104 min",
     "director": "Pasquale Festa Campanile"
-  },
-  {
-    "title": "Lost Highway",
-    "date": "2026-11-08",
-    "time": "8:30 pm",
-    "format": "DCP",
-    "venue": "Brain Dead Studios",
-    "venue_short": "BrainDead",
-    "url": "https://studios.wearebraindead.com/purchase/1452389/",
-    "description": "Bill Pullman can hardly believe when creepo Robert Blake prank calls him at home\u2026 and\u00a0 then he turns into some other guy while sitting in a jail cell\u2026 What? Marilyn Manson is here too. Amazing late \u201990s Lynch weirdness at his sleaziest.",
-    "runtime": "134 min",
-    "director": "David Lynch",
-    "city": "LA"
   },
   {
     "title": "Once Upon a Time in Harlem",
@@ -5954,32 +5252,6 @@
     "director": "John Wilson"
   },
   {
-    "title": "Out of the Past",
-    "date": "2026-11-08",
-    "time": "7:00 pm\n\t\n\t\t\tAdvisory",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4823339/",
-    "description": "",
-    "runtime": "97 min",
-    "director": "Jacques Tourneur",
-    "city": "LA"
-  },
-  {
-    "title": "Primetime",
-    "date": "2026-11-08",
-    "time": "7:30 pm\n\t\n\t\t\tAdvisory",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4823676/",
-    "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
-    "runtime": "110 min",
-    "director": "Lance Oppenheim",
-    "city": "LA"
-  },
-  {
     "title": "Parent & Baby Screening: La Bola Negra (15) (AD)",
     "date": "2026-11-09",
     "time": "10:30 AM",
@@ -6090,7 +5362,7 @@
     "format": "DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628302",
+    "url": "https://princecharlescinema.com/film/31617501/ken-russells-the-devils-the-directors-cut",
     "city": "London",
     "description": "Censored for over half a century, Ken Russell\u2019s film returns in a landmark director\u2019s cut reconstruction that reveals the full power of his original vision. Inspired by the true story of 17th-century priest Urbain Grandier, accused of bewitching a convent of nuns, The Devils lays bare the collusion of church and state through a searing vision of religious persecution, collective hysteria and institutional corruption. The restoration many believed would never happen reaffirms Russell\u2019s incendiary masterpiece as among the most overwhelming and uncompromising achievements in British cinema. Assembled from original camera negative, this 4k restoration is Ken Russell\u2019s 2004 preferred edit. Picture and sound restoration by Warner Bros. Post Production Creative Services, Water Tower Color and Warner Bros. Sound.",
     "runtime": "114 min",
@@ -8118,11 +7390,11 @@
     "format": "DCP",
     "venue": "ICA",
     "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
+    "url": "https://www.ica.art/films/pereda-together",
     "city": "London",
-    "description": "",
+    "description": "Gabino and his partner Luisa \u2013 played by Pereda\u2019s repertory collaborators from the theatre troupe Lagartijas Tiradas al Sol \u2013 are unsettled by the intrusion of Paco, Gabino\u2019s cousin, into their cramped Mexico City apartment. First, their dog Junto goes missing; then the tap begins to run only boiling water, and the refrigerator breaks down. Pereda captures both the existential ennui of the young trio\u2014their disaffected drift\u2014and the enervating power dynamics that gradually emerge between them. A tense \u201cWhat\u2019s for dinner?\u201d sequence hints at the vestige of larger relationship squabbles, while the scalding tap pushes the film toward a literal boiling point. Just as the drama begins to feel hemmed in by domestic friction, Pereda opens it back out onto the pastoral, arriving at a sharp but tender vision of the disorientation of youth, the precarious see-saw of kinship, and the impulse to search for something new together.",
     "runtime": "73 min",
-    "director": ""
+    "director": "Nicol\u00e1s Pereda"
   },
   {
     "title": "Wild Horse Nine",
@@ -8352,11 +7624,11 @@
     "format": "DCP",
     "venue": "ICA",
     "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
+    "url": "https://www.ica.art/films/pereda-perpetual-motion",
     "city": "London",
-    "description": "",
+    "description": "Gabino lives with his mother in Mexico City and makes a precarious living working as a mover with his friend Paco, ferrying other people\u2019s possessions from one home to another. Between jobs, arguments over money and the lingering search for his missing dog, the pair remain constantly occupied while somehow getting nowhere. Pereda turns this modest premise into a dryly funny study of labour, class and frustrated mobility, finding an absurd circularity in the routines of everyday life. Movement is everywhere \u2013 furniture changes hands, people come and go, stories are told and retold \u2013 yet meaningful change remains tantalisingly out of reach. Featuring Pereda regulars Gabino Rodr\u00edguez and Teresa S\u00e1nchez, Perpetual Motion brings into focus the repetitions, ambiguities and everyday rituals that would continue to reverberate throughout his cinema.",
     "runtime": "86 min",
-    "director": ""
+    "director": "Nicol\u00e1s Pereda"
   },
   {
     "title": "La Bola Negra (15) (AD)",
@@ -10822,7 +10094,7 @@
     "format": "DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627844",
+    "url": "https://princecharlescinema.com/film/1300018/the-love-witch",
     "city": "London",
     "description": "\u201cShe Loved Men... To Death.\u201d Addicted to love, Elaine \u2013 the love witch \u2013 casts love and sex spells to seek her perfect man, finding herself with more dead bodies than she does a long-term partner\u2026 A visually-striking, humorous and thought-provoking film by the continuously playful Anna Biller, The Love Witch has caused immense debate by audiences through its feminist themes. Visually drenched in 1970s fashion and cinematography, the film\u00b4s style feels as magical as the love witch herself. The Love Witch is featured as part of MANEATERS, a season exploring the female supernatural on screen. The season is presented with the National Film and Television School\u2019s Film Studies, Programming and Curation MA.",
     "runtime": "120 min",
@@ -10887,11 +10159,11 @@
     "format": "DCP",
     "venue": "ICA",
     "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
+    "url": "https://www.ica.art/films/imamura-bar-hostess",
     "city": "London",
-    "description": "",
+    "description": "The film's title really says it all, the first of several documentaries Imamura made in the 1970s is a History of Postwar Japan as Told by a Bar Hostess . The history in question is for the most part told orally, as Madame Onboro recounts her life alternately juxtaposed and paralleled with the grand events and movements of Japanese society during those years by Imamura, and accompanied in places by archival material mostly in the form of newsreel reportage. Framed as a series of bar lounge conversations between Madame Onboro and Imamura himself, who takes on the role of genuinely inquisitive interviewer, Madame Onboro guides us through a life marked by the joys and tribulations of raising children, the tireless work of running a business, and the endless search for a suitable partner. As compelling and rich as Imamura\u2019s best fictional portraits, albeit decidedly more essayistic, History of Postwar Japan as Told by a Bar Hostess revels in Imamura\u2019s unquenchable love for honest, unconventional, and often unruly characters. In the role of interviewer that love shines through brighter than ever, as he probes good naturedly into Madame Onboro\u2019s life, character, and thinking, to understand who she is, as best he can.",
     "runtime": "105 min",
-    "director": ""
+    "director": "Sh\u014dhei Imamura"
   },
   {
     "title": "Short Films by William Greaves 1959-1974 (15)",
@@ -13180,19 +12452,6 @@
     "description": "A pair of enchanted earrings offers Valerie protection as her village fills with vampires, corrupt holy men and relatives who will not stay in the same shape. Growing up here means discovering that familiar faces can become the strangest masks.\nJaromil Jire\u0161 makes a fairy tale from the collision of innocence, fear and awakening. Jan Cur\u00edk\u2019s luminous images and Lubo\u0161 Fi\u0161er\u2019s haunting score give the Czech New Wave fantasy the vividness of a half-remembered dream. Beautiful and deeply uncanny, it draws folk horror out of sunlight as readily as shadow.\nPresented by Softcore Cinema Club.",
     "runtime": "77 min",
     "director": "Jaromil Jire\u0161"
-  },
-  {
-    "title": "Stop Making Sense",
-    "date": "2026-11-14",
-    "time": "9:45 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4815625/",
-    "description": "We\u2019re bringing the party back to the big screen to kick off our birthday weekend like rock stars! Join us for one of our favorite cinematic/musical experiences with a reprise of legendary Director Jonathan Demme\u2019s ecstatic musical masterpiece Stop Making Sense. Filmed at the Hollywood Pantages Theater in December 1983, this fascinating piece of musical memorabilia showcases the Talking Heads boundless creativity and showmanship on stage and off. A one-of-a-kind experience, join Vidiots as we revel in 41 years of Vidiots and the 42nd anniversary of this groundbreaking film, newly remastered in a stunning 4K presentation.",
-    "runtime": "88 min",
-    "director": "Jonathan Demme",
-    "city": "LA"
   },
   {
     "title": "BENEDETTA",
@@ -17517,7 +16776,7 @@
     "format": "DCP",
     "venue": "Electric Cinema Portobello",
     "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/film/you-can-see-everything/",
+    "url": "https://www.electriccinema.co.uk/tickets/83055",
     "city": "London",
     "description": "Certificate: 15 TBC\r\n\r\nThirty-four days before she\u2019s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a sceptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss..",
     "runtime": "174 min",
@@ -17756,6 +17015,19 @@
     "runtime": "93 min",
     "director": "Michael Rubbo",
     "city": "LA"
+  },
+  {
+    "title": "JLG Unmade: British Sounds and Images",
+    "date": "2026-11-22",
+    "time": "12:30 PM",
+    "format": "DCP",
+    "venue": "ICA",
+    "venue_short": "ICA",
+    "url": "https://www.ica.art/films",
+    "city": "London",
+    "description": "",
+    "runtime": "144 min",
+    "director": ""
   },
   {
     "title": "Russell Goldman Presents GOLD DIGGERS OF 1933",
@@ -20949,11 +20221,11 @@
     "format": "DCP",
     "venue": "ICA",
     "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
+    "url": "https://www.ica.art/films/pereda-together",
     "city": "London",
-    "description": "",
+    "description": "Gabino and his partner Luisa \u2013 played by Pereda\u2019s repertory collaborators from the theatre troupe Lagartijas Tiradas al Sol \u2013 are unsettled by the intrusion of Paco, Gabino\u2019s cousin, into their cramped Mexico City apartment. First, their dog Junto goes missing; then the tap begins to run only boiling water, and the refrigerator breaks down. Pereda captures both the existential ennui of the young trio\u2014their disaffected drift\u2014and the enervating power dynamics that gradually emerge between them. A tense \u201cWhat\u2019s for dinner?\u201d sequence hints at the vestige of larger relationship squabbles, while the scalding tap pushes the film toward a literal boiling point. Just as the drama begins to feel hemmed in by domestic friction, Pereda opens it back out onto the pastoral, arriving at a sharp but tender vision of the disorientation of youth, the precarious see-saw of kinship, and the impulse to search for something new together.",
     "runtime": "73 min",
-    "director": ""
+    "director": "Nicol\u00e1s Pereda"
   },
   {
     "title": "A Separation",
@@ -23140,6 +22412,19 @@
     "director": ""
   },
   {
+    "title": "Off-Circuit: Everything Else is Noise",
+    "date": "2026-12-03",
+    "time": "4:45 PM",
+    "format": "DCP",
+    "venue": "ICA",
+    "venue_short": "ICA",
+    "url": "https://www.ica.art/films",
+    "city": "London",
+    "description": "",
+    "runtime": "71 min",
+    "director": ""
+  },
+  {
     "title": "Gremlins",
     "date": "2026-12-03",
     "time": "6:00 PM",
@@ -23185,11 +22470,11 @@
     "format": "DCP",
     "venue": "ICA",
     "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
+    "url": "https://www.ica.art/films/pereda-perpetual-motion",
     "city": "London",
-    "description": "",
+    "description": "Gabino lives with his mother in Mexico City and makes a precarious living working as a mover with his friend Paco, ferrying other people\u2019s possessions from one home to another. Between jobs, arguments over money and the lingering search for his missing dog, the pair remain constantly occupied while somehow getting nowhere. Pereda turns this modest premise into a dryly funny study of labour, class and frustrated mobility, finding an absurd circularity in the routines of everyday life. Movement is everywhere \u2013 furniture changes hands, people come and go, stories are told and retold \u2013 yet meaningful change remains tantalisingly out of reach. Featuring Pereda regulars Gabino Rodr\u00edguez and Teresa S\u00e1nchez, Perpetual Motion brings into focus the repetitions, ambiguities and everyday rituals that would continue to reverberate throughout his cinema.",
     "runtime": "86 min",
-    "director": ""
+    "director": "Nicol\u00e1s Pereda"
   },
   {
     "title": "MONO NO AWARE XX: EAST FACING WEST",
@@ -23254,19 +22539,6 @@
     "city": "NYC",
     "description": "",
     "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "Off-Circuit: Everything Else is Noise",
-    "date": "2026-12-03",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "71 min",
     "director": ""
   },
   {
@@ -25314,11 +24586,11 @@
     "format": "DCP",
     "venue": "ICA",
     "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
+    "url": "https://www.ica.art/films/uk-premiere-for-the-plasma",
     "city": "London",
-    "description": "",
+    "description": "At a remote house on the coast of Maine, Helen monitors the surrounding woodland for forest fires. She believes the surveillance footage also allows her to predict movements in global financial markets. When her friend Charlie arrives to assist her, their shared task becomes an increasingly uncertain exercise in seeing and believing. By turns comic and disquieting, For the Plasma makes perception itself the basis of a speculative fiction, asking what happens when the same image offers radically different accounts of the world.",
     "runtime": "94 min",
-    "director": ""
+    "director": "Bingham Bryant & Kyle Molzan"
   },
   {
     "title": "Nirvanna The Band The Show Season 2",
