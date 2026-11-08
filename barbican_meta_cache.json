@@ -754,5 +754,11 @@
   "description": "A genre-defying queer epic spanning generations, inspired by the legacy of beloved Spanish poet and playwright Federico García Lorca.",
   "runtime": "155 min",
   "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2027/event/family-film-club-ponyo": {
+  "director": "Hayao Miyazaki",
+  "description": "This fantastical story follows Sôsuke, a five-year old boy who discovers a magical goldfish princess called Ponyo.",
+  "runtime": "101 min",
+  "format": ""
  }
 }
