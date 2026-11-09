@@ -610,5 +610,35 @@
   "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
   "runtime": "109 min",
   "format": ""
+ },
+ "https://www.peckhamplex.london/film/ebenezer-a-christmas-carol": {
+  "director": "Ti West",
+  "description": "A thrilling ghost story set in Dickens' London, following one man's supernatural journey to face his past, present and future as he fights for a second chance at redemption.",
+  "runtime": "116 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/wild-horse-nine": {
+  "director": "Martin McDonagh",
+  "description": "Set in 1973, during the US’s attempt to overthrow the Chilean government, a hitman for the US government with connections to the JFK assassination suddenly realizes that his own people have put a hit on him to cover up the mess.",
+  "runtime": "117 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/think-of-england": {
+  "director": "Richard Hawkins",
+  "description": "Richard Hawkins’ powerful, award-winning period drama. Six disparate souls are sent on a secret government mission in 1943 to make propaganda pornographic films for the boys on the frontline. Each with a price to pay, the group bears witness to the toll of war far away from the battlefield.",
+  "runtime": "102 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/festive-fun-with-peppa-cinema-experience": {
+  "director": "",
+  "description": "Join Peppa Pig and her family at the cinema for a festive big-screen experience as they celebrate Evie’s first Christmas! Share in the excitement of Christmas Day as the family of five reflect on treasured seasonal memories. From snowy adventures and festive plays to decorating the tree, this hour-long cinema experience brings together 7 classic festive-themed Peppa Pig episodes and 4 brand-new songs that little ones can dance and sing along to. Filled with laughter, music and heartwarming moments, this special cinema experience is the perfect family day out during the Christmas season. So grab your hats, scarves and gloves and enjoy the magic of the season along with your favourite piggies at the Festive Fun with Peppa Cinema Experience!",
+  "runtime": "58 min",
+  "format": ""
+ },
+ "https://www.peckhamplex.london/film/the-hunger-games-sunrise-on-the-reaping": {
+  "director": "John Patton Ford",
+  "description": "The Hunger Games: Sunrise on the Reaping will revisit the world of Panem twenty-four years before the events of The Hunger Games, starting on the morning of the reaping of the Fiftieth Hunger Games, also known as the Second Quarter Quell.",
+  "runtime": "158 min",
+  "format": ""
  }
 }
