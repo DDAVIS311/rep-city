@@ -3213,7 +3213,7 @@
   {
     "title": "RAISE THE RED LANTERN",
     "date": "2026-11-09",
-    "time": "8:20 PM",
+    "time": "8:30 PM",
     "format": "DCP",
     "venue": "Film Forum",
     "venue_short": "FilmForum",
@@ -3276,19 +3276,6 @@
     "director": "Yuval Abraham, Rachel Szor"
   },
   {
-    "title": "Primetime",
-    "date": "2026-11-10",
-    "time": "10:45 AM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18336/",
-    "city": "London",
-    "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-    "runtime": "109 min",
-    "director": "Lance Oppenheim"
-  },
-  {
     "title": "Possible Love",
     "date": "2026-11-10",
     "time": "11:00 AM",
@@ -3300,45 +3287,6 @@
     "description": "",
     "runtime": "164 min",
     "director": "Lee Chang-dong"
-  },
-  {
-    "title": "Wild Horse Nine",
-    "date": "2026-11-10",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18337/",
-    "city": "London",
-    "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone's trip to this remote paradise sideways.",
-    "runtime": "117 min",
-    "director": "Martin McDonagh"
-  },
-  {
-    "title": "Naza",
-    "date": "2026-11-10",
-    "time": "12:05 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/naza",
-    "city": "London",
-    "description": "Directed by Yuval Abraham and Rachel Szor, two of the co-directors of the 2024 Oscar-winning documentary No Other Land , Naza reveals the systems behind Israel\u2019s bombing of Gaza and its mass killing of Palestinian civilians. Winner of Special Jury Prize at the 2026 Venice Film Festival.",
-    "runtime": "80 min",
-    "director": "Yuval Abraham"
-  },
-  {
-    "title": "Possible Love",
-    "date": "2026-11-10",
-    "time": "12:15 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84810/85094",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
   },
   {
     "title": "Birds of War",
@@ -3367,19 +3315,6 @@
     "director": "Zhang Yimou"
   },
   {
-    "title": "The Holy Mountain",
-    "date": "2026-11-10",
-    "time": "12:20 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628308",
-    "city": "London",
-    "description": "In a corrupt, greed-fueled world, a powerful alchemist leads a messianic character and seven materialistic figures to the Holy Mountain, where they hope to achieve enlightenment.",
-    "runtime": "115 min",
-    "director": "Alejandro Jodorowsky"
-  },
-  {
     "title": "FATHERLAND",
     "date": "2026-11-10",
     "time": "12:25 PM",
@@ -3404,19 +3339,6 @@
     "description": "\u2018Veneno\u2019, a rebellious young drifter, frequents roadside diners where he sleeps with truck drivers. Urgently needing a ride, he meets \u2018Mu\u00f1eco\u2019, a hard-edged driver who keeps to himself. He convinces Mu\u00f1eco to take him deep into the hyper-masculine world of long-haul trucking across the north of Mexico. As they travel together and an unexpected intimacy builds between them, shadows from Veneno\u2019s past resurface, putting both their lives at risk. Regular engagement begins Wed, Oct 28 \u2013 showtimes to be announced.",
     "runtime": "103 min",
     "director": "David Pablos"
-  },
-  {
-    "title": "Fatherland",
-    "date": "2026-11-10",
-    "time": "12:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84774/85142",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
   },
   {
     "title": "Avedon",
@@ -3445,32 +3367,6 @@
     "director": ""
   },
   {
-    "title": "Once Upon a Time in Harlem",
-    "date": "2026-11-10",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84703/85114",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "Possible Love",
-    "date": "2026-11-10",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/possible-love",
-    "city": "London",
-    "description": "Possible Love follows the intertwined relationship of two married couples facing different paths and hidden desires. Mi-ok (Jeon Do-yeon) lives quietly with her laid-off husband Ho-seok (Sul Kyung-gu) and their young son Cheol until a funeral brings them into the orbit of Ye-ji (Cho Yeo-jeong), a documentary filmmaker chronicling laid-off workers, and her husband Sang-woo (Zo In-sung) \u2013 a couple whose affluent lifestyle stands in sharp contrast to their own. When Mi-ok agrees to be filmed, she grows close to Ye-ji, and finds herself uneasily drawn to the unreadable Sang-woo. As their worlds collide, fractures begin to appear in their daily existence. Marking his first release in eight years, highly acclaimed director Lee Chang-dong ( Burning , Poetry , Secret Sunshine ) brings his signature nuance to Possible Love , capturing shifting emotions, conflicts, and contrasting outlooks that shape these relationships.",
-    "runtime": "165 min",
-    "director": "Lee Chang-dong"
-  },
-  {
     "title": "Mouse",
     "date": "2026-11-10",
     "time": "1:15 PM",
@@ -3497,19 +3393,6 @@
     "director": "Zhang Yimou"
   },
   {
-    "title": "Wild Horse Nine",
-    "date": "2026-11-10",
-    "time": "1:30 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18338/",
-    "city": "London",
-    "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone's trip to this remote paradise sideways.",
-    "runtime": "117 min",
-    "director": "Martin McDonagh"
-  },
-  {
     "title": "P.J./Harper",
     "date": "2026-11-10",
     "time": "2:00 PM",
@@ -3521,19 +3404,6 @@
     "runtime": "230 min",
     "director": "",
     "city": "LA"
-  },
-  {
-    "title": "Fatherland",
-    "date": "2026-11-10",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/fatherland",
-    "city": "London",
-    "description": "The new offering from Oscar-winner Pawel Pawlikowski Fatherland centres on the relationship between the Nobel Prize-winning writer Thomas Mann and his daughter Erika, actress, writer and rally driver. In the summer of 1949, at the height of the Cold War, father and daughter embark on a challenging and emotional road trip in a black Buick taking them across a Germany in ruins \u2013 from US dominated Frankfurt to Soviet controlled Weimar. Returning home after sixteen years of exile in the US, Thomas Mann has to face not only a divided fatherland, but also deep fracture within his own family.",
-    "runtime": "82 min",
-    "director": "Pawel Pawlikowski"
   },
   {
     "title": "Naza",
@@ -3575,19 +3445,6 @@
     "director": ""
   },
   {
-    "title": "Fatherland",
-    "date": "2026-11-10",
-    "time": "2:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84774/85143",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Trauma Or, Monsters All (Open Captioning)",
     "date": "2026-11-10",
     "time": "2:50 PM",
@@ -3614,45 +3471,6 @@
     "director": "Zhang Yimou"
   },
   {
-    "title": "Akira",
-    "date": "2026-11-10",
-    "time": "3:10 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627783",
-    "city": "London",
-    "description": "Iconic and game-changing, AKIRA is the definitive anime masterpiece! Katsuhiro Otomo's landmark cyberpunk classic obliterated the boundaries of Japanese animation and forced the world to look into the future. AKIRA's arrival shattered traditional thinking, creating space for future generations of ground-breaking movies. July, 1988 - World War III breaks loose. Then, in 2019, in megalopolis Tokyo...As the leader of a group of young robust delinquents, Kaneda spent his nights tearing through the urban wastes, racing his motorbike against rival groups. One night while riding with his gang, his friend Tetsuo suddenly encounters a strange boy - the product of human experimentation and is injured in the ensuing crash. Shortly thereafter, a military squadron appears on the scene to take the boy and Tetsuo away to an army research facility. Determined to free Tetsuo from capture, Kaneda sneaks into the army research lab. However, a regimen of extreme experimental procedures has awakened a new power in his friend, and now he is consumed by madness..",
-    "runtime": "125 min",
-    "director": "Katsuhiro \u00d4tomo"
-  },
-  {
-    "title": "Once Upon a Time in Harlem",
-    "date": "2026-11-10",
-    "time": "3:15 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84703/85115",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "La Bola Negra",
-    "date": "2026-11-10",
-    "time": "3:15 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18339/",
-    "city": "London",
-    "description": "Explores what it means to be gay throughout different eras, focusing on \"three existences\" that are connected through themes of sexuality, desire, pain, and inheritance.",
-    "runtime": "159 min",
-    "director": "Javier Calvo, Javier Ambrossi"
-  },
-  {
     "title": "Fjord",
     "date": "2026-11-10",
     "time": "3:25 PM",
@@ -3666,19 +3484,6 @@
     "director": "Cristian Mungiu"
   },
   {
-    "title": "Ken Russell's The Devils: The Director's Cut",
-    "date": "2026-11-10",
-    "time": "3:25 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628264",
-    "city": "London",
-    "description": "Censored for over half a century, Ken Russell\u2019s film returns in a landmark director\u2019s cut reconstruction that reveals the full power of his original vision. Inspired by the true story of 17th-century priest Urbain Grandier, accused of bewitching a convent of nuns, The Devils lays bare the collusion of church and state through a searing vision of religious persecution, collective hysteria and institutional corruption. The restoration many believed would never happen reaffirms Russell\u2019s incendiary masterpiece as among the most overwhelming and uncompromising achievements in British cinema. Assembled from original camera negative, this 4k restoration is Ken Russell\u2019s 2004 preferred edit. Picture and sound restoration by Warner Bros. Post Production Creative Services, Water Tower Color and Warner Bros. Sound.",
-    "runtime": "114 min",
-    "director": "Ken Russell"
-  },
-  {
     "title": "Beau Geste",
     "date": "2026-11-10",
     "time": "3:30 PM",
@@ -3690,19 +3495,6 @@
     "runtime": "133 min",
     "director": "",
     "city": "LA"
-  },
-  {
-    "title": "Everytime",
-    "date": "2026-11-10",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84927/85081",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
   },
   {
     "title": "ONCE UPON A TIME IN HARLEM",
@@ -3729,32 +3521,6 @@
     "description": "",
     "runtime": "120 min",
     "director": "Alex Thompson, Kelly O'Sullivan"
-  },
-  {
-    "title": "Raise the Red Lantern",
-    "date": "2026-11-10",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/raise-the-red-lantern",
-    "city": "London",
-    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father's death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Zhang Yimou\u2019s masterpiece Raise the Red Lantern has been fully restored in 4K.",
-    "runtime": "125 min",
-    "director": "Zhang Yimou"
-  },
-  {
-    "title": "The Devils",
-    "date": "2026-11-10",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/the-devils",
-    "city": "London",
-    "description": "Censored for more than half a century, Ken Russell\u2019s visionary masterpiece returns to the big screen fully restored in 4K and cut to Russell\u2019s direction \u2013 the first publicly released version of the film as intended by the filmmaker. Unveiled at the 79th Cannes Film Festival, the definitive version arrives 55 years after the film\u2019s original release. An enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, Ken Russell\u2019s The Devils is a prescient epic of obsession and corruption. Inspired by the true story of 17th-century priest Urbain Grandier, accused of bewitching a convent of nuns, the film lays bare the collusion of church and state through a searing vision of religious persecution, collective hysteria and institutional corruption. In addition to powerhouse performances from Reed and Redgrave, Ken Russell\u2019s The Devils showcases the stunning work of artists at the peak of their craft: Academy Award-winning cinematographer David Watkin ( Out of Africa , Chariots of Fire ); editor Michael Bradsell ( Local Hero , Jabberwocky ); and visual artist Derek Jarman ( Jubilee , Caravaggio ), whose work as production designer marked his feature film debut.",
-    "runtime": "107 min",
-    "director": "Ken Russell"
   },
   {
     "title": "The Invasion",
@@ -3796,19 +3562,6 @@
     "director": "Zhang Yimou"
   },
   {
-    "title": "NAZA",
-    "date": "2026-11-10",
-    "time": "4:15 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18340/",
-    "city": "London",
-    "description": "NAZA (15) is the new release from Yuval Abraham & Rachel Szor, directors of the acclaimed No Other Land. Filmed at night from Tel Aviv rooftops, this investigative documentary examines the civilian casualties of Israel's military operations in Gaza and the systems behind targeted killings of Palestinians. A Guardian produced documentary, NAZA (15) premiered at Venice Film Festival, taking home the Special Jury Prize after receiving the longest ovation in the event\u2019s history. Its title comes from an acronym used euphemistically by Israeli intelligence to denote expected civilian casualties in an airstrike.",
-    "runtime": "77 min",
-    "director": "Yuval Abraham, Rachel Szor"
-  },
-  {
     "title": "FATHERLAND",
     "date": "2026-11-10",
     "time": "4:30 PM",
@@ -3848,32 +3601,6 @@
     "director": "J.M. Harper"
   },
   {
-    "title": "Wildwood",
-    "date": "2026-11-10",
-    "time": "5:20 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84401?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Portland-set story follows Prue McKeel, who enters an enchanted wonderland when her baby brother Mac is taken by a murder of crows into the forest\u2019s depths.",
-    "runtime": "132 min",
-    "director": "Travis Knight"
-  },
-  {
-    "title": "Godzilla Minus Zero",
-    "date": "2026-11-10",
-    "time": "5:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84399?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-    "runtime": "135 min",
-    "director": "Takashi Yamazaki"
-  },
-  {
     "title": "Naza",
     "date": "2026-11-10",
     "time": "5:35 PM",
@@ -3898,32 +3625,6 @@
     "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
     "runtime": "125 min",
     "director": "Zhang Yimou"
-  },
-  {
-    "title": "La Bola Negra (15) (AD)",
-    "date": "2026-11-10",
-    "time": "5:45 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/la-bola-negra",
-    "city": "London",
-    "description": "A genre-defying queer epic spanning generations, inspired by the legacy of beloved Spanish poet and playwright Federico Garc\u00eda Lorca.",
-    "runtime": "155 min",
-    "director": "Javier Ambrossi, Javier Calvo"
-  },
-  {
-    "title": "I Play Rocky",
-    "date": "2026-11-10",
-    "time": "5:45 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84395?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A struggling actor with a partially paralyzed face and a speech impediment writes a script that a big movie studio wants to buy, but he refuses to sell it unless he gets to play the lead. Turning down an offer of life-changing money, he instead works for pennies to get the movie made with himself in the starring role. The movie becomes the biggest box office hit of 1976, notching ten Oscar nominations and winning Best Picture. The true story of the making of the iconic movie Rocky.",
-    "runtime": "128 min",
-    "director": "Peter Farrelly"
   },
   {
     "title": "5 Short Films Supported by the Displacement Film Fund",
@@ -3952,58 +3653,6 @@
     "director": ""
   },
   {
-    "title": "Sunset Boulevard",
-    "date": "2026-11-10",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/film/619980/sunset-boulevard",
-    "city": "London",
-    "description": "An aging silent film queen refuses to accept that her stardom has ended. She hires a young screenwriter to help set up her movie comeback. The screenwriter believes he can manipulate her, but he soon finds out he is wrong. The screenwriters ambivalence about their relationship and her unwillingness to let go leads to a situation of violence, madness, and death.",
-    "runtime": "110 min",
-    "director": "Billy Wilder"
-  },
-  {
-    "title": "Primetime",
-    "date": "2026-11-10",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/82972",
-    "city": "London",
-    "description": "Inspired by true events in 2006, \"To Catch a Predator\" host Chris Hansen sets out to make television history. But when a high-stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare.",
-    "runtime": "109 min",
-    "director": "Lance Oppenheim"
-  },
-  {
-    "title": "Wild Horse Nine (15) (AD)",
-    "date": "2026-11-10",
-    "time": "6:10 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/wild-horse-nine",
-    "city": "London",
-    "description": "Two eccentric CIA agents ( John Malkovich and Sam Rockwell ) await orders on Easter Island, on the cusp of yet another military coup in Martin McDonagh 's latest dark comedy.",
-    "runtime": "118 min",
-    "director": "Martin McDonagh"
-  },
-  {
-    "title": "Onwards and Sideways",
-    "date": "2026-11-10",
-    "time": "6:10 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84397?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Tony Evans is deputy head of a primary school. Emma Kent is a musician and composer, and single mother of two daughters. Neither knows the other. until a startling encounter changes the course of their lives. On the same morning, these two are simultaneously confronted with a diagnosis of Parkinson\u2019s Disease. This film is the story of Tony and Emma - a friendship which unfolds unexpectedly. A story of humour and emotion, of challenge and bravado, of music and dance - transcending the assumptions of a little understood condition, and triumphing over the odds to find joy, release and love. A powerful, life-affirming British drama from Academy Award-nominated Director John Madden (Shakespeare in Love, The Best Exotic Marigold Hotel), Onwards and Sideways stars BAFTA Award-winner Rhys Ifans (Inheritance, House of the Dragon), Academy Award-nominee Laura Linney (Ozark, Love Actually), Monica Dolan (Mr Bates vs The Post Office, Sherwood), and Rory Kinnear (The Diplomat, The Lord of the Rings: Rings of Power).",
-    "runtime": "115 min",
-    "director": "John Madden"
-  },
-  {
     "title": "Everytime",
     "date": "2026-11-10",
     "time": "6:15 PM",
@@ -4017,45 +3666,6 @@
     "director": ""
   },
   {
-    "title": "In the Realm of the Senses",
-    "date": "2026-11-10",
-    "time": "6:15 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628219",
-    "city": "London",
-    "description": "Still censored in its own country, In the Realm of the Senses (Ai no corrida), by Japanese director Nagisa Oshima, remains one of the most controversial films of all time. A graphic portrayal of insatiable sexual desire, Oshima\u2019s film, set in 1936 and based on a true incident, depicts a man and a woman (Tatsuya Fuji and Eiko Matsuda) consumed by a transcendent, destructive love while living in an era of ever-escalating imperialism and governmental control. Less a work of pornography than of politics, In the Realm of the Senses is a brave, taboo-breaking milestone. Content Warning: This film contains scenes of graphic sex and violence. Further information about content and age-appropriateness for specific films can be found on Common Sense Media , IMDb and DoesTheDogDie.com , as well as through general internet searches.",
-    "runtime": "102 min",
-    "director": "Nagisa Oshima"
-  },
-  {
-    "title": "Primetime",
-    "date": "2026-11-10",
-    "time": "6:15 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18341/",
-    "city": "London",
-    "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-    "runtime": "109 min",
-    "director": "Lance Oppenheim"
-  },
-  {
-    "title": "NAZA (15)",
-    "date": "2026-11-10",
-    "time": "6:20 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/naza",
-    "city": "London",
-    "description": "Cloaked in darkness on the rooftops of Tel Aviv, Israeli journalist Yuval Abraham conducts shattering one-on-one interviews with Israeli soldiers and intelligence personnel.",
-    "runtime": "80 min",
-    "director": "Yuval Abraham, Rachel Szor"
-  },
-  {
     "title": "WILD HORSE NINE",
     "date": "2026-11-10",
     "time": "6:20 PM",
@@ -4067,19 +3677,6 @@
     "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebel...",
     "runtime": "117 min",
     "director": "Martin McDonagh"
-  },
-  {
-    "title": "Ghosts: The Possession of Button House",
-    "date": "2026-11-10",
-    "time": "6:20 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84396?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Three friends attempt to communicate with the spirits occupying a haunted house, and become embroiled in a supernatural adventure.",
-    "runtime": "97 min",
-    "director": "Simon Hynd"
   },
   {
     "title": "My Architect",
@@ -4132,58 +3729,6 @@
     "description": "",
     "runtime": "",
     "director": ""
-  },
-  {
-    "title": "LKFF 26: The World of Love",
-    "date": "2026-11-10",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "119 min",
-    "director": ""
-  },
-  {
-    "title": "Pereda: Together",
-    "date": "2026-11-10",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/pereda-together",
-    "city": "London",
-    "description": "Gabino and his partner Luisa \u2013 played by Pereda\u2019s repertory collaborators from the theatre troupe Lagartijas Tiradas al Sol \u2013 are unsettled by the intrusion of Paco, Gabino\u2019s cousin, into their cramped Mexico City apartment. First, their dog Junto goes missing; then the tap begins to run only boiling water, and the refrigerator breaks down. Pereda captures both the existential ennui of the young trio\u2014their disaffected drift\u2014and the enervating power dynamics that gradually emerge between them. A tense \u201cWhat\u2019s for dinner?\u201d sequence hints at the vestige of larger relationship squabbles, while the scalding tap pushes the film toward a literal boiling point. Just as the drama begins to feel hemmed in by domestic friction, Pereda opens it back out onto the pastoral, arriving at a sharp but tender vision of the disorientation of youth, the precarious see-saw of kinship, and the impulse to search for something new together.",
-    "runtime": "73 min",
-    "director": "Nicol\u00e1s Pereda"
-  },
-  {
-    "title": "Wild Horse Nine",
-    "date": "2026-11-10",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18342/",
-    "city": "London",
-    "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone's trip to this remote paradise sideways.",
-    "runtime": "117 min",
-    "director": "Martin McDonagh"
-  },
-  {
-    "title": "Wicker",
-    "date": "2026-11-10",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84398?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbors, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "runtime": "105 min",
-    "director": "Alex Huston Fischer, Eleanor Wilson"
   },
   {
     "title": "Avedon (Open Captioning)",
@@ -4368,32 +3913,6 @@
     "director": "Jacob Hurwitz-Goodman"
   },
   {
-    "title": "Pereda: Perpetual Motion",
-    "date": "2026-11-10",
-    "time": "8:15 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/pereda-perpetual-motion",
-    "city": "London",
-    "description": "Gabino lives with his mother in Mexico City and makes a precarious living working as a mover with his friend Paco, ferrying other people\u2019s possessions from one home to another. Between jobs, arguments over money and the lingering search for his missing dog, the pair remain constantly occupied while somehow getting nowhere. Pereda turns this modest premise into a dryly funny study of labour, class and frustrated mobility, finding an absurd circularity in the routines of everyday life. Movement is everywhere \u2013 furniture changes hands, people come and go, stories are told and retold \u2013 yet meaningful change remains tantalisingly out of reach. Featuring Pereda regulars Gabino Rodr\u00edguez and Teresa S\u00e1nchez, Perpetual Motion brings into focus the repetitions, ambiguities and everyday rituals that would continue to reverberate throughout his cinema.",
-    "runtime": "86 min",
-    "director": "Nicol\u00e1s Pereda"
-  },
-  {
-    "title": "La Bola Negra (15) (AD)",
-    "date": "2026-11-10",
-    "time": "8:15 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/la-bola-negra",
-    "city": "London",
-    "description": "A genre-defying queer epic spanning generations, inspired by the legacy of beloved Spanish poet and playwright Federico Garc\u00eda Lorca.",
-    "runtime": "155 min",
-    "director": "Javier Ambrossi, Javier Calvo"
-  },
-  {
     "title": "RAISE THE RED LANTERN",
     "date": "2026-11-10",
     "time": "8:20 PM",
@@ -4446,19 +3965,6 @@
     "director": ""
   },
   {
-    "title": "The Departed",
-    "date": "2026-11-10",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628266",
-    "city": "London",
-    "description": "To take down South Boston's Irish Mafia, the police send in one of their own to infiltrate the underworld, not realizing the syndicate has done likewise. While an undercover cop curries favor with the mob kingpin, a career criminal rises through the police ranks. But both sides soon discover there's a mole among them.",
-    "runtime": "151 min",
-    "director": "Martin Scorsese"
-  },
-  {
     "title": "PRIMETIME",
     "date": "2026-11-10",
     "time": "8:30 PM",
@@ -4470,45 +3976,6 @@
     "description": "Robert Pattinson steps into the spotlight as To Catch A Predator host Chris Hansen in Lance Oppenheim\u2019s unnerving thriller about justice made for television. America, 2006. Hansen\u2019s televised sting operations promise to expose online predators and make broadcasting history. But as ambition overtakes...",
     "runtime": "109 min",
     "director": "Lance Oppenheim"
-  },
-  {
-    "title": "British Horror Studio Season: Spoiling You",
-    "date": "2026-11-10",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83117?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Introducing a season from the British Horror Studio. An independent British film studio Focusing on Gothic drama and arthouse filmmaking with a distinctive British horror character. Spoiling You is a seductive and deeply unsettling ASMR psychological horror from award-winning filmmaker Megan Tremethick. What begins as a world of soft voices, intimate rituals, and online comfort soon curdles into something far more dangerous, as obsession, identity, and performance collapse into a nightmare of control. Starring Megan Tremethick, Stephen Kerr, and Laurence R. Harvey, Spoiling You blends J-horror unease, internet-age paranoia, and sensual psychological dread into one of The B-Team\u2019s boldest and most disturbing features. Tremethick\u2019s award-winning directorial debut turns the familiar language of online intimacy into a weapon, creating a film that is strange, stylish, uncomfortable, and impossible to shake. https://www.britishhorrorstudio.com/",
-    "runtime": "120 min",
-    "director": ""
-  },
-  {
-    "title": "Godzilla Minus Zero",
-    "date": "2026-11-10",
-    "time": "8:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84404?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
-    "runtime": "135 min",
-    "director": "Takashi Yamazaki"
-  },
-  {
-    "title": "I Play Rocky",
-    "date": "2026-11-10",
-    "time": "8:40 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84400?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A struggling actor with a partially paralyzed face and a speech impediment writes a script that a big movie studio wants to buy, but he refuses to sell it unless he gets to play the lead. Turning down an offer of life-changing money, he instead works for pennies to get the movie made with himself in the starring role. The movie becomes the biggest box office hit of 1976, notching ten Oscar nominations and winning Best Picture. The true story of the making of the iconic movie Rocky.",
-    "runtime": "128 min",
-    "director": "Peter Farrelly"
   },
   {
     "title": "Everytime",
@@ -4678,6 +4145,19 @@
     "description": "A shape-shifting creature made of magical clay haunts Gotham City, alternating between villain and ally of Batman. Multiple tragic figures have taken on the Clayface mantle over the years.",
     "runtime": "108 min",
     "director": "Mike Flanagan"
+  },
+  {
+    "title": "52 PICK-UP (16MM)",
+    "date": "2026-11-10",
+    "time": "9:15 PM",
+    "format": "16mm",
+    "venue": "The Nickel Cinema",
+    "venue_short": "Nickel",
+    "url": "https://thenickel.co.uk/screening/831",
+    "city": "London",
+    "description": "Three blackmailers think a married businessman is an easy payday. Harry Mitchell has other ideas. As their demands turn murderous, he starts learning what frightens each of them\u2014and how to turn one predator against another.\nRoy Scheider and Ann-Margret give this filthy Los Angeles thriller its battered heart. John Frankenheimer brings muscular precision to Elmore Leonard\u2019s world of sleaze, crooked bargains and professional criminals making very amateur mistakes, with John Glover a wonderfully poisonous adversary.\nPresented on 16mm with a reel intermission.\nPresented by Julien Allen.",
+    "runtime": "110 min",
+    "director": "John Frankenheimer"
   },
   {
     "title": "Mouse",
@@ -6578,6 +6058,32 @@
     "director": ""
   },
   {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-12",
+    "time": "12:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
+  },
+  {
+    "title": "RAISE THE RED LANTERN",
+    "date": "2026-11-12",
+    "time": "12:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "city": "NYC",
+    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
+    "runtime": "125 min",
+    "director": "Zhang Yimou"
+  },
+  {
     "title": "Benedetta",
     "date": "2026-11-12",
     "time": "12:20 PM",
@@ -6589,6 +6095,19 @@
     "description": "With this orgiastic immersion in the mystic reveries of a real-life historical figure, the king of the erotic thriller Paul Verhoeven gives the nunsploitation flick a high-art makeover. Elegant, perverse, and teasingly scandalous, Benedetta critiques religious hypocrisy with an impish grin.",
     "runtime": "131 min",
     "director": "Paul Verhoeven"
+  },
+  {
+    "title": "FATHERLAND",
+    "date": "2026-11-12",
+    "time": "12:25 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
   },
   {
     "title": "Fatherland",
@@ -6628,6 +6147,19 @@
     "description": "From world leaders to pop culture icons, and international supermodels, Richard Avedon\u2019s influence helped create the blueprint for our image-driven world. His photographs didn\u2019t just reflect culture, they shaped it. AVEDON traces the life and legacy of an artist who used photography to reinvent the world around him. Drawing on unprecedented access to his personal archives\u2014never-before-seen stills, intimate behind-the-lens footage, and new interviews with his closest collaborators\u2014the film explores how his singular eye both reflected and reshaped the visual language of the 20th century, and why even the most iconic image is only half the story. Additional showtimes for Nov 10-12 to be announced.",
     "runtime": "103 min",
     "director": "Ron Howard"
+  },
+  {
+    "title": "ONCE UPON A TIME IN HARLEM",
+    "date": "2026-11-12",
+    "time": "1:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/once-upon-a-time-in-harlem",
+    "city": "NYC",
+    "description": "August 1972: A reunion of Harlem Renaissance luminaries is held at Duke Ellington\u2019s St. Nicholas Ave. townhouse. Though many of these figures haven\u2019t seen each other in 50 years, sharp memories, vigorous debates, and unsettled scores soon flow through this stunner of a cocktail party, which features (among others): artists Romare Bearden, Aaron Douglas, and Richard Bruce Nugent; composer Eubie Blake; poet Arna Bontemps; photographer James Van Der Zee; and activists Richard B. Moore and Louise Patterson. After organizing and shooting this extraordinary gathering, filmmaker William Greaves (SYMBIOPSYCHOTAXIPLASM: TAKE ONE) was unable to complete the film before his death in 2014. One of the cameramen that day was his son David, who expertly reshaped this never-before-seen, newly-restored footage into \u201ca film for the ages\u2026one of the greatest cinematic works of creative nonfiction that I\u2019ve ever seen.\u201d \u2013 Richard Brody,\u202fThe New Yorker",
+    "runtime": "100 min",
+    "director": ""
   },
   {
     "title": "Sans Soleil",
@@ -6747,6 +6279,32 @@
     "director": "J.M. Harper"
   },
   {
+    "title": "FATHERLAND",
+    "date": "2026-11-12",
+    "time": "2:25 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
+  },
+  {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-12",
+    "time": "2:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
+  },
+  {
     "title": "Fatherland",
     "date": "2026-11-12",
     "time": "2:30 PM",
@@ -6771,6 +6329,19 @@
     "description": "Possible Love follows the intertwined relationship of two married couples facing different paths and hidden desires. Mi-ok (Jeon Do-yeon) lives quietly with her laid-off husband Ho-seok (Sul Kyung-gu) and their young son Cheol until a funeral brings them into the orbit of Ye-ji (Cho Yeo-jeong), a documentary filmmaker chronicling laid-off workers, and her husband Sang-woo (Zo In-sung) \u2013 a couple whose affluent lifestyle stands in sharp contrast to their own. When Mi-ok agrees to be filmed, she grows close to Ye-ji, and finds herself uneasily drawn to the unreadable Sang-woo. As their worlds collide, fractures begin to appear in their daily existence. Marking his first release in eight years, highly acclaimed director Lee Chang-dong ( Burning , Poetry , Secret Sunshine ) brings his signature nuance to Possible Love , capturing shifting emotions, conflicts, and contrasting outlooks that shape these relationships.",
     "runtime": "165 min",
     "director": "Lee Chang-dong"
+  },
+  {
+    "title": "RAISE THE RED LANTERN",
+    "date": "2026-11-12",
+    "time": "3:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "city": "NYC",
+    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
+    "runtime": "125 min",
+    "director": "Zhang Yimou"
   },
   {
     "title": "Once Upon a Time in Harlem",
@@ -6877,6 +6448,19 @@
     "director": "Martin McDonagh"
   },
   {
+    "title": "ONCE UPON A TIME IN HARLEM",
+    "date": "2026-11-12",
+    "time": "3:45 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/once-upon-a-time-in-harlem",
+    "city": "NYC",
+    "description": "August 1972: A reunion of Harlem Renaissance luminaries is held at Duke Ellington\u2019s St. Nicholas Ave. townhouse. Though many of these figures haven\u2019t seen each other in 50 years, sharp memories, vigorous debates, and unsettled scores soon flow through this stunner of a cocktail party, which features (among others): artists Romare Bearden, Aaron Douglas, and Richard Bruce Nugent; composer Eubie Blake; poet Arna Bontemps; photographer James Van Der Zee; and activists Richard B. Moore and Louise Patterson. After organizing and shooting this extraordinary gathering, filmmaker William Greaves (SYMBIOPSYCHOTAXIPLASM: TAKE ONE) was unable to complete the film before his death in 2014. One of the cameramen that day was his son David, who expertly reshaped this never-before-seen, newly-restored footage into \u201ca film for the ages\u2026one of the greatest cinematic works of creative nonfiction that I\u2019ve ever seen.\u201d \u2013 Richard Brody,\u202fThe New Yorker",
+    "runtime": "100 min",
+    "director": ""
+  },
+  {
     "title": "Mouse",
     "date": "2026-11-12",
     "time": "4:00 PM",
@@ -6903,6 +6487,19 @@
     "director": "Zhang Yimou"
   },
   {
+    "title": "FATHERLAND",
+    "date": "2026-11-12",
+    "time": "4:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
+  },
+  {
     "title": "Fatherland",
     "date": "2026-11-12",
     "time": "4:30 PM",
@@ -6913,6 +6510,19 @@
     "city": "NYC",
     "description": "",
     "runtime": "",
+    "director": ""
+  },
+  {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-12",
+    "time": "4:40 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
     "director": ""
   },
   {
@@ -6955,6 +6565,19 @@
     "director": "Takashi Yamazaki"
   },
   {
+    "title": "RAISE THE RED LANTERN",
+    "date": "2026-11-12",
+    "time": "5:40 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "city": "NYC",
+    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
+    "runtime": "125 min",
+    "director": "Zhang Yimou"
+  },
+  {
     "title": "La Bola Negra",
     "date": "2026-11-12",
     "time": "5:40 PM",
@@ -6992,6 +6615,19 @@
     "description": "Inspired by true events in 2006, \"To Catch a Predator\" host Chris Hansen sets out to make television history. But when a high-stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare.",
     "runtime": "109 min",
     "director": "Lance Oppenheim"
+  },
+  {
+    "title": "ONCE UPON A TIME IN HARLEM",
+    "date": "2026-11-12",
+    "time": "6:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/once-upon-a-time-in-harlem",
+    "city": "NYC",
+    "description": "August 1972: A reunion of Harlem Renaissance luminaries is held at Duke Ellington\u2019s St. Nicholas Ave. townhouse. Though many of these figures haven\u2019t seen each other in 50 years, sharp memories, vigorous debates, and unsettled scores soon flow through this stunner of a cocktail party, which features (among others): artists Romare Bearden, Aaron Douglas, and Richard Bruce Nugent; composer Eubie Blake; poet Arna Bontemps; photographer James Van Der Zee; and activists Richard B. Moore and Louise Patterson. After organizing and shooting this extraordinary gathering, filmmaker William Greaves (SYMBIOPSYCHOTAXIPLASM: TAKE ONE) was unable to complete the film before his death in 2014. One of the cameramen that day was his son David, who expertly reshaped this never-before-seen, newly-restored footage into \u201ca film for the ages\u2026one of the greatest cinematic works of creative nonfiction that I\u2019ve ever seen.\u201d \u2013 Richard Brody,\u202fThe New Yorker",
+    "runtime": "100 min",
+    "director": ""
   },
   {
     "title": "Once Upon a Time in Harlem",
@@ -7122,6 +6758,19 @@
     "runtime": "",
     "director": "",
     "city": "LA"
+  },
+  {
+    "title": "FATHERLAND",
+    "date": "2026-11-12",
+    "time": "6:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
   },
   {
     "title": "Fatherland",
@@ -7280,6 +6929,19 @@
     "city": "LA"
   },
   {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-12",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
+  },
+  {
     "title": "POSTCOLONIAL MOTION: TAXIS AND TRAVELOGUES",
     "date": "2026-11-12",
     "time": "7:00 PM",
@@ -7358,6 +7020,19 @@
     "city": "LA"
   },
   {
+    "title": "ONCE UPON A TIME IN HARLEM",
+    "date": "2026-11-12",
+    "time": "8:15 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/once-upon-a-time-in-harlem",
+    "city": "NYC",
+    "description": "August 1972: A reunion of Harlem Renaissance luminaries is held at Duke Ellington\u2019s St. Nicholas Ave. townhouse. Though many of these figures haven\u2019t seen each other in 50 years, sharp memories, vigorous debates, and unsettled scores soon flow through this stunner of a cocktail party, which features (among others): artists Romare Bearden, Aaron Douglas, and Richard Bruce Nugent; composer Eubie Blake; poet Arna Bontemps; photographer James Van Der Zee; and activists Richard B. Moore and Louise Patterson. After organizing and shooting this extraordinary gathering, filmmaker William Greaves (SYMBIOPSYCHOTAXIPLASM: TAKE ONE) was unable to complete the film before his death in 2014. One of the cameramen that day was his son David, who expertly reshaped this never-before-seen, newly-restored footage into \u201ca film for the ages\u2026one of the greatest cinematic works of creative nonfiction that I\u2019ve ever seen.\u201d \u2013 Richard Brody,\u202fThe New Yorker",
+    "runtime": "100 min",
+    "director": ""
+  },
+  {
     "title": "American Theater",
     "date": "2026-11-12",
     "time": "8:15 PM",
@@ -7384,6 +7059,19 @@
     "director": "Javier Ambrossi, Javier Calvo"
   },
   {
+    "title": "RAISE THE RED LANTERN",
+    "date": "2026-11-12",
+    "time": "8:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "city": "NYC",
+    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
+    "runtime": "125 min",
+    "director": "Zhang Yimou"
+  },
+  {
     "title": "CYBERCON: Iggor Cavalera Live Score to Angels Egg (1985)",
     "date": "2026-11-12",
     "time": "8:30 pm",
@@ -7395,6 +7083,19 @@
     "runtime": "71 min",
     "director": "Mamoru Oshii",
     "city": "LA"
+  },
+  {
+    "title": "FATHERLAND",
+    "date": "2026-11-12",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
   },
   {
     "title": "Once Upon a Time in Harlem",
@@ -7839,6 +7540,32 @@
     "director": "Sidney Lumet"
   },
   {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-13",
+    "time": "12:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
+  },
+  {
+    "title": "RAISE THE RED LANTERN",
+    "date": "2026-11-13",
+    "time": "12:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "city": "NYC",
+    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
+    "runtime": "125 min",
+    "director": "Zhang Yimou"
+  },
+  {
     "title": "Fatherland",
     "date": "2026-11-13",
     "time": "12:30 PM",
@@ -7889,6 +7616,19 @@
     "runtime": "120 min",
     "director": "David Lynch",
     "city": "LA"
+  },
+  {
+    "title": "ONCE UPON A TIME IN HARLEM",
+    "date": "2026-11-13",
+    "time": "1:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/once-upon-a-time-in-harlem",
+    "city": "NYC",
+    "description": "August 1972: A reunion of Harlem Renaissance luminaries is held at Duke Ellington\u2019s St. Nicholas Ave. townhouse. Though many of these figures haven\u2019t seen each other in 50 years, sharp memories, vigorous debates, and unsettled scores soon flow through this stunner of a cocktail party, which features (among others): artists Romare Bearden, Aaron Douglas, and Richard Bruce Nugent; composer Eubie Blake; poet Arna Bontemps; photographer James Van Der Zee; and activists Richard B. Moore and Louise Patterson. After organizing and shooting this extraordinary gathering, filmmaker William Greaves (SYMBIOPSYCHOTAXIPLASM: TAKE ONE) was unable to complete the film before his death in 2014. One of the cameramen that day was his son David, who expertly reshaped this never-before-seen, newly-restored footage into \u201ca film for the ages\u2026one of the greatest cinematic works of creative nonfiction that I\u2019ve ever seen.\u201d \u2013 Richard Brody,\u202fThe New Yorker",
+    "runtime": "100 min",
+    "director": ""
   },
   {
     "title": "Fatherland",
@@ -8008,6 +7748,19 @@
     "city": "LA"
   },
   {
+    "title": "FATHERLAND",
+    "date": "2026-11-13",
+    "time": "2:25 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
+  },
+  {
     "title": "La Bola Negra (15) (AD)",
     "date": "2026-11-13",
     "time": "2:25 PM",
@@ -8032,6 +7785,19 @@
     "runtime": "110 min",
     "director": "Kane Parsons",
     "city": "LA"
+  },
+  {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-13",
+    "time": "2:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
   },
   {
     "title": "The Killing of a Sacred Deer",
@@ -8110,6 +7876,19 @@
     "description": "A thrilling ghost story set in Dickens' London, following one man's supernatural journey to face his past, present and future as he fights for a second chance at redemption.",
     "runtime": "116 min",
     "director": "Ti West"
+  },
+  {
+    "title": "RAISE THE RED LANTERN",
+    "date": "2026-11-13",
+    "time": "3:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "city": "NYC",
+    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
+    "runtime": "125 min",
+    "director": "Zhang Yimou"
   },
   {
     "title": "Naza",
@@ -8372,6 +8151,19 @@
     "city": "LA"
   },
   {
+    "title": "FATHERLAND",
+    "date": "2026-11-13",
+    "time": "4:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
+  },
+  {
     "title": "Fatherland",
     "date": "2026-11-13",
     "time": "4:30 PM",
@@ -8409,6 +8201,19 @@
     "description": "All screenings on a new 35mm print of the 4K restoration of the film. An enduring, singular masterpiece of cinema starring Academy Award-winner Vanessa Redgrave and Oliver Reed, KEN RUSSELL\u2019S THE DEVILS is a prescient epic of obsession and corruption \u2013 and a defining work of art from seminal filmmaker Ken Russell. Assembled from the original camera negative, this new 4K restoration presents Ken Russell\u2019s definitive vision of The Devils by referencing the edit he privately constructed in 2004. The film\u2019s sound has been remastered from original English Composite 35mm Mag Film, transferred at 96kHz, plus other original film elements in selected spots as needed. The Picture and Sound restoration was performed by Warner Bros. Post Production Creative Services, Water Tower Color, and Warner Bros. Sound.",
     "runtime": "114 min",
     "director": "Ken Russell"
+  },
+  {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-13",
+    "time": "4:40 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
   },
   {
     "title": "Members Only Preview: All of a Sudden",
@@ -8489,6 +8294,19 @@
     "director": "Javier Ambrossi, Javier Calvo"
   },
   {
+    "title": "RAISE THE RED LANTERN",
+    "date": "2026-11-13",
+    "time": "5:40 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "city": "NYC",
+    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
+    "runtime": "125 min",
+    "director": "Zhang Yimou"
+  },
+  {
     "title": "Wildwood",
     "date": "2026-11-13",
     "time": "5:40 PM",
@@ -8526,6 +8344,19 @@
     "description": "Jason, a fearless sailor and explorer, returns to his home land of Thessaly after a long voyage to claim his rightful throne. He learns, however, that he must first find the magical Golden Fleece. To do so, he must embark on an epic quest fraught with fantastic monsters and terrible perils.",
     "runtime": "104 min",
     "director": "Don Chaffey"
+  },
+  {
+    "title": "ONCE UPON A TIME IN HARLEM",
+    "date": "2026-11-13",
+    "time": "6:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/once-upon-a-time-in-harlem",
+    "city": "NYC",
+    "description": "August 1972: A reunion of Harlem Renaissance luminaries is held at Duke Ellington\u2019s St. Nicholas Ave. townhouse. Though many of these figures haven\u2019t seen each other in 50 years, sharp memories, vigorous debates, and unsettled scores soon flow through this stunner of a cocktail party, which features (among others): artists Romare Bearden, Aaron Douglas, and Richard Bruce Nugent; composer Eubie Blake; poet Arna Bontemps; photographer James Van Der Zee; and activists Richard B. Moore and Louise Patterson. After organizing and shooting this extraordinary gathering, filmmaker William Greaves (SYMBIOPSYCHOTAXIPLASM: TAKE ONE) was unable to complete the film before his death in 2014. One of the cameramen that day was his son David, who expertly reshaped this never-before-seen, newly-restored footage into \u201ca film for the ages\u2026one of the greatest cinematic works of creative nonfiction that I\u2019ve ever seen.\u201d \u2013 Richard Brody,\u202fThe New Yorker",
+    "runtime": "100 min",
+    "director": ""
   },
   {
     "title": "NAZA (15)",
@@ -8671,6 +8502,19 @@
     "city": "LA"
   },
   {
+    "title": "FATHERLAND",
+    "date": "2026-11-13",
+    "time": "6:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
+  },
+  {
     "title": "BARBARA",
     "date": "2026-11-13",
     "time": "6:30 PM",
@@ -8799,6 +8643,19 @@
     "runtime": "128 min",
     "director": "Damien Chazelle",
     "city": "LA"
+  },
+  {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-13",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
   },
   {
     "title": "Playback",
@@ -8931,6 +8788,19 @@
     "director": "Javier Ambrossi, Javier Calvo"
   },
   {
+    "title": "ONCE UPON A TIME IN HARLEM",
+    "date": "2026-11-13",
+    "time": "8:15 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/once-upon-a-time-in-harlem",
+    "city": "NYC",
+    "description": "August 1972: A reunion of Harlem Renaissance luminaries is held at Duke Ellington\u2019s St. Nicholas Ave. townhouse. Though many of these figures haven\u2019t seen each other in 50 years, sharp memories, vigorous debates, and unsettled scores soon flow through this stunner of a cocktail party, which features (among others): artists Romare Bearden, Aaron Douglas, and Richard Bruce Nugent; composer Eubie Blake; poet Arna Bontemps; photographer James Van Der Zee; and activists Richard B. Moore and Louise Patterson. After organizing and shooting this extraordinary gathering, filmmaker William Greaves (SYMBIOPSYCHOTAXIPLASM: TAKE ONE) was unable to complete the film before his death in 2014. One of the cameramen that day was his son David, who expertly reshaped this never-before-seen, newly-restored footage into \u201ca film for the ages\u2026one of the greatest cinematic works of creative nonfiction that I\u2019ve ever seen.\u201d \u2013 Richard Brody,\u202fThe New Yorker",
+    "runtime": "100 min",
+    "director": ""
+  },
+  {
     "title": "The Odyssey",
     "date": "2026-11-13",
     "time": "8:15 PM",
@@ -8942,6 +8812,19 @@
     "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "runtime": "173 min",
     "director": "Christopher Nolan"
+  },
+  {
+    "title": "RAISE THE RED LANTERN",
+    "date": "2026-11-13",
+    "time": "8:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "city": "NYC",
+    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
+    "runtime": "125 min",
+    "director": "Zhang Yimou"
   },
   {
     "title": "Ebenezer: A Christmas Carol",
@@ -8968,6 +8851,19 @@
     "runtime": "",
     "director": "",
     "city": "LA"
+  },
+  {
+    "title": "FATHERLAND",
+    "date": "2026-11-13",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
   },
   {
     "title": "Fatherland",
@@ -9529,6 +9425,19 @@
     "director": "Ken Russell"
   },
   {
+    "title": "THE COURT JESTER",
+    "date": "2026-11-14",
+    "time": "11:00 AM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/the-court-jester-ffjr-2026",
+    "city": "NYC",
+    "description": "\u201cDanny Kaye\u2019s masterpiece finds the comic as nimble with a sword as with his facial muscles, foiling the evil plans of sneering baddie Basil Rathbone. Terrific songs (by Kaye\u2019s wife), a vibrant love interest (Glynis Johns), some of the best wordplay since the Marx Brothers\u2014it\u2019s a sheer delight.\u201d \u2013 Time Out",
+    "runtime": "101 min",
+    "director": "Norman Panama"
+  },
+  {
     "title": "FFC: Ernest and Celestine - Winter Tales (U*)",
     "date": "2026-11-14",
     "time": "11:00 AM",
@@ -9724,6 +9633,19 @@
     "director": "Ti West"
   },
   {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-14",
+    "time": "12:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
+  },
+  {
     "title": "Les rendez-vous d'Anna",
     "date": "2026-11-14",
     "time": "12:20 PM",
@@ -9815,6 +9737,19 @@
     "city": "LA"
   },
   {
+    "title": "ONCE UPON A TIME IN HARLEM",
+    "date": "2026-11-14",
+    "time": "1:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/once-upon-a-time-in-harlem",
+    "city": "NYC",
+    "description": "August 1972: A reunion of Harlem Renaissance luminaries is held at Duke Ellington\u2019s St. Nicholas Ave. townhouse. Though many of these figures haven\u2019t seen each other in 50 years, sharp memories, vigorous debates, and unsettled scores soon flow through this stunner of a cocktail party, which features (among others): artists Romare Bearden, Aaron Douglas, and Richard Bruce Nugent; composer Eubie Blake; poet Arna Bontemps; photographer James Van Der Zee; and activists Richard B. Moore and Louise Patterson. After organizing and shooting this extraordinary gathering, filmmaker William Greaves (SYMBIOPSYCHOTAXIPLASM: TAKE ONE) was unable to complete the film before his death in 2014. One of the cameramen that day was his son David, who expertly reshaped this never-before-seen, newly-restored footage into \u201ca film for the ages\u2026one of the greatest cinematic works of creative nonfiction that I\u2019ve ever seen.\u201d \u2013 Richard Brody,\u202fThe New Yorker",
+    "runtime": "100 min",
+    "director": ""
+  },
+  {
     "title": "Ghosts: The Possession of Button House",
     "date": "2026-11-14",
     "time": "1:00 PM",
@@ -9839,6 +9774,19 @@
     "description": "In secret conversations on the rooftops of Tel Aviv at night, the systems behind Israel\u2019s calculated mass killing of Palestinian civilians in Gaza are revealed by the people who designed and operated them. We made this film out of a sense of obligation to use our position as Israeli filmmakers and journalists to examine the systems behind the mass killing of Palestinian civilians for which our country is responsible. While filming members of Israel\u2019s military on rooftops at night in Tel Aviv over the past three years, we found ourselves asking the very questions that were asked by our grandparents\u2019 generation and throughout the 20th century: how does one group of people allow the total dehumanization of another? What do the inner workings of such a system look like? Many of the revelations in the film were published almost immediately as we learned of them, in the months following the October 7th attacks, by The Guardian (one of NAZA \u2019s producers), in collaboration with reporting partners +972 Magazine and Local Call. The film lets us explore something deeper than we could in our investigative journalism alone: not only the words being said but also those that are not said, the silence. It is up to all of us to break that silence. \u2014 Yuval Abraham and Rachel Szor",
     "runtime": "80 min",
     "director": "Yuval Abraham, Rachel Szor"
+  },
+  {
+    "title": "RAISE THE RED LANTERN",
+    "date": "2026-11-14",
+    "time": "1:10 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "city": "NYC",
+    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
+    "runtime": "125 min",
+    "director": "Zhang Yimou"
   },
   {
     "title": "Bitter Christmas",
@@ -10036,6 +9984,19 @@
     "city": "LA"
   },
   {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-14",
+    "time": "2:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
+  },
+  {
     "title": "Fatherland",
     "date": "2026-11-14",
     "time": "2:30 PM",
@@ -10218,6 +10179,19 @@
     "director": "Wes Anderson"
   },
   {
+    "title": "FATHERLAND",
+    "date": "2026-11-14",
+    "time": "3:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
+  },
+  {
     "title": "MUSIC IS MUSIC + BEFORE IT'S TOO LATE",
     "date": "2026-11-14",
     "time": "3:30 PM",
@@ -10255,6 +10229,19 @@
     "description": "Set in 1973, during the US\u2019s attempt to overthrow the Chilean government, a hitman for the US government with connections to the JFK assassination suddenly realizes that his own people have put a hit on him to cover up the mess.",
     "runtime": "117 min",
     "director": "Martin McDonagh"
+  },
+  {
+    "title": "RAISE THE RED LANTERN",
+    "date": "2026-11-14",
+    "time": "3:40 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "city": "NYC",
+    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
+    "runtime": "125 min",
+    "director": "Zhang Yimou"
   },
   {
     "title": "Ghosts: The Possession of Button House",
@@ -10478,6 +10465,19 @@
     "director": "Javier Ambrossi, Javier Calvo"
   },
   {
+    "title": "FATHERLAND",
+    "date": "2026-11-14",
+    "time": "5:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
+  },
+  {
     "title": "ALL OF A SUDDEN",
     "date": "2026-11-14",
     "time": "5:30 PM",
@@ -10621,6 +10621,19 @@
     "director": "Martin McDonagh"
   },
   {
+    "title": "ONCE UPON A TIME IN HARLEM",
+    "date": "2026-11-14",
+    "time": "6:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/once-upon-a-time-in-harlem",
+    "city": "NYC",
+    "description": "August 1972: A reunion of Harlem Renaissance luminaries is held at Duke Ellington\u2019s St. Nicholas Ave. townhouse. Though many of these figures haven\u2019t seen each other in 50 years, sharp memories, vigorous debates, and unsettled scores soon flow through this stunner of a cocktail party, which features (among others): artists Romare Bearden, Aaron Douglas, and Richard Bruce Nugent; composer Eubie Blake; poet Arna Bontemps; photographer James Van Der Zee; and activists Richard B. Moore and Louise Patterson. After organizing and shooting this extraordinary gathering, filmmaker William Greaves (SYMBIOPSYCHOTAXIPLASM: TAKE ONE) was unable to complete the film before his death in 2014. One of the cameramen that day was his son David, who expertly reshaped this never-before-seen, newly-restored footage into \u201ca film for the ages\u2026one of the greatest cinematic works of creative nonfiction that I\u2019ve ever seen.\u201d \u2013 Richard Brody,\u202fThe New Yorker",
+    "runtime": "100 min",
+    "director": ""
+  },
+  {
     "title": "An Unfinished Film",
     "date": "2026-11-14",
     "time": "6:00 PM",
@@ -10762,6 +10775,32 @@
     "description": "As the nights draw in, we're very excited to be screening one of the earliest horror masterpieces, The Phantom of the\u2026",
     "runtime": "93 min",
     "director": "Rupert Julian"
+  },
+  {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-14",
+    "time": "6:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
+  },
+  {
+    "title": "RAISE THE RED LANTERN",
+    "date": "2026-11-14",
+    "time": "6:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "city": "NYC",
+    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
+    "runtime": "125 min",
+    "director": "Zhang Yimou"
   },
   {
     "title": "NAZA (15)",
@@ -10933,6 +10972,19 @@
     "city": "LA"
   },
   {
+    "title": "FATHERLAND",
+    "date": "2026-11-14",
+    "time": "7:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
+  },
+  {
     "title": "The Devils",
     "date": "2026-11-14",
     "time": "7:25 PM",
@@ -11037,6 +11089,19 @@
     "director": ""
   },
   {
+    "title": "ONCE UPON A TIME IN HARLEM",
+    "date": "2026-11-14",
+    "time": "8:15 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/once-upon-a-time-in-harlem",
+    "city": "NYC",
+    "description": "August 1972: A reunion of Harlem Renaissance luminaries is held at Duke Ellington\u2019s St. Nicholas Ave. townhouse. Though many of these figures haven\u2019t seen each other in 50 years, sharp memories, vigorous debates, and unsettled scores soon flow through this stunner of a cocktail party, which features (among others): artists Romare Bearden, Aaron Douglas, and Richard Bruce Nugent; composer Eubie Blake; poet Arna Bontemps; photographer James Van Der Zee; and activists Richard B. Moore and Louise Patterson. After organizing and shooting this extraordinary gathering, filmmaker William Greaves (SYMBIOPSYCHOTAXIPLASM: TAKE ONE) was unable to complete the film before his death in 2014. One of the cameramen that day was his son David, who expertly reshaped this never-before-seen, newly-restored footage into \u201ca film for the ages\u2026one of the greatest cinematic works of creative nonfiction that I\u2019ve ever seen.\u201d \u2013 Richard Brody,\u202fThe New Yorker",
+    "runtime": "100 min",
+    "director": ""
+  },
+  {
     "title": "EC: EGGELING / GRANT / JACOBS & FLEISCHNER",
     "date": "2026-11-14",
     "time": "8:15 PM",
@@ -11126,6 +11191,19 @@
     "description": "Censored for over half a century, Ken Russell\u2019s film returns in a landmark director\u2019s cut reconstruction that reveals the full power of his original vision. Inspired by the true story of 17th-century priest Urbain Grandier, accused of bewitching a convent of nuns, The Devils lays bare the collusion of church and state through a searing vision of religious persecution, collective hysteria and institutional corruption. The restoration many believed would never happen reaffirms Russell\u2019s incendiary masterpiece as among the most overwhelming and uncompromising achievements in British cinema. Assembled from original camera negative, this 4k restoration is Ken Russell\u2019s 2004 preferred edit. Picture and sound restoration by Warner Bros. Post Production Creative Services, Water Tower Color and Warner Bros. Sound.",
     "runtime": "114 min",
     "director": "Ken Russell"
+  },
+  {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-14",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
   },
   {
     "title": "Fatherland",
@@ -11256,6 +11334,19 @@
     "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebel...",
     "runtime": "117 min",
     "director": "Martin McDonagh"
+  },
+  {
+    "title": "RAISE THE RED LANTERN",
+    "date": "2026-11-14",
+    "time": "8:50 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "city": "NYC",
+    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
+    "runtime": "125 min",
+    "director": "Zhang Yimou"
   },
   {
     "title": "Primetime",
@@ -11765,6 +11856,32 @@
     "director": "Ti West"
   },
   {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-15",
+    "time": "12:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
+  },
+  {
+    "title": "RAISE THE RED LANTERN",
+    "date": "2026-11-15",
+    "time": "12:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "city": "NYC",
+    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
+    "runtime": "125 min",
+    "director": "Zhang Yimou"
+  },
+  {
     "title": "Fatherland",
     "date": "2026-11-15",
     "time": "12:30 PM",
@@ -11841,6 +11958,19 @@
     "runtime": "78 min",
     "director": "King Vidor",
     "city": "LA"
+  },
+  {
+    "title": "ONCE UPON A TIME IN HARLEM",
+    "date": "2026-11-15",
+    "time": "1:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/once-upon-a-time-in-harlem",
+    "city": "NYC",
+    "description": "August 1972: A reunion of Harlem Renaissance luminaries is held at Duke Ellington\u2019s St. Nicholas Ave. townhouse. Though many of these figures haven\u2019t seen each other in 50 years, sharp memories, vigorous debates, and unsettled scores soon flow through this stunner of a cocktail party, which features (among others): artists Romare Bearden, Aaron Douglas, and Richard Bruce Nugent; composer Eubie Blake; poet Arna Bontemps; photographer James Van Der Zee; and activists Richard B. Moore and Louise Patterson. After organizing and shooting this extraordinary gathering, filmmaker William Greaves (SYMBIOPSYCHOTAXIPLASM: TAKE ONE) was unable to complete the film before his death in 2014. One of the cameramen that day was his son David, who expertly reshaped this never-before-seen, newly-restored footage into \u201ca film for the ages\u2026one of the greatest cinematic works of creative nonfiction that I\u2019ve ever seen.\u201d \u2013 Richard Brody,\u202fThe New Yorker",
+    "runtime": "100 min",
+    "director": ""
   },
   {
     "title": "Ghosts: The Possession of Button House",
@@ -12142,6 +12272,19 @@
     "director": "Javier Calvo & Javier Ambrossi"
   },
   {
+    "title": "FATHERLAND",
+    "date": "2026-11-15",
+    "time": "2:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
+  },
+  {
     "title": "PRIMETIME / LICORICE PIZZA",
     "date": "2026-11-15",
     "time": "2:30 PM",
@@ -12153,6 +12296,19 @@
     "runtime": "",
     "director": "",
     "city": "LA"
+  },
+  {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-15",
+    "time": "2:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
   },
   {
     "title": "Fatherland",
@@ -12231,6 +12387,19 @@
     "runtime": "",
     "director": "",
     "city": "LA"
+  },
+  {
+    "title": "RAISE THE RED LANTERN",
+    "date": "2026-11-15",
+    "time": "3:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "city": "NYC",
+    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
+    "runtime": "125 min",
+    "director": "Zhang Yimou"
   },
   {
     "title": "MA\u00ceTRES ANCIENS \u2013 COM\u00c9DIE",
@@ -12519,6 +12688,19 @@
     "director": "Marcel Hanoun"
   },
   {
+    "title": "FATHERLAND",
+    "date": "2026-11-15",
+    "time": "4:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
+  },
+  {
     "title": "Fatherland",
     "date": "2026-11-15",
     "time": "4:30 PM",
@@ -12556,6 +12738,19 @@
     "description": "All screenings on a new 35mm print of the 4K restoration of the film. An enduring, singular masterpiece of cinema starring Academy Award-winner Vanessa Redgrave and Oliver Reed, KEN RUSSELL\u2019S THE DEVILS is a prescient epic of obsession and corruption \u2013 and a defining work of art from seminal filmmaker Ken Russell. Assembled from the original camera negative, this new 4K restoration presents Ken Russell\u2019s definitive vision of The Devils by referencing the edit he privately constructed in 2004. The film\u2019s sound has been remastered from original English Composite 35mm Mag Film, transferred at 96kHz, plus other original film elements in selected spots as needed. The Picture and Sound restoration was performed by Warner Bros. Post Production Creative Services, Water Tower Color, and Warner Bros. Sound.",
     "runtime": "114 min",
     "director": "Ken Russell"
+  },
+  {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-15",
+    "time": "4:40 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
   },
   {
     "title": "La Bola Negra (15) (AD)",
@@ -12779,6 +12974,32 @@
     "city": "LA"
   },
   {
+    "title": "FATHERLAND",
+    "date": "2026-11-15",
+    "time": "6:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
+  },
+  {
+    "title": "ONCE UPON A TIME IN HARLEM",
+    "date": "2026-11-15",
+    "time": "6:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/once-upon-a-time-in-harlem",
+    "city": "NYC",
+    "description": "August 1972: A reunion of Harlem Renaissance luminaries is held at Duke Ellington\u2019s St. Nicholas Ave. townhouse. Though many of these figures haven\u2019t seen each other in 50 years, sharp memories, vigorous debates, and unsettled scores soon flow through this stunner of a cocktail party, which features (among others): artists Romare Bearden, Aaron Douglas, and Richard Bruce Nugent; composer Eubie Blake; poet Arna Bontemps; photographer James Van Der Zee; and activists Richard B. Moore and Louise Patterson. After organizing and shooting this extraordinary gathering, filmmaker William Greaves (SYMBIOPSYCHOTAXIPLASM: TAKE ONE) was unable to complete the film before his death in 2014. One of the cameramen that day was his son David, who expertly reshaped this never-before-seen, newly-restored footage into \u201ca film for the ages\u2026one of the greatest cinematic works of creative nonfiction that I\u2019ve ever seen.\u201d \u2013 Richard Brody,\u202fThe New Yorker",
+    "runtime": "100 min",
+    "director": ""
+  },
+  {
     "title": "The Woman on the Beach",
     "date": "2026-11-15",
     "time": "6:00 PM",
@@ -12883,6 +13104,19 @@
     "director": ""
   },
   {
+    "title": "SO THIS IS PARIS",
+    "date": "2026-11-15",
+    "time": "6:20 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/so-this-is-paris-silent-lubitsch",
+    "city": "NYC",
+    "description": "Hilariously over-the-top modern dancers Lilyan Tashman and Andr\u00e9 Beranger are already looking for extracurricular action when in barges jealous, cane-wielding, married doctor Monte Blue and the four-way complications begin, resolved in \u201can astounding Charleston sequence\u2014a kind of cubist nightmare of what \u201920s people thought they were really like.\u201d \u2013 John Gillett",
+    "runtime": "80 min",
+    "director": "Ernst Lubitsch"
+  },
+  {
     "title": "Primetime",
     "date": "2026-11-15",
     "time": "6:20 PM",
@@ -12946,6 +13180,19 @@
     "description": "Please note that there are additional showtimes of MOUSE that screen without open captions (on-screen display of dialogue and sounds). For those showtimes, click here . It\u2019s 2002, and best friends Minnie and Callie are heading into their senior year of high school, with Minnie long living in the protective shadow of the charismatic and admired Callie. When their friendship is suddenly upended at the start of the summer, Minnie struggles to define her own identity and forms a complicated relationship with Callie\u2019s poised, attentive mother, pulling her further from her own chaotic home.",
     "runtime": "120 min",
     "director": "Alex Thompson, Kelly O'Sullivan"
+  },
+  {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-15",
+    "time": "6:50 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
   },
   {
     "title": "Vampires Surf presented by Sun Bum",
@@ -13091,6 +13338,19 @@
     "city": "LA"
   },
   {
+    "title": "RAISE THE RED LANTERN",
+    "date": "2026-11-15",
+    "time": "8:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/raise-the-red-lantern",
+    "city": "NYC",
+    "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
+    "runtime": "125 min",
+    "director": "Zhang Yimou"
+  },
+  {
     "title": "Detour",
     "date": "2026-11-15",
     "time": "8:00 PM",
@@ -13169,6 +13429,19 @@
     "director": "Lance Oppenheim"
   },
   {
+    "title": "ONCE UPON A TIME IN HARLEM",
+    "date": "2026-11-15",
+    "time": "8:15 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/once-upon-a-time-in-harlem",
+    "city": "NYC",
+    "description": "August 1972: A reunion of Harlem Renaissance luminaries is held at Duke Ellington\u2019s St. Nicholas Ave. townhouse. Though many of these figures haven\u2019t seen each other in 50 years, sharp memories, vigorous debates, and unsettled scores soon flow through this stunner of a cocktail party, which features (among others): artists Romare Bearden, Aaron Douglas, and Richard Bruce Nugent; composer Eubie Blake; poet Arna Bontemps; photographer James Van Der Zee; and activists Richard B. Moore and Louise Patterson. After organizing and shooting this extraordinary gathering, filmmaker William Greaves (SYMBIOPSYCHOTAXIPLASM: TAKE ONE) was unable to complete the film before his death in 2014. One of the cameramen that day was his son David, who expertly reshaped this never-before-seen, newly-restored footage into \u201ca film for the ages\u2026one of the greatest cinematic works of creative nonfiction that I\u2019ve ever seen.\u201d \u2013 Richard Brody,\u202fThe New Yorker",
+    "runtime": "100 min",
+    "director": ""
+  },
+  {
     "title": "Raise the Red Lantern",
     "date": "2026-11-15",
     "time": "8:15 PM",
@@ -13232,6 +13505,19 @@
     "description": "A thrilling ghost story set in Dickens' London, following one man's supernatural journey to face his past, present and future as he fights for a second chance at redemption.",
     "runtime": "116 min",
     "director": "Ti West"
+  },
+  {
+    "title": "FATHERLAND",
+    "date": "2026-11-15",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/fatherland",
+    "city": "NYC",
+    "description": "From the director of IDA and COLD WAR: FATHERLAND follows Nobel Prize-winning author Thomas Mann (Hanns Zischler, KINGS OF THE ROAD) and his actress daughter Erika (Sandra H\u00fcller, ANATOMY OF A FALL) as they drive across a war-ravaged 1949 Germany. Returning home after years of exile in the U.S. and exuding a superhuman gravitas, Mann finds the Germany he knew to be gone, replaced by a country with contradictory ideologies. Erika, who acts as his travel coordinator and translator, strives to pierce his detached persona while quietly struggling with a family tragedy.",
+    "runtime": "82 min",
+    "director": ""
   },
   {
     "title": "EC: HUGO / JACOBS / LEVITT / MAAS",
@@ -13349,6 +13635,19 @@
     "description": "Set in 1973, during the US\u2019s attempt to overthrow the Chilean government, a hitman for the US government with connections to the JFK assassination suddenly realizes that his own people have put a hit on him to cover up the mess.",
     "runtime": "117 min",
     "director": "Martin McDonagh"
+  },
+  {
+    "title": "threeASFOUR: FULL CIRCLE",
+    "date": "2026-11-15",
+    "time": "9:00 PM",
+    "format": "DCP",
+    "venue": "Film Forum",
+    "venue_short": "FilmForum",
+    "url": "https://filmforum.org/film/threeasfour-full-circle",
+    "city": "NYC",
+    "description": "Avant-garde designers and best friends Gabi Asfour, Angela Donhauser, and Adi Gil have spent 25 years working together as the NYC fashion collective threeASFOUR. Although they have built an impressive reputation and a following that includes Bj\u00f6rk, Marisa Tomei, and Chlo\u00eb Sevigny, they find themselves struggling to pay the rent on their Chinatown studio while financing the intricate creations for their next runway collection. Drawing from a captivating trove of archival footage alongside intimate observations of the trio at work, Sean Ono Lennon forges an affectionate portrait of uncompromising artists who have chosen experimentation over commercial success and a moving reflection on artistic collaboration and creative resilience.",
+    "runtime": "95 min",
+    "director": ""
   },
   {
     "title": "Think of England",
@@ -13754,6 +14053,19 @@
     "director": "Javier Calvo, Javier Ambrossi"
   },
   {
+    "title": "LA BOLA NEGRA",
+    "date": "2026-11-16",
+    "time": "2:30 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3122036.TcsSection_936",
+    "city": "London",
+    "description": "A genre-defying queer epic, dazzlingly constructed and rooted in the legacy of beloved writer Federico Garc\u00eda Lorca, La Bola Negra tells the story of three men whose lives are intimately connected across three different eras.  Spain, 1932. A young man awaits to see if he has secured membership of th...",
+    "runtime": "159 min",
+    "director": "Javier Calvo & Javier Ambrossi"
+  },
+  {
     "title": "The Lost Boys",
     "date": "2026-11-16",
     "time": "2:35 PM",
@@ -14046,7 +14358,7 @@
     "format": "DCP",
     "venue": "Electric Cinema Portobello",
     "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/84198",
+    "url": "https://www.electriccinema.co.uk/tickets/84403",
     "city": "London",
     "description": "Set in 1973, during the US\u2019s attempt to overthrow the Chilean government, a hitman for the US government with connections to the JFK assassination suddenly realizes that his own people have put a hit on him to cover up the mess.",
     "runtime": "117 min",
@@ -14657,7 +14969,7 @@
     "format": "DCP",
     "venue": "Electric Cinema Portobello",
     "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/84197",
+    "url": "https://www.electriccinema.co.uk/tickets/84402",
     "city": "London",
     "description": "Inspired by true events in 2006, \"To Catch a Predator\" host Chris Hansen sets out to make television history. But when a high-stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare.",
     "runtime": "109 min",
@@ -15910,6 +16222,19 @@
     "description": "Inspired by true events in 2006, \"To Catch a Predator\" host Chris Hansen sets out to make television history. But when a high-stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare.",
     "runtime": "109 min",
     "director": "Lance Oppenheim"
+  },
+  {
+    "title": "WILD HORSE NINE",
+    "date": "2026-11-18",
+    "time": "6:10 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3122038.TcsSection_936",
+    "city": "London",
+    "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter Island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebel...",
+    "runtime": "117 min",
+    "director": "Martin McDonagh"
   },
   {
     "title": "All of a Sudden",
@@ -17485,6 +17810,19 @@
     "director": "Ren\u00e9 Laloux"
   },
   {
+    "title": "FILIPI\u00d1ANA + Q&A",
+    "date": "2026-11-20",
+    "time": "6:20 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3122792.TcsSection_1299",
+    "city": "London",
+    "description": "Isabel, a 17-year-old from the rural north of the Philippines, works at an elite country club outside Manila, lining up golf balls for powerful men. She wanders the immaculate grounds, observing members engaging in a complex dance with the doting and subservient staff. The deeper she journeys into i...",
+    "runtime": "101 min",
+    "director": "Rafael Manuel"
+  },
+  {
     "title": "GALAXIE",
     "date": "2026-11-20",
     "time": "6:30 PM",
@@ -17573,6 +17911,19 @@
     "description": "Ill-fated lovers Sailor and Lula (Nicolas Cage and Laura Dern) hit the road to escape a hit man and end up in an absurdly nightmarish landscape in David Lynch\u2019s dark romantic fairy tale that earned the Palme d\u2019Or at the Cannes Film Festival in 1990.\u00a0 A violent, erotic, and comedic take on the road movie, this high-octane adventure features an incredible cast, distinctly Lynchian iconography, and (as always) a score by the legendary Angelo Badalamenti. Based on the outrageously enjoyable novel by Barry Gifford.",
     "runtime": "125 min",
     "director": "David Lynch",
+    "city": "LA"
+  },
+  {
+    "title": "THE VIOLINIST",
+    "date": "2026-11-20",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "Los Feliz Theatre",
+    "venue_short": "LosFeliz",
+    "url": "https://www.americancinematheque.com/now-showing/the-violinist-11-20-2026/",
+    "description": "From directors Ervin Han and Ra\u00fal Garc\u00eda comes the Annecy Cristal Award-winning animated feature THE VIOLINIST,\u00a0a sweeping story\u00a0of\u00a0friendship, love and music set against the upheaval\u00a0of\u00a020th-century Singapore and Malaya, including the Japanese occupation. As war and history reshape two young lives, music becomes a lasting thread between past and present, carrying memories across decades and illuminating the bonds that endure through loss, separation and the\u00a0passage\u00a0of\u00a0time.",
+    "runtime": "114 min",
+    "director": "Ervin Han, Ra\u00fal Garc\u00eda",
     "city": "LA"
   },
   {
@@ -21437,6 +21788,19 @@
     "city": "LA"
   },
   {
+    "title": "Pink Palace: THE MEAT/RACK + Intro",
+    "date": "2026-11-26",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "Rio Cinema",
+    "venue_short": "Rio",
+    "url": "https://riocinema.org.uk/Rio.dll/Booking?Booking=TSelectItems.waSelectItemsPrompt.TcsWebMenuItem_0.TcsWebTab_0.TcsPerformance_3123901.TcsSection_1299",
+    "city": "London",
+    "description": "Pink Palace joins up with Lobotomy Room (Bad films for Bad people) to present this newly restored 70\u2019s sexploitation gem. With an illustrated intro by Graham Russell (AKA Bitterness Personified).  Meet J.C. a \u201cloner with a boner\u201d a bisexual hustler on the mean streets of 1970\u2019s San Francisco, he wil...",
+    "runtime": "65 min",
+    "director": "Mike Thomas"
+  },
+  {
     "title": "Andrew Lloyd Webber's Starlight Express - Live On",
     "date": "2026-11-26",
     "time": "7:30 PM",
@@ -22537,6 +22901,19 @@
     "venue_short": "FilmLinc",
     "url": "https://purchase.filmlinc.org/84866/84879",
     "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
+    "title": "Minotaur (15) + ScreenTalk",
+    "date": "2026-11-28",
+    "time": "4:00 PM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
     "description": "",
     "runtime": "",
     "director": ""
@@ -25148,7 +25525,7 @@
     "format": "DCP",
     "venue": "Metrograph",
     "venue_short": "Metrograph",
-    "url": "https://metrograph.com/film/9999005112-on-cinematography-arthur-jafa-bradford-young/",
+    "url": "https://t.metrograph.com/Ticketing/visSelectTickets.aspx?cinemacode=9999&txtSessionId=31454",
     "city": "NYC",
     "description": "",
     "runtime": "",
@@ -26000,19 +26377,6 @@
     "director": ""
   },
   {
-    "title": "Armenian FF: A Ribbon of Film | \u053f\u057f\u0578\u0580 \u0574\u0568 \u0565\u0580\u056b\u0566: Western Armenian Film Programme",
-    "date": "2026-12-06",
-    "time": "4:30 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "61 min",
-    "director": ""
-  },
-  {
     "title": "Armenian FF: Inna Sahakyan Special \u2013 Aurora's Sunrise + Q&A",
     "date": "2026-12-06",
     "time": "4:30 PM",
@@ -26115,6 +26479,19 @@
     "runtime": "141 min",
     "director": "David Fincher",
     "city": "LA"
+  },
+  {
+    "title": "Armenian FF: A Ribbon of Film | \u053f\u057f\u0578\u0580 \u0574\u0568 \u0565\u0580\u056b\u0566: Western Armenian Film Programme",
+    "date": "2026-12-06",
+    "time": "6:30 PM",
+    "format": "DCP",
+    "venue": "ICA",
+    "venue_short": "ICA",
+    "url": "https://www.ica.art/films",
+    "city": "London",
+    "description": "",
+    "runtime": "61 min",
+    "director": ""
   },
   {
     "title": "The Further Mis-Adventures of Cliff Booth 35mm",
@@ -28269,6 +28646,19 @@
     "director": ""
   },
   {
+    "title": "Dune: Part Three",
+    "date": "2026-12-15",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84592?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
+  },
+  {
     "title": "Off-Circuit: Recherche M\u00e9d\u00e9e",
     "date": "2026-12-15",
     "time": "8:40 PM",
@@ -28763,6 +29153,19 @@
     "director": ""
   },
   {
+    "title": "Dune: Part Three",
+    "date": "2026-12-18",
+    "time": "2:15 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84593?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
+  },
+  {
     "title": "The Muppet Christmas Carol",
     "date": "2026-12-18",
     "time": "2:45 PM",
@@ -28800,6 +29203,19 @@
     "description": "In \u201cAvengers: Doomsday,\u201d beloved heroes from three distinct universes will be set on a deadly collision course and face an existential threat unlike anything they\u2019ve ever encountered.",
     "runtime": "165 min",
     "director": ""
+  },
+  {
+    "title": "Dune: Part Three",
+    "date": "2026-12-18",
+    "time": "5:20 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84595?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
   },
   {
     "title": "The Muppet Christmas Carol",
@@ -28865,6 +29281,19 @@
     "description": "In \u201cAvengers: Doomsday,\u201d beloved heroes from three distinct universes will be set on a deadly collision course and face an existential threat unlike anything they\u2019ve ever encountered.",
     "runtime": "165 min",
     "director": ""
+  },
+  {
+    "title": "Dune: Part Three",
+    "date": "2026-12-18",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84596?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
   },
   {
     "title": "Die Hard [is a Christmas Movie]",
@@ -28958,6 +29387,19 @@
     "director": ""
   },
   {
+    "title": "Dune: Part Three",
+    "date": "2026-12-19",
+    "time": "2:15 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84604?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
+  },
+  {
     "title": "The Muppet Christmas Carol",
     "date": "2026-12-19",
     "time": "2:45 PM",
@@ -29021,6 +29463,19 @@
     "description": "",
     "runtime": "117 min",
     "director": ""
+  },
+  {
+    "title": "Dune: Part Three",
+    "date": "2026-12-19",
+    "time": "5:20 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84605?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
   },
   {
     "title": "It's A Wonderful Life",
@@ -29127,6 +29582,19 @@
     "director": ""
   },
   {
+    "title": "Dune: Part Three",
+    "date": "2026-12-19",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84606?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
+  },
+  {
     "title": "The Muppet Christmas Carol",
     "date": "2026-12-19",
     "time": "8:45 PM",
@@ -29179,6 +29647,19 @@
     "director": ""
   },
   {
+    "title": "Dune: Part Three",
+    "date": "2026-12-20",
+    "time": "2:15 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84610?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
+  },
+  {
     "title": "It's A Wonderful Life",
     "date": "2026-12-20",
     "time": "2:25 PM",
@@ -29229,6 +29710,19 @@
     "description": "In \u201cAvengers: Doomsday,\u201d beloved heroes from three distinct universes will be set on a deadly collision course and face an existential threat unlike anything they\u2019ve ever encountered.",
     "runtime": "165 min",
     "director": ""
+  },
+  {
+    "title": "Dune: Part Three",
+    "date": "2026-12-20",
+    "time": "5:20 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84611?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
   },
   {
     "title": "Home Alone",
@@ -29322,6 +29816,19 @@
     "director": ""
   },
   {
+    "title": "Dune: Part Three",
+    "date": "2026-12-20",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84612?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
+  },
+  {
     "title": "The Muppet Christmas Carol",
     "date": "2026-12-20",
     "time": "8:45 PM",
@@ -29387,6 +29894,19 @@
     "director": ""
   },
   {
+    "title": "Dune: Part Three",
+    "date": "2026-12-21",
+    "time": "2:15 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84616?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
+  },
+  {
     "title": "It's A Wonderful Life",
     "date": "2026-12-21",
     "time": "2:45 PM",
@@ -29424,6 +29944,19 @@
     "description": "In \u201cAvengers: Doomsday,\u201d beloved heroes from three distinct universes will be set on a deadly collision course and face an existential threat unlike anything they\u2019ve ever encountered.",
     "runtime": "165 min",
     "director": ""
+  },
+  {
+    "title": "Dune: Part Three",
+    "date": "2026-12-21",
+    "time": "5:20 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84617?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
   },
   {
     "title": "The Muppet Christmas Carol",
@@ -29489,6 +30022,19 @@
     "description": "In \u201cAvengers: Doomsday,\u201d beloved heroes from three distinct universes will be set on a deadly collision course and face an existential threat unlike anything they\u2019ve ever encountered.",
     "runtime": "165 min",
     "director": ""
+  },
+  {
+    "title": "Dune: Part Three",
+    "date": "2026-12-21",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84618?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
   },
   {
     "title": "Die Hard [is a Christmas Movie]",
@@ -29569,6 +30115,19 @@
     "director": ""
   },
   {
+    "title": "Dune: Part Three",
+    "date": "2026-12-22",
+    "time": "2:15 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84622?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
+  },
+  {
     "title": "The Muppet Christmas Carol",
     "date": "2026-12-22",
     "time": "2:45 PM",
@@ -29606,6 +30165,19 @@
     "description": "In \u201cAvengers: Doomsday,\u201d beloved heroes from three distinct universes will be set on a deadly collision course and face an existential threat unlike anything they\u2019ve ever encountered.",
     "runtime": "165 min",
     "director": ""
+  },
+  {
+    "title": "Dune: Part Three",
+    "date": "2026-12-22",
+    "time": "5:20 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84623?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
   },
   {
     "title": "The Muppet Christmas Carol",
@@ -29658,6 +30230,19 @@
     "description": "In \u201cAvengers: Doomsday,\u201d beloved heroes from three distinct universes will be set on a deadly collision course and face an existential threat unlike anything they\u2019ve ever encountered.",
     "runtime": "165 min",
     "director": ""
+  },
+  {
+    "title": "Dune: Part Three",
+    "date": "2026-12-22",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84624?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
   },
   {
     "title": "Love Actually",
@@ -29725,6 +30310,19 @@
     "director": ""
   },
   {
+    "title": "Dune: Part Three",
+    "date": "2026-12-23",
+    "time": "2:15 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84628?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
+  },
+  {
     "title": "The Muppet Christmas Carol",
     "date": "2026-12-23",
     "time": "2:50 PM",
@@ -29762,6 +30360,19 @@
     "description": "In \u201cAvengers: Doomsday,\u201d beloved heroes from three distinct universes will be set on a deadly collision course and face an existential threat unlike anything they\u2019ve ever encountered.",
     "runtime": "165 min",
     "director": ""
+  },
+  {
+    "title": "Dune: Part Three",
+    "date": "2026-12-23",
+    "time": "5:20 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84629?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
   },
   {
     "title": "It's A Wonderful Life",
@@ -29816,6 +30427,19 @@
     "director": "John McTiernan"
   },
   {
+    "title": "Dune: Part Three",
+    "date": "2026-12-23",
+    "time": "8:30 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84630?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
+  },
+  {
     "title": "The Muppet Christmas Carol",
     "date": "2026-12-23",
     "time": "8:45 PM",
@@ -29827,6 +30451,19 @@
     "description": "'Tis the season for love, laughter, and one of the most cherished stories of all time! Join Kermit the Frog, Miss Piggy, and all the hilarious Muppets in this merry, magical version of Charles Dickens' classic tale. Academy Award\u00ae winner Michael Caine (Best Supporting Actor) gives a performance that's anything but \"bah, humbug!\" as greedy, penny-pinching Ebenezer Scrooge. One fateful Christmas Eve, Scrooge is visited by the Ghosts of Christmas Past, Present, and Future. Together with kind, humble Bob Cratchit (Kermit the Frog) and his family, the Spirits open Scrooge's eyes -- and his heart -- to the true meaning of Christmas. Filled with original music and dazzling special effects, THE MUPPET CHRISTMAS CAROL will become a holiday tradition your family will treasure all the days of the year. Featuring the film\u2019s famous long-lost song \u2018When Love is Gone\u2019! ------ As always you can expect SING ALONG performances of this new version of THE MUPPET CHRISTMAS CAROL this Christmas - and now we don't need to pretend that we weren't going to just play the lost scene regardless! Performances will feature a Hosted Pre-Show with our very own Father Christmas, where you will be prepped on what to do throughout the film. Costumes aren't mandatory, but 'Tis the season, and we love seeing you dressed up in your favourite Christmas Jumpers! All this, and a few more surprises up our sleeves, makes this one of the must-see events this Christmas! If you're wanting to Sing Along with The Muppet Christmas Carol, simply book for the performances marked SING ALONG [it's next to the start time]. All other screenings will be regular performances, and nothing will be written next to the start time.",
     "runtime": "89 min",
     "director": "Brian Henson"
+  },
+  {
+    "title": "Avengers: Doomsday",
+    "date": "2026-12-24",
+    "time": "11:30 AM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/83666?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "In \u201cAvengers: Doomsday,\u201d beloved heroes from three distinct universes will be set on a deadly collision course and face an existential threat unlike anything they\u2019ve ever encountered.",
+    "runtime": "165 min",
+    "director": ""
   },
   {
     "title": "The Muppet Christmas Carol",
@@ -29842,6 +30479,19 @@
     "director": "Brian Henson"
   },
   {
+    "title": "Dune: Part Three",
+    "date": "2026-12-24",
+    "time": "12:00 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84637?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
+  },
+  {
     "title": "Home Alone",
     "date": "2026-12-24",
     "time": "12:15 PM",
@@ -29853,19 +30503,6 @@
     "description": "When bratty 8-year-old Kevin McCallister (Macaulay Culkin) acts out the night before a family trip to Paris, his mother (Catherine O'Hara) makes him sleep in the attic. After the McCallisters mistakenly leave for the airport without Kevin, he awakens to an empty house and assumes his wish to have no family has come true. But his excitement sours when he realizes that two con men (Joe Pesci, Daniel Stern) plan to rob the McCallister residence, and that he alone must protect the family home.",
     "runtime": "103 min",
     "director": "Chris Columbus"
-  },
-  {
-    "title": "Avengers: Doomsday",
-    "date": "2026-12-24",
-    "time": "12:45 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83666?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "In \u201cAvengers: Doomsday,\u201d beloved heroes from three distinct universes will be set on a deadly collision course and face an existential threat unlike anything they\u2019ve ever encountered.",
-    "runtime": "165 min",
-    "director": ""
   },
   {
     "title": "Die Hard [is a Christmas Movie]",
@@ -29892,6 +30529,32 @@
     "description": "'Tis the season for love, laughter, and one of the most cherished stories of all time! Join Kermit the Frog, Miss Piggy, and all the hilarious Muppets in this merry, magical version of Charles Dickens' classic tale. Academy Award\u00ae winner Michael Caine (Best Supporting Actor) gives a performance that's anything but \"bah, humbug!\" as greedy, penny-pinching Ebenezer Scrooge. One fateful Christmas Eve, Scrooge is visited by the Ghosts of Christmas Past, Present, and Future. Together with kind, humble Bob Cratchit (Kermit the Frog) and his family, the Spirits open Scrooge's eyes -- and his heart -- to the true meaning of Christmas. Filled with original music and dazzling special effects, THE MUPPET CHRISTMAS CAROL will become a holiday tradition your family will treasure all the days of the year. Featuring the film\u2019s famous long-lost song \u2018When Love is Gone\u2019! ------ As always you can expect SING ALONG performances of this new version of THE MUPPET CHRISTMAS CAROL this Christmas - and now we don't need to pretend that we weren't going to just play the lost scene regardless! Performances will feature a Hosted Pre-Show with our very own Father Christmas, where you will be prepped on what to do throughout the film. Costumes aren't mandatory, but 'Tis the season, and we love seeing you dressed up in your favourite Christmas Jumpers! All this, and a few more surprises up our sleeves, makes this one of the must-see events this Christmas! If you're wanting to Sing Along with The Muppet Christmas Carol, simply book for the performances marked SING ALONG [it's next to the start time]. All other screenings will be regular performances, and nothing will be written next to the start time.",
     "runtime": "89 min",
     "director": "Brian Henson"
+  },
+  {
+    "title": "Avengers: Doomsday",
+    "date": "2026-12-24",
+    "time": "3:00 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84632?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "In \u201cAvengers: Doomsday,\u201d beloved heroes from three distinct universes will be set on a deadly collision course and face an existential threat unlike anything they\u2019ve ever encountered.",
+    "runtime": "165 min",
+    "director": ""
+  },
+  {
+    "title": "Dune: Part Three",
+    "date": "2026-12-24",
+    "time": "3:30 PM",
+    "format": "DCP",
+    "venue": "Peckhamplex",
+    "venue_short": "Peckhamplex",
+    "url": "https://ticketing.eu.veezi.com/purchase/84638?siteToken=f3d16dvfdem7nzemve42hxwj68",
+    "city": "London",
+    "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+    "runtime": "140 min",
+    "director": "Denis Villeneuve"
   },
   {
     "title": "The Muppet Christmas Carol",
@@ -30568,19 +31231,6 @@
     "description": "Based on the books by Louise Rennison, this tale follows 14-year-old Georgia Nicholson as she attempts to woo Robbie, one half of a pair of fraternal twins. Prone to getting herself into embarrassing situations and worried about her parent's marriage, Georgia discovers that being a teen can be a pain in the neck.",
     "runtime": "101 min",
     "director": "Gurinder Chadha"
-  },
-  {
-    "title": "You Can See Everything",
-    "date": "2027-01-01",
-    "time": "8:10 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628759",
-    "city": "London",
-    "description": "Thirty-four days before she's sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a skeptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.",
-    "runtime": "174 min",
-    "director": "Nathan Fielder, Lance Oppenheim"
   },
   {
     "title": "Pink Flamingos",
@@ -32507,6 +33157,19 @@
     "director": "Shinichir\u00f4 Watanabe, Takeshi Koike, Yoshiaki Kawajiri, Peter Chung, Koji Morimoto, Mahiro Maeda, Andy Jones"
   },
   {
+    "title": "Hidden Figures: Safi Faye: Letter from my Village (15*)",
+    "date": "2027-01-19",
+    "time": "6:15 PM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
     "title": "When a Woman Ascends the Stairs [Onna ga kaidan wo agaru toki]",
     "date": "2027-01-19",
     "time": "6:15 PM",
@@ -32726,6 +33389,19 @@
     "description": "A fairy tale adventure about a beautiful young woman and her one true love. He must find her after a long separation and save her. They must battle the evils of the mythical kingdom of Florin to be reunited with each other.",
     "runtime": "98 min",
     "director": "Rob Reiner"
+  },
+  {
+    "title": "Hidden Figures: Safi Faye: Ich, deine Mutter (15*) + Intro",
+    "date": "2027-01-21",
+    "time": "6:20 PM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "The Lonely Musketeer (IFS)",
@@ -33183,6 +33859,19 @@
     "director": "Bob Fosse"
   },
   {
+    "title": "Hidden Figures: Safi Faye: Fad'Jal (15*) + Intro",
+    "date": "2027-01-26",
+    "time": "6:15 PM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
     "title": "The New World [Extended Cut]",
     "date": "2027-01-26",
     "time": "8:00 PM",
@@ -33352,6 +34041,19 @@
     "director": "Guy Hamilton"
   },
   {
+    "title": "Hidden Figures: Safi Faye: Mossane (15*) + Intro",
+    "date": "2027-01-28",
+    "time": "6:15 PM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
     "title": "The Taste of Tea",
     "date": "2027-01-28",
     "time": "8:25 PM",
@@ -33420,6 +34122,58 @@
     "title": "FFC: Kensuke's Kingdom (PG)",
     "date": "2027-01-30",
     "time": "11:00 AM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
+    "title": "Hidden Figures: Safi Faye: Letter from my Village (15*)",
+    "date": "2027-01-30",
+    "time": "2:00 PM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
+    "title": "Hidden Figures: Safi Faye: Ich, deine Mutter (15*) + Intro",
+    "date": "2027-01-30",
+    "time": "4:20 PM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
+    "title": "Hidden Figures: Safi Faye: Fad'Jal (15*) + Intro",
+    "date": "2027-01-30",
+    "time": "6:15 PM",
+    "format": "DCP",
+    "venue": "Barbican",
+    "venue_short": "Barbican",
+    "url": "https://www.barbican.org.uk/whats-on/cinema",
+    "city": "London",
+    "description": "",
+    "runtime": "",
+    "director": ""
+  },
+  {
+    "title": "Hidden Figures: Safi Faye: Mossane (15*) + Intro",
+    "date": "2027-01-30",
+    "time": "8:30 PM",
     "format": "DCP",
     "venue": "Barbican",
     "venue_short": "Barbican",

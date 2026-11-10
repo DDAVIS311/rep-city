@@ -640,5 +640,11 @@
   "description": "The Hunger Games: Sunrise on the Reaping will revisit the world of Panem twenty-four years before the events of The Hunger Games, starting on the morning of the reaping of the Fiftieth Hunger Games, also known as the Second Quarter Quell.",
   "runtime": "158 min",
   "format": ""
+ },
+ "https://www.peckhamplex.london/film/dune-part-three": {
+  "director": "Denis Villeneuve",
+  "description": "Dune: Part Three is set nearly two decades after Paul Atreides seized control of the Imperium. Now a ruthless Emperor, Paul must face the consequences of his reign as old allies return, terrifying new threats emerge, and betrayal lurks in every shadow. Haunted by visions of Imperial collapse and the reappearance of his long-lost love, Paul is drawn into a sweeping conspiracy, with Chani at the heart of its unfolding mystery. As rebellion brews and enemies close in, Paul must confront the true cost of power and the fate of those he loves the most.",
+  "runtime": "140 min",
+  "format": ""
  }
 }
