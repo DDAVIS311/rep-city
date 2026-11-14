@@ -4056,19 +4056,6 @@
     "city": "LA"
   },
   {
-    "title": "The Westerner",
-    "date": "2026-11-14",
-    "time": "10:00 AM",
-    "format": "35mm",
-    "venue": "Vista Theater",
-    "venue_short": "Vista",
-    "url": "https://ticketing.uswest.veezi.com/purchase/4260?siteToken=20xhpa3yt2hhkwt4zjvfcwsaww",
-    "description": "Judge Roy Bean, a self-appointed hanging judge in Vinegarroon, Texas, befriends saddle tramp Cole Harden, who opposes Bean's policy against homesteaders.",
-    "runtime": "100 min",
-    "director": "",
-    "city": "LA"
-  },
-  {
     "title": "LA BOLA NEGRA",
     "date": "2026-11-14",
     "time": "10:00 AM",
@@ -4080,32 +4067,6 @@
     "runtime": "160 min",
     "director": "Javier Ambrossi, Javier Calvo",
     "city": "LA"
-  },
-  {
-    "title": "Primetime",
-    "date": "2026-11-14",
-    "time": "10:00 AM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18373/",
-    "city": "London",
-    "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-    "runtime": "109 min",
-    "director": "Lance Oppenheim"
-  },
-  {
-    "title": "Wild Horse Nine",
-    "date": "2026-11-14",
-    "time": "10:20 AM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18374/",
-    "city": "London",
-    "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone's trip to this remote paradise sideways.",
-    "runtime": "117 min",
-    "director": "Martin McDonagh"
   },
   {
     "title": "The History of Concrete",
@@ -4147,19 +4108,6 @@
     "director": "Ken Russell"
   },
   {
-    "title": "FFC: Ernest and Celestine - Winter Tales (U*)",
-    "date": "2026-11-14",
-    "time": "11:00 AM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/family-film-club-ernest-and-celestine-winter-tales",
-    "city": "London",
-    "description": "The delightful duo, Ernest and Celestine \u2013 a grumpy bear and a feisty mouse \u2013 are back in a series of four short stories perfect for a family cinema snuggle!",
-    "runtime": "45 min",
-    "director": "Julien Cheng, Jean-Christophe Roger"
-  },
-  {
     "title": "The Pirates! In an Adventure with Scientists!",
     "date": "2026-11-14",
     "time": "11:00 AM",
@@ -4173,71 +4121,6 @@
     "director": "Peter Lord"
   },
   {
-    "title": "Parent & Baby Screening: Wild Horse Nine (15) (AD)",
-    "date": "2026-11-14",
-    "time": "11:15 AM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/parent-baby-screening-wild-horse-nine",
-    "city": "London",
-    "description": "Two eccentric CIA agents ( John Malkovich and Sam Rockwell ) await orders on Easter Island, on the cusp of yet another military coup in Martin McDonagh 's latest dark comedy.",
-    "runtime": "118 min",
-    "director": "Martin McDonagh"
-  },
-  {
-    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "date": "2026-11-14",
-    "time": "11:30 AM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84524?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The new adventure sees the residents of Mossy Bottom Farm looking forward to Halloween - until the clumsy Farmer trashes the Flock's beloved pumpkin patch. When Shaun turns mad scientist to fix the problem, things rapidly spiral out of control, leading to a wild beast roaming the woods.",
-    "runtime": "80 min",
-    "director": "Steve Cox, Matthew Walker"
-  },
-  {
-    "title": "Troy",
-    "date": "2026-11-14",
-    "time": "11:45 AM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627899",
-    "city": "London",
-    "description": "In year 1250 B.C. during the late Bronze age, two emerging nations begin to clash. Paris, the Trojan prince, convinces Helen, Queen of Sparta, to leave her husband Menelaus, and sail with him back to Troy. After Menelaus finds out that his wife was taken by the Trojans, he asks his brother Agamemnon to help him get her back. Agamemnon sees this as an opportunity for power. They set off with 1,000 ships holding 50,000 Greeks to Troy.",
-    "runtime": "162 min",
-    "director": "Wolfgang Petersen"
-  },
-  {
-    "title": "Wildwood",
-    "date": "2026-11-14",
-    "time": "11:45 AM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84527?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Portland-set story follows Prue McKeel, who enters an enchanted wonderland when her baby brother Mac is taken by a murder of crows into the forest\u2019s depths.",
-    "runtime": "132 min",
-    "director": "Travis Knight"
-  },
-  {
-    "title": "Frankenweenie",
-    "date": "2026-11-14",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Academy Museum",
-    "venue_short": "Academy",
-    "url": "https://www.academymuseum.org/en/calendar",
-    "description": "",
-    "runtime": "",
-    "director": "",
-    "city": "LA"
-  },
-  {
     "title": "TWO SEASONS, TWO STRANGERS",
     "date": "2026-11-14",
     "time": "12:00 PM",
@@ -4249,97 +4132,6 @@
     "runtime": "89 min",
     "director": "Sh\u014d Miyake",
     "city": "LA"
-  },
-  {
-    "title": "Festive Fun with Peppa Cinema Experience",
-    "date": "2026-11-14",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84515?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Join Peppa Pig and her family at the cinema for a festive big-screen experience as they celebrate Evie\u2019s first Christmas! Share in the excitement of Christmas Day as the family of five reflect on treasured seasonal memories. From snowy adventures and festive plays to decorating the tree, this hour-long cinema experience brings together 7 classic festive-themed Peppa Pig episodes and 4 brand-new songs that little ones can dance and sing along to. Filled with laughter, music and heartwarming moments, this special cinema experience is the perfect family day out during the Christmas season. So grab your hats, scarves and gloves and enjoy the magic of the season along with your favourite piggies at the Festive Fun with Peppa Cinema Experience!",
-    "runtime": "58 min",
-    "director": ""
-  },
-  {
-    "title": "PRIFF Programme 1",
-    "date": "2026-11-14",
-    "time": "12:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83640?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "BETWEEN WORLDS brings together two stories of people searching for their place in the world. In Manila, half-Filipina Nia trains in secret with queer outcast Malic to join a Filipino Martial Arts team, learning that winning begins with accepting who she is. In a remote Senegalese village, young albino Ousmane faces daily insults and threats rooted in superstition, until he and his mother set out across the desert towards Europe, facing exhaustion, dehydration and ruthless smugglers along the way. Together, these films explore what it means to be different, and how difference can become a source of rejection or of shared strength.",
-    "runtime": "120 min",
-    "director": ""
-  },
-  {
-    "title": "One in a Million",
-    "date": "2026-11-14",
-    "time": "12:05 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/one-in-a-million",
-    "city": "London",
-    "description": "Filmed over ten years, One in a Million follows Israa from childhood to adulthood on an extraordinary journey from Syria to Germany \u2014 and back again. We first meet her at age 11 as she and her family are preparing to cross the Aegean Sea, risking everything in search of safety and a better life in Europe. What unfolds is a deeply personal chronicle of war, exile and heartbreak, as Israa grows up navigating adolescence, identity and belonging far from the home she was forced to leave. As Israa settles into life in Germany, new freedoms collide with the stabilising pull of Syrian traditions, testing bonds and reshaping her sense of self. Co-directed by Itab Azzam and Jack MacInnes, the film bears witness to the remarkable trust between filmmakers and family, following Israa and her loved ones across borders, cultures and shifting circumstances. An intimate and nuanced coming-of-age story, One in a Million illuminates the complexities of the refugee experience while asking a universal question: what does it truly mean to call a place home?",
-    "runtime": "106 min",
-    "director": "Itab Azzam"
-  },
-  {
-    "title": "The Princess Bride",
-    "date": "2026-11-14",
-    "time": "12:05 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628347",
-    "city": "London",
-    "description": "A fairy tale adventure about a beautiful young woman and her one true love. He must find her after a long separation and save her. They must battle the evils of the mythical kingdom of Florin to be reunited with each other.",
-    "runtime": "98 min",
-    "director": "Rob Reiner"
-  },
-  {
-    "title": "Nova '78",
-    "date": "2026-11-14",
-    "time": "12:10 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/nova-78",
-    "city": "London",
-    "description": "A time capsule of the 1978 Nova Convention, bringing together never-before-seen footage recovered from Howard Brookner\u2019s archive, featuring William S. Burroughs, Philip Glass, Frank Zappa, Patti Smith, Laurie Anderson and other cultural radicals at the explosive crossroads of punk, performance, literature and the avant-garde.",
-    "runtime": "78 min",
-    "director": "Aaron Brookner and Rodrigo Areias"
-  },
-  {
-    "title": "Wild Horse Nine",
-    "date": "2026-11-14",
-    "time": "12:15 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18375/",
-    "city": "London",
-    "description": "Shortly before the 1973 Chilean coup, CIA agents Chris and Lee are dispatched from Santiago to Easter island by their bureau chief, MJ. Amongst the Island's iconic statues, and as the longtime partners wrestle with their dark pasts and present conspiracies, Chris's newfound bond with a pair of rebellious students threatens to send everyone's trip to this remote paradise sideways.",
-    "runtime": "117 min",
-    "director": "Martin McDonagh"
-  },
-  {
-    "title": "Ebenezer: A Christmas Carol",
-    "date": "2026-11-14",
-    "time": "12:15 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84513?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A thrilling ghost story set in Dickens' London, following one man's supernatural journey to face his past, present and future as he fights for a second chance at redemption.",
-    "runtime": "116 min",
-    "director": "Ti West"
   },
   {
     "title": "threeASFOUR: FULL CIRCLE",
@@ -4394,19 +4186,6 @@
     "director": ""
   },
   {
-    "title": "Fatherland",
-    "date": "2026-11-14",
-    "time": "12:30 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84774/85198",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "The Souvenir",
     "date": "2026-11-14",
     "time": "12:35 PM",
@@ -4430,32 +4209,6 @@
     "description": "In James Gray\u2019s deeply felt and intense drama, two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
     "runtime": "114 min",
     "director": "",
-    "city": "LA"
-  },
-  {
-    "title": "La Bola Negra",
-    "date": "2026-11-14",
-    "time": "12:50 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18376/",
-    "city": "London",
-    "description": "Explores what it means to be gay throughout different eras, focusing on \"three existences\" that are connected through themes of sexuality, desire, pain, and inheritance.",
-    "runtime": "159 min",
-    "director": "Javier Calvo, Javier Ambrossi"
-  },
-  {
-    "title": "Big Hero 6",
-    "date": "2026-11-14",
-    "time": "1:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4815622/",
-    "description": "Disney meets Marvel in this thrilling and charming tale of robotic friendship and fighting for what\u2019s right. A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes. So join us in San Fransokyo with your family and inflatable friends.",
-    "runtime": "102 min",
-    "director": "Chris Williams, Don Hall",
     "city": "LA"
   },
   {
@@ -4485,19 +4238,6 @@
     "director": ""
   },
   {
-    "title": "Ghosts: The Possession of Button House",
-    "date": "2026-11-14",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84517?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Three friends attempt to communicate with the spirits occupying a haunted house, and become embroiled in a supernatural adventure.",
-    "runtime": "97 min",
-    "director": "Simon Hynd"
-  },
-  {
     "title": "Naza",
     "date": "2026-11-14",
     "time": "1:10 PM",
@@ -4511,32 +4251,6 @@
     "director": "Yuval Abraham, Rachel Szor"
   },
   {
-    "title": "Bitter Christmas",
-    "date": "2026-11-14",
-    "time": "1:15 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84835/84840",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "Once Upon a Time in Harlem",
-    "date": "2026-11-14",
-    "time": "1:15 PM",
-    "format": "DCP",
-    "venue": "Film at Lincoln Center",
-    "venue_short": "FilmLinc",
-    "url": "https://purchase.filmlinc.org/84703/85232",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Possible Love",
     "date": "2026-11-14",
     "time": "1:20 PM",
@@ -4548,19 +4262,6 @@
     "description": "",
     "runtime": "164 min",
     "director": "Lee Chang-dong"
-  },
-  {
-    "title": "Primetime",
-    "date": "2026-11-14",
-    "time": "1:25 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84519?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-    "runtime": "109 min",
-    "director": "Lance Oppenheim"
   },
   {
     "title": "Soul Patrol",
@@ -4589,32 +4290,6 @@
     "director": ""
   },
   {
-    "title": "NAZA (15)",
-    "date": "2026-11-14",
-    "time": "1:30 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/naza",
-    "city": "London",
-    "description": "Cloaked in darkness on the rooftops of Tel Aviv, Israeli journalist Yuval Abraham conducts shattering one-on-one interviews with Israeli soldiers and intelligence personnel.",
-    "runtime": "80 min",
-    "director": "Yuval Abraham, Rachel Szor"
-  },
-  {
-    "title": "Festive Fun with Peppa Cinema Experience",
-    "date": "2026-11-14",
-    "time": "1:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84538?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Join Peppa Pig and her family at the cinema for a festive big-screen experience as they celebrate Evie\u2019s first Christmas! Share in the excitement of Christmas Day as the family of five reflect on treasured seasonal memories. From snowy adventures and festive plays to decorating the tree, this hour-long cinema experience brings together 7 classic festive-themed Peppa Pig episodes and 4 brand-new songs that little ones can dance and sing along to. Filled with laughter, music and heartwarming moments, this special cinema experience is the perfect family day out during the Christmas season. So grab your hats, scarves and gloves and enjoy the magic of the season along with your favourite piggies at the Festive Fun with Peppa Cinema Experience!",
-    "runtime": "58 min",
-    "director": ""
-  },
-  {
     "title": "Ratatouille",
     "date": "2026-11-14",
     "time": "2:00 pm",
@@ -4626,45 +4301,6 @@
     "runtime": "111 min",
     "director": "Brad Bird",
     "city": "LA"
-  },
-  {
-    "title": "LKFF: Women\u2019s Voices Shorts Programme",
-    "date": "2026-11-14",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "84 min",
-    "director": ""
-  },
-  {
-    "title": "Pereda: Greatest Hits",
-    "date": "2026-11-14",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "102 min",
-    "director": ""
-  },
-  {
-    "title": "La Bola Negra (15) (AD)",
-    "date": "2026-11-14",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/la-bola-negra",
-    "city": "London",
-    "description": "A genre-defying queer epic spanning generations, inspired by the legacy of beloved Spanish poet and playwright Federico Garc\u00eda Lorca.",
-    "runtime": "155 min",
-    "director": "Javier Ambrossi, Javier Calvo"
   },
   {
     "title": "JAPANESE FILM CLUB: YOUR NAME",
@@ -4745,58 +4381,6 @@
     "director": ""
   },
   {
-    "title": "PRIFF Programme 2",
-    "date": "2026-11-14",
-    "time": "2:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/83641?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "INHERITANCE brings together six films about what we inherit from our families and the systems that shape our lives. Alone in an empty church, a writer sets out to sever his relationship with God, only for a childhood memory of violence to turn his accusation back on himself. Malaika prepares for her wedding while struggling to live up to the ideal bride imposed by her mother and her Kenyan heritage. Released from prison, young father Obi arrives at a Nigerian caf\u00e9 in a spacesuit, stretching the lie that he has been in space just long enough to win over his curious daughter. In racially divided 1950s Britain, an Afro Caribbean miner struggles to find acceptance above ground. Sound recordist Dina turns to her craft to preserve the presence of her mother, a classical singer, as her health fades. And Out of the Ashes follows the organisers who, in 2020, built a fund of their own for Black and brown communities, challenging centuries of deciding who deserves help.",
-    "runtime": "120 min",
-    "director": ""
-  },
-  {
-    "title": "Wildwood",
-    "date": "2026-11-14",
-    "time": "2:40 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84522?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Portland-set story follows Prue McKeel, who enters an enchanted wonderland when her baby brother Mac is taken by a murder of crows into the forest\u2019s depths.",
-    "runtime": "132 min",
-    "director": "Travis Knight"
-  },
-  {
-    "title": "The Odyssey",
-    "date": "2026-11-14",
-    "time": "2:45 PM",
-    "format": "70mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627898",
-    "city": "London",
-    "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "runtime": "173 min",
-    "director": "Christopher Nolan"
-  },
-  {
-    "title": "Ebenezer: A Christmas Carol",
-    "date": "2026-11-14",
-    "time": "2:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84521?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A thrilling ghost story set in Dickens' London, following one man's supernatural journey to face his past, present and future as he fights for a second chance at redemption.",
-    "runtime": "116 min",
-    "director": "Ti West"
-  },
-  {
     "title": "D\u00c9J\u00c0 VU",
     "date": "2026-11-14",
     "time": "3:00 PM",
@@ -4823,58 +4407,6 @@
     "director": "Zhang Yimou"
   },
   {
-    "title": "Family Films: Let\u2019s Pretend",
-    "date": "2026-11-14",
-    "time": "3:00 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11790",
-    "city": "NYC",
-    "description": "What if a snowman could move, a painting came alive, or a shadow became a friend? These playful short films celebrate imagination and the magic of everyday moments. Between the films, join a discussion about what you saw, then try suggested follow-up activities in the Museum\u2019s galleries. After the screening, join us for a Q&A with filmmakers Yali Herbet (My Shadow and Me) and Sarah Cowan (Once upon an Artwork: A Trip to the Upside-Down World). Films to be screened include: Sketches on Ice. 2025. Belgium/France. Directed by Marion Auvin. When a fresh snowfall hits, Lou and Marius want to play outside\u2014but chores call them in. Then, something unbelievable happens: their snowman comes alive! 4 min. Pl.ink. 2011. Norway. Directed by Anne Kristin Berge. A hyper-imaginative little toddler forces his artist father to lighten up as he takes him on a color-splattered roller-coaster ride inside his own paintings. 3 min. Once upon an Artwork: A Trip to the Upside-Down World. 2026. USA. Directed by Sarah Cowan. Best friends Dili and Amalia draw a magical world inspired by Marc Chagall\u2019s I and the Village. Soon, a dancing goat and a mysterious doorknob spark colorful adventures in the Upside-Down World! 3 min. Shipwrecked. 2006. USA. Directed by Devon Bolton. A lonely 10-year-old boy discovers a magnificent miniature shipwreck on a cold, isolated beach. He\u2019s shocked to find dozens of tiny footprints leading away from the historic sailing vessel. 10 min. My Shadow and Me. 2024. Israel. Directed by Yali Herbet. During a family trip to the beach, five-year-old Ido, feeling overlooked and restless, discovers an enchanting friend when his shadow unexpectedly springs to life. 4 min. This program is included with Museum admission (free for kids 16 and under). Online registration is encouraged as space is limited. Use the \"Book tickets and register\" link to attend. MoMA members, SNAP/EBT, and Cool Culture pass holders receive free admission. For a full list of discounted admission, visit this page. For questions or accommodation requests, email FamilyPrograms@moma.org or call (212) 708-9805. Accessibility Accessible family and all-gender restrooms are located in the mezzanine. American Sign Language (ASL) interpretation and live captioning (CART) are available for public programs upon request with two weeks\u2019 advance notice. MoMA will make every effort to provide accommodation for requests made with less than two weeks\u2019 notice. Please contact FamilyPrograms@moma.org to make a request for these services. In order to serve visitors with hearing loss, the Bartos Theater has induction hearing loops for sound amplification. During scheduled programs, visitors can turn their hearing aid or cochlear implant to T-coil mode to hear enhanced sound effortlessly. The loop system does not work with hearing aids without telecoil technology. For more information on accessibility at MoMA, please visit moma.org/visit/accessibility.",
-    "runtime": "4 min",
-    "director": ""
-  },
-  {
-    "title": "LPFF 2026: Who is Still Alive (15*) + ScreenTalk",
-    "date": "2026-11-14",
-    "time": "3:00 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/lpff-who-is-still-alive-screentalk",
-    "city": "London",
-    "description": "Nine voices from Gaza. Nine people who tell of their lives before and amid the destruction, in the neighbourhoods whose outlines they draw in chalk on the ground.",
-    "runtime": "115 min",
-    "director": "Nicolas Wadimoff"
-  },
-  {
-    "title": "Fjord",
-    "date": "2026-11-14",
-    "time": "3:00 PM",
-    "format": "DCP",
-    "venue": "The Castle Cinema",
-    "venue_short": "Castle",
-    "url": "https://thecastlecinema.com/bookings/18377/",
-    "city": "London",
-    "description": "An immigrant Romanian family living in Norway is subject to an investigation and faces the scrutiny of the local judicial system.",
-    "runtime": "146 min",
-    "director": "Cristian Mungiu"
-  },
-  {
-    "title": "Verity",
-    "date": "2026-11-14",
-    "time": "3:00 PM",
-    "format": "DCP",
-    "venue": "Electric Cinema Portobello",
-    "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/84190",
-    "city": "London",
-    "description": "Adapted from Colleen Hoover's best-selling novel, this seductive, psychological thriller follows renowned author Verity Crawford (Anne Hathaway) and Lowen Ashleigh (Dakota Johnson), a struggling writer who relocates to the remote Crawford estate to ghostwrite for Verity. After Lowen uncovers what appears to be Verity's chilling autobiographical notes, she wrestles with the disturbing and twisted confessions about Verity\u2019s husband Jeremy (Josh Hartnett), and finds it hard to separate fiction from reality, manipulation from attraction, and opportunity from obsession.",
-    "runtime": "117 min",
-    "director": "Michael Showalter"
-  },
-  {
     "title": "Shutter Island",
     "date": "2026-11-14",
     "time": "3:00 PM",
@@ -4885,6 +4417,19 @@
     "city": "NYC",
     "description": "",
     "runtime": "",
+    "director": ""
+  },
+  {
+    "title": "Family Films: Let\u2019s Pretend",
+    "date": "2026-11-14",
+    "time": "3:00 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11790",
+    "city": "NYC",
+    "description": "What if a snowman could move, a painting came alive, or a shadow became a friend? These playful short films celebrate imagination and the magic of everyday moments. Between the films, join a discussion about what you saw, then try suggested follow-up activities in the Museum\u2019s galleries. After the screening, join us for a Q&A with filmmakers Yali Herbet (My Shadow and Me) and Sarah Cowan (Once upon an Artwork: A Trip to the Upside-Down World). Films to be screened include: Sketches on Ice. 2025. Belgium/France. Directed by Marion Auvin. When a fresh snowfall hits, Lou and Marius want to play outside\u2014but chores call them in. Then, something unbelievable happens: their snowman comes alive! 4 min. Pl.ink. 2011. Norway. Directed by Anne Kristin Berge. A hyper-imaginative little toddler forces his artist father to lighten up as he takes him on a color-splattered roller-coaster ride inside his own paintings. 3 min. Once upon an Artwork: A Trip to the Upside-Down World. 2026. USA. Directed by Sarah Cowan. Best friends Dili and Amalia draw a magical world inspired by Marc Chagall\u2019s I and the Village. Soon, a dancing goat and a mysterious doorknob spark colorful adventures in the Upside-Down World! 3 min. Shipwrecked. 2006. USA. Directed by Devon Bolton. A lonely 10-year-old boy discovers a magnificent miniature shipwreck on a cold, isolated beach. He\u2019s shocked to find dozens of tiny footprints leading away from the historic sailing vessel. 10 min. My Shadow and Me. 2024. Israel. Directed by Yali Herbet. During a family trip to the beach, five-year-old Ido, feeling overlooked and restless, discovers an enchanting friend when his shadow unexpectedly springs to life. 4 min. This program is included with Museum admission (free for kids 16 and under). Online registration is encouraged as space is limited. Use the \"Book tickets and register\" link to attend. MoMA members, SNAP/EBT, and Cool Culture pass holders receive free admission. For a full list of discounted admission, visit this page. For questions or accommodation requests, email FamilyPrograms@moma.org or call (212) 708-9805. Accessibility Accessible family and all-gender restrooms are located in the mezzanine. American Sign Language (ASL) interpretation and live captioning (CART) are available for public programs upon request with two weeks\u2019 advance notice. MoMA will make every effort to provide accommodation for requests made with less than two weeks\u2019 notice. Please contact FamilyPrograms@moma.org to make a request for these services. In order to serve visitors with hearing loss, the Bartos Theater has induction hearing loops for sound amplification. During scheduled programs, visitors can turn their hearing aid or cochlear implant to T-coil mode to hear enhanced sound effortlessly. The loop system does not work with hearing aids without telecoil technology. For more information on accessibility at MoMA, please visit moma.org/visit/accessibility.",
+    "runtime": "4 min",
     "director": ""
   },
   {
@@ -4899,19 +4444,6 @@
     "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
     "runtime": "101 min",
     "director": "John Wilson"
-  },
-  {
-    "title": "The Grand Budapest Hotel",
-    "date": "2026-11-14",
-    "time": "3:10 PM",
-    "format": "DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/film/1243115/the-grand-budapest-hotel",
-    "city": "London",
-    "description": "In the 1930s, the Grand Budapest Hotel is a popular European ski resort, presided over by concierge Gustave H. (Ralph Fiennes). Zero, a junior lobby boy, becomes Gustave's friend and protege. Gustave prides himself on providing first-class service to the hotel's guests, including satisfying the sexual needs of the many elderly women who stay there. When one of Gustave's lovers dies mysteriously, Gustave finds himself the recipient of a priceless painting and the chief suspect in her murder.",
-    "runtime": "100 min",
-    "director": "Wes Anderson"
   },
   {
     "title": "And Your Bird Can Sing preceded by August 8th",
@@ -4938,45 +4470,6 @@
     "description": "Mathieu Amalric MUSIC IS MUSIC 2017, 20 min, DCP \u201cIn a poetic composition of song, narration, and images, this film follows Canadian soprano and orchestra conductor Barbara Hannigan, accompanied by the Ludwig Orchestra, as she records her album \u2018Crazy Girl Crazy\u2019. Why did she choose these three pieces, in essence so different, but which intimately resonate with her: Berio\u2019s \u2018Sequenza III\u2019, Berg\u2019s \u2018Lulu Suite\u2019, and Gershwin\u2019s \u2018Girl Crazy\u2019?\u201d \u2013INTERNATIONAL FESTIVAL OF FILMS ON ART Mathieu Amalric BEFORE IT\u2019S TOO LATE / AVANT QU\u2019IL NE SOIT TROP TARD 2023, 65 min, DCP \u201cAfter 47 years together, the Emerson String Quartet records their last album, \u2018Infinite Voyage\u2019, in three days. For this farewell, they invited soprano Barbara Hannigan, and a film was born. Their precise work, the moments of enthusiasm and fear, the research and the jokes, the age limit of these men and Hannigan\u2019s flamboyance, the admiring friendship full of irony and rigor, the profession and yet the discovery, humor as a cog towards concentration, the individual and the group\u2026all this composes a portrait of the usually invisible production of music. Before everyone resumes their path.\u201d \u2013DOCLISBOA Total running time: ca. 90 min.",
     "runtime": "90 min",
     "director": ""
-  },
-  {
-    "title": "Miles Davis: The Late Show - A So Watt Special (PG)",
-    "date": "2026-11-14",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/cinema",
-    "city": "London",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
-    "title": "Wild Horse Nine",
-    "date": "2026-11-14",
-    "time": "3:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84523?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Set in 1973, during the US\u2019s attempt to overthrow the Chilean government, a hitman for the US government with connections to the JFK assassination suddenly realizes that his own people have put a hit on him to cover up the mess.",
-    "runtime": "117 min",
-    "director": "Martin McDonagh"
-  },
-  {
-    "title": "Ghosts: The Possession of Button House",
-    "date": "2026-11-14",
-    "time": "3:40 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84525?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Three friends attempt to communicate with the spirits occupying a haunted house, and become embroiled in a supernatural adventure.",
-    "runtime": "97 min",
-    "director": "Simon Hynd"
   },
   {
     "title": "ONCE UPON A TIME IN HARLEM",
@@ -5018,32 +4511,6 @@
     "director": ""
   },
   {
-    "title": "TIMES SQUARE",
-    "date": "2026-11-14",
-    "time": "3:50 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/823",
-    "city": "London",
-    "description": "Two teenagers escape a psychiatric hospital and turn the streets of New York into their stage. As the Sleez Sisters, Pamela and Nicky invent a noisy new identity that parents, police and respectable society cannot comfortably contain.\nTrini Alvarado and Robin Johnson give Allan Moyle\u2019s cult film its bruised, rebellious heart. A tremendous punk and new-wave soundtrack propels a vision of friendship as self-invention, against a Midtown that has since disappeared. Ragged, romantic and fiercely attached to its outsiders, TIMES SQUARE is a love song to girls making themselves heard.",
-    "runtime": "111 min",
-    "director": "Allan Moyle"
-  },
-  {
-    "title": "Primetime",
-    "date": "2026-11-14",
-    "time": "3:50 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84526?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-    "runtime": "109 min",
-    "director": "Lance Oppenheim"
-  },
-  {
     "title": "Mouse (Open Captioning)",
     "date": "2026-11-14",
     "time": "3:55 PM",
@@ -5070,19 +4537,6 @@
     "city": "LA"
   },
   {
-    "title": "On the Waterfront",
-    "date": "2026-11-14",
-    "time": "4:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4815623/",
-    "description": "I coulda been a contender. I coulda been somebody, instead of a bum, which is what I am, let\u2019s face it. You might know that iconic quote, and you might be aware that Marlon Brando\u2019s performance in this movie was a game-changer in film history, helping to popularize the more naturalistic style known as Method acting. But don\u2019t let that overshadow the film itself, a masterpiece that earned eight Academy Awards (including Best Picture) and remains just as powerful 70 years later. Brando plays Terry Malloy, a longshoreman and former boxer who grows to resent the mobsters who control his local union. And in her film debut, Eva Marie Saint is luminous as Terry\u2019s love interest, who acts as his conscience and inspires him to take a stand and fight back \u2013 no matter what the cost.",
-    "runtime": "108 min",
-    "director": "Elia Kazan",
-    "city": "LA"
-  },
-  {
     "title": "The Kiev Trial (\u041a\u0418\u0415\u0412\u0421\u041a\u0418\u0419 \u041f\u0420\u041e\u0426\u0415\u0421\u0421)",
     "date": "2026-11-14",
     "time": "4:00 PM",
@@ -5094,32 +4548,6 @@
     "description": "The Kiev Trial (\u041a\u0418\u0415\u0412\u0421\u041a\u0418\u0419 \u041f\u0420\u041e\u0426\u0415\u0421\u0421). 2022. Netherlands/Ukraine. Written and directed by Sergei Loznitsa. DCP courtesy Atoms & Void. In Ukranian, Russian, German; English subtitles. 106 min. Produced by the Baba Yar Holocaust Memorial Center, Sergei Loztnitsa\u2019s The Kiev Trial reconstructs, through previously unseen archival footage, Case No. 1679, the so-called \u201cKyiv Nuremberg,\u201d the postwar hearings during which 15 Nazis and their collaborators were tried and found guilty of atrocities committed on Ukrainian soil, including the murder of some 3,000 children of mixed ancestry; the execution in mass pits of thousands of Jews from Lvov, Rivne, Kremenchuk, and Novomoskovsk; the assassination of suspected communist partisans; and the liquidation of entire villages \u201cunder the Fuhrer\u2019s orders\u2026to create lebensraum [living space] for us.\u201d The unembellished courtroom testimonials of the defendants, corroborated by the witnesses to their crimes, including survivors of Babi Yar and Auschwitz, are a profile in \u201cordinary\u201d human savagery: murder by lynching, beatings, machine gun, starvation, live burial, fire. The reactions of the masses gathered in Kyiv\u2019s Kalinin Square to witness their death by hanging on January 29, 1946, suggest an uneasy catharsis.",
     "runtime": "106 min",
     "director": "Sergei Loznitsa"
-  },
-  {
-    "title": "Naza",
-    "date": "2026-11-14",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/naza",
-    "city": "London",
-    "description": "Directed by Yuval Abraham and Rachel Szor, two of the co-directors of the 2024 Oscar-winning documentary No Other Land , Naza reveals the systems behind Israel\u2019s bombing of Gaza and its mass killing of Palestinian civilians. Winner of Special Jury Prize at the 2026 Venice Film Festival.",
-    "runtime": "80 min",
-    "director": "Yuval Abraham"
-  },
-  {
-    "title": "Pereda: Minotaur + My Skin, Luminous",
-    "date": "2026-11-14",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "83 min",
-    "director": ""
   },
   {
     "title": "Wicker",
@@ -5213,19 +4641,6 @@
     "director": ""
   },
   {
-    "title": "La Bola Negra (15) (AD)",
-    "date": "2026-11-14",
-    "time": "5:15 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/la-bola-negra",
-    "city": "London",
-    "description": "A genre-defying queer epic spanning generations, inspired by the legacy of beloved Spanish poet and playwright Federico Garc\u00eda Lorca.",
-    "runtime": "155 min",
-    "director": "Javier Ambrossi, Javier Calvo"
-  },
-  {
     "title": "ALL OF A SUDDEN",
     "date": "2026-11-14",
     "time": "5:30 PM",
@@ -5252,19 +4667,6 @@
     "city": "LA"
   },
   {
-    "title": "Ebenezer: A Christmas Carol",
-    "date": "2026-11-14",
-    "time": "5:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84528?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "A thrilling ghost story set in Dickens' London, following one man's supernatural journey to face his past, present and future as he fights for a second chance at redemption.",
-    "runtime": "116 min",
-    "director": "Ti West"
-  },
-  {
     "title": "Naza",
     "date": "2026-11-14",
     "time": "5:35 PM",
@@ -5289,32 +4691,6 @@
     "description": "Nineteen-year-old Songlian, a promising student whose family has been destroyed by her father\u2019s death, is forced to abandon her studies and marry into wealth, becoming the fourth and newest concubine of the aging, unseen Master Chen. Inside his walled estate, she discovers a household ruled by a merciless ritual: each night, red lanterns are lit outside the chambers of whichever wife the master chooses to visit, granting her privilege and status while the others are cast into cold irrelevance. Songlian is drawn into the orbit of her rivals, each shaped by years of fighting for the same scraps of attention. Determined at first to rise above the games, Songlian is gradually worn down by isolation and humiliation until she strikes back, trading secrets and favors to secure her place in Master Chen\u2019s hierarchy. As petty cruelty turns even more dire, Songlian is forced to confront what these desperate measures will cost her soul. Newly restored, RAISE THE RED LANTERN remains a landmark of Fifth Generation Chinese cinema and 1990s international film. The 4K restoration of RAISE THE RED LANTERN was carried out by the Udine Far East Film Festival on the occasion of its 26th edition. The original image and sound negatives were used under the supervision of Director Zhang Yimou. The vintage positive copy, presented at the 1991 Venice International Film Festival and preserved at the Venice Biennale's Historical Archive of Contemporary Arts, was used for color reference. The restoration was made in 2024 at L'Immagine Ritrovata (Hong Kong \u2013 Bologna).",
     "runtime": "125 min",
     "director": "Zhang Yimou"
-  },
-  {
-    "title": "Predator",
-    "date": "2026-11-14",
-    "time": "5:40 PM",
-    "format": "35mm",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/film/3852873/predator",
-    "city": "London",
-    "description": "A team of elite commandos on a secret mission in a Central American jungle come to find themselves hunted by an extraterrestrial warrior.",
-    "runtime": "107 min",
-    "director": "John McTiernan"
-  },
-  {
-    "title": "Wildwood",
-    "date": "2026-11-14",
-    "time": "5:40 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84533?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "The Portland-set story follows Prue McKeel, who enters an enchanted wonderland when her baby brother Mac is taken by a murder of crows into the forest\u2019s depths.",
-    "runtime": "132 min",
-    "director": "Travis Knight"
   },
   {
     "title": "All the Long Nights",
@@ -5369,19 +4745,6 @@
     "director": ""
   },
   {
-    "title": "Wild Horse Nine (15) (AD)",
-    "date": "2026-11-14",
-    "time": "5:55 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/parent-baby-screening-wild-horse-nine",
-    "city": "London",
-    "description": "Two eccentric CIA agents ( John Malkovich and Sam Rockwell ) await orders on Easter Island, on the cusp of yet another military coup in Martin McDonagh 's latest dark comedy.",
-    "runtime": "118 min",
-    "director": "Martin McDonagh"
-  },
-  {
     "title": "ONCE UPON A TIME IN HARLEM",
     "date": "2026-11-14",
     "time": "6:00 PM",
@@ -5392,32 +4755,6 @@
     "city": "NYC",
     "description": "August 1972: A reunion of Harlem Renaissance luminaries is held at Duke Ellington\u2019s St. Nicholas Ave. townhouse. Though many of these figures haven\u2019t seen each other in 50 years, sharp memories, vigorous debates, and unsettled scores soon flow through this stunner of a cocktail party, which features (among others): artists Romare Bearden, Aaron Douglas, and Richard Bruce Nugent; composer Eubie Blake; poet Arna Bontemps; photographer James Van Der Zee; and activists Richard B. Moore and Louise Patterson. After organizing and shooting this extraordinary gathering, filmmaker William Greaves (SYMBIOPSYCHOTAXIPLASM: TAKE ONE) was unable to complete the film before his death in 2014. One of the cameramen that day was his son David, who expertly reshaped this never-before-seen, newly-restored footage into \u201ca film for the ages\u2026one of the greatest cinematic works of creative nonfiction that I\u2019ve ever seen.\u201d \u2013 Richard Brody,\u202fThe New Yorker",
     "runtime": "100 min",
-    "director": ""
-  },
-  {
-    "title": "An Unfinished Film",
-    "date": "2026-11-14",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films/an-unfinished-film",
-    "city": "London",
-    "description": "\u2605\u2605\u2605\u2605\u2605 \u201cAn utterly unique and very important movie about Covid, the crisis that affected all of us.\u201d \u2013 The Guardian Director Xiaorui convinces his cast and crew to resume the shooting of a film halted ten years earlier. In January 2020, with the shoot almost complete, rumours regarding an illness begin to circulate. A hairdresser from Wuhan is sent home, while the crew follows the news on their phones. The director has to decide whether to halt the filming once again. Some of the crew and actors manage to leave before the hotel is locked down by security guards and everyone left on set is confined to their hotel rooms. As all communication is reduced to phone screens, Wuhan is locked down. The crew continues to communicate via video calls, whilst the quarantined main actor Jiang Cheng struggles to support his wife who is now locked-down with their month-old baby in Beijing.",
-    "runtime": "107 min",
-    "director": "Lou Ye"
-  },
-  {
-    "title": "LPFF 2026: Who Killed Alex Odeh?",
-    "date": "2026-11-14",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "ICA",
-    "venue_short": "ICA",
-    "url": "https://www.ica.art/films",
-    "city": "London",
-    "description": "",
-    "runtime": "84 min",
     "director": ""
   },
   {
@@ -5434,19 +4771,6 @@
     "director": "Cristian Mungiu"
   },
   {
-    "title": "Ghosts: The Possession of Button House",
-    "date": "2026-11-14",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84531?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Three friends attempt to communicate with the spirits occupying a haunted house, and become embroiled in a supernatural adventure.",
-    "runtime": "97 min",
-    "director": "Simon Hynd"
-  },
-  {
     "title": "Primetime",
     "date": "2026-11-14",
     "time": "6:00 PM",
@@ -5458,19 +4782,6 @@
     "description": "Inspired by true events in 2006, \"To Catch a Predator\" host Chris Hansen sets out to make television history. But when a high-stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare.",
     "runtime": "109 min",
     "director": "Lance Oppenheim"
-  },
-  {
-    "title": "Wild Horse Nine",
-    "date": "2026-11-14",
-    "time": "6:10 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84530?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "Set in 1973, during the US\u2019s attempt to overthrow the Chilean government, a hitman for the US government with connections to the JFK assassination suddenly realizes that his own people have put a hit on him to cover up the mess.",
-    "runtime": "117 min",
-    "director": "Martin McDonagh"
   },
   {
     "title": "Bitter Christmas",
@@ -5538,45 +4849,6 @@
     "director": "Rupert Julian"
   },
   {
-    "title": "NAZA (15)",
-    "date": "2026-11-14",
-    "time": "6:20 PM",
-    "format": "DCP",
-    "venue": "Barbican",
-    "venue_short": "Barbican",
-    "url": "https://www.barbican.org.uk/whats-on/2026/event/naza",
-    "city": "London",
-    "description": "Cloaked in darkness on the rooftops of Tel Aviv, Israeli journalist Yuval Abraham conducts shattering one-on-one interviews with Israeli soldiers and intelligence personnel.",
-    "runtime": "80 min",
-    "director": "Yuval Abraham, Rachel Szor"
-  },
-  {
-    "title": "Fargo",
-    "date": "2026-11-14",
-    "time": "6:20 PM",
-    "format": "4K DCP",
-    "venue": "Prince Charles Cinema",
-    "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628332",
-    "city": "London",
-    "description": "Minnesota car salesman Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
-    "runtime": "100 min",
-    "director": "Ethan Coen, Joel Coen"
-  },
-  {
-    "title": "Primetime",
-    "date": "2026-11-14",
-    "time": "6:20 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84532?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-    "runtime": "109 min",
-    "director": "Lance Oppenheim"
-  },
-  {
     "title": "FATHERLAND",
     "date": "2026-11-14",
     "time": "6:30 PM",
@@ -5614,32 +4886,6 @@
     "description": "",
     "runtime": "",
     "director": "Sergei Loznitsa"
-  },
-  {
-    "title": "STAY",
-    "date": "2026-11-14",
-    "time": "6:30 PM",
-    "format": "Digital",
-    "venue": "The Nickel Cinema",
-    "venue_short": "Nickel",
-    "url": "https://thenickel.co.uk/screening/795",
-    "city": "London",
-    "description": "STAY tells the story of an artist (The Artist) sentenced to do time in The Curfew Tower, with only a handheld puppet of Elvis (Puppet Elvis) as company. While doing time, The Artist is expected to write the second-best song he has ever written. And this song is for the Ghost of Elvis and is to be performed at The 25 Comeback Special. In reality The Artist is just trying to escape the gathering storm clouds of his inevitable midlife crisis. That, and the reality of being a bad father. The only dialogue in the film is an internal one between The Artist and Puppet Elvis.\nSTAY is probably the bleakest film you could ever watch. It contains no sex or violence, no kissing or killing, not even any fucking or fighting, or any of those other things some might want to vicariously experience via the medium of film. STAY is a film without HOPE.\nThe screening at The Nickel is to be the only screening in UK in 2026. Tracey Moberly, Tony Wright & Puppet Elvis will be there for a post screening interrogation. The former Bill Drummond will be there to chair the interrogation. He will also be there to stamp people\u2019s wrists as they enter the building.\nWARNING: It is expected that everyone attending this screening will bring their own handheld puppet to watch the film with them \u2013 No Puppet, No Entry. Also... Puppet Elvis will be the judge of the post Interrogation Puppet Contest.",
-    "runtime": "87 min",
-    "director": "Tracey Moberly"
-  },
-  {
-    "title": "Wicker",
-    "date": "2026-11-14",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "Peckhamplex",
-    "venue_short": "Peckhamplex",
-    "url": "https://ticketing.eu.veezi.com/purchase/84529?siteToken=f3d16dvfdem7nzemve42hxwj68",
-    "city": "London",
-    "description": "On the outskirts of a village by the sea, lives a Fisherwoman; smelly, single and perpetually ridiculed. One day, fed up with her stuffy, small-minded neighbors, she commissions herself a husband to be made from wicker. In an otherwise conservative town, this unconventional romance sparks outrage, jealousy and chaos.",
-    "runtime": "105 min",
-    "director": "Alex Huston Fischer, Eleanor Wilson"
   },
   {
     "title": "Mouse",
@@ -5681,32 +4927,6 @@
     "city": "LA"
   },
   {
-    "title": "Pretty in Pink",
-    "date": "2026-11-14",
-    "time": "7:00 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4815624/",
-    "description": "Put on your dancing shoes and get ready for this all-time teen classic of high school romance, jealousy, resourcefulness, and classism. Molly Ringwald plays Andie, a creative outcast from the wrong side of the tracks who falls for a rich kid (80\u2019s heartthrob Andrew McCarthy) and ends up causing rifts in both their worlds. This sweet and stylish romance features incredible performances from the entire cast including Annie Potts as the fashionista record store owner, Jon Cryer as the Otis Redding lip-syncing obsessed best friend, James Spader as the vilest of the upper crust, and of course Vidiots favorite Harry Dean Stanton as her single father.",
-    "runtime": "97 min",
-    "director": "Howard Deutch",
-    "city": "LA"
-  },
-  {
-    "title": "CYBERCON: SOSUPERSAM & Kyle Ng Live Score to Interstella 5555 (2003)",
-    "date": "2026-11-14",
-    "time": "7:00 pm",
-    "format": "DCP",
-    "venue": "Brain Dead Studios",
-    "venue_short": "BrainDead",
-    "url": "https://dice.fm/partner/tickets/event/3o86vp-cybercon-sosupersam-kyle-ng-live-score-to-interstella-5555-2003-14th-nov-brain-dead-studios-los-angeles-tickets?dice_id=10811396&dice_channel=web&dice_tags=organic&dice_campaign=DICE&dice_feature=mio_marketing&_branch_match_id=1256662425127165609&utm_source=web&utm_campaign=DICE&utm_medium=mio_marketing&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXz8nMy9ZLyUxO1UvL1fc2sUhLNjO0NDVKtLSvK0pNSy0qysxLj08qyi8vTi2ydc4oys9NBQCeS4ipOwAAAA%3D%3D",
-    "description": "Join us at Brain Dead Studios for an intimate screening of the 2003 animated classic Interstella 5555, featuring a live DJ score performed by SOSUPERSAM and Kyle Ng.",
-    "runtime": "66 min",
-    "director": "Daisuke Nishio, Hirotoshi Rissen, Kazuhisa Takenouchi, Leiji Matsumoto",
-    "city": "LA"
-  },
-  {
     "title": "The History of Concrete",
     "date": "2026-11-14",
     "time": "7:05 PM",
@@ -5718,19 +4938,6 @@
     "description": "Fri, Sep 18: Q&A with dir. John Wilson, moderated by Edy Modica (actress, comedian, filmmaker), after 4:40 show! Fri, Sep 18: Q&A with dir. John Wilson, moderated by Rachel Kaly (comedian, writer, actor), after 7:15 show! Sun, Sep 20: Q&A with dir. John Wilson, moderated by Sarah Sherman after 2:10 show! Following the finale of his TV show, filmmaker John Wilson searches for a new creative outlet. After attending a workshop on how to write and sell a Hallmark movie, he attempts to apply the same formula to a documentary about concrete.",
     "runtime": "101 min",
     "director": "John Wilson"
-  },
-  {
-    "title": "You Had to Be There: How the Toronto Godspell Ignited the Comedy Revolution\u2026",
-    "date": "2026-11-14",
-    "time": "7:20 pm",
-    "format": "Digital",
-    "venue": "Vidiots Foundation",
-    "venue_short": "Vidiots",
-    "url": "https://vidiotsfoundation.org/purchase/4883136/",
-    "description": "Join us and some of the funniest people on the planet for one of the most joyous documentaries of the year \u2013 the lightning in a bottle that was the 1972 Toronto production of the musical Godspell. Martin Short, Eugene Levy, Gilda Radner, Victor Garber, Paul Shaffer, and other entertainment icons got their start in the musical, and began a legacy of Canadian comedy and camaraderie that would last for decades. Featuring interviews with the surviving cast members, Lin-Manuel Miranda, Mike Myers, and more, the film recounts a pivotal moment in comedy history, in hilarious, moving, and inspiring detail.",
-    "runtime": "98 min",
-    "director": "Nick Davis",
-    "city": "LA"
   },
   {
     "title": "The Devils",
@@ -6077,7 +5284,7 @@
     "format": "4K DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628349",
+    "url": "https://princecharlescinema.com/film/2409654/cinema-paradiso-nuovo-cinema-paradiso",
     "city": "London",
     "description": "A winner of awards across the world including Best Foreign Language Film Oscar, 5 BAFTA Awards including Best Actor, Original Screenplay and Score, the Grand Prize of the Jury at the Cannes Film Festival and many more. Giuseppe Tornatore's loving homage to the cinema tells the story of Salvatore, a successful film director, returning home for the funeral of Alfredo, his old friend who was the projectionist at the local cinema throughout his childhood. Soon memories of his first love affair with the beautiful Elena and all the highs and lows that shaped his life come flooding back, as Salvatore reconnects with the community he left 30 years earlier.",
     "runtime": "124 min",
@@ -6168,7 +5375,7 @@
     "format": "DCP",
     "venue": "Electric Cinema Portobello",
     "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/84194",
+    "url": "https://www.electriccinema.co.uk/film/wild-horse-nine/",
     "city": "London",
     "description": "Set in 1973, during the US\u2019s attempt to overthrow the Chilean government, a hitman for the US government with connections to the JFK assassination suddenly realizes that his own people have put a hit on him to cover up the mess.",
     "runtime": "117 min",
@@ -6186,19 +5393,6 @@
     "description": "Richard Hawkins\u2019 powerful, award-winning period drama. Six disparate souls are sent on a secret government mission in 1943 to make propaganda pornographic films for the boys on the frontline. Each with a price to pay, the group bears witness to the toll of war far away from the battlefield.",
     "runtime": "102 min",
     "director": "Richard Hawkins"
-  },
-  {
-    "title": "CYBERCON: Rubber\u2019s Lover",
-    "date": "2026-11-14",
-    "time": "9:15 pm",
-    "format": "DCP",
-    "venue": "Brain Dead Studios",
-    "venue_short": "BrainDead",
-    "url": "https://studios.wearebraindead.com/purchase/1453313/",
-    "description": "A clandestine group of scientists are conducting brutal experiments on human test subjects in an attempt to unlock psychic powers. An assault of industrial noise, sensory deprivation, and grotesque body horror, Rubber\u2019s Lover (1996) is often considered an unofficial prequel to Fukui\u2019s 964 PINOCCHIO (1991) , expanding on its obsessions with technology, bodily transformation, and the limits of human consciousness.",
-    "runtime": "91 min",
-    "director": "Shozin Fukui",
-    "city": "LA"
   },
   {
     "title": "The Devils",
@@ -6708,19 +5902,6 @@
     "city": "LA"
   },
   {
-    "title": "West Side Story",
-    "date": "2026-11-15",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11782",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Ghosts: The Possession of Button House",
     "date": "2026-11-15",
     "time": "1:00 PM",
@@ -6732,6 +5913,19 @@
     "description": "Three friends attempt to communicate with the spirits occupying a haunted house, and become embroiled in a supernatural adventure.",
     "runtime": "97 min",
     "director": "Simon Hynd"
+  },
+  {
+    "title": "West Side Story",
+    "date": "2026-11-15",
+    "time": "1:00 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11782",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Naza",
@@ -6792,7 +5986,7 @@
     "format": "DCP",
     "venue": "Electric Cinema Portobello",
     "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/84206",
+    "url": "https://www.electriccinema.co.uk/film/sense-and-sensibility-2/",
     "city": "London",
     "description": "An irresistible new take on Jane Austen\u2019s iconic Sense and Sensibility: a charming, witty, and deeply relatable story of love and sisterhood.\r\nThree sisters experience love and heartbreak after they're forced to leave their family estate with their widowed mother and move to a humble cottage...",
     "runtime": "131 min",
@@ -6942,19 +6136,6 @@
     "city": "LA"
   },
   {
-    "title": "Bunker",
-    "date": "2026-11-15",
-    "time": "2:00 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11804",
-    "city": "NYC",
-    "description": "Bunker. 2026. France/Spain. Written and directed by Florian Zeller. With Pen\u00e9lope Cruz, Javier Bardem, Stephen Graham. DCP courtesy Sony Pictures Classics. In English, Spanish; English subtitles. 126 min. When Miguel (Javier Bardem), an acclaimed architect, accepts an unusual commission from a tech billionaire (Paul Dano), his wife, Sofia (Pen\u00e9lope Cruz), an editor, is unsettled by what the project represents: vast inequality and a world increasingly shaped by fear and isolation. Their opposing convictions begin to put pressure on their 17-year marriage, as Florian Zeller (The Father) turns a seemingly professional decision into an intimate examination of marriage, privilege, and the anxieties of an uncertain future. With real-life couple Bardem and Cruz bringing extraordinary depth to their roles, Bunker uses architecture\u2014walls, shelters, and private spaces\u2014as a way of thinking about the barriers we construct, both around ourselves and between one another. Tickets are available to members at the Explore category and above beginning two weeks before each screening date. Additional tickets will be released to members and the general public one week before each screening date. Please note that space is extremely limited and tickets will be in high demand. Tickets can be reserved at moma.org/contenders beginning at 10:30 a.m. ET. For the Contenders series, due to limited availability, members at the Explore category and above receive two free tickets per membership. If a screening is sold out, a standby line will form one hour before the start time. If you are a ticket holder and arrive after the scheduled start time, we cannot guarantee entry.",
-    "runtime": "126 min",
-    "director": "Florian Zeller"
-  },
-  {
     "title": "John Coltrane, Soundtracking Cinema: Mo'Bette Blues (15)",
     "date": "2026-11-15",
     "time": "2:00 PM",
@@ -6966,6 +6147,19 @@
     "description": "",
     "runtime": "",
     "director": ""
+  },
+  {
+    "title": "Bunker",
+    "date": "2026-11-15",
+    "time": "2:00 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11804",
+    "city": "NYC",
+    "description": "Bunker. 2026. France/Spain. Written and directed by Florian Zeller. With Pen\u00e9lope Cruz, Javier Bardem, Stephen Graham. DCP courtesy Sony Pictures Classics. In English, Spanish; English subtitles. 126 min. When Miguel (Javier Bardem), an acclaimed architect, accepts an unusual commission from a tech billionaire (Paul Dano), his wife, Sofia (Pen\u00e9lope Cruz), an editor, is unsettled by what the project represents: vast inequality and a world increasingly shaped by fear and isolation. Their opposing convictions begin to put pressure on their 17-year marriage, as Florian Zeller (The Father) turns a seemingly professional decision into an intimate examination of marriage, privilege, and the anxieties of an uncertain future. With real-life couple Bardem and Cruz bringing extraordinary depth to their roles, Bunker uses architecture\u2014walls, shelters, and private spaces\u2014as a way of thinking about the barriers we construct, both around ourselves and between one another. Tickets are available to members at the Explore category and above beginning two weeks before each screening date. Additional tickets will be released to members and the general public one week before each screening date. Please note that space is extremely limited and tickets will be in high demand. Tickets can be reserved at moma.org/contenders beginning at 10:30 a.m. ET. For the Contenders series, due to limited availability, members at the Explore category and above receive two free tickets per membership. If a screening is sold out, a standby line will form one hour before the start time. If you are a ticket holder and arrive after the scheduled start time, we cannot guarantee entry.",
+    "runtime": "126 min",
+    "director": "Florian Zeller"
   },
   {
     "title": "Wild Horse Nine (15) (AD)",
@@ -7455,24 +6649,11 @@
     "format": "DCP",
     "venue": "Electric Cinema Portobello",
     "venue_short": "Electric",
-    "url": "https://www.electriccinema.co.uk/tickets/84195",
+    "url": "https://www.electriccinema.co.uk/film/wild-horse-nine/",
     "city": "London",
     "description": "Set in 1973, during the US\u2019s attempt to overthrow the Chilean government, a hitman for the US government with connections to the JFK assassination suddenly realizes that his own people have put a hit on him to cover up the mess.",
     "runtime": "117 min",
     "director": "Martin McDonagh"
-  },
-  {
-    "title": "Yes",
-    "date": "2026-11-15",
-    "time": "5:00 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11805",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": "Nadav Lapid"
   },
   {
     "title": "Primetime",
@@ -7499,6 +6680,19 @@
     "description": "An enduring masterpiece of cinema starring Vanessa Redgrave and Oliver Reed, KEN RUSSELL'S THE DEVILS is a prescient epic of obsession and corruption and a defining work of art from seminal filmmaker Ken Russell presented in newly restored 4K. Inspired by the true story of 17th-century priest Urbain...",
     "runtime": "115 min",
     "director": "Ken Russell"
+  },
+  {
+    "title": "Yes",
+    "date": "2026-11-15",
+    "time": "5:00 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11805",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": "Nadav Lapid"
   },
   {
     "title": "Wild Horse Nine (15) (AD)",
@@ -7572,7 +6766,7 @@
     "format": "35mm",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628365",
+    "url": "https://princecharlescinema.com/film/31616994/in-a-lonely-place",
     "city": "London",
     "description": "A screenwriter with a violent temper is a murder suspect until his lovely neighbor clears him. However, she soon starts to have her doubts.",
     "runtime": "94 min",
@@ -10536,7 +9730,7 @@
     "format": "4K DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31627901",
+    "url": "https://princecharlescinema.com/film/3225884/kingdom-of-heaven-directors-cut",
     "city": "London",
     "description": "Ridley Scott's extended cut of an epic adventure about a common man who finds himself thrust into a decades-long war. Orlando Bloom plays a humble blacksmith who discovers that he is the son of a knght, and travels to the Holy Land to fight in the crusades. A stranger in a strange land, he serves a doomed King, falls in love with an exotic and forbidden Queen, and rises to knighthood. Ultimately, he must protect the people of Jerusalem from overwhelming forces, while striving to keep a fragile peace.",
     "runtime": "190 min",
@@ -12467,19 +11661,6 @@
     "director": "Alex Thompson, Kelly O'Sullivan"
   },
   {
-    "title": "Victory Day (\u0414\u0435\u043d\u044c \u041f\u043e\u0431\u0435\u0434\u044b)",
-    "date": "2026-11-19",
-    "time": "4:00 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11725",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": "Sergei Loznitsa"
-  },
-  {
     "title": "An Unfinished Film",
     "date": "2026-11-19",
     "time": "4:00 PM",
@@ -12504,6 +11685,19 @@
     "description": "Censored for more than half a century, Ken Russell\u2019s visionary masterpiece returns to the big screen fully restored in 4K and cut to Russell\u2019s direction \u2013 the first publicly released version of the film as intended by the filmmaker. Unveiled at the 79th Cannes Film Festival, the definitive version arrives 55 years after the film\u2019s original release. An enduring masterpiece of cinema starring Oliver Reed and Vanessa Redgrave, Ken Russell\u2019s The Devils is a prescient epic of obsession and corruption. Inspired by the true story of 17th-century priest Urbain Grandier, accused of bewitching a convent of nuns, the film lays bare the collusion of church and state through a searing vision of religious persecution, collective hysteria and institutional corruption. In addition to powerhouse performances from Reed and Redgrave, Ken Russell\u2019s The Devils showcases the stunning work of artists at the peak of their craft: Academy Award-winning cinematographer David Watkin ( Out of Africa , Chariots of Fire ); editor Michael Bradsell ( Local Hero , Jabberwocky ); and visual artist Derek Jarman ( Jubilee , Caravaggio ), whose work as production designer marked his feature film debut.",
     "runtime": "107 min",
     "director": "Ken Russell"
+  },
+  {
+    "title": "Victory Day (\u0414\u0435\u043d\u044c \u041f\u043e\u0431\u0435\u0434\u044b)",
+    "date": "2026-11-19",
+    "time": "4:00 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11725",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": "Sergei Loznitsa"
   },
   {
     "title": "Fatherland",
@@ -12597,19 +11791,6 @@
     "director": "Martin McDonagh"
   },
   {
-    "title": "Soudain (All of a Sudden)",
-    "date": "2026-11-19",
-    "time": "6:00 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11809",
-    "city": "NYC",
-    "description": "Soudain (All of a Sudden). 2026. France/Japan/Germany/Belgium. Directed by Ry\u00fbsuke Hamaguchi. Screenplay by Hamaguchi, L\u00e9a Le Dimna, based on the book by Maho Isono, Makiko Miyano. With Virginie Efira, Tao Okamoto, Ky\u00f4z\u00f4 Nagatsuka. DCP courtesy NEON. 196 min. Based on an exchange of letters between philosopher Makiko Miyano and medical anthropologist Maho Isono, Ry\u00fbsuke Hamaguchi\u2019s film depicts the remarkable chance encounter in Paris of Marie-Lou, a French nursing home director and caregiver, and Mari, a Japanese theater director facing terminal cancer. As they spend time together after a performance of one of Mari\u2019s plays and at the nursing home where Marie-Lou implements a new program of radical empathy for the patients\u2019 bodies and souls against skeptical colleagues, both connect over longing, sentimental aspirations, and the sociopolitical strains that have driven their life choices and shaped their communities. All of a Sudden isn\u2019t just a fascinating look into our era\u2019s anxieties and injustices, it\u2019s also a moving testimony to the power of human empathy in an era that may make you think there is none. Tickets are available to members at the Explore category and above beginning two weeks before each screening date. Additional tickets will be released to members and the general public one week before each screening date. Please note that space is extremely limited and tickets will be in high demand. Tickets can be reserved at moma.org/contenders beginning at 10:30 a.m. ET. For the Contenders series, due to limited availability, members at the Explore category and above receive two free tickets per membership. If a screening is sold out, a standby line will form one hour before the start time. If you are a ticket holder and arrive after the scheduled start time, we cannot guarantee entry.",
-    "runtime": "196 min",
-    "director": "Ry\u00fbsuke Hamaguchi"
-  },
-  {
     "title": "Raise the Red Lantern",
     "date": "2026-11-19",
     "time": "6:00 PM",
@@ -12673,6 +11854,19 @@
     "description": "Inspired by true events in 2006, \"To Catch a Predator\" host Chris Hansen sets out to make television history. But when a high-stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare.",
     "runtime": "109 min",
     "director": "Lance Oppenheim"
+  },
+  {
+    "title": "Soudain (All of a Sudden)",
+    "date": "2026-11-19",
+    "time": "6:00 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11809",
+    "city": "NYC",
+    "description": "Soudain (All of a Sudden). 2026. France/Japan/Germany/Belgium. Directed by Ry\u00fbsuke Hamaguchi. Screenplay by Hamaguchi, L\u00e9a Le Dimna, based on the book by Maho Isono, Makiko Miyano. With Virginie Efira, Tao Okamoto, Ky\u00f4z\u00f4 Nagatsuka. DCP courtesy NEON. 196 min. Based on an exchange of letters between philosopher Makiko Miyano and medical anthropologist Maho Isono, Ry\u00fbsuke Hamaguchi\u2019s film depicts the remarkable chance encounter in Paris of Marie-Lou, a French nursing home director and caregiver, and Mari, a Japanese theater director facing terminal cancer. As they spend time together after a performance of one of Mari\u2019s plays and at the nursing home where Marie-Lou implements a new program of radical empathy for the patients\u2019 bodies and souls against skeptical colleagues, both connect over longing, sentimental aspirations, and the sociopolitical strains that have driven their life choices and shaped their communities. All of a Sudden isn\u2019t just a fascinating look into our era\u2019s anxieties and injustices, it\u2019s also a moving testimony to the power of human empathy in an era that may make you think there is none. Tickets are available to members at the Explore category and above beginning two weeks before each screening date. Additional tickets will be released to members and the general public one week before each screening date. Please note that space is extremely limited and tickets will be in high demand. Tickets can be reserved at moma.org/contenders beginning at 10:30 a.m. ET. For the Contenders series, due to limited availability, members at the Explore category and above receive two free tickets per membership. If a screening is sold out, a standby line will form one hour before the start time. If you are a ticket holder and arrive after the scheduled start time, we cannot guarantee entry.",
+    "runtime": "196 min",
+    "director": "Ry\u00fbsuke Hamaguchi"
   },
   {
     "title": "Primetime (15) (AD)",
@@ -12753,19 +11947,6 @@
     "director": ""
   },
   {
-    "title": "Mr. Landsbergis",
-    "date": "2026-11-19",
-    "time": "6:30 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11720",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": "Sergei Loznitsa"
-  },
-  {
     "title": "Naza",
     "date": "2026-11-19",
     "time": "6:30 PM",
@@ -12777,6 +11958,19 @@
     "description": "Directed by Yuval Abraham and Rachel Szor, two of the co-directors of the 2024 Oscar-winning documentary No Other Land , Naza reveals the systems behind Israel\u2019s bombing of Gaza and its mass killing of Palestinian civilians. Winner of Special Jury Prize at the 2026 Venice Film Festival.",
     "runtime": "80 min",
     "director": "Yuval Abraham"
+  },
+  {
+    "title": "Mr. Landsbergis",
+    "date": "2026-11-19",
+    "time": "6:30 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11720",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": "Sergei Loznitsa"
   },
   {
     "title": "Mouse",
@@ -12896,19 +12090,6 @@
     "city": "LA"
   },
   {
-    "title": "Open Art Space Films: Hit the Road",
-    "date": "2026-11-19",
-    "time": "7:30 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11830",
-    "city": "NYC",
-    "description": "Make art. Meet people. Eat snacks. Explore ideas. Be yourself. MoMA Teens Open Art Space is pleased to announce monthly teen film screenings on Thursday evenings! Join us on Thursday, November 19 from 4:00 to 7:30 p.m. for a special screening of Hit the Road (2021). In this Iranian road movie, a family travels across the countryside on a mysterious journey. As they make their way toward an unknown destination, everyday conversations and unexpected moments reveal the complicated relationships between them. Directed by Panah Panahi, Hit the Road follows a family navigating questions of freedom and separation while trying to make the most of their time together. Doors open at 4:00 p.m. for snacks and hanging out before the film begins promptly at 4:30 p.m. After the screening, stick around for food, music, and a creative activity inspired by the film. Open Art Space meets on Thursdays at MoMA\u2019s Lewis B. and Dorothy Cullman Education and Research Building, located at 4 West 54th Street, near Fifth Avenue. This program is free and open to all high school\u2013age participants. No previous art-making experience is necessary. Snacks, OMNY cards, and supplies will be provided. Register here. Email questions to momateens@moma.org or sign up for our newsletter. Accessibility The Lewis B. and Dorothy Cullman Education and Research Building entrance has a power-assist door. Seating options include chairs with backs. Gallery stools, wheelchairs, and rollators are available by request at all Museum entrances, on a first-come, first-served basis. Accessible and all-gender restrooms are located in the mezzanine level of the Lewis B. and Dorothy Cullman Education and Research Building. Guide dogs and other trained service animals are always welcome. American Sign Language (ASL) interpretation and live captioning (CART) are available for public programs upon request with two weeks\u2019 advance notice. MoMA will make every effort to provide accommodation for requests made with less than two weeks\u2019 notice. Please email momateens@moma.org or call (212) 333-6543 to make a request for these services.",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "Pink Palace: A SINGLE MAN",
     "date": "2026-11-19",
     "time": "7:30 PM",
@@ -12920,6 +12101,19 @@
     "description": "Pink Palace presents this elegant adaptation of Christopher Isherwood\u2019s novel by master stylist Tom Ford.  In a BAFTA-winning performance, Colin Firth stars as George Falconer, a middle-aged English professor in 1960s Los Angeles, who is grieving the recent death of his long-time partner Jim. The re...",
     "runtime": "96 min",
     "director": "Tom Ford"
+  },
+  {
+    "title": "Open Art Space Films: Hit the Road",
+    "date": "2026-11-19",
+    "time": "7:30 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11830",
+    "city": "NYC",
+    "description": "Make art. Meet people. Eat snacks. Explore ideas. Be yourself. MoMA Teens Open Art Space is pleased to announce monthly teen film screenings on Thursday evenings! Join us on Thursday, November 19 from 4:00 to 7:30 p.m. for a special screening of Hit the Road (2021). In this Iranian road movie, a family travels across the countryside on a mysterious journey. As they make their way toward an unknown destination, everyday conversations and unexpected moments reveal the complicated relationships between them. Directed by Panah Panahi, Hit the Road follows a family navigating questions of freedom and separation while trying to make the most of their time together. Doors open at 4:00 p.m. for snacks and hanging out before the film begins promptly at 4:30 p.m. After the screening, stick around for food, music, and a creative activity inspired by the film. Open Art Space meets on Thursdays at MoMA\u2019s Lewis B. and Dorothy Cullman Education and Research Building, located at 4 West 54th Street, near Fifth Avenue. This program is free and open to all high school\u2013age participants. No previous art-making experience is necessary. Snacks, OMNY cards, and supplies will be provided. Register here. Email questions to momateens@moma.org or sign up for our newsletter. Accessibility The Lewis B. and Dorothy Cullman Education and Research Building entrance has a power-assist door. Seating options include chairs with backs. Gallery stools, wheelchairs, and rollators are available by request at all Museum entrances, on a first-come, first-served basis. Accessible and all-gender restrooms are located in the mezzanine level of the Lewis B. and Dorothy Cullman Education and Research Building. Guide dogs and other trained service animals are always welcome. American Sign Language (ASL) interpretation and live captioning (CART) are available for public programs upon request with two weeks\u2019 advance notice. MoMA will make every effort to provide accommodation for requests made with less than two weeks\u2019 notice. Please email momateens@moma.org or call (212) 333-6543 to make a request for these services.",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Rolling Thunder",
@@ -13715,19 +12909,6 @@
     "director": ""
   },
   {
-    "title": "Mal\u00e1 mo\u0159sk\u00e1 v\u00edla (The Little Mermaid)",
-    "date": "2026-11-20",
-    "time": "6:30 PM",
-    "format": "4K",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11839",
-    "city": "NYC",
-    "description": "Mal\u00e1 mo\u0159sk\u00e1 v\u00edla (The Little Mermaid). 1976. Czechoslovakia. Directed by Karel Kachy\u0148a. Screenplay by Kachy\u0148a, Ota Hofman, based on the book by Hans Christian Andersen. With Miroslava \u0160afr\u00e1nkov\u00e1, Radovan Lukavsk\u00fd, Petr Svojtka, Libu\u0161e \u0160afr\u00e1nkov\u00e1. 4K digitization by N\u00e1rodn\u00ed filmov\u00fd archiv; courtesy N\u00e1rodn\u00ed filmov\u00fd archiv. In Czech; English subtitles. 84 min. After a decade directing one blistering anti-totalitarian allegory after another, director Karel Kachy\u0148a survived the purges that followed 1968 by distancing himself from that earlier body of work. His longtime writing partner Jan Proch\u00e1zka was blacklisted, but Kachy\u0148a was allowed to continue directing after renouncing their collaboration. Made at the peak of what historians call the \u201coffensive\u201d phase of normalization, and coproduced by Barrandov and the Soviet studio Mosfilm, Kachy\u0148a\u2019s The Little Mermaid is one of those rare films that resembles an unusually uncanny dream. Having been forced to abandon overt political subjects, Kachy\u0148a retreats into a world almost entirely without realism: The mermaids\u2019 Sea Kingdom, draped in cloth and soft light, remains one of the most beautifully artificial environments in Czechoslovak cinema. This is the world premiere of a new 4K scan courtesy of the N\u00e1rodn\u00ed filmov\u00fd archiv.",
-    "runtime": "84 min",
-    "director": "Karel Kachy\u0148a"
-  },
-  {
     "title": "Off-Circuit: My Wife Cries",
     "date": "2026-11-20",
     "time": "6:30 PM",
@@ -13765,6 +12946,19 @@
     "description": "Take a seat without knowing what is coming. Our mystery screenings explore the bold, disreputable and gloriously unclassifiable world of psychotronic cinema: discoveries that make you wonder how they were made, who they were made for, and why nobody showed you sooner.\nThe title stays secret until showtime. Curiosity is essential; good taste is negotiable.\nStrictly for adult audiences. Films may contain offensive and upsetting content. Do not attend if you are of a sensitive disposition.",
     "runtime": "",
     "director": ""
+  },
+  {
+    "title": "Mal\u00e1 mo\u0159sk\u00e1 v\u00edla (The Little Mermaid)",
+    "date": "2026-11-20",
+    "time": "6:30 PM",
+    "format": "4K",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11839",
+    "city": "NYC",
+    "description": "Mal\u00e1 mo\u0159sk\u00e1 v\u00edla (The Little Mermaid). 1976. Czechoslovakia. Directed by Karel Kachy\u0148a. Screenplay by Kachy\u0148a, Ota Hofman, based on the book by Hans Christian Andersen. With Miroslava \u0160afr\u00e1nkov\u00e1, Radovan Lukavsk\u00fd, Petr Svojtka, Libu\u0161e \u0160afr\u00e1nkov\u00e1. 4K digitization by N\u00e1rodn\u00ed filmov\u00fd archiv; courtesy N\u00e1rodn\u00ed filmov\u00fd archiv. In Czech; English subtitles. 84 min. After a decade directing one blistering anti-totalitarian allegory after another, director Karel Kachy\u0148a survived the purges that followed 1968 by distancing himself from that earlier body of work. His longtime writing partner Jan Proch\u00e1zka was blacklisted, but Kachy\u0148a was allowed to continue directing after renouncing their collaboration. Made at the peak of what historians call the \u201coffensive\u201d phase of normalization, and coproduced by Barrandov and the Soviet studio Mosfilm, Kachy\u0148a\u2019s The Little Mermaid is one of those rare films that resembles an unusually uncanny dream. Having been forced to abandon overt political subjects, Kachy\u0148a retreats into a world almost entirely without realism: The mermaids\u2019 Sea Kingdom, draped in cloth and soft light, remains one of the most beautifully artificial environments in Czechoslovak cinema. This is the world premiere of a new 4K scan courtesy of the N\u00e1rodn\u00ed filmov\u00fd archiv.",
+    "runtime": "84 min",
+    "director": "Karel Kachy\u0148a"
   },
   {
     "title": "Josephine",
@@ -14417,19 +13611,6 @@
     "city": "LA"
   },
   {
-    "title": "State Funeral (\u0413\u041e\u0421\u0423\u0414\u0410\u0420\u0421\u0422\u0412\u0415\u041d\u041d\u042b\u0415 \u041f\u041e\u0425\u041e\u0420\u041e\u041d\u042b)",
-    "date": "2026-11-21",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11708",
-    "city": "NYC",
-    "description": "State Funeral (\u0413\u041e\u0421\u0423\u0414\u0410\u0420\u0421\u0422\u0412\u0415\u041d\u041d\u042b\u0415 \u041f\u041e\u0425\u041e\u0420\u041e\u041d\u042b). 2019. Netherlands/Lithuania. Written and directed by Sergei Loznitsa. DCP courtesy MUBI. In Russian; English subtitles. 135 min. The shock of the nation was palpable on March 5, 1953, as though a god had forsaken his people: Comrade Stalin is dead! Long live Comrade Stalin! Sergei Loznitsa provides a riveting forensic study of Josef Stalin\u2019s cult of personality, stitching together largely unseen archival images of his funeral and the gatherings of thousands of mourners across the Soviet Union, from the streets of Leningrad to the steppes of Eurasia. Described in Pravda, the Soviet newspaper, as \u201cthe Great Farewell,\u201d the ceremony carried on for days, with loudspeakers blaring rhapsodic tributes and pledges to redouble efforts to carry out the great leader\u2019s Five-Year Plans, with factories ceremoniously shut down and mountains of flowers piling up, with leaders of the Eastern Bloc flying in to pay their respects, and with grim-faced crowds waiting patiently to gaze upon his body lying in state. As we see countless mourners shedding genuine tears or performing their grief, Loznitsa brings the film\u2014and the hero worship\u2014to a sudden and damning halt.",
-    "runtime": "135 min",
-    "director": "Sergei Loznitsa"
-  },
-  {
     "title": "Other People's Children",
     "date": "2026-11-21",
     "time": "1:00 PM",
@@ -14441,6 +13622,19 @@
     "description": "",
     "runtime": "",
     "director": ""
+  },
+  {
+    "title": "State Funeral (\u0413\u041e\u0421\u0423\u0414\u0410\u0420\u0421\u0422\u0412\u0415\u041d\u041d\u042b\u0415 \u041f\u041e\u0425\u041e\u0420\u041e\u041d\u042b)",
+    "date": "2026-11-21",
+    "time": "1:00 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11708",
+    "city": "NYC",
+    "description": "State Funeral (\u0413\u041e\u0421\u0423\u0414\u0410\u0420\u0421\u0422\u0412\u0415\u041d\u041d\u042b\u0415 \u041f\u041e\u0425\u041e\u0420\u041e\u041d\u042b). 2019. Netherlands/Lithuania. Written and directed by Sergei Loznitsa. DCP courtesy MUBI. In Russian; English subtitles. 135 min. The shock of the nation was palpable on March 5, 1953, as though a god had forsaken his people: Comrade Stalin is dead! Long live Comrade Stalin! Sergei Loznitsa provides a riveting forensic study of Josef Stalin\u2019s cult of personality, stitching together largely unseen archival images of his funeral and the gatherings of thousands of mourners across the Soviet Union, from the streets of Leningrad to the steppes of Eurasia. Described in Pravda, the Soviet newspaper, as \u201cthe Great Farewell,\u201d the ceremony carried on for days, with loudspeakers blaring rhapsodic tributes and pledges to redouble efforts to carry out the great leader\u2019s Five-Year Plans, with factories ceremoniously shut down and mountains of flowers piling up, with leaders of the Eastern Bloc flying in to pay their respects, and with grim-faced crowds waiting patiently to gaze upon his body lying in state. As we see countless mourners shedding genuine tears or performing their grief, Loznitsa brings the film\u2014and the hero worship\u2014to a sudden and damning halt.",
+    "runtime": "135 min",
+    "director": "Sergei Loznitsa"
   },
   {
     "title": "You Can See Everything",
@@ -14456,19 +13650,6 @@
     "director": "Lance Oppenheim \u2022 Nathan Fielder"
   },
   {
-    "title": "Project Hail Mary",
-    "date": "2026-11-21",
-    "time": "1:30 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11812",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": ""
-  },
-  {
     "title": "YOU CAN SEE EVERYTHING",
     "date": "2026-11-21",
     "time": "1:30 PM",
@@ -14480,6 +13661,19 @@
     "description": "Thirty-four days before she\u2019s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a sceptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.  \u201cA sharp, self-reflexive inqu...",
     "runtime": "174 min",
     "director": "Nathan Fielder & Lance Oppenheim"
+  },
+  {
+    "title": "Project Hail Mary",
+    "date": "2026-11-21",
+    "time": "1:30 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11812",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": ""
   },
   {
     "title": "Fantastic Mr. Fox",
@@ -14690,19 +13884,6 @@
     "city": "LA"
   },
   {
-    "title": "Post\u0159i\u017einy (Cutting It Short)",
-    "date": "2026-11-21",
-    "time": "4:00 PM",
-    "format": "4K",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11840",
-    "city": "NYC",
-    "description": "Post\u0159i\u017einy (Cutting It Short). 1980. Czechoslovakia. Directed by Ji\u0159\u00ed Menzel. Screenplay by Menzel, Bohumil Hrabal. With Magdalena V\u00e1\u0161\u00e1ryov\u00e1, Ji\u0159\u00ed Schmitzer, Jarom\u00edr Hanzl\u00edk. 4K digital restoration by N\u00e1rodn\u00ed filmov\u00fd archiv; courtesy N\u00e1rodn\u00ed filmov\u00fd archiv. In Czech; English subtitles. 98 min. In 1969, Ji\u0159\u00ed Menzel was banned from directing after adapting Bohumil Hrabal\u2019s short stories as Larks on a String. This \u201cinvoluntary break\u201d was lifted four years later on condition he make a normalization-approved film about the dignity of manual labor (the underrated Who Looks for Gold?), and it wasn\u2019t until 1980 that he would work with Hrabal again, on this adaptation of his novella. This is Menzel at his most sentimental and sumptuous: a horny, quintessentially Czech comedy set in a brewery manager\u2019s household during the First Czechoslovak Republic. Even in this context, Menzel still found room for a swipe at the authorities\u2014a slaughtered pig is named after the man who would censor and rework scripts at Barrandov Studios. Magda V\u00e1\u0161\u00e1ryov\u00e1 plays the manager\u2019s wife with startling sensuality, radiant even while gutting a pig and swigging beer.",
-    "runtime": "98 min",
-    "director": "Ji\u0159\u00ed Menzel"
-  },
-  {
     "title": "The Films of Madeline Anderson and St. Clair Bourne 1960-1974 (15)",
     "date": "2026-11-21",
     "time": "4:00 PM",
@@ -14714,6 +13895,19 @@
     "description": "",
     "runtime": "",
     "director": ""
+  },
+  {
+    "title": "Post\u0159i\u017einy (Cutting It Short)",
+    "date": "2026-11-21",
+    "time": "4:00 PM",
+    "format": "4K",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11840",
+    "city": "NYC",
+    "description": "Post\u0159i\u017einy (Cutting It Short). 1980. Czechoslovakia. Directed by Ji\u0159\u00ed Menzel. Screenplay by Menzel, Bohumil Hrabal. With Magdalena V\u00e1\u0161\u00e1ryov\u00e1, Ji\u0159\u00ed Schmitzer, Jarom\u00edr Hanzl\u00edk. 4K digital restoration by N\u00e1rodn\u00ed filmov\u00fd archiv; courtesy N\u00e1rodn\u00ed filmov\u00fd archiv. In Czech; English subtitles. 98 min. In 1969, Ji\u0159\u00ed Menzel was banned from directing after adapting Bohumil Hrabal\u2019s short stories as Larks on a String. This \u201cinvoluntary break\u201d was lifted four years later on condition he make a normalization-approved film about the dignity of manual labor (the underrated Who Looks for Gold?), and it wasn\u2019t until 1980 that he would work with Hrabal again, on this adaptation of his novella. This is Menzel at his most sentimental and sumptuous: a horny, quintessentially Czech comedy set in a brewery manager\u2019s household during the First Czechoslovak Republic. Even in this context, Menzel still found room for a swipe at the authorities\u2014a slaughtered pig is named after the man who would censor and rework scripts at Barrandov Studios. Magda V\u00e1\u0161\u00e1ryov\u00e1 plays the manager\u2019s wife with startling sensuality, radiant even while gutting a pig and swigging beer.",
+    "runtime": "98 min",
+    "director": "Ji\u0159\u00ed Menzel"
   },
   {
     "title": "Once Upon a Time in Harlem",
@@ -14781,19 +13975,6 @@
     "director": ""
   },
   {
-    "title": "Possible Love (\uac00\ub2a5\ud55c \uc0ac\ub791)",
-    "date": "2026-11-21",
-    "time": "5:00 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11811",
-    "city": "NYC",
-    "description": "Possible Love (\uac00\ub2a5\ud55c \uc0ac\ub791). 2026. South Korea. Written and directed by Lee Chang-dong. With Jeon Do-yeon, Sul Kyung-gu, Cho Yeo-jeong, Zo In-sung. DCP courtesy Netflix. In Korean; English subtitles. 164 min. Winner of the Silver Lion Grand Jury Prize at the Venice Film Festival, Possible Love marks the long-awaited return of Lee Chang-dong (Burning, Poetry), whose infrequent releases make each new film a major\u2014and always ravishing\u2014cinematic event. The precarious existence of a laid-off factory worker and his wife is upended when an affluent documentary filmmaker chooses them as the subjects of her latest project. Featuring an extraordinary ensemble led by Jeon Do-yeon, winner of the Cannes Best Actress prize for Secret Sunshine, the film unfolds as a haunting, slow-burning examination of class disparity, lingering trauma, and the elusive quest for human connection. Probing the mysteries of human behavior, Lee exposes the quiet hypocrisies and unspoken desires that shape how we perceive\u2014and exploit\u2014one another. Tickets are available to members at the Explore category and above beginning two weeks before each screening date. Additional tickets will be released to members and the general public one week before each screening date. Please note that space is extremely limited and tickets will be in high demand. Tickets can be reserved at moma.org/contenders beginning at 10:30 a.m. ET. For the Contenders series, due to limited availability, members at the Explore category and above receive two free tickets per membership. If a screening is sold out, a standby line will form one hour before the start time. If you are a ticket holder and arrive after the scheduled start time, we cannot guarantee entry.",
-    "runtime": "164 min",
-    "director": "Lee Chang-dong"
-  },
-  {
     "title": "LPFF 2026: Life Support +ScreenTalk",
     "date": "2026-11-21",
     "time": "5:00 PM",
@@ -14831,6 +14012,19 @@
     "description": "Two sisters inherit a fortune. One inherits a murderous jealousy. A slow poison and an increasingly unreliable conscience turn their ornate household into a trap from which even the family cat seems unable to look away.\nIva Jan\u017eurov\u00e1 plays both women in Juraj Herz\u2019s intoxicating Gothic fairy tale. Distorting lenses, lavish costumes and colour that seems to seep into the characters\u2019 minds make beauty itself feel dangerous. A poisoned jewel of Czech cinema, where sibling rivalry becomes a hallucination and every sumptuous room conceals another reason to be afraid.",
     "runtime": "101 min",
     "director": "Juraj Herz"
+  },
+  {
+    "title": "Possible Love (\uac00\ub2a5\ud55c \uc0ac\ub791)",
+    "date": "2026-11-21",
+    "time": "5:00 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11811",
+    "city": "NYC",
+    "description": "Possible Love (\uac00\ub2a5\ud55c \uc0ac\ub791). 2026. South Korea. Written and directed by Lee Chang-dong. With Jeon Do-yeon, Sul Kyung-gu, Cho Yeo-jeong, Zo In-sung. DCP courtesy Netflix. In Korean; English subtitles. 164 min. Winner of the Silver Lion Grand Jury Prize at the Venice Film Festival, Possible Love marks the long-awaited return of Lee Chang-dong (Burning, Poetry), whose infrequent releases make each new film a major\u2014and always ravishing\u2014cinematic event. The precarious existence of a laid-off factory worker and his wife is upended when an affluent documentary filmmaker chooses them as the subjects of her latest project. Featuring an extraordinary ensemble led by Jeon Do-yeon, winner of the Cannes Best Actress prize for Secret Sunshine, the film unfolds as a haunting, slow-burning examination of class disparity, lingering trauma, and the elusive quest for human connection. Probing the mysteries of human behavior, Lee exposes the quiet hypocrisies and unspoken desires that shape how we perceive\u2014and exploit\u2014one another. Tickets are available to members at the Explore category and above beginning two weeks before each screening date. Additional tickets will be released to members and the general public one week before each screening date. Please note that space is extremely limited and tickets will be in high demand. Tickets can be reserved at moma.org/contenders beginning at 10:30 a.m. ET. For the Contenders series, due to limited availability, members at the Explore category and above receive two free tickets per membership. If a screening is sold out, a standby line will form one hour before the start time. If you are a ticket holder and arrive after the scheduled start time, we cannot guarantee entry.",
+    "runtime": "164 min",
+    "director": "Lee Chang-dong"
   },
   {
     "title": "Tenet",
@@ -15190,7 +14384,7 @@
     "format": "35mm",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628385",
+    "url": "https://princecharlescinema.com/film/2666249/blue-velvet",
     "city": "London",
     "description": "College student Jeffrey Beaumont (Kyle MacLachlan) returns home after his father has a stroke. When he discovers a severed ear in an abandoned field, Beaumont teams up with detective's daughter Sandy Williams (Laura Dern) to solve the mystery. They believe beautiful lounge singer Dorothy Vallens (Isabella Rossellini) may be connected with the case, and Beaumont finds himself becoming drawn into her dark, twisted world, where he encounters sexually depraved psychopath Frank Booth (Dennis Hopper)",
     "runtime": "121 min",
@@ -15483,19 +14677,6 @@
     "city": "LA"
   },
   {
-    "title": "The Day of the Jackal",
-    "date": "2026-11-22",
-    "time": "1:00 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11784",
-    "city": "NYC",
-    "description": "",
-    "runtime": "",
-    "director": "Fred Zinneman"
-  },
-  {
     "title": "Come Back to the 5 & Dime, Jimmy Dean, Jimmy Dean",
     "date": "2026-11-22",
     "time": "1:00 PM",
@@ -15507,6 +14688,19 @@
     "description": "",
     "runtime": "",
     "director": ""
+  },
+  {
+    "title": "The Day of the Jackal",
+    "date": "2026-11-22",
+    "time": "1:00 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11784",
+    "city": "NYC",
+    "description": "",
+    "runtime": "",
+    "director": "Fred Zinneman"
   },
   {
     "title": "Gunvor Nelson Program 2",
@@ -15535,19 +14729,6 @@
     "city": "LA"
   },
   {
-    "title": "Mal\u00e1 mo\u0159sk\u00e1 v\u00edla (The Little Mermaid)",
-    "date": "2026-11-22",
-    "time": "1:30 PM",
-    "format": "4K",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11839",
-    "city": "NYC",
-    "description": "Mal\u00e1 mo\u0159sk\u00e1 v\u00edla (The Little Mermaid). 1976. Czechoslovakia. Directed by Karel Kachy\u0148a. Screenplay by Kachy\u0148a, Ota Hofman, based on the book by Hans Christian Andersen. With Miroslava \u0160afr\u00e1nkov\u00e1, Radovan Lukavsk\u00fd, Petr Svojtka, Libu\u0161e \u0160afr\u00e1nkov\u00e1. 4K digitization by N\u00e1rodn\u00ed filmov\u00fd archiv; courtesy N\u00e1rodn\u00ed filmov\u00fd archiv. In Czech; English subtitles. 84 min. After a decade directing one blistering anti-totalitarian allegory after another, director Karel Kachy\u0148a survived the purges that followed 1968 by distancing himself from that earlier body of work. His longtime writing partner Jan Proch\u00e1zka was blacklisted, but Kachy\u0148a was allowed to continue directing after renouncing their collaboration. Made at the peak of what historians call the \u201coffensive\u201d phase of normalization, and coproduced by Barrandov and the Soviet studio Mosfilm, Kachy\u0148a\u2019s The Little Mermaid is one of those rare films that resembles an unusually uncanny dream. Having been forced to abandon overt political subjects, Kachy\u0148a retreats into a world almost entirely without realism: The mermaids\u2019 Sea Kingdom, draped in cloth and soft light, remains one of the most beautifully artificial environments in Czechoslovak cinema. This is the world premiere of a new 4K scan courtesy of the N\u00e1rodn\u00ed filmov\u00fd archiv.",
-    "runtime": "84 min",
-    "director": "Karel Kachy\u0148a"
-  },
-  {
     "title": "YOU CAN SEE EVERYTHING",
     "date": "2026-11-22",
     "time": "1:30 PM",
@@ -15559,6 +14740,19 @@
     "description": "Thirty-four days before she\u2019s sent to prison, notorious Silicon Valley founder Elizabeth Holmes invites a sceptical film crew to document her every move. What begins as an intimate portrait of an enigmatic felon becomes a mind-bending three-year journey into the abyss.  \u201cA sharp, self-reflexive inqu...",
     "runtime": "174 min",
     "director": "Nathan Fielder & Lance Oppenheim"
+  },
+  {
+    "title": "Mal\u00e1 mo\u0159sk\u00e1 v\u00edla (The Little Mermaid)",
+    "date": "2026-11-22",
+    "time": "1:30 PM",
+    "format": "4K",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11839",
+    "city": "NYC",
+    "description": "Mal\u00e1 mo\u0159sk\u00e1 v\u00edla (The Little Mermaid). 1976. Czechoslovakia. Directed by Karel Kachy\u0148a. Screenplay by Kachy\u0148a, Ota Hofman, based on the book by Hans Christian Andersen. With Miroslava \u0160afr\u00e1nkov\u00e1, Radovan Lukavsk\u00fd, Petr Svojtka, Libu\u0161e \u0160afr\u00e1nkov\u00e1. 4K digitization by N\u00e1rodn\u00ed filmov\u00fd archiv; courtesy N\u00e1rodn\u00ed filmov\u00fd archiv. In Czech; English subtitles. 84 min. After a decade directing one blistering anti-totalitarian allegory after another, director Karel Kachy\u0148a survived the purges that followed 1968 by distancing himself from that earlier body of work. His longtime writing partner Jan Proch\u00e1zka was blacklisted, but Kachy\u0148a was allowed to continue directing after renouncing their collaboration. Made at the peak of what historians call the \u201coffensive\u201d phase of normalization, and coproduced by Barrandov and the Soviet studio Mosfilm, Kachy\u0148a\u2019s The Little Mermaid is one of those rare films that resembles an unusually uncanny dream. Having been forced to abandon overt political subjects, Kachy\u0148a retreats into a world almost entirely without realism: The mermaids\u2019 Sea Kingdom, draped in cloth and soft light, remains one of the most beautifully artificial environments in Czechoslovak cinema. This is the world premiere of a new 4K scan courtesy of the N\u00e1rodn\u00ed filmov\u00fd archiv.",
+    "runtime": "84 min",
+    "director": "Karel Kachy\u0148a"
   },
   {
     "title": "Fantastic Mr. Fox",
@@ -16523,19 +15717,6 @@
     "city": "LA"
   },
   {
-    "title": "Dao",
-    "date": "2026-11-23",
-    "time": "7:00 PM",
-    "format": "DCP",
-    "venue": "MoMA",
-    "venue_short": "MoMA",
-    "url": "https://www.moma.org/calendar/events/11813",
-    "city": "NYC",
-    "description": "Dao. 2026. France/Senegal/Guinea-Bissau. Written and directed by Alain Gomis. With Katy Correa, D\u2019Joh\u00e9 Kouadio, Samir Guesmi. DCP courtesy Janus Films. In French, Wolof, Manjak, Portuguese Creole; English subtitles. 192 min. Unfolding across a wedding celebration in France and a traditional funeral rite in Guinea-Bissau, Dao weaves an expansive, deeply personal portrait of a family navigating the bonds between generations, continents, and cultures. At its center is Gloria, a mother preparing to celebrate her daughter\u2019s marriage while mourning the recent loss of her father. Blending fiction, documentary, and improvisation, director Alain Gomis (F\u00e9licit\u00e9, Tey) creates a vibrant, fluid tapestry of ritual, music, dance, and everyday encounters. Featuring a remarkable ensemble of professional and nonprofessional performers, including members of the director\u2019s own family, Dao reflects on ancestry, migration, and the transmission of cultural memory, embracing the complexities of grief and celebration as inseparable parts of the human experience. Tickets are available to members at the Explore category and above beginning two weeks before each screening date. Additional tickets will be released to members and the general public one week before each screening date. Please note that space is extremely limited and tickets will be in high demand. Tickets can be reserved at moma.org/contenders beginning at 10:30 a.m. ET. For the Contenders series, due to limited availability, members at the Explore category and above receive two free tickets per membership. If a screening is sold out, a standby line will form one hour before the start time. If you are a ticket holder and arrive after the scheduled start time, we cannot guarantee entry.",
-    "runtime": "192 min",
-    "director": "Alain Gomis"
-  },
-  {
     "title": "Doctor Who: The Satan Pit",
     "date": "2026-11-23",
     "time": "7:00 PM",
@@ -16547,6 +15728,19 @@
     "description": "Celebrate Doctor Who Day with an exclusive big-screen event marking 20 years of the Tenth Doctor and Rose Tyler. For the first time ever in cinemas, the acclaimed two-part adventure The Impossible Planet and The Satan Pit have been specially re-edited into a single movie-length presentation, created exclusively for theatrical audiences. Join the Doctor (David Tennant) and Rose (Billie Piper) as they travel to Sanctuary Base 6, a remote outpost perched on a planet orbiting a black hole. When an ancient force awakens beneath the surface, the crew find themselves trapped in a battle against an evil older than time itself. This special Doctor Who Day screening also includes exclusive bonus material, featuring previously unseen content and a brand-new interview with a special guest, reflecting on the making of one of the most celebrated stories of the modern era \u2013 from encounters with the Ood to facing the terrifying Beast, alongside behind-the-scenes memories from the set.",
     "runtime": "120 min",
     "director": "James Strong"
+  },
+  {
+    "title": "Dao",
+    "date": "2026-11-23",
+    "time": "7:00 PM",
+    "format": "DCP",
+    "venue": "MoMA",
+    "venue_short": "MoMA",
+    "url": "https://www.moma.org/calendar/events/11813",
+    "city": "NYC",
+    "description": "Dao. 2026. France/Senegal/Guinea-Bissau. Written and directed by Alain Gomis. With Katy Correa, D\u2019Joh\u00e9 Kouadio, Samir Guesmi. DCP courtesy Janus Films. In French, Wolof, Manjak, Portuguese Creole; English subtitles. 192 min. Unfolding across a wedding celebration in France and a traditional funeral rite in Guinea-Bissau, Dao weaves an expansive, deeply personal portrait of a family navigating the bonds between generations, continents, and cultures. At its center is Gloria, a mother preparing to celebrate her daughter\u2019s marriage while mourning the recent loss of her father. Blending fiction, documentary, and improvisation, director Alain Gomis (F\u00e9licit\u00e9, Tey) creates a vibrant, fluid tapestry of ritual, music, dance, and everyday encounters. Featuring a remarkable ensemble of professional and nonprofessional performers, including members of the director\u2019s own family, Dao reflects on ancestry, migration, and the transmission of cultural memory, embracing the complexities of grief and celebration as inseparable parts of the human experience. Tickets are available to members at the Explore category and above beginning two weeks before each screening date. Additional tickets will be released to members and the general public one week before each screening date. Please note that space is extremely limited and tickets will be in high demand. Tickets can be reserved at moma.org/contenders beginning at 10:30 a.m. ET. For the Contenders series, due to limited availability, members at the Explore category and above receive two free tickets per membership. If a screening is sold out, a standby line will form one hour before the start time. If you are a ticket holder and arrive after the scheduled start time, we cannot guarantee entry.",
+    "runtime": "192 min",
+    "director": "Alain Gomis"
   },
   {
     "title": "The Host",
@@ -17186,7 +16380,7 @@
     "city": "LA"
   },
   {
-    "title": "Paper Moon             / Nickelodeon",
+    "title": "Paper Moon (Special Guests)             / Nickelodeon (Special Guest)",
     "date": "2026-11-24",
     "time": "7:30 pm / 9:40 pm",
     "format": "35mm",
@@ -17870,7 +17064,7 @@
     "venue_short": "PCC",
     "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628974",
     "city": "London",
-    "description": "When Sally (Marilyn Burns) hears that her grandfather's grave may have been vandalized, she and her paraplegic brother, Franklin (Paul A. Partain), set out with their friends to investigate. After a detour to their family's old farmhouse, they discover a group of crazed, murderous outcasts living next door. As the group is attacked one by one by the chainsaw-wielding Leatherface (Gunnar Hansen), who wears a mask of human skin, the survivors must do everything they can to escape. * The first 35 customers to have tickets scanned in each of these performances will recieve an exclusive limited edition \" I SURVIVED THE TEXAS CHAINSAW MASSACRE\" badge. A replica of one's we gave out back in 1976 when we were the first cinema to debut this iconic film.",
+    "description": "When Sally (Marilyn Burns) hears that her grandfather's grave may have been vandalized, she and her paraplegic brother, Franklin (Paul A. Partain), set out with their friends to investigate. After a detour to their family's old farmhouse, they discover a group of crazed, murderous outcasts living next door. As the group is attacked one by one by the chainsaw-wielding Leatherface (Gunnar Hansen), who wears a mask of human skin, the survivors must do everything they can to escape.",
     "runtime": "83 min",
     "director": "Tobe Hooper"
   },
@@ -28288,7 +27482,7 @@
     "format": "DCP",
     "venue": "Prince Charles Cinema",
     "venue_short": "PCC",
-    "url": "https://princecharlescinema.com/prince-charles-cinema/booknow/31628572",
+    "url": "https://princecharlescinema.com/film/31617503/the-history-of-concrete",
     "city": "London",
     "description": "Following the finale of his TV series, filmmaker John Wilson looks to the bedrock of his beloved New York City for inspiration and structure. Concrete, the world's most widely used building material, appears as an ever-present life force, and John sets out to make the definitive documentary on the matter. To tell this seemingly drab story, he decides to use the industry-approved Hallmark formula to increase his movie's appeal. But his foundation soon begins to crumble \u2013 literally and figuratively \u2013 as he struggles to balance artistic freedom with the realities of the modern film industry.",
     "runtime": "101 min",
