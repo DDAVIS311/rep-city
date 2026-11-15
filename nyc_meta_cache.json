@@ -1080,6 +1080,11 @@
 "format": "35mm",
 "runtime": "143 min"
 },
+"https://metrograph.com/film/9999000203-scarface-35mm/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
 "https://metrograph.com/film/9999000341-tron/": {
 "description": "The cross-breeding of video games and cinema began in earnest with Tron, one of the first films to extensively employ CGI, here depicting the darkly glittering digital world inside a mainframe computer that programmer Jeff Bridges must compete in a series of gladiatorial contests in order to escape. Part of A Cyberpunk Canon",
 "director": "Stephen Lisberger",
@@ -1132,6 +1137,11 @@
 "director": "Douglas Sirk",
 "format": "35mm",
 "runtime": "89 min"
+},
+"https://metrograph.com/film/9999000638-jurassic-park/": {
+"description": "",
+"director": "",
+"runtime": ""
 },
 "https://metrograph.com/film/9999000668-strangers-on-a-train/": {
 "description": "\u201cCriss cross.\u201d Hitchcock\u2019s adaptation of Highsmith\u2019s 1951 page-turner kicks off with a casual encounter that reads like a same-sex pickup, as tennis star Guy Haines (Farley Granger) inadvertently agrees to \u201cswap murders\u201d with preening rich kid Bruno Anthony (Robert Walker, in a career performance), and continues through some of the finest set pieces of Hitch\u2019s career: a tennis match at Forest Hills, Bruno stalking his prey through a vulgar county fair, and an out-of-control carousel. \u201cIn Hitchcock, the people you meet on trains can spell romance, adventure, or, in the case of Strangers on a Train\u2019s Guy Haines, a colossal headache! Tip: beware anyone wearing spectator shoes.\u201d \u2014Series curator Genevieve Yue Part of Trains: Local Routes",
@@ -1197,6 +1207,11 @@
 "director": "Shinya Tsukamoto",
 "format": "DCP",
 "runtime": "67 min"
+},
+"https://metrograph.com/film/9999000995-nocturama/": {
+"description": "",
+"director": "",
+"runtime": ""
 },
 "https://metrograph.com/film/9999001012-stalker/": {
 "description": "",
@@ -1515,6 +1530,11 @@
 "director": "Wong Kar-wai",
 "format": "DCP",
 "runtime": "99 min"
+},
+"https://metrograph.com/film/9999003336-chronicle-of-anna-magdalena-bach/": {
+"description": "",
+"director": "",
+"runtime": ""
 },
 "https://metrograph.com/film/9999003354-lady-killer/": {
 "description": "",
@@ -2427,6 +2447,86 @@
 "runtime": ""
 },
 "https://metrograph.com/film/9999005126-still-life-train-trains-2-a-bypass/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005127-afternoons-of-solitude/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005128-rex-a-dinosaurs-story/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005130-chronovisor/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005131-the-matrix-revolutions/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005132-the-power-of-kangwon-province/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005133-the-stranger/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005134-jollof-films-presents-the-price-of-forgiveness/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005135-panelstory-or-how-a-housing-development-is-born/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005136-andrew-norman-wilson-sound-works/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005137-wolfs-hole/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005138-art-cinema-for-tots-tales-from-the-forest/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005139-7-women/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005140-unstoppable-the-lonedale-operator/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005141-asc-presents-death-to-smoochy/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005142-tainted-horseplay/": {
+"description": "",
+"director": "",
+"runtime": ""
+},
+"https://metrograph.com/film/9999005143-the-empty-man/": {
 "description": "",
 "director": "",
 "runtime": ""
