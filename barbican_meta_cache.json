@@ -802,5 +802,11 @@
   "description": "This stunning animated adaptation of Michael Morpurgo ’s novel is a beautiful experience on the big screen.",
   "runtime": "87 min",
   "format": ""
+ },
+ "https://www.barbican.org.uk/whats-on/2026/event/american-doctor": {
+  "director": "Poh Si Teng",
+  "description": "Emmy Award-winning documentarian and journalist Poh Si Teng follow three American medics to Gaza as they volunteer in hospitals facing bombardment, shortages and danger.",
+  "runtime": "93 min",
+  "format": ""
  }
 }
